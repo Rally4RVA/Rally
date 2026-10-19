@@ -1,0 +1,1180 @@
+{
+ "updated": "2026-10-19T15:30:00-04:00",
+ "venues": [
+  "The Camel"
+ ],
+ "events": [
+  {
+   "id": "spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
+   "title": "Spellslingers Speakeasy hosts Magic The Gathering Commander Night: Reality Fractured at The Camel",
+   "date": "2026-10-19",
+   "doors": "5:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$7",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Entry",
+     "base": 7.0,
+     "fee": 3.12,
+     "total": 10.12,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/775344/web_orders/new"
+  },
+  {
+   "id": "dead-steppe-brash-bedpiss-guzum-20-oct",
+   "title": "Dead Steppe, Brash, Bedpiss, Guzum",
+   "date": "2026-10-20",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/dead-steppe-brash-bedpiss-guzum-20-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/755465/web_orders/new"
+  },
+  {
+   "id": "sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
+   "title": "Sundance Cowboy, Michael & The Misdemeanors, Wide Toad",
+   "date": "2026-10-21",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/754493/web_orders/new"
+  },
+  {
+   "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
+   "title": "Camel Comedy Happy Hour Open Mic",
+   "date": "2026-10-22",
+   "doors": "5:30 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-22-oct-95e2a",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/760927/web_orders/new"
+  },
+  {
+   "id": "m-brett-jones-maddy-curtis-trio-chet-frierson-outcasts-big-band-22-oct",
+   "title": "M Brett Jones, Maddy Curtis Trio, Chet Frierson, Outcasts Big Band",
+   "date": "2026-10-22",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/m-brett-jones-maddy-curtis-trio-chet-frierson-outcasts-big-band-22-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$18",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/755466/web_orders/new"
+  },
+  {
+   "id": "blues-brews-feat-kurt-crandall-true-story-23-oct",
+   "title": "Blues & Brews feat Kurt Crandall & True Story",
+   "date": "2026-10-23",
+   "doors": "5:00 PM",
+   "show_time": "5:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/blues-brews-feat-kurt-crandall-true-story-23-oct",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/627474/web_orders/new"
+  },
+  {
+   "id": "erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
+   "title": "Erin & the Wildfire 15 year Anniversary and Karaoke",
+   "date": "2026-10-23",
+   "doors": "8:30 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/719268/web_orders/new"
+  },
+  {
+   "id": "justin-golden-matinee-w-nicky-diamonds-24-oct",
+   "title": "Justin Golden Matinee w/Nicky Diamonds",
+   "date": "2026-10-24",
+   "doors": "2:00 PM",
+   "show_time": "2:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/justin-golden-matinee-w-nicky-diamonds-24-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/727512/web_orders/new"
+  },
+  {
+   "id": "chandler-24-oct",
+   "title": "Chandler, O-Z, Tuffluckkid, Fellaair",
+   "date": "2026-10-24",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/chandler-24-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/684983/web_orders/new"
+  },
+  {
+   "id": "drag-brunch-reigning-terror-25-oct",
+   "title": "Drag Brunch: Reigning Terror",
+   "date": "2026-10-25",
+   "doors": "11:00 AM",
+   "show_time": "12:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/drag-brunch-reigning-terror-25-oct",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/731218/web_orders/new"
+  },
+  {
+   "id": "staff-picks-dogs-on-shady-lane-kitty-corner-25-oct",
+   "title": "Dogs on Shady Lane, Kitty Corner, Theocles",
+   "date": "2026-10-25",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/staff-picks-dogs-on-shady-lane-kitty-corner-25-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/630347/web_orders/new"
+  },
+  {
+   "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
+   "title": "Open Mic Hosted by Warren Campbell of Dead Billionaires",
+   "date": "2026-10-26",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $5 under 21",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/760928/web_orders/new"
+  },
+  {
+   "id": "live-spooky-i-spy-27-oct",
+   "title": "Live Spooky I Spy",
+   "date": "2026-10-27",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-27-oct",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/761079/web_orders/new"
+  },
+  {
+   "id": "the-bachelor-boys-wedding-band-showcase-27-oct",
+   "title": "The Bachelor Boys Wedding Band Showcase",
+   "date": "2026-10-27",
+   "doors": "7:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-27-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/721031/web_orders/new"
+  },
+  {
+   "id": "vcu-jazz-combos-27-oct",
+   "title": "VCU Jazz Combos",
+   "date": "2026-10-27",
+   "doors": "8:00 PM",
+   "show_time": "8:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
+  },
+  {
+   "id": "guerilla-toss-28-oct",
+   "title": "Guerilla Toss, Meat Scraps",
+   "date": "2026-10-28",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/guerilla-toss-28-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/730067/web_orders/new"
+  },
+  {
+   "id": "ian-sweet-29-oct",
+   "title": "IAN SWEET",
+   "date": "2026-10-29",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/ian-sweet-29-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$20",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
+  },
+  {
+   "id": "beers-banjos-the-crooked-creek-misfits-30-oct",
+   "title": "Beers & Banjos: The Crooked Creek Misfits",
+   "date": "2026-10-30",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
+  },
+  {
+   "id": "pure-punk-covers-of-bag-religion-the-misfits-dead-kennedys-the-clash-descendents-30-oct",
+   "title": "Pure Punk: Covers of Bad Religion, The Misfits, Dead Kennedys, The Clash, Descendents",
+   "date": "2026-10-30",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/pure-punk-covers-of-bag-religion-the-misfits-dead-kennedys-the-clash-descendents-30-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/714126/web_orders/new"
+  },
+  {
+   "id": "halloween-at-the-camel-31-oct",
+   "title": "Halloween at The Camel!",
+   "date": "2026-10-31",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/halloween-at-the-camel-31-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/714123/web_orders/new"
+  },
+  {
+   "id": "victims-villains-presents-say-their-name-fest-01-nov",
+   "title": "Victims & Villains Presents: Say Their Name Fest",
+   "date": "2026-11-01",
+   "doors": "11:30 AM",
+   "show_time": "12:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/victims-villains-presents-say-their-name-fest-01-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/730908/web_orders/new"
+  },
+  {
+   "id": "torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
+   "title": "VICK VAPORS, HOLY WATER, FLESHING MACHINE, SOFT FEVER",
+   "date": "2026-11-02",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750000/web_orders/new"
+  },
+  {
+   "id": "sap-03-nov",
+   "title": "Sap, Sludge Mother",
+   "date": "2026-11-03",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/sap-03-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$17",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 17.0,
+     "fee": 5.15,
+     "total": 22.15,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/728161/web_orders/new"
+  },
+  {
+   "id": "woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
+   "title": "Woman Crush Wednesday: No Agenda, Sage is Alive, Cinema Hearts",
+   "date": "2026-11-04",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/743764/web_orders/new"
+  },
+  {
+   "id": "dogwood-tales-05-nov",
+   "title": "WNRN Presents: Dogwood Tales",
+   "date": "2026-11-05",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/dogwood-tales-05-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/727475/web_orders/new"
+  },
+  {
+   "id": "beers-banjos-slack-family-band-06-nov",
+   "title": "Beers & Banjos: Slack Family Band",
+   "date": "2026-11-06",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/651249/web_orders/new"
+  },
+  {
+   "id": "box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
+   "title": "Box Factory's First Friday with Mad Abbey, Marshall Family Values",
+   "date": "2026-11-06",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10 adv · $12 door",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Day of Show",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": "Sales start November 06, 2026"
+    },
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/623018/web_orders/new"
+  },
+  {
+   "id": "baked-shrimp-07-nov",
+   "title": "Big Shrimp w/ Greasy Bastards",
+   "date": "2026-11-07",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/baked-shrimp-07-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "",
+   "free": false,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
+  },
+  {
+   "id": "the-obgms-08-nov",
+   "title": "The OBGMs w/ Fury in Few, So Alive",
+   "date": "2026-11-08",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-obgms-08-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
+  },
+  {
+   "id": "chloe-kimes-09-nov",
+   "title": "Chloe Kimes",
+   "date": "2026-11-09",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/chloe-kimes-09-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/736607/web_orders/new"
+  },
+  {
+   "id": "john-r-miller-10-nov",
+   "title": "John R. Miller, Lou Hazel",
+   "date": "2026-11-10",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/john-r-miller-10-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$20",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/731199/web_orders/new"
+  },
+  {
+   "id": "autumn-drive-11-nov",
+   "title": "Autumn Drive",
+   "date": "2026-11-11",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/autumn-drive-11-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/729052/web_orders/new"
+  },
+  {
+   "id": "blues-brews-feat-willie-de-band-13-nov",
+   "title": "Blues & Brews feat. Willie DE Band",
+   "date": "2026-11-13",
+   "doors": "5:00 PM",
+   "show_time": "5:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
+  },
+  {
+   "id": "jesse-roper-13-nov",
+   "title": "WNRN Presents: Jesse Roper w/ Big Tobacco, Tyler Meacham (solo)",
+   "date": "2026-11-13",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/jesse-roper-13-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$18",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/682242/web_orders/new"
+  },
+  {
+   "id": "heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
+   "title": "Heavy Is The Head, Duressted, Contact, Coded, Not One of Them",
+   "date": "2026-11-15",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/714049/web_orders/new"
+  },
+  {
+   "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
+   "title": "Followship, With Sails Ahead, Sun Against Artemis, Melt",
+   "date": "2026-11-17",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/734049/web_orders/new"
+  },
+  {
+   "id": "dauber-young-scum-housie-heat-sick-18-nov",
+   "title": "Dauber, Young Scum, Housie, Heat Sick",
+   "date": "2026-11-18",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/dauber-young-scum-housie-heat-sick-18-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/745417/web_orders/new"
+  },
+  {
+   "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
+   "title": "Dave Hause and The Mermaid: The Cellmates Tour w/Jeremy White",
+   "date": "2026-11-19",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$20",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
+  },
+  {
+   "id": "tim-barry-20-nov",
+   "title": "November Fest '26 with Tim Barry Day 1: feat. Julie Karr, Roger Harvey, Sally Rose",
+   "date": "2026-11-20",
+   "doors": "7:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/tim-barry-20-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/600849/web_orders/new"
+  },
+  {
+   "id": "november-fest-26-with-tim-barry-day-2-feat-josh-small-andrew-alli-lela-jane-barry-21-nov",
+   "title": "November Fest '26 with Tim Barry Day 2: feat. Josh Small & Andrew Alli, Lela Jane Barry",
+   "date": "2026-11-21",
+   "doors": "7:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/november-fest-26-with-tim-barry-day-2-feat-josh-small-andrew-alli-lela-jane-barry-21-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/600850/web_orders/new"
+  },
+  {
+   "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
+   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers",
+   "date": "2026-11-22",
+   "doors": "2:00 PM",
+   "show_time": "2:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$5–$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Adult",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Child (under 16)",
+     "base": 5.0,
+     "fee": 3.05,
+     "total": 8.05,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
+  },
+  {
+   "id": "symphony-of-destiny-invictus-reality-shift-23-nov",
+   "title": "Symphony of Destiny, Invictus, Reality Shift",
+   "date": "2026-11-23",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/symphony-of-destiny-invictus-reality-shift-23-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
+  },
+  {
+   "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
+   "title": "Blues & Brews feat. Pasco Lefty Trio",
+   "date": "2026-11-27",
+   "doors": "5:00 PM",
+   "show_time": "5:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
+  },
+  {
+   "id": "wilson-springs-hotel-27-nov",
+   "title": "Wilson Springs Hotel",
+   "date": "2026-11-27",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/wilson-springs-hotel-27-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$20 adv · $25 door",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
+     "status": "Sales start November 27, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
+  },
+  {
+   "id": "beers-banjos-slack-family-band-04-dec",
+   "title": "Beers & Banjos: Slack Family Band",
+   "date": "2026-12-04",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
+  },
+  {
+   "id": "dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
+   "title": "Dalton Dash Album Release w/ HOTPANTS, Erin Lunsford",
+   "date": "2026-12-05",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/709069/web_orders/new"
+  },
+  {
+   "id": "public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",
+   "title": "Public Acid, Ulcer, No Fucker, Destruct, Massacre System",
+   "date": "2026-12-13",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$20",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/715433/web_orders/new"
+  },
+  {
+   "id": "new-year-s-eve-w-ma-am-buffie-31-dec",
+   "title": "New Year's Eve w/ Bucko, Ma'am, Buffie",
+   "date": "2026-12-31",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/new-year-s-eve-w-ma-am-buffie-31-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$20",
+   "free": false,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/730722/web_orders/new"
+  },
+  {
+   "id": "sicard-hollow-21-jan",
+   "title": "Sicard Hollow",
+   "date": "2027-01-21",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/sicard-hollow-21-jan",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
+  },
+  {
+   "id": "beers-and-banjos-garden-variety-string-band-19-feb",
+   "title": "Beers and Banjos: Garden Variety String Band",
+   "date": "2027-02-19",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-and-banjos-garden-variety-string-band-19-feb",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
+  },
+  {
+   "id": "sister-wife-sex-strike-local-news-legend-14-apr",
+   "title": "Sister Wife Sex Strike, Local News Legend",
+   "date": "2027-04-14",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/sister-wife-sex-strike-local-news-legend-14-apr",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$18",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
+  }
+ ]
+}

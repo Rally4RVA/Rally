@@ -1,0 +1,483 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rally</title>
+<meta name="description" content="Every live show in Richmond, VA in one list. Tap the people icon to say you're interested.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* A telephone-pole flyer board: big condensed date blocks on the left, one ruled row per show,
+   time in mono, one tap on the people icon to say you're interested. */
+:root {
+  --bg: #E6E8E8;
+  --surface: #F4F5F4;
+  --ink: #15171A;
+  --muted: #596067;
+  --line: #C3C8CA;
+  --accent: #2A3BFF;
+  --on-accent: #FFFFFF;
+  --font-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1114; --surface: #181B1F; --ink: #ECEDEA; --muted: #9AA1A8;
+    --line: #2B3036; --accent: #8C97FF; --on-accent: #0F1114; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1114; --surface: #181B1F; --ink: #ECEDEA; --muted: #9AA1A8;
+  --line: #2B3036; --accent: #8C97FF; --on-accent: #0F1114; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg); color: var(--ink);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.45;
+  padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 980px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+header { display: flex; flex-direction: column; gap: 10px; }
+.kicker { font-family: var(--font-mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+h1 {
+  font-family: var(--font-display); font-weight: 900; text-transform: uppercase;
+  font-size: clamp(52px, 11vw, 104px); line-height: .88; letter-spacing: .005em; margin: 0; text-wrap: balance;
+}
+h1 span { color: var(--accent); }
+.lede { margin: 0; max-width: 52ch; color: var(--muted); }
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding-block: 14px; border-block: 2px solid var(--ink); }
+.controls input[type="search"] {
+  flex: 1 1 200px; min-width: 0; font: inherit; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); padding: 9px 12px; border-radius: 2px;
+}
+.chip {
+  font: 500 13px var(--font-body); color: var(--ink); background: transparent;
+  border: 1px solid var(--ink); padding: 8px 12px; border-radius: 2px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.chip:focus-visible, .interest:focus-visible, .controls input:focus-visible, .tix:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.status { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px 18px; align-items: center; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.live::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--line); margin-right: 7px; }
+.live.on::before { background: var(--accent); }
+.day { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 0 18px; padding-block: 18px; border-bottom: 1px solid var(--line); }
+.date { display: flex; flex-direction: column; line-height: 1; }
+.date .num { font-family: var(--font-display); font-weight: 900; font-size: 64px; letter-spacing: -.01em; }
+.date .mon { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-top: 4px; }
+.date.today .num { color: var(--accent); }
+.shows { display: flex; flex-direction: column; min-width: 0; }
+.show { display: grid; grid-template-columns: 96px minmax(0, 1fr) 150px auto; gap: 6px 16px; align-items: center; padding-block: 12px; }
+.show + .show { border-top: 1px dashed var(--line); }
+.show:first-child { padding-top: 0; }
+.time { font-family: var(--font-mono); font-size: 15px; font-variant-numeric: tabular-nums; }
+.time small { display: block; font-size: 11px; color: var(--muted); }
+.band { min-width: 0; }
+.band b { display: block; font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; }
+.band span { display: block; color: var(--muted); font-size: 13.5px; margin-top: 3px; }
+.meta { font-size: 13px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.meta .venue { font-weight: 600; }
+.meta .price { color: var(--ink); font-family: var(--font-mono); font-size: 12.5px; font-weight: 500; }
+.meta .price.free { color: var(--accent); }
+.meta .price.none { color: var(--muted); font-weight: 400; }
+.meta .age { color: var(--muted); font-size: 12px; }
+.actions { display: flex; align-items: center; gap: 12px; justify-content: flex-end; }
+.interest {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-width: 78px;
+  font: 600 14px var(--font-mono); font-variant-numeric: tabular-nums; cursor: pointer;
+  color: var(--ink); background: transparent; border: 1.5px solid var(--ink);
+  padding: 6px 12px; border-radius: 2px;
+}
+.interest svg { display: block; fill: currentColor; }
+.interest[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.interest .n { display: inline-block; min-width: 1.2ch; text-align: left; }
+.tix { color: var(--ink); font-size: 13px; text-underline-offset: 3px; white-space: nowrap; }
+.kind { font-family: var(--font-mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); border: 1px solid var(--line); padding: 1px 5px; margin-left: 6px; vertical-align: 3px; }
+.empty { padding: 40px 0; color: var(--muted); }
+footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
+@media (max-width: 720px) {
+  .day { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  .date { flex-direction: row; align-items: baseline; gap: 10px; }
+  .date .num { font-size: 44px; }
+  .show { grid-template-columns: 78px minmax(0, 1fr); }
+  .meta { grid-column: 2; flex-direction: row; gap: 10px; flex-wrap: wrap; }
+  .actions { grid-column: 1 / -1; justify-content: space-between; }
+  .band b { font-size: 24px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .interest, .chip { transition: background-color .15s, color .15s; }
+  .interest .n.bump { animation: bump .4s ease-out; }
+  @keyframes bump { 0% { transform: scale(1); } 40% { transform: scale(1.4); } 100% { transform: scale(1); } }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">Richmond, VA &middot; live music, one list</div>
+    <h1>Rally<span>.</span></h1>
+    <p class="lede">Every upcoming show in one place. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
+  </header>
+
+  <div class="controls" role="group" aria-label="Filters">
+    <input type="search" id="q" placeholder="Search bands or venues" aria-label="Search bands or venues">
+    <button class="chip" id="musicOnly" type="button" aria-pressed="true">Music only</button>
+    <button class="chip" id="savedOnly" type="button" aria-pressed="false">My interested</button>
+    <div class="status"><span id="count" aria-live="polite"></span><span class="live" id="live"></span></div>
+  </div>
+
+  <main id="list"></main>
+
+  <footer>
+    Shows from The Camel for now, with more Richmond venues on the way. Prices are the base ticket price before the ticket service fee, which adds about $3 to $5. Free shows list any optional table reservation.
+    Shows drop off the list once they start. <span id="updated"></span>
+  </footer>
+</div>
+
+<script>
+// ---- Settings: after the Supabase setup, paste the two values here (see the setup steps) ----
+var CONFIG = { supabaseUrl: "", supabaseKey: "" };
+var POLL_MS = 10000;
+
+var KEY = "rally-interested";
+var DEVKEY = "rally-device";
+
+var events = [];
+var mine = {};        // slug -> true, the shows this person is interested in
+var counts = {};      // slug -> number of people interested (from the shared database)
+var haveCounts = false;
+var live = false;
+var inflight = 0;
+var pending = {};     // slug -> true/false, changes not yet confirmed by the database
+var animate = false;
+var shown = 0;
+var state = { q: "", music: true, savedOnly: false };
+
+function configured() { return !!(CONFIG.supabaseUrl && CONFIG.supabaseKey); }
+
+try {
+  var stored = JSON.parse(localStorage.getItem(KEY) || "[]");
+  (Array.isArray(stored) ? stored : []).forEach(function (k) { mine[k] = true; });
+} catch (e) { mine = {}; }
+function persist() { try { localStorage.setItem(KEY, JSON.stringify(Object.keys(mine))); } catch (e) {} }
+
+function makeId() {
+  try { if (window.crypto && crypto.randomUUID) return crypto.randomUUID(); } catch (e) {}
+  return "d" + Date.now().toString(36) + Math.random().toString(36).slice(2, 12);
+}
+var DEVICE = (function () {
+  try {
+    var d = localStorage.getItem(DEVKEY);
+    if (!d) { d = makeId(); localStorage.setItem(DEVKEY, d); }
+    return d;
+  } catch (e) { return makeId(); }
+})();
+
+var ICON = '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3.4"/><path d="M2.4 19.5c0-3.5 2.9-5.8 6.6-5.8s6.6 2.3 6.6 5.8z"/><circle cx="17.2" cy="9.2" r="2.6"/><path d="M16.6 13.9c3.1-.2 5.1 1.6 5.1 4.4v1.2h-4.4c0-2.2-.3-4.1-.7-5.6z"/></svg>';
+
+function pad(n) { return String(n).padStart(2, "0"); }
+function todayISO() { var d = new Date(); return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+function parts(iso) { var p = iso.split("-").map(Number); return new Date(p[0], p[1] - 1, p[2]); }
+
+function minutes(t) {
+  var m = /(\d{1,2}):(\d{2})\s*(AM|PM)/i.exec(t || "");
+  if (!m) return null;
+  var h = (+m[1]) % 12;
+  if (/pm/i.test(m[3])) h += 12;
+  return h * 60 + (+m[2]);
+}
+function over(e, today) {
+  if (e.date !== today) return false;
+  var m = minutes(e.show);
+  if (m === null) return false;
+  var d = new Date();
+  return d.getHours() * 60 + d.getMinutes() > m + 180;
+}
+
+function lineup(title) {
+  if (title.indexOf(", ") < 0 || /:|\bw\/|\bwith\b|Presents/i.test(title)) return { head: title, rest: "" };
+  var p = title.split(", ");
+  return { head: p[0], rest: "with " + p.slice(1).join(", ") };
+}
+
+function el(tag, cls, text) {
+  var n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+}
+
+// ---- shared counts (Supabase). Without settings the page still works, saved on this device only. ----
+function api(fn, body) {
+  return fetch(CONFIG.supabaseUrl.replace(/\/+$/, "") + "/rest/v1/rpc/" + fn, {
+    method: "POST",
+    headers: {
+      "apikey": CONFIG.supabaseKey,
+      "Authorization": "Bearer " + CONFIG.supabaseKey,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(body || {})
+  }).then(function (r) {
+    if (!r.ok) throw new Error("http " + r.status);
+    return r.text().then(function (t) { return t ? JSON.parse(t) : null; });
+  });
+}
+
+function totalFor(slug) {
+  if (!haveCounts) return mine[slug] ? 1 : 0;
+  return Math.max(counts[slug] || 0, mine[slug] ? 1 : 0);
+}
+
+function setStatus(mode) {
+  var n = document.getElementById("live");
+  n.className = "live" + (mode === "live" ? " on" : "");
+  n.textContent = mode === "live" ? "Live counts"
+    : mode === "connecting" ? "Connecting…"
+    : mode === "offline" ? "Reconnecting…"
+    : "Counts saved on this device only";
+}
+
+function updateCount() {
+  var n = Object.keys(mine).length;
+  document.getElementById("count").textContent =
+    shown + (shown === 1 ? " show" : " shows") + " listed" + (n ? " · " + n + " you are interested in" : "");
+}
+
+function bump(span) {
+  if (!animate) return;
+  span.classList.remove("bump");
+  void span.offsetWidth;
+  span.classList.add("bump");
+}
+
+function paint() {
+  var buttons = document.querySelectorAll(".interest");
+  for (var i = 0; i < buttons.length; i++) {
+    var b = buttons[i];
+    var slug = b.getAttribute("data-slug");
+    var on = !!mine[slug];
+    var n = totalFor(slug);
+    var span = b.querySelector(".n");
+    var prev = span.textContent;
+    if (prev !== String(n)) {
+      span.textContent = String(n);
+      if (prev !== "") bump(span);
+    }
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+    b.setAttribute("aria-label", "Interested in " + b.getAttribute("data-title") + ": " + n + (n === 1 ? " person" : " people") + (on ? ", including you" : ""));
+    b.title = on ? "You are interested. Tap to undo." : "Tap if you are interested";
+  }
+  updateCount();
+}
+
+function refreshView() { if (state.savedOnly) render(); else paint(); }
+
+function send(slug, on) {
+  pending[slug] = on;
+  inflight++;
+  return api("set_interest", { p_show: slug, p_device: DEVICE, p_on: on }).then(
+    function () { if (pending[slug] === on) delete pending[slug]; },
+    function () { /* stays pending, retried on the next successful poll */ }
+  ).then(function () { inflight--; });
+}
+
+function fetchCounts() {
+  return api("interest_counts").then(function (rows) {
+    var first = !live;
+    live = true;
+    setStatus("live");
+    if (inflight > 0) return first;       // a tap is mid-flight; its own refresh follows
+    var c = {};
+    (rows || []).forEach(function (r) { c[r.show_id] = Number(r.n) || 0; });
+    counts = c;
+    haveCounts = true;
+    refreshView();
+    animate = true;
+    return first;
+  }, function () {
+    live = false;
+    setStatus("offline");
+    return false;
+  });
+}
+
+function flushPending() {
+  var all = Object.keys(pending);
+  return Promise.all(all.map(function (s) { return send(s, pending[s]); }));
+}
+
+function pollNow() {
+  return fetchCounts().then(function (first) {
+    if (!live || inflight > 0) return;
+    if (first) Object.keys(mine).forEach(function (s) { if (pending[s] === undefined) pending[s] = true; });
+    if (Object.keys(pending).length) return flushPending().then(fetchCounts);
+  });
+}
+
+function startLive() {
+  if (!configured()) { setStatus("local"); return; }
+  setStatus("connecting");
+  pollNow();
+  setInterval(function () { if (!document.hidden) pollNow(); }, POLL_MS);
+  document.addEventListener("visibilitychange", function () { if (!document.hidden) pollNow(); });
+}
+
+function toggle(slug) {
+  var on = !mine[slug];
+  if (on) mine[slug] = true; else delete mine[slug];
+  persist();
+  if (configured() && haveCounts) counts[slug] = Math.max(0, (counts[slug] || 0) + (on ? 1 : -1));
+  refreshView();
+  if (configured()) send(slug, on).then(fetchCounts);
+}
+
+// ---- keeping the list current ----
+// Past shows leave this device's interested list the first time the page notices.
+function purge() {
+  var today = todayISO();
+  var current = {};
+  events.forEach(function (e) { if (e.date >= today) current[e.slug] = true; });
+  var changed = false;
+  Object.keys(mine).forEach(function (k) {
+    if (!current[k]) { delete mine[k]; changed = true; }
+  });
+  if (changed) persist();
+  return changed;
+}
+
+function liveKey() {
+  var today = todayISO();
+  return today + ":" + events.filter(function (e) { return e.date >= today && !over(e, today); }).length;
+}
+var lastKey = "";
+
+// Every minute (and when the tab comes back): moves past midnight and past showtimes off the list.
+function tick() {
+  var key = liveKey();
+  if (key === lastKey) return;
+  var newDay = lastKey && key.split(":")[0] !== lastKey.split(":")[0];
+  lastKey = key;
+  if (newDay) purge();
+  render();
+}
+setInterval(tick, 60000);
+document.addEventListener("visibilitychange", function () { if (!document.hidden) tick(); });
+
+function render() {
+  var today = todayISO();
+  var q = state.q.trim().toLowerCase();
+  var rows = events.filter(function (e) {
+    if (e.date < today || over(e, today)) return false;
+    if (state.music && e.kind !== "m") return false;
+    if (state.savedOnly && !mine[e.slug]) return false;
+    if (q && (e.title + " " + e.venue).toLowerCase().indexOf(q) < 0) return false;
+    return true;
+  });
+  shown = rows.length;
+
+  var list = document.getElementById("list");
+  list.textContent = "";
+
+  if (!rows.length) {
+    var anyUpcoming = events.some(function (e) { return e.date >= today && !over(e, today); });
+    list.appendChild(el("div", "empty", !events.length ? "Loading shows…" : !anyUpcoming ? "No upcoming shows right now. Check back soon." : state.savedOnly ? "Nothing marked yet. Tap the people icon on a show and it will land here." : "No shows match that search."));
+    updateCount();
+    return;
+  }
+
+  var byDate = {}, order = [];
+  rows.forEach(function (e) { if (!byDate[e.date]) { byDate[e.date] = []; order.push(e.date); } byDate[e.date].push(e); });
+
+  order.forEach(function (iso) {
+    var d = parts(iso);
+    var day = el("section", "day");
+    var date = el("div", "date" + (iso === today ? " today" : ""));
+    date.appendChild(el("span", "num", String(d.getDate())));
+    date.appendChild(el("span", "mon", (iso === today ? "Today · " : d.toLocaleDateString("en-US", { weekday: "short" }) + " · ") + d.toLocaleDateString("en-US", { month: "short" })));
+    day.appendChild(date);
+
+    var shows = el("div", "shows");
+    byDate[iso].forEach(function (e) {
+      var row = el("article", "show");
+      var t = el("div", "time", e.show);
+      if (e.doors) t.appendChild(el("small", null, "doors " + e.doors));
+      row.appendChild(t);
+
+      var l = lineup(e.title);
+      var band = el("div", "band");
+      var b = el("b", null, l.head);
+      if (e.kind !== "m") b.appendChild(el("span", "kind", "not a gig"));
+      band.appendChild(b);
+      if (l.rest) band.appendChild(el("span", null, l.rest));
+      row.appendChild(band);
+
+      var meta = el("div", "meta");
+      meta.appendChild(el("span", "venue", e.venue));
+      var isFree = /^Free/.test(e.price);
+      var price = el("span", "price" + (isFree ? " free" : "") + (e.price ? "" : " none"), e.price || "See tickets");
+      price.title = e.price ? "Base ticket price, before fees" : "Price is listed on the venue's page";
+      meta.appendChild(price);
+      if (e.age) meta.appendChild(el("span", "age", e.age));
+      row.appendChild(meta);
+
+      var actions = el("div", "actions");
+      var a = el("a", "tix", "Tickets ↗");
+      a.href = e.url; a.target = "_blank"; a.rel = "noopener";
+      actions.appendChild(a);
+      var btn = el("button", "interest");
+      btn.type = "button";
+      btn.setAttribute("data-slug", e.slug);
+      btn.setAttribute("data-title", e.title);
+      btn.innerHTML = ICON + '<span class="n"></span>';
+      btn.addEventListener("click", function () { toggle(e.slug); });
+      actions.appendChild(btn);
+      row.appendChild(actions);
+      shows.appendChild(row);
+    });
+    day.appendChild(shows);
+    list.appendChild(day);
+  });
+  paint();
+}
+
+document.getElementById("q").addEventListener("input", function (ev) { state.q = ev.target.value; render(); });
+document.getElementById("musicOnly").addEventListener("click", function (ev) {
+  state.music = !state.music; ev.currentTarget.setAttribute("aria-pressed", String(state.music)); render();
+});
+document.getElementById("savedOnly").addEventListener("click", function (ev) {
+  state.savedOnly = !state.savedOnly; ev.currentTarget.setAttribute("aria-pressed", String(state.savedOnly)); render();
+});
+
+function load() {
+  setStatus(configured() ? "connecting" : "local");
+  render();
+  fetch("events.json", { cache: "no-store" }).then(function (r) {
+    if (!r.ok) throw new Error("http " + r.status);
+    return r.json();
+  }).then(function (data) {
+    events = (data.events || []).map(function (e) {
+      return { slug: e.id, date: e.date, show: e.show_time || "", doors: e.doors || "", title: e.title,
+               url: e.url, kind: e.kind || "m", venue: e.venue || "", price: e.price_display || "", age: e.age || "" };
+    });
+    if (data.updated) {
+      var u = new Date(data.updated);
+      if (!isNaN(u)) document.getElementById("updated").textContent =
+        "Show list updated " + u.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" }) + ".";
+    }
+    purge();
+    lastKey = liveKey();
+    render();
+    startLive();
+  }).catch(function () {
+    document.getElementById("list").textContent = "";
+    document.getElementById("list").appendChild(el("div", "empty", "Couldn't load the show list. Try refreshing in a moment."));
+  });
+}
+load();
+</script>
+</body>
+</html>
