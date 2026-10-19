@@ -140,7 +140,10 @@ footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
 
 <script>
 // ---- Settings: after the Supabase setup, paste the two values here (see the setup steps) ----
-var CONFIG = { supabaseUrl: "", supabaseKey: "" };
+var CONFIG = {
+  supabaseUrl: "https://ojaxnqxbrqssyykxvwjj.supabase.co",
+  supabaseKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9qYXhucXhicnFzc3l5a3h2d2pqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0MzI4NDYsImV4cCI6MjEwODAwODg0Nn0.r38T5DjBQqdTnt7DK2M1fFCMPrsv2lVsrO__dqkesSs"
+};
 var POLL_MS = 10000;
 
 var KEY = "rally-interested";
@@ -212,14 +215,15 @@ function el(tag, cls, text) {
 }
 
 // ---- shared counts (Supabase). Without settings the page still works, saved on this device only. ----
+function hdrs() {
+  var h = { "apikey": CONFIG.supabaseKey, "Content-Type": "application/json" };
+  if (CONFIG.supabaseKey.indexOf("eyJ") === 0) h["Authorization"] = "Bearer " + CONFIG.supabaseKey;  // only the older JWT-style key
+  return h;
+}
 function api(fn, body) {
   return fetch(CONFIG.supabaseUrl.replace(/\/+$/, "") + "/rest/v1/rpc/" + fn, {
     method: "POST",
-    headers: {
-      "apikey": CONFIG.supabaseKey,
-      "Authorization": "Bearer " + CONFIG.supabaseKey,
-      "Content-Type": "application/json"
-    },
+    headers: hdrs(),
     body: JSON.stringify(body || {})
   }).then(function (r) {
     if (!r.ok) throw new Error("http " + r.status);
