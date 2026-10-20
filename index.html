@@ -133,7 +133,7 @@ footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
   <main id="list"></main>
 
   <footer>
-    Shows from The Camel and Cobra Cabana for now, with more Richmond venues on the way. Prices are the base ticket price before fees, except Cobra Cabana, which lists prices with fees included. Free shows list any optional table reservation.
+    Shows from The Camel and Cobra Cabana for now, with more Richmond venues on the way. Prices include ticket service fees. Free shows list any optional table reservation.
     Shows drop off the list once they start. <span id="updated"></span>
   </footer>
 </div>
@@ -423,7 +423,7 @@ function render() {
       meta.appendChild(el("span", "venue", e.venue));
       var isFree = /^Free/.test(e.price);
       var price = el("span", "price" + (isFree ? " free" : "") + (e.price ? "" : " none"), e.price || "See tickets");
-      price.title = e.price ? "Base ticket price, before fees" : "Price is listed on the venue's page";
+      price.title = e.price ? "Ticket price including fees" : "Price is listed on the venue's page";
       meta.appendChild(price);
       if (e.age) meta.appendChild(el("span", "age", e.age));
       row.appendChild(meta);

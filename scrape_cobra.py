@@ -51,7 +51,7 @@ def price_label(line):
     m = re.match(r"^(?:From\s+)?\$(\d+(?:\.\d{2})?)", l, re.I)
     if m:
         v = float(m.group(1))
-        return ("$%d" % v if v == int(v) else "$%.2f" % v) + " w/ fees", False
+        return ("$%d" % v if v == int(v) else "$%.2f" % v) , False
     return "", False
 
 

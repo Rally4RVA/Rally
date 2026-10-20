@@ -100,14 +100,14 @@ def price_display(tiers):
     other = [t for t in open_t if not is_door(t["name"])]
     parts = []
     if other:
-        lo = min(t["base"] for t in other)
-        hi = max(t["base"] for t in other)
+        lo = min(t["total"] for t in other)
+        hi = max(t["total"] for t in other)
         s = money(lo) if lo == hi else money(lo) + "–" + money(hi)
         if door:
             s += " adv"
         parts.append(s)
     if door:
-        parts.append(money(min(t["base"] for t in door)) + " door")
+        parts.append(money(min(t["total"] for t in door)) + " door")
     return " · ".join(parts)
 
 

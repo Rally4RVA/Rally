@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:56:05-04:00",
+ "updated": "2026-10-19T20:30:00-04:00",
  "venues": [
   "Cobra Cabana"
  ],
@@ -15,7 +15,7 @@
    "kind": "m",
    "age": "",
    "address": "901 W Marshall St, Richmond, VA",
-   "price_display": "$17.85 w/ fees",
+   "price_display": "$17.85",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -32,7 +32,7 @@
    "kind": "m",
    "age": "",
    "address": "901 W Marshall St, Richmond, VA",
-   "price_display": "$18.91 w/ fees",
+   "price_display": "$18.91",
    "free": false,
    "table_price": null,
    "tiers": [],

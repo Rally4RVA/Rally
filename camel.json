@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:55:55-04:00",
+ "updated": "2026-10-19T15:30:00-04:00",
  "venues": [
   "The Camel"
  ],
@@ -13,13 +13,20 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
    "kind": "o",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10.12",
    "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "tiers": [
+    {
+     "name": "Entry",
+     "base": 7.0,
+     "fee": 3.12,
+     "total": 10.12,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/775344/web_orders/new"
   },
   {
    "id": "dead-steppe-brash-bedpiss-guzum-20-oct",
@@ -32,9 +39,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -57,9 +63,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -84,7 +89,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/760927/web_orders/new"
   },
@@ -99,9 +103,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18",
+   "price_display": "$23.19",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -122,28 +125,41 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/blues-brews-feat-kurt-crandall-true-story-23-oct",
    "kind": "m",
-   "age": "All Ages",
+   "age": "",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627474/web_orders/new"
   },
   {
    "id": "erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
    "title": "Erin & the Wildfire 15 year Anniversary and Karaoke",
    "date": "2026-10-23",
-   "doors": "9:00 PM",
+   "doors": "8:30 PM",
    "show_time": "9:30 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -166,9 +182,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -191,9 +206,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$12",
+   "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -216,9 +230,8 @@
    "kind": "o",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -241,9 +254,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -268,7 +280,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $5 under 21",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/760928/web_orders/new"
   },
@@ -285,7 +296,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/761079/web_orders/new"
   },
@@ -302,7 +312,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/721031/web_orders/new"
   },
@@ -319,7 +328,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
   },
@@ -334,9 +342,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -359,9 +366,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$20",
+   "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -383,10 +389,9 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
   },
@@ -401,9 +406,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$12",
+   "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -426,9 +430,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -451,9 +454,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -476,9 +478,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -501,9 +502,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$17",
+   "price_display": "$22.15",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -526,9 +526,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$12",
+   "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -542,7 +541,7 @@
   },
   {
    "id": "dogwood-tales-05-nov",
-   "title": "WNRN Presents: Dogwood Tales w/ Nabeel",
+   "title": "WNRN Presents: Dogwood Tales",
    "date": "2026-11-05",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -551,9 +550,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -578,7 +576,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651249/web_orders/new"
   },
@@ -593,9 +590,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10 adv · $12 door",
+   "price_display": "$13.22 adv · $15.44 door",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Day of Show",
@@ -627,7 +623,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "",
    "free": false,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
   },
@@ -642,9 +637,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$12",
+   "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -667,9 +661,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$12",
+   "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -692,10 +685,17 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$25.25",
    "free": false,
-   "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/731199/web_orders/new"
   },
   {
@@ -709,9 +709,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -733,10 +732,9 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
@@ -751,9 +749,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18",
+   "price_display": "$23.19",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -776,9 +773,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -791,31 +787,6 @@
    "ticket_url": "https://app.opendate.io/confirms/714049/web_orders/new"
   },
   {
-   "id": "peter-stone-anterra-nick-shaw-16-nov",
-   "title": "Peter Stone, Anterra, Sun v Set, Nic Shaw",
-   "date": "2026-11-16",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/peter-stone-anterra-nick-shaw-16-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/751045/web_orders/new"
-  },
-  {
    "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
    "title": "Followship, With Sails Ahead, Sun Against Artemis, Melt",
    "date": "2026-11-17",
@@ -826,9 +797,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -851,9 +821,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -876,9 +845,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$20",
+   "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -901,9 +869,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25",
+   "price_display": "$30.42",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -926,9 +893,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25",
+   "price_display": "$30.42",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -951,9 +917,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$8.05–$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Adult",
@@ -967,7 +932,7 @@
      "base": 5.0,
      "fee": 3.05,
      "total": 8.05,
-     "status": "Sold out"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
@@ -983,9 +948,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10",
+   "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -1010,7 +974,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
@@ -1025,9 +988,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$20 adv · $25 door",
+   "price_display": "$25.25 adv · $30.42 door",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -1059,8 +1021,15 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -1074,9 +1043,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15",
+   "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -1099,9 +1067,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$20",
+   "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -1124,9 +1091,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$20",
+   "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -1149,9 +1115,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$12",
+   "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -1176,8 +1141,15 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -1191,9 +1163,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18",
+   "price_display": "$23.19",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
