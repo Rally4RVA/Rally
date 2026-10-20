@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T14:00:52-04:00",
+ "updated": "2026-10-20T15:26:08-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -10,7 +10,20 @@
   "Hardywood",
   "Bandito's Burrito Lounge",
   "The Get Tight Lounge",
+  "Bandito's",
+  "Chugalug",
+  "Cobra Cabana",
+  "Dogwood Dell",
   "Fuzzy Cactus",
+  "Gallery 5",
+  "Moose Lodge",
+  "Northside Basement",
+  "Odin's Underground",
+  "Studio Two Three",
+  "The Canal Club",
+  "The National",
+  "The Workshop",
+  "VSC",
   "Main Line Brewery"
  ],
  "events": [
@@ -226,6 +239,23 @@
    "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
   },
   {
+   "id": "manual-dogwood-dell-2026-10-21-foot-fetish-havana-syndrome-inverted-cross-spicy-meatball",
+   "title": "Foot Fetish, Havana Syndrome, Inverted Cross, Spicy Meatball",
+   "date": "2026-10-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Dogwood Dell",
+   "url": "https://www.instagram.com/p/DefDN_lv2dt/",
+   "kind": "m",
+   "age": "",
+   "address": "Byrd Park, Richmond",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DefDN_lv2dt/"
+  },
+  {
    "id": "gettight-2026-10-21-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-10-21",
@@ -359,6 +389,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/brother-thunder-22-oct"
+  },
+  {
+   "id": "manual-vsc-2026-10-22-excess-blood-serqet-poison-children",
+   "title": "Excess Blood, Serqet, Poison Children",
+   "date": "2026-10-22",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "VSC",
+   "url": "https://www.instagram.com/p/DeWgKwtx3SR/",
+   "kind": "m",
+   "age": "",
+   "address": "DM for address",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DeWgKwtx3SR/"
   },
   {
    "id": "hardywood-2026-10-23-hardywood-bourbon-caliente-gbs-release",
@@ -632,6 +679,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-23-oct"
   },
   {
+   "id": "manual-the-national-2026-10-24-dying-fetus-left-to-suffer-killing-pace-deterioration",
+   "title": "Dying Fetus, Left To Suffer, Killing Pace, Deterioration",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "The National",
+   "url": "https://www.instagram.com/p/Dd2Fhu3SQdc/",
+   "kind": "m",
+   "age": "",
+   "address": "708 E Broad St, Richmond",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dd2Fhu3SQdc/"
+  },
+  {
    "id": "mainline-2026-10-24-filipino-american-history-month-celebration",
    "title": "Filipino American History Month Celebration",
    "date": "2026-10-24",
@@ -807,6 +871,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/piranha-rama-camo-face-reverse-yr-curse-24-oct"
+  },
+  {
+   "id": "manual-odin-s-underground-2026-10-24-leslie-the-dots-danger-birds-hot-lava-attagirl",
+   "title": "Leslie & The Dots, Danger Birds, Hot Lava, Attagirl",
+   "date": "2026-10-24",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Odin's Underground",
+   "url": "https://www.instagram.com/p/Dcyo0SXsoFd/",
+   "kind": "m",
+   "age": "",
+   "address": "DM for address",
+   "price_display": "$12 (BYOB)",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dcyo0SXsoFd/"
   },
   {
    "id": "gettight-2026-10-24-homie-price-dj-10-00-pm",
@@ -1562,6 +1643,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/miramar-yeni-nostalji-dj-doguchi-30-oct"
   },
   {
+   "id": "manual-odin-s-underground-2026-10-30-public-acid-division-of-mind-cicada-invertebrates",
+   "title": "Public Acid, Division of Mind, Cicada, Invertebrates",
+   "date": "2026-10-30",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Odin's Underground",
+   "url": "https://www.instagram.com/p/DeIPO0XhE_K/",
+   "kind": "m",
+   "age": "",
+   "address": "DM for address",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DeIPO0XhE_K/"
+  },
+  {
    "id": "pure-punk-covers-of-bag-religion-the-misfits-dead-kennedys-the-clash-descendents-30-oct",
    "title": "Pure Punk: Covers of Bad Religion, The Misfits, Dead Kennedys, The Clash, Descendents",
    "date": "2026-10-30",
@@ -1866,6 +1964,23 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
+   "id": "manual-gallery-5-2026-11-01-gif-from-god-circle-breaker-remembrance-auto-icon",
+   "title": "Gif From God, Circle Breaker, Remembrance, Auto Icon",
+   "date": "2026-11-01",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Gallery 5",
+   "url": "https://www.instagram.com/p/Dd7B4CESa5U/",
+   "kind": "m",
+   "age": "All ages",
+   "address": "200 W Marshall St, Richmond",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dd7B4CESa5U/"
+  },
+  {
    "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
    "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
    "date": "2026-11-01",
@@ -1881,6 +1996,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
+  },
+  {
+   "id": "manual-studio-two-three-2026-11-01-ink-dagger-pageninetynine-sleepytime-trio-ghouli",
+   "title": "Ink & Dagger, Pageninetynine, Sleepytime Trio, Ghouli",
+   "date": "2026-11-01",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "Studio Two Three",
+   "url": "https://www.instagram.com/p/Dd9Y9k4O79o/",
+   "kind": "m",
+   "age": "All ages",
+   "address": "1617 W Broad St, Richmond",
+   "price_display": "$25 (door)",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dd9Y9k4O79o/"
   },
   {
    "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
@@ -1974,6 +2106,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+  },
+  {
+   "id": "manual-bandito-s-2026-11-03-chemical-x-paradiso-plutonium-womb-hard-facts",
+   "title": "Chemical-X, Paradiso, Plutonium Womb, Hard Facts",
+   "date": "2026-11-03",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Bandito's",
+   "url": "https://www.instagram.com/p/DePf7JXOqha/",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DePf7JXOqha/"
+  },
+  {
+   "id": "manual-the-canal-club-2026-11-03-devil-master-private-hell-vigil",
+   "title": "Devil Master, Private Hell, Vigil",
+   "date": "2026-11-03",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.instagram.com/p/Dd_hF2CRpKD/",
+   "kind": "m",
+   "age": "All ages",
+   "address": "1545 E Cary St, Richmond",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dd_hF2CRpKD/"
   },
   {
    "id": "mainline-2026-11-03-hannah-wicklund-turning-jane-the-cowards-kings-the-queen-of-",
@@ -2170,6 +2336,23 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
+   "id": "manual-gallery-5-2026-11-05-laughing-corpse-pray-to-be-saved-destruct-subjects-massacre-",
+   "title": "Laughing Corpse, Pray To Be Saved, Destruct, Subjects, Massacre System, Auto Sear",
+   "date": "2026-11-05",
+   "doors": "7:00 PM",
+   "show_time": "7:30 PM",
+   "venue": "Gallery 5",
+   "url": "https://www.instagram.com/p/DdznkRTBKr3/",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DdznkRTBKr3/"
+  },
+  {
    "id": "dogwood-tales-05-nov",
    "title": "WNRN Presents: Dogwood Tales w/ Nabeel",
    "date": "2026-11-05",
@@ -2281,10 +2464,25 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$13.22 adv · $15.44 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Day of Show",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": "Sales start November 06, 2026"
+    },
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/623018/web_orders/new"
   },
   {
@@ -2337,6 +2535,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
+   "id": "manual-northside-basement-2026-11-07-real-shocks-crying-hand-putrid-boys-homemade-speed",
+   "title": "Real Shocks, Crying Hand, Putrid Boys, Homemade Speed",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Northside Basement",
+   "url": "https://www.instagram.com/p/Dehg45wO74M/",
+   "kind": "m",
+   "age": "",
+   "address": "DM for address",
+   "price_display": "$10 cash / $15 card",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dehg45wO74M/"
   },
   {
    "id": "gettight-2026-11-07-celler-dwellers-bullseye-cinch-8-00-pm",
@@ -2447,6 +2662,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
+   "id": "manual-bandito-s-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
+   "title": "The Get Off, Beast From The East, Cold Vein, Green Forest",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Bandito's",
+   "url": "https://www.instagram.com/p/DeSXleAKKtj/",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DeSXleAKKtj/"
+  },
+  {
+   "id": "manual-cobra-cabana-2026-11-08-acolyte-torment-not-one-of-them-tba",
+   "title": "Acolyte, Torment, Not One Of Them, TBA",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Cobra Cabana",
+   "url": "",
+   "kind": "m",
+   "age": "",
+   "address": "901 W Marshall St, Richmond",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": ""
   },
   {
    "id": "bandito-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
@@ -2904,6 +3153,23 @@
    "ticket_url": "https://app.opendate.io/e/ships-in-the-night-syncretist-architrave-bloodx3-november-13-2026-753809"
   },
   {
+   "id": "manual-chugalug-2026-11-13-gonzobomb-500-fine-caske",
+   "title": "Gonzobomb, 500$ Fine, Caske",
+   "date": "2026-11-13",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Chugalug",
+   "url": "",
+   "kind": "m",
+   "age": "",
+   "address": "Ask a pal",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": ""
+  },
+  {
    "id": "jesse-roper-13-nov",
    "title": "WNRN Presents: Jesse Roper w/ Big Tobacco, Tyler Meacham (solo)",
    "date": "2026-11-13",
@@ -2927,6 +3193,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/682242/web_orders/new"
+  },
+  {
+   "id": "manual-moose-lodge-2026-11-14-killing-pace-shits-creek-over-your-head-runnin-hot",
+   "title": "Killing Pace, Shits Creek, Over Your Head, Runnin Hot",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "",
+   "venue": "Moose Lodge",
+   "url": "https://www.instagram.com/p/DefC2KOPqe-/",
+   "kind": "m",
+   "age": "",
+   "address": "1207 Hilliard Rd, Richmond",
+   "price_display": "$15 (door only)",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DefC2KOPqe-/"
   },
   {
    "id": "cobra-1989265308086",
@@ -3107,6 +3390,23 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
+   "id": "manual-vsc-2026-11-15-ultimate-disaster-the-brood-zima",
+   "title": "Ultimate Disaster, The Brood, Zima",
+   "date": "2026-11-15",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "VSC",
+   "url": "https://www.instagram.com/p/Dekk61vuvB1/",
+   "kind": "m",
+   "age": "",
+   "address": "DM for address",
+   "price_display": "$12",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dekk61vuvB1/"
+  },
+  {
    "id": "bandito-2026-11-15-diles-que-no-me-maten",
    "title": "Diles que no me maten",
    "date": "2026-11-15",
@@ -3215,6 +3515,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-17-nov"
+  },
+  {
+   "id": "manual-the-workshop-2026-11-17-rosemary-nods-upon-the-grave-slowhole-drawn-bow-ostraca-mour",
+   "title": "Rosemary Nods Upon The Grave, Slowhole, Drawn Bow, Ostraca, Mourning Portrait",
+   "date": "2026-11-17",
+   "doors": "7:00 PM",
+   "show_time": "7:30 PM",
+   "venue": "The Workshop",
+   "url": "https://www.instagram.com/p/DePf1LFOQCz/",
+   "kind": "m",
+   "age": "All ages",
+   "address": "1400 MacTavish Ave, Richmond",
+   "price_display": "$15 (NOTAFLOF)",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DePf1LFOQCz/"
   },
   {
    "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
@@ -4021,7 +4338,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -4435,7 +4760,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:59:10-04:00",
+ "updated": "2026-10-20T15:24:28-04:00",
  "venues": [
   "The Camel"
  ],
@@ -576,10 +576,25 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$13.22 adv · $15.44 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Day of Show",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": "Sales start November 06, 2026"
+    },
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/623018/web_orders/new"
   },
   {
@@ -1068,7 +1083,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -1185,7 +1208,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
