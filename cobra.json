@@ -1,0 +1,42 @@
+{
+ "updated": "2026-10-19T20:30:00-04:00",
+ "venues": [
+  "Cobra Cabana"
+ ],
+ "events": [
+  {
+   "id": "cobra-2001619732502",
+   "title": "Ar-Kaics, Axis: Sova, Piranha Rama, Graphic Violets",
+   "date": "2026-11-13",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Cobra Cabana",
+   "url": "https://www.eventbrite.com/e/1113-ar-kaics-w-axis-sova-piranha-rama-graphic-violets-cobra-tickets-2001619732502",
+   "kind": "m",
+   "age": "",
+   "address": "901 W Marshall St, Richmond, VA",
+   "price_display": "$17.85 w/ fees",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/1113-ar-kaics-w-axis-sova-piranha-rama-graphic-violets-cobra-tickets-2001619732502"
+  },
+  {
+   "id": "cobra-1989265308086",
+   "title": "SWEEPING PROMISES, OUTER WORLD, RADON ABATEMENT",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Cobra Cabana",
+   "url": "https://www.eventbrite.com/e/sweeping-promises-outer-world-radon-abatement-cobra-cabana-nov-14th-tickets-1989265308086",
+   "kind": "m",
+   "age": "",
+   "address": "901 W Marshall St, Richmond, VA",
+   "price_display": "$18.91 w/ fees",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/sweeping-promises-outer-world-radon-abatement-cobra-cabana-nov-14th-tickets-1989265308086"
+  }
+ ]
+}

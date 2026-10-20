@@ -2,7 +2,7 @@
 Rally scraper for The Camel (thecamel.org).
 
 Reads every upcoming show, including the ticket prices from the embedded
-Opendate checkout, and writes events.json for the Rally site.
+Opendate checkout, and writes camel.json (merge_events.py combines every venue into events.json).
 Runs every morning on GitHub Actions (see .github/workflows/update.yml).
 
 To test on your own computer:
@@ -20,7 +20,7 @@ from zoneinfo import ZoneInfo
 
 BASE = "https://www.thecamel.org"
 VENUE = "The Camel"
-OUT = Path("events.json")
+OUT = Path("camel.json")
 MIN_EVENTS = 10          # if fewer shows than this come back, something broke: keep the old file
 TZ = ZoneInfo("America/New_York")
 PAUSE = 0.5
@@ -286,7 +286,7 @@ def scrape():
 def main():
     events = scrape()
     if len(events) < MIN_EVENTS:
-        print(f"Only {len(events)} upcoming shows came back, so events.json was left alone.")
+        print(f"Only {len(events)} upcoming shows came back, so camel.json was left alone.")
         sys.exit(1)
     data = {
         "updated": datetime.now(TZ).isoformat(timespec="seconds"),
