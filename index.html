@@ -102,9 +102,16 @@ h1 span { color: var(--accent); }
 .chiprow .lab { font-family: var(--font-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-right: 2px; }
 .chiprow .lab:not(:first-child) { margin-left: 10px; }
 .sortnote { font-family: var(--font-mono); font-size: 12px; color: var(--muted); padding-top: 16px; }
-.later-head { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; font-size: 34px; padding-top: 26px; border-top: 2px solid var(--ink); margin-top: 8px; }
-.chip.more { align-self: flex-start; margin-top: 18px; padding: 12px 18px; font-size: 14px; }
-footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
+.days { display: flex; gap: 6px; align-items: stretch; overflow-x: auto; padding-bottom: 4px; -webkit-overflow-scrolling: touch; }
+.days[hidden] { display: none; }
+.daybtn { flex: 1 0 64px; font: 500 11px var(--font-mono); color: var(--ink); background: transparent; border: 1px solid var(--ink); padding: 8px 6px 7px; border-radius: 2px; cursor: pointer; text-align: center; text-transform: uppercase; letter-spacing: .06em; }
+.daybtn b { display: block; font-family: var(--font-display); font-weight: 900; font-size: 30px; line-height: 1; letter-spacing: 0; margin-block: 2px; }
+.daybtn small { display: block; font-size: 10.5px; opacity: .75; }
+.daybtn[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.daybtn.none { opacity: .5; }
+.daynav { flex: 0 0 38px; font: 600 20px var(--font-mono); color: var(--ink); background: transparent; border: 1px solid var(--ink); border-radius: 2px; cursor: pointer; }
+.daynav:disabled { opacity: .25; cursor: default; }
+.daybtn:focus-visible, .daynav:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
 @media (max-width: 720px) {
   .day { grid-template-columns: minmax(0, 1fr); gap: 6px; }
   .date { flex-direction: row; align-items: baseline; gap: 10px; }
@@ -126,7 +133,7 @@ footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
   <header>
     <div class="kicker">Richmond, VA &middot; live music, one list</div>
     <h1>Rally<span>.</span></h1>
-    <p class="lede">Every show in the next 7 days, in one place. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
+    <p class="lede">Every show in Richmond, one day at a time. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
   </header>
 
   <div class="controls" role="group" aria-label="Filters">
@@ -145,10 +152,12 @@ footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
     <div class="status"><span id="count" aria-live="polite"></span><span class="live" id="live"></span></div>
   </div>
 
+  <nav class="days" id="days" aria-label="Pick a day"></nav>
+
   <main id="list"></main>
 
   <footer>
-    Shows from The Camel, Cobra Cabana, Bandito’s, Get Tight, The Broadberry, Richmond Music Hall, Virginia Credit Union Live, Gallery5, Hardywood and Main Line Brewery for now, with more Richmond venues on the way. Prices include ticket service fees. Free shows list any optional table reservation.
+    Shows from The Camel, Cobra Cabana, Bandito’s, Get Tight, The Broadberry, Richmond Music Hall, Gallery5, Hardywood, Main Line Brewery and more small Richmond venues, with more on the way. Prices include ticket service fees. Free shows list any optional table reservation.
     Shows drop off the list once they start. <span id="updated"></span>
   </footer>
 </div>
@@ -173,10 +182,9 @@ var inflight = 0;
 var pending = {};     // slug -> true/false, changes not yet confirmed by the database
 var animate = false;
 var shown = 0;
-var state = { q: "", music: true, savedOnly: false, later: false, price: "", sort: "date", dir: 1 };
+var state = { q: "", music: true, savedOnly: false, day: "", start: "", price: "", sort: "date", dir: 1 };   // day: the day being viewed ("all" is only used by tests)
 var snap = null;     // counts as they were when the page loaded; the "Most interested" order uses this so it only changes on reload
 var scope = "";
-var WEEK_DAYS = 7;   // the main view shows today plus the next 6 days
 
 function configured() { return !!(CONFIG.supabaseUrl && CONFIG.supabaseKey); }
 
@@ -392,7 +400,7 @@ function tick() {
   if (key === lastKey) return;
   var newDay = lastKey && key.split(":")[0] !== lastKey.split(":")[0];
   lastKey = key;
-  if (newDay) purge();
+  if (newDay) { purge(); if (state.day !== "all") { state.day = ""; state.start = ""; } }
   render();
 }
 setInterval(tick, 60000);
@@ -412,67 +420,60 @@ function render() {
     }
     return true;
   });
-  // The main view is the next 7 days. Searching or "My interested" looks at every date.
-  var endISO = addDays(today, WEEK_DAYS - 1);
-  var wide = state.later || !!q || state.savedOnly;
-  var rows = wide ? base : base.filter(function (e) { return e.date <= endISO; });
-  var laterCount = base.length - base.filter(function (e) { return e.date <= endISO; }).length;
-  var canToggle = laterCount > 0 && !q && !state.savedOnly;
-  scope = wide ? " listed" : " in the next 7 days";
-  var flat = state.sort !== "date";
-  if (flat) {
-    var ix = function (e) { return events.indexOf(e); };
-    rows = rows.slice().sort(function (a, b) {
-      if (state.sort === "price") {
-        var pa = priceNum(a.price), pb = priceNum(b.price);
-        if (pa === null && pb === null) return ix(a) - ix(b);
-        if (pa === null) return 1;
-        if (pb === null) return -1;
-        return (pa - pb) * state.dir || ix(a) - ix(b);
-      }
+
+  // First visit (or a new day): open on the first day that has shows, which is usually today.
+  if (!state.day || (state.day !== "all" && state.day < today)) {
+    state.day = base.length ? base[0].date : today;
+    state.start = state.day >= addDays(today, 7) ? state.day : today;
+  }
+  if (!state.start || state.start < today) state.start = today;
+
+  // One day at a time. Searching or "My interested" looks at every date, still grouped by day.
+  var wide = !!q || state.savedOnly || state.day === "all";
+  var rows = wide ? base : base.filter(function (e) { return e.date === state.day; });
+
+  // Sorting (price or interest) only ever reorders shows within the same day.
+  var ix = function (e) { return events.indexOf(e); };
+  rows = rows.slice().sort(function (a, b) {
+    if (a.date !== b.date) return a.date < b.date ? -1 : 1;
+    if (state.sort === "price") {
+      var pa = priceNum(a.price), pb = priceNum(b.price);
+      if (pa === null && pb === null) return ix(a) - ix(b);
+      if (pa === null) return 1;
+      if (pb === null) return -1;
+      return (pa - pb) * state.dir || ix(a) - ix(b);
+    }
+    if (state.sort === "interest") {
       var ca = (snap && snap[a.slug]) || 0, cb = (snap && snap[b.slug]) || 0;
       return (cb - ca) || ix(a) - ix(b);
-    });
-  }
+    }
+    return ix(a) - ix(b);
+  });
   shown = rows.length;
+  var vd = wide ? null : parts(state.day);
+  scope = wide ? " listed" : (state.day === today ? " today" : " on " + vd.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" }));
+
+  renderDays(base, wide, today);
 
   var list = document.getElementById("list");
   list.textContent = "";
 
-  function laterButton() {
-    var b = el("button", "chip more", state.later ? "Back to the next 7 days" : "Show " + laterCount + " later " + (laterCount === 1 ? "show" : "shows"));
-    b.type = "button";
-    b.addEventListener("click", function () { state.later = !state.later; render(); if (!state.later) window.scrollTo(0, 0); });
-    return b;
-  }
-
   if (!rows.length) {
     var anyUpcoming = events.some(function (e) { return e.date >= today && !over(e, today); });
-    list.appendChild(el("div", "empty", !events.length ? "Loading shows…" : !anyUpcoming ? "No upcoming shows right now. Check back soon." : state.savedOnly ? "Nothing marked yet. Tap the people icon on a show and it will land here." : q ? "No shows match that search." : "Nothing in the next 7 days that matches."));
-    if (canToggle) list.appendChild(laterButton());
+    list.appendChild(el("div", "empty", !events.length ? "Loading shows…" : !anyUpcoming ? "No upcoming shows right now. Check back soon." : state.savedOnly ? "Nothing marked yet. Tap the people icon on a show and it will land here." : q ? "No shows match that search." : "No shows on this day match. Try another day above."));
     updateCount();
     return;
   }
 
-  var groups = [];
-  if (flat) {
-    var note = state.sort === "price" ? (state.dir === 1 ? "Sorted by price, lowest first" : "Sorted by price, highest first")
-      : (snap ? "Sorted by how many people are interested (updates when you reload the page)" : "Interest counts are not available right now, so these are in date order");
-    list.appendChild(el("div", "sortnote", note));
-    rows.forEach(function (e) { groups.push({ iso: e.date, items: [e] }); });
-  } else {
-    var byDate = {};
-    rows.forEach(function (e) { if (!byDate[e.date]) { byDate[e.date] = { iso: e.date, items: [] }; groups.push(byDate[e.date]); } byDate[e.date].items.push(e); });
-  }
+  if (state.sort === "price") list.appendChild(el("div", "sortnote", state.dir === 1 ? "Cheapest first, within each day" : "Most expensive first, within each day"));
+  else if (state.sort === "interest") list.appendChild(el("div", "sortnote", snap ? "Most interested first, within each day (updates when you reload the page)" : "Interest counts are not available right now, so these are in time order"));
 
-  var laterMarked = false;
+  var groups = [], byDate = {};
+  rows.forEach(function (e) { if (!byDate[e.date]) { byDate[e.date] = { iso: e.date, items: [] }; groups.push(byDate[e.date]); } byDate[e.date].items.push(e); });
+
   groups.forEach(function (g) {
     var iso = g.iso;
     var d = parts(iso);
-    if (!flat && wide && !q && !state.savedOnly && iso > endISO && !laterMarked) {
-      laterMarked = true;
-      list.appendChild(el("div", "later-head", "Later"));
-    }
     var day = el("section", "day");
     var date = el("div", "date" + (iso === today ? " today" : ""));
     date.appendChild(el("span", "num", String(d.getDate())));
@@ -521,8 +522,46 @@ function render() {
     day.appendChild(shows);
     list.appendChild(day);
   });
-  if (canToggle) list.appendChild(laterButton());
   paint();
+}
+
+// The strip of days at the top: seven at a time, with arrows to move a week forward or back.
+function renderDays(base, wide, today) {
+  var nav = document.getElementById("days");
+  nav.textContent = "";
+  nav.hidden = wide;
+  if (wide) return;
+  var last = events.reduce(function (m, e) { return e.date > m ? e.date : m; }, today);
+  var counts = {};
+  base.forEach(function (e) { counts[e.date] = (counts[e.date] || 0) + 1; });
+
+  var prev = el("button", "daynav", "‹");
+  prev.type = "button"; prev.setAttribute("aria-label", "Earlier days");
+  prev.disabled = state.start <= today;
+  prev.addEventListener("click", function () { var s = addDays(state.start, -7); state.start = s < today ? today : s; state.day = state.start; render(); });
+  nav.appendChild(prev);
+
+  for (var i = 0; i < 7; i++) {
+    (function (iso) {
+      var d = parts(iso);
+      var n = counts[iso] || 0;
+      var b = el("button", "daybtn" + (n ? "" : " none"));
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(iso === state.day));
+      b.setAttribute("aria-label", d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" }) + ", " + n + (n === 1 ? " show" : " shows"));
+      b.appendChild(document.createTextNode(iso === today ? "Today" : d.toLocaleDateString("en-US", { weekday: "short" })));
+      b.appendChild(el("b", null, String(d.getDate())));
+      b.appendChild(el("small", null, n ? n + (n === 1 ? " show" : " shows") : "none"));
+      b.addEventListener("click", function () { state.day = iso; render(); });
+      nav.appendChild(b);
+    })(addDays(state.start, i));
+  }
+
+  var next = el("button", "daynav", "›");
+  next.type = "button"; next.setAttribute("aria-label", "Later days");
+  next.disabled = addDays(state.start, 7) > last;
+  next.addEventListener("click", function () { state.start = addDays(state.start, 7); state.day = state.start; render(); });
+  nav.appendChild(next);
 }
 
 document.getElementById("q").addEventListener("input", function (ev) { state.q = ev.target.value; render(); });
