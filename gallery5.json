@@ -1,9 +1,26 @@
 {
- "updated": "2026-10-20T10:56:00-04:00",
+ "updated": "2026-10-19T21:11:04-04:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
+  {
+   "id": "gallery5-2026-10-19-rva-venue-town-hall-october",
+   "title": "RVA Venue Town Hall - October",
+   "date": "2026-10-19",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar",
+   "kind": "o",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar"
+  },
   {
    "id": "gallery5-2026-10-21-mongo-atl-drugula-atl-badgerhive",
    "title": "Mongo (ATL), Drugula (ATL), Badgerhive",
@@ -11,7 +28,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -19,7 +36,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-23-creative-community-happy-hour-and-carnival-of-five-fires-clo",
@@ -28,7 +45,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/creative-happy-hour-october",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -36,7 +53,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/creative-happy-hour-october"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-23-fourth-friday-jazz-night-with-seth-morrissey-jazz-trio",
@@ -45,7 +62,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/jazz-night-seth-morrissey-jazz-trio",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -53,7 +70,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/jazz-night-seth-morrissey-jazz-trio"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-24-old-pup-wi-pearl-snap-butt-flap-drunk-mother",
@@ -62,7 +79,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -70,7 +87,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-25-rival-booking-presents-stress-reliever-lagoon-coded-d-m-v",
@@ -79,7 +96,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/rival-booking-stress-reliever-lagoon-coded-dmv",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -87,7 +104,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/rival-booking-stress-reliever-lagoon-coded-dmv"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-26-gazee-w-cyber-twin-and-crush",
@@ -96,7 +113,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -104,7 +121,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-28-andy-boay-saadia-rais-gull-danny-shyti",
@@ -113,7 +130,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/andy-boay-saadia-rais-gull-danny-shyti",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -121,7 +138,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/andy-boay-saadia-rais-gull-danny-shyti"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-30-clue-the-drag-show",
@@ -130,7 +147,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/clue-beau-tox-october",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -138,7 +155,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/clue-beau-tox-october"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-10-31-halloween-with-the-significant-others",
@@ -147,7 +164,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/halloween-significant-others",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -155,7 +172,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/halloween-significant-others"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
@@ -164,7 +181,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -172,7 +189,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-11-13-vigil-primordial-rites-album-release-show",
@@ -181,7 +198,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -189,7 +206,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
@@ -198,7 +215,7 @@
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -206,7 +223,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "gallery5-2026-12-10-nerdy-thirsty-thursdays",
@@ -215,7 +232,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-october",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "18+",
    "address": "200 W Marshall St, Richmond, VA",
@@ -223,7 +240,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-october"
+   "ticket_url": "https://gallery5arts.org/calendar"
   }
  ]
 }

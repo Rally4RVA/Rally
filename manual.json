@@ -1,0 +1,42 @@
+{
+ "updated": "2026-10-20T13:41:30-04:00",
+ "venues": [
+  "Fuzzy Cactus"
+ ],
+ "events": [
+  {
+   "id": "manual-fuzzy-cactus-2026-10-23-becoming-ducttape-jesus-glop",
+   "title": "Becoming, ducttape jesus, glop",
+   "date": "2026-10-23",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Fuzzy Cactus",
+   "url": "",
+   "kind": "m",
+   "age": "21+",
+   "address": "221 W Brookland Park Blvd, Richmond",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": ""
+  },
+  {
+   "id": "manual-fuzzy-cactus-2026-11-14-ultimatum-destruct-ultimate-disaster-skeksis",
+   "title": "Ultimatum, Destruct, Ultimate Disaster, Skeksis",
+   "date": "2026-11-14",
+   "doors": "8:00 PM",
+   "show_time": "8:30 PM",
+   "venue": "Fuzzy Cactus",
+   "url": "https://www.instagram.com/p/Dd85-dSvabR/",
+   "kind": "m",
+   "age": "18+",
+   "address": "221 W Brookland Park Blvd, Richmond",
+   "price_display": "$15 cash only",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
+  }
+ ]
+}

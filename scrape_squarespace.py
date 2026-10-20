@@ -1,7 +1,7 @@
 """
 Rally scraper for venues whose calendar is a Squarespace event list:
-Gallery5 (gallery5arts.org/calendar) and Hardywood (hardywood.com/richmond-events).
-Writes gallery5.json and hardywood.json.
+Gallery5 (gallery5arts.org/calendar), Hardywood (hardywood.com/richmond-events) and
+Main Line Brewery (mainlinerva.com/eventsatmainline). Writes gallery5.json, hardywood.json, mainline.json.
 """
 import re
 import sys
@@ -13,12 +13,17 @@ TIME = re.compile(r"\d{1,2}(?::\d{2})?\s?[AP]M", re.I)
 
 # Shows that are not live music get a "not a gig" tag and are hidden by "Music only".
 G5_NOT_MUSIC = re.compile(r"town hall|happy hour|reception|drag|exhibit|workshop|class\b|open house|market|bazaar|screening|film|poetry|comedy|trivia|bingo|yoga", re.I)
+ML_NOT_MUSIC = re.compile(r"training|5k|meetup|market|networking|block party|oyster|pug-o-ween|dead people|history month|celebration|yoga|trivia|bingo|class\\b|fundrais", re.I)
 HW_MUSIC = re.compile(r"live music|bluegrass|throwdown|jam\b|symphony|mambo|concert|band\b", re.I)
 
 VENUES = {
     "gallery5": {
         "name": "Gallery5", "url": "https://gallery5arts.org/calendar",
         "address": "200 W Marshall St, Richmond, VA", "file": "gallery5.json",
+    },
+    "mainline": {
+        "name": "Main Line Brewery", "url": "https://www.mainlinerva.com/eventsatmainline",
+        "address": "1603 Ownby Ln, Richmond, VA", "file": "mainline.json",
     },
     "hardywood": {
         "name": "Hardywood", "url": "https://www.hardywood.com/richmond-events",
@@ -80,6 +85,9 @@ def parse(body, key, links, today):
             music = not G5_NOT_MUSIC.search(title)
             if re.search(r"jazz night", title, re.I):
                 music = True
+        elif key == "mainline":
+            price, free = gallery_price(text)
+            music = not ML_NOT_MUSIC.search(title)
         else:
             price, free = "", False
             music = bool(HW_MUSIC.search(title))
