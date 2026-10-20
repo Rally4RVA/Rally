@@ -1,7 +1,7 @@
 """
 Rally scraper for Bandito's Burrito Lounge.
-Their calendar page is an Opendate list, which we read directly. Writes bandito.json.
-The list has no prices, so shows link to tickets instead.
+Their calendar page is an Opendate list, which we read directly, then each show's ticket
+page for the price. Writes bandito.json.
 """
 import re
 import sys
@@ -44,6 +44,30 @@ def parse(body, links, today):
     return out
 
 
+def add_prices(pg, events):
+    """Each Opendate show page has the same checkout box as The Camel's, with the ticket price in it.
+    Etix shows can't be read that way, so they stay on 'See tickets'."""
+    from scrape_camel import parse_tiers, price_display, opendate_text, free_label, AGE_RE
+    for e in events:
+        if "opendate.io/e/" not in e["url"]:
+            continue
+        try:
+            pg.goto(e["url"], wait_until="domcontentloaded", timeout=45000)
+            pg.wait_for_timeout(1500)
+            _, text = opendate_text(pg, wait_s=12)
+            tiers = parse_tiers(text)
+            label = price_display(tiers) if tiers else free_label(text)
+            if label:
+                e["price_display"] = label
+                e["free"] = label.startswith("Free")
+                e["tiers"] = tiers
+            age = next((l.strip() for l in text.splitlines() if AGE_RE.match(l.strip())), "")
+            if age:
+                e["age"] = age
+        except Exception as ex:
+            print("  price lookup failed for", e["title"], "-", str(ex).splitlines()[0])
+
+
 def main():
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
@@ -57,15 +81,16 @@ def main():
         body = pg.inner_text("body")
         links = pg.eval_on_selector_all(
             "a[href*='/e/'], a[href*='etix.com']", "els => els.map(e => e.href)")
+        events = parse(body, links, today_iso())
+        if len(events) < 3:
+            print(f"Only {len(events)} shows came back, so bandito.json was left alone.")
+            sys.exit(1)
+        add_prices(pg, events)
         b.close()
-    events = parse(body, links, today_iso())
-    if len(events) < 3:
-        print(f"Only {len(events)} shows came back, so bandito.json was left alone.")
-        sys.exit(1)
     save("bandito.json", [VENUE], events)
     print(f"Saved {len(events)} shows")
     for e in events[:5]:
-        print(" ", e["date"], e["show_time"], e["title"])
+        print(" ", e["date"], e["show_time"], e["title"], "|", e["price_display"] or "see tickets")
 
 
 if __name__ == "__main__":
