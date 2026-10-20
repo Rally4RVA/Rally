@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:26:08-04:00",
+ "updated": "2026-10-20T15:27:25-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -23,27 +23,9 @@
   "The Canal Club",
   "The National",
   "The Workshop",
-  "VSC",
-  "Main Line Brewery"
+  "VSC"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-20-midnight-ukulele-society-show",
-   "title": "Midnight Ukulele Society Show",
-   "date": "2026-10-20",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/midnight-ukulele-society-show",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/midnight-ukulele-society-show"
-  },
   {
    "id": "bb-2026-10-20-acid-mothers-temple-magick-potion",
    "title": "ACID MOTHERS TEMPLE, MAGICK POTION",
@@ -68,7 +50,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -76,7 +58,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "dead-steppe-brash-bedpiss-guzum-20-oct",
@@ -91,7 +73,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -110,7 +91,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-20-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -118,24 +99,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-20-oct"
-  },
-  {
-   "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
-   "title": "Pop-Out WEDNESDAYS networking Event",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-10-21-804-run-club-every-wednesday",
@@ -144,7 +108,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -152,7 +116,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-21-rva-pro-wrestling-the-lucky-13-rumble",
@@ -161,7 +125,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -169,7 +133,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
@@ -184,7 +148,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -203,7 +166,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -211,7 +174,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bandito-2026-10-21-fervence-enthronement-i-regret-nothing-abismo-nix",
@@ -222,20 +185,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
   },
   {
@@ -262,7 +217,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -270,7 +225,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
@@ -285,26 +240,8 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/760927/web_orders/new"
-  },
-  {
-   "id": "mainline-2026-10-22-the-midnight-bluesmen",
-   "title": "The Midnight Bluesmen",
-   "date": "2026-10-22",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/the-midnight-bluesmen",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-midnight-bluesmen"
   },
   {
    "id": "bb-2026-10-22-grateful-allman-band-experience-feat-susan-paulette",
@@ -336,7 +273,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$23.19",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -359,18 +295,10 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
+   "price_display": "$13",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/dwelling-unit-obedient-power-pants-dollseye-october-22-2026-743230"
   },
   {
@@ -380,7 +308,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/brother-thunder-22-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -388,7 +316,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/brother-thunder-22-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "manual-vsc-2026-10-22-excess-blood-serqet-poison-children",
@@ -414,7 +342,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-bourbon-caliente-gbs-release",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -422,7 +350,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bourbon-caliente-gbs-release"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-23-hardywood-babka-gbs-release",
@@ -431,7 +359,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-babka-gbs-release-krc82",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -439,7 +367,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-babka-gbs-release-krc82"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-23-hardywood-christmas-pancakes-release",
@@ -448,7 +376,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/o9zibk5p75u5cndheov1c8ocloyy68-a3ej9",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -456,7 +384,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/o9zibk5p75u5cndheov1c8ocloyy68-a3ej9"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-23-hardywood-gingerbread-porter-release",
@@ -465,7 +393,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-gingerbread-porter-release",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -473,7 +401,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-gingerbread-porter-release"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "blues-brews-feat-kurt-crandall-true-story-23-oct",
@@ -484,12 +412,26 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/blues-brews-feat-kurt-crandall-true-story-23-oct",
    "kind": "m",
-   "age": "All Ages",
+   "age": "",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627474/web_orders/new"
   },
   {
@@ -499,7 +441,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/creative-happy-hour-october",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -507,7 +449,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/creative-happy-hour-october"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "hardywood-2026-10-23-live-music-the-embalmers",
@@ -516,7 +458,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/the-embalmers-2-43d5g-wxj8z-cfly2-6l6fy",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -524,7 +466,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-embalmers-2-43d5g-wxj8z-cfly2-6l6fy"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-10-23-oso-oso-leisure-hour-and-bad-luck",
@@ -567,7 +509,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/jazz-night-seth-morrissey-jazz-trio",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -575,24 +517,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/jazz-night-seth-morrissey-jazz-trio"
-  },
-  {
-   "id": "mainline-2026-10-23-bark-at-the-breakdown",
-   "title": "Bark At The Breakdown",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/h4gl42tr3vc5w4xidx3nxm8py9xu19",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/h4gl42tr3vc5w4xidx3nxm8py9xu19"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bandito-2026-10-23-big-red-and-the-cowboy-killers-sundance-cowboy",
@@ -605,18 +530,10 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
+   "price_display": "$13",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/big-red-and-the-cowboy-killers-sundance-cowboy-october-23-2026-761745"
   },
   {
@@ -640,7 +557,7 @@
    "id": "erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
    "title": "Erin & the Wildfire 15 year Anniversary and Karaoke",
    "date": "2026-10-23",
-   "doors": "9:00 PM",
+   "doors": "8:30 PM",
    "show_time": "9:30 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
@@ -649,7 +566,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -668,7 +584,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/melodic-dj-23-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -676,7 +592,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-23-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "manual-the-national-2026-10-24-dying-fetus-left-to-suffer-killing-pace-deterioration",
@@ -696,30 +612,13 @@
    "ticket_url": "https://www.instagram.com/p/Dd2Fhu3SQdc/"
   },
   {
-   "id": "mainline-2026-10-24-filipino-american-history-month-celebration",
-   "title": "Filipino American History Month Celebration",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "12:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/fil-am-history-month-celebration",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/fil-am-history-month-celebration"
-  },
-  {
    "id": "gettight-2026-10-24-p-s-q-s-halloween-bash-2-00-pm",
    "title": "P’S & Q’S HALLOWEEN BASH",
    "date": "2026-10-24",
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/p-s-q-s-halloween-bash-24-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "All Ages",
    "address": "Richmond, VA",
@@ -727,7 +626,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/p-s-q-s-halloween-bash-24-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "justin-golden-matinee-w-nicky-diamonds-24-oct",
@@ -742,7 +641,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -761,7 +659,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em-dh9rr",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -769,7 +667,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em-dh9rr"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gallery5-2026-10-24-old-pup-wi-pearl-snap-butt-flap-drunk-mother",
@@ -778,7 +676,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -786,24 +684,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother"
-  },
-  {
-   "id": "mainline-2026-10-24-higher-education",
-   "title": "Higher Education",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/higher-education",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/higher-education"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "chandler-24-oct",
@@ -818,7 +699,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -841,18 +721,10 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$15 door",
+   "price_display": "$19",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 15.0,
-     "fee": 0.0,
-     "total": 15.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/daikaiju-w-payphones-portside-chapel-october-24-2026-752478"
   },
   {
@@ -862,7 +734,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/piranha-rama-camo-face-reverse-yr-curse-24-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -870,7 +742,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/piranha-rama-camo-face-reverse-yr-curse-24-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "manual-odin-s-underground-2026-10-24-leslie-the-dots-danger-birds-hot-lava-attagirl",
@@ -896,7 +768,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/homie-price-dj-24-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -904,7 +776,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/homie-price-dj-24-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "drag-brunch-reigning-terror-25-oct",
@@ -919,7 +791,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -938,7 +809,7 @@
    "doors": "",
    "show_time": "1:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/ravens-flock-week-7-watch-party-25-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "o",
    "age": "All Ages",
    "address": "Richmond, VA",
@@ -946,7 +817,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/ravens-flock-week-7-watch-party-25-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "gettight-2026-10-25-crabs-n-oysters-1-00-pm",
@@ -955,7 +826,7 @@
    "doors": "",
    "show_time": "1:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/crabs-n-oysters-25-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "o",
    "age": "All Ages",
    "address": "Richmond, VA",
@@ -963,41 +834,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/crabs-n-oysters-25-oct"
-  },
-  {
-   "id": "mainline-2026-10-25-2026-greg-willard-memorial-blues-challenge",
-   "title": "2026 Greg Willard Memorial Blues Challenge",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/2026-greg-willard-memorial-blues-challenge",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/2026-greg-willard-memorial-blues-challenge"
-  },
-  {
-   "id": "mainline-2026-10-25-16th-annual-pug-o-ween",
-   "title": "16th Annual Pug-O-Ween",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/16th-annual-pug-o-ween",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/16th-annual-pug-o-ween"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-10-25-live-music-same-side-sitters",
@@ -1006,7 +843,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1014,7 +851,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-25-rocky-horror-drag-show",
@@ -1023,7 +860,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1031,7 +868,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "staff-picks-dogs-on-shady-lane-kitty-corner-25-oct",
@@ -1046,7 +883,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -1065,7 +901,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/rival-booking-stress-reliever-lagoon-coded-dmv",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1073,7 +909,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/rival-booking-stress-reliever-lagoon-coded-dmv"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bandito-2026-10-25-pardoner-k9-star-sign",
@@ -1084,20 +920,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/pardoner-k9-star-sign-october-25-2026-757886",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/pardoner-k9-star-sign-october-25-2026-757886"
   },
   {
@@ -1107,7 +935,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1115,7 +943,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
@@ -1130,7 +958,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $5 under 21",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/760928/web_orders/new"
   },
@@ -1164,26 +991,8 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/761079/web_orders/new"
-  },
-  {
-   "id": "mainline-2026-10-27-lucky-dog-training",
-   "title": "Lucky Dog Training",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "5:45 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen"
   },
   {
    "id": "the-bachelor-boys-wedding-band-showcase-27-oct",
@@ -1198,7 +1007,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/721031/web_orders/new"
   },
@@ -1243,7 +1051,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1251,7 +1059,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gettight-2026-10-27-two-steppin-tuesday-s-w-rebecca-porter-8-00-pm",
@@ -1260,7 +1068,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-s-w-rebecca-porter-27-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -1268,7 +1076,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-s-w-rebecca-porter-27-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "vcu-jazz-combos-27-oct",
@@ -1283,7 +1091,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
   },
@@ -1294,7 +1101,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1302,7 +1109,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gallery5-2026-10-28-andy-boay-saadia-rais-gull-danny-shyti",
@@ -1311,7 +1118,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/andy-boay-saadia-rais-gull-danny-shyti",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1319,7 +1126,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/andy-boay-saadia-rais-gull-danny-shyti"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "hardywood-2026-10-28-rva-old-time-jam-2nd-4th-wednesdays",
@@ -1328,7 +1135,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1336,24 +1143,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
-  },
-  {
-   "id": "mainline-2026-10-28-jammin-on-the-tracks",
-   "title": "Jammin' on the Tracks",
-   "date": "2026-10-28",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "guerilla-toss-28-oct",
@@ -1368,7 +1158,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -1389,20 +1178,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/sun-v-set-doree-buffie-october-28-2026-778453",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$12 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 12.0,
-     "fee": 0.0,
-     "total": 12.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/sun-v-set-doree-buffie-october-28-2026-778453"
   },
   {
@@ -1412,7 +1193,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-28-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -1420,7 +1201,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-28-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "bb-2026-10-29-hudson-westbrook-kenny-whitmire-and-ethan-burdick",
@@ -1469,7 +1250,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -1499,23 +1279,6 @@
    "ticket_url": "https://www.etix.com/ticket/p/82491275/hit-like-a-girlgood-teal40-repsmadison-turner-at-banditos-richmond-banditos?partner_id=399"
   },
   {
-   "id": "mainline-2026-10-30-black-cat-market",
-   "title": "Black Cat Market",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market"
-  },
-  {
    "id": "beers-banjos-the-crooked-creek-misfits-30-oct",
    "title": "Beers & Banjos: The Crooked Creek Misfits",
    "date": "2026-10-30",
@@ -1525,10 +1288,9 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
   },
@@ -1539,7 +1301,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1547,7 +1309,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-10-30-doom-gong-sprawl",
@@ -1590,7 +1352,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/clue-beau-tox-october",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1598,7 +1360,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/clue-beau-tox-october"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bandito-2026-10-30-strawberry-moon-rikki-rikki-human-worm-becoming",
@@ -1609,20 +1371,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/strawberry-moon-rikki-rikki-human-worm-becoming-october-30-2026-757875",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/strawberry-moon-rikki-rikki-human-worm-becoming-october-30-2026-757875"
   },
   {
@@ -1632,7 +1386,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/miramar-yeni-nostalji-dj-doguchi-30-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -1640,7 +1394,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/miramar-yeni-nostalji-dj-doguchi-30-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "manual-odin-s-underground-2026-10-30-public-acid-division-of-mind-cicada-invertebrates",
@@ -1672,7 +1426,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -1691,7 +1444,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/samazon-prime-dj-30-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -1699,7 +1452,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/samazon-prime-dj-30-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-10-31-spooky-pilates",
@@ -1708,7 +1461,7 @@
    "doors": "",
    "show_time": "11:00 AM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/spooky-pilates",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1716,24 +1469,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/spooky-pilates"
-  },
-  {
-   "id": "mainline-2026-10-31-rva-halloween-block-party",
-   "title": "RVA Halloween Block Party",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "12:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/rva-halloween-block-party",
-   "kind": "o",
-   "age": "18+",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/rva-halloween-block-party"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-31-rusted-rabbit-pumpkin-living-succulent-halloween-edition",
@@ -1742,7 +1478,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1750,7 +1486,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-10-31-halloween-throwdown-w-alan-same-the-disco",
@@ -1759,7 +1495,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1767,7 +1503,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gallery5-2026-10-31-halloween-with-the-significant-others",
@@ -1776,7 +1512,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/halloween-significant-others",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1784,7 +1520,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/halloween-significant-others"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
@@ -1816,7 +1552,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -1854,20 +1589,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570"
   },
   {
@@ -1877,7 +1604,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-31-oct",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -1885,7 +1612,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-31-oct"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "victims-villains-presents-say-their-name-fest-01-nov",
@@ -1900,7 +1627,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -1913,30 +1639,13 @@
    "ticket_url": "https://app.opendate.io/confirms/730908/web_orders/new"
   },
   {
-   "id": "mainline-2026-11-01-5th-annual-oyster-festival",
-   "title": "5th Annual Oyster Festival",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/5th-annual-oyster-festival",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/5th-annual-oyster-festival"
-  },
-  {
    "id": "hardywood-2026-11-01-live-music-megan-luck",
    "title": "Megan Luck",
    "date": "2026-11-01",
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-megan-luck",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1944,7 +1653,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-megan-luck"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
@@ -1964,38 +1673,21 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
-   "id": "manual-gallery-5-2026-11-01-gif-from-god-circle-breaker-remembrance-auto-icon",
-   "title": "Gif From God, Circle Breaker, Remembrance, Auto Icon",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Gallery 5",
-   "url": "https://www.instagram.com/p/Dd7B4CESa5U/",
-   "kind": "m",
-   "age": "All ages",
-   "address": "200 W Marshall St, Richmond",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/Dd7B4CESa5U/"
-  },
-  {
    "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
    "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
    "date": "2026-11-01",
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
-   "age": "",
+   "age": "All ages",
    "address": "200 W Marshall St, Richmond, VA",
    "price_display": "$10",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "manual-studio-two-three-2026-11-01-ink-dagger-pageninetynine-sleepytime-trio-ghouli",
@@ -2044,7 +1736,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -2097,7 +1788,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2105,24 +1796,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
-  },
-  {
-   "id": "manual-bandito-s-2026-11-03-chemical-x-paradiso-plutonium-womb-hard-facts",
-   "title": "Chemical-X, Paradiso, Plutonium Womb, Hard Facts",
-   "date": "2026-11-03",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Bandito's",
-   "url": "https://www.instagram.com/p/DePf7JXOqha/",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DePf7JXOqha/"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "manual-the-canal-club-2026-11-03-devil-master-private-hell-vigil",
@@ -2142,23 +1816,6 @@
    "ticket_url": "https://www.instagram.com/p/Dd_hF2CRpKD/"
   },
   {
-   "id": "mainline-2026-11-03-hannah-wicklund-turning-jane-the-cowards-kings-the-queen-of-",
-   "title": "Hannah Wicklund & Turning Jane \"The Cowards, Kings & The Queen of Hearts Tour\"",
-   "date": "2026-11-03",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/hannah-wicklund-turning-jane-the-cowards-kings-the-queen-of-hearts-tour",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/hannah-wicklund-turning-jane-the-cowards-kings-the-queen-of-hearts-tour"
-  },
-  {
    "id": "sap-03-nov",
    "title": "Sap, Sludge Mother",
    "date": "2026-11-03",
@@ -2171,7 +1828,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$22.15",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -2194,18 +1850,10 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$15 door",
+   "price_display": "$15",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 15.0,
-     "fee": 0.0,
-     "total": 15.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/chemical-x-paradiso-plutonium-womb-hard-facts-november-03-2026-760956"
   },
   {
@@ -2215,7 +1863,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-03-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "o",
    "age": "21+",
    "address": "Richmond, VA",
@@ -2223,7 +1871,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-03-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-11-04-804-run-club-every-wednesday",
@@ -2232,7 +1880,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2240,7 +1888,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-04-built-to-spill-fall-2026-tour-quasi",
@@ -2253,7 +1901,7 @@
    "kind": "m",
    "age": "",
    "address": "",
-   "price_display": "Sold out",
+   "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -2272,7 +1920,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -2291,7 +1938,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-04-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -2299,7 +1946,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-04-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "bb-2026-11-05-weird-phishes-performing-radiohead-s-ok-computer-in-the-styl",
@@ -2354,7 +2001,7 @@
   },
   {
    "id": "dogwood-tales-05-nov",
-   "title": "WNRN Presents: Dogwood Tales w/ Nabeel",
+   "title": "WNRN Presents: Dogwood Tales",
    "date": "2026-11-05",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -2365,7 +2012,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance (1)",
@@ -2386,20 +2032,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338"
   },
   {
@@ -2415,7 +2053,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651249/web_orders/new"
   },
@@ -2426,7 +2063,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-portico",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2434,7 +2071,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-portico"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-06-bungalow-collect-presents-disco-rap-keep-it-honest-across-th",
@@ -2466,7 +2103,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22 adv · $15.44 door",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Day of Show",
@@ -2492,7 +2128,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/mikemetic-06-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -2500,7 +2136,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/mikemetic-06-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-11-07-hardywood-bluegrass-festival-2026",
@@ -2509,7 +2145,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-bluegrass-festival-2026",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2517,7 +2153,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bluegrass-festival-2026"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
@@ -2554,23 +2190,6 @@
    "ticket_url": "https://www.instagram.com/p/Dehg45wO74M/"
   },
   {
-   "id": "gettight-2026-11-07-celler-dwellers-bullseye-cinch-8-00-pm",
-   "title": "CELLER DWELLERS, BULLSEYE, CINCH",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/celler-dwellers-bullseye-cinch-07-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$12.19",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/celler-dwellers-bullseye-cinch-07-nov"
-  },
-  {
    "id": "baked-shrimp-07-nov",
    "title": "Big Shrimp w/ Greasy Bastards",
    "date": "2026-11-07",
@@ -2583,7 +2202,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "",
    "free": false,
-   "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
   },
@@ -2594,7 +2212,7 @@
    "doors": "",
    "show_time": "11:45 AM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-vinyasa-yoga-g4bfm-53kdz",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2602,7 +2220,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-vinyasa-yoga-g4bfm-53kdz"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-11-08-live-music-maddy-curtis-trio",
@@ -2611,7 +2229,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2619,7 +2237,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "the-obgms-08-nov",
@@ -2634,7 +2252,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -2664,23 +2281,6 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
-   "id": "manual-bandito-s-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
-   "title": "The Get Off, Beast From The East, Cold Vein, Green Forest",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Bandito's",
-   "url": "https://www.instagram.com/p/DeSXleAKKtj/",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DeSXleAKKtj/"
-  },
-  {
    "id": "manual-cobra-cabana-2026-11-08-acolyte-torment-not-one-of-them-tba",
    "title": "Acolyte, Torment, Not One Of Them, TBA",
    "date": "2026-11-08",
@@ -2708,18 +2308,10 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$15 door",
+   "price_display": "$15",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 15.0,
-     "fee": 0.0,
-     "total": 15.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/the-get-off-beast-from-the-east-cold-vein-green-forest-november-08-2026-760955"
   },
   {
@@ -2752,7 +2344,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -2805,7 +2396,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2813,7 +2404,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "john-r-miller-10-nov",
@@ -2828,7 +2419,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -2847,7 +2437,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2855,7 +2445,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-11-roe-kapara-the-milestones",
@@ -2881,7 +2471,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2889,7 +2479,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "autumn-drive-11-nov",
@@ -2904,7 +2494,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -2923,7 +2512,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -2931,7 +2520,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
@@ -2940,7 +2529,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2948,7 +2537,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-12-adult-x-a-place-to-bury-strangers-the-treasury",
@@ -2985,38 +2574,6 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
-   "id": "queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "title": "Queer Roots & Country Night w/Johanna Wacker & Acelia, Joshua Aaron, Elizabeth McCorvey",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": "Sales start November 12, 2026"
-    },
-    {
-     "name": "Advance (1)",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/731035/web_orders/new"
-  },
-  {
    "id": "blues-brews-feat-willie-de-band-13-nov",
    "title": "Blues & Brews feat. Willie DE Band",
    "date": "2026-11-13",
@@ -3026,10 +2583,9 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
@@ -3057,7 +2613,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-madly-backwards-d4dnt-4mdls",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3065,7 +2621,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-madly-backwards-d4dnt-4mdls"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-11-13-baila-mambo-at-hardywood",
@@ -3074,7 +2630,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/bailamos-rva-x-mambo-bones",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3082,7 +2638,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/bailamos-rva-x-mambo-bones"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-13-sons-of-paradise-x-stylie-one-culture",
@@ -3108,7 +2664,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -3116,7 +2672,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18",
@@ -3144,7 +2700,7 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/ships-in-the-night-syncretist-architrave-bloodx3-november-13-2026-753809",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
    "price_display": "",
    "free": false,
@@ -3182,7 +2738,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$23.19",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -3235,7 +2790,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-tristan-dougherty-the-heart-pines-jmbyx-nsdek-jdggj",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3243,7 +2798,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-tristan-dougherty-the-heart-pines-jmbyx-nsdek-jdggj"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-14-eddie-9v-leroy-from-the-north",
@@ -3305,7 +2860,7 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/thunderchief-salik-jealous-god-november-14-2026-746456",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
    "price_display": "",
    "free": false,
@@ -3320,7 +2875,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-14-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -3328,7 +2883,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-14-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-11-15-live-music-chip-hale-duo",
@@ -3337,7 +2892,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/chip-hale-duo-p994l-z6gzp-2ptje-2c3rm-sx53d-g6dbc-sx39h-s5r4s-9xcz5-btf6h-zlg5d-ewh76-n6ryf",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3345,7 +2900,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/chip-hale-duo-p994l-z6gzp-2ptje-2c3rm-sx53d-g6dbc-sx39h-s5r4s-9xcz5-btf6h-zlg5d-ewh76-n6ryf"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
@@ -3360,7 +2915,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -3424,31 +2978,6 @@
    "ticket_url": "https://www.etix.com/ticket/p/93318964/diles-que-no-me-maten-at-banditos-richmond-banditos?partner_id=399"
   },
   {
-   "id": "peter-stone-anterra-nick-shaw-16-nov",
-   "title": "Peter Stone, Anterra, Sun v Set, Nic Shaw",
-   "date": "2026-11-16",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/peter-stone-anterra-nick-shaw-16-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/751045/web_orders/new"
-  },
-  {
    "id": "bb-2026-11-17-underground-orchard-x-honeymoon-present-454-pig-the-gemini",
    "title": "Underground Orchard x Honeymoon Present 454, PIG THE GEMINI",
    "date": "2026-11-17",
@@ -3489,7 +3018,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3497,7 +3026,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gettight-2026-11-17-two-steppin-tuesday-presents-dj-real-mike-smith-7-00-pm",
@@ -3506,7 +3035,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-17-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -3514,7 +3043,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-17-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "manual-the-workshop-2026-11-17-rosemary-nods-upon-the-grave-slowhole-drawn-bow-ostraca-mour",
@@ -3546,7 +3075,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -3565,7 +3093,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3573,7 +3101,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-18-hiss-golden-messenger-i-m-people-tour-sam-amidon",
@@ -3605,7 +3133,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -3624,7 +3151,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -3632,7 +3159,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
@@ -3641,7 +3168,7 @@
    "doors": "",
    "show_time": "6:30 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3649,7 +3176,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
@@ -3664,7 +3191,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -3700,7 +3226,7 @@
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -3708,7 +3234,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "hardywood-2026-11-20-live-music-the-yard-dogs",
@@ -3717,7 +3243,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-the-yard-dogs",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3725,7 +3251,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-the-yard-dogs"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "tim-barry-20-nov",
@@ -3740,7 +3266,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$30.42",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -3793,7 +3318,7 @@
    "doors": "",
    "show_time": "12:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/something-borrowed-rva",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3801,7 +3326,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/something-borrowed-rva"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-11-21-live-music-road-kill-roy",
@@ -3810,7 +3335,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-road-kill-roy-fkhly-kdgwh",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3818,7 +3343,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-road-kill-roy-fkhly-kdgwh"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "november-fest-26-with-tim-barry-day-2-feat-josh-small-andrew-alli-lela-jane-barry-21-nov",
@@ -3833,7 +3358,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$30.42",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admission",
@@ -3869,7 +3393,7 @@
    "doors": "",
    "show_time": "1:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3877,7 +3401,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
@@ -3890,9 +3414,8 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$8.05–$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Adult",
@@ -3906,7 +3429,7 @@
      "base": 5.0,
      "fee": 3.05,
      "total": 8.05,
-     "status": "Sold out"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
@@ -3918,7 +3441,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3926,7 +3449,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bandito-2026-11-22-massa-nera-prisoner-terror-cell-kristeva",
@@ -3937,20 +3460,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$15 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 15.0,
-     "fee": 0.0,
-     "total": 15.0,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859"
   },
   {
@@ -3966,7 +3481,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$13.22",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -3985,7 +3499,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3993,7 +3507,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-11-25-the-silent-party-by-unlocking-rva",
@@ -4002,7 +3516,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4010,7 +3524,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-11-25-rva-old-time-jam-2nd-4th-wednesdays",
@@ -4019,7 +3533,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4027,7 +3541,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gettight-2026-11-25-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -4036,7 +3550,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-25-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4044,7 +3558,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-25-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
@@ -4059,7 +3573,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
@@ -4070,7 +3583,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em-dh9rr",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4078,7 +3591,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em-dh9rr"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-11-27-wolph",
@@ -4106,20 +3619,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744"
   },
   {
@@ -4135,7 +3640,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$25.25 adv · $30.42 door",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -4161,7 +3665,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-john-shenk-b85sn",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4169,7 +3673,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-john-shenk-b85sn"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gettight-2026-11-28-dj-williams-band-8-00-pm",
@@ -4178,7 +3682,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/dj-williams-band-28-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4186,7 +3690,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/dj-williams-band-28-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "bb-2026-11-28-2000-s-rave-18",
@@ -4212,7 +3716,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-28-nov",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4220,7 +3724,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-28-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-11-29-pints-pilates",
@@ -4229,7 +3733,7 @@
    "doors": "",
    "show_time": "12:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/pints-pilates-1",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4237,7 +3741,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/pints-pilates-1"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "hardywood-2026-11-29-live-music-drew-dunbar",
@@ -4246,7 +3750,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drew-dunbar-ntn2t-flea4",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4254,24 +3758,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drew-dunbar-ntn2t-flea4"
-  },
-  {
-   "id": "bb-2026-11-29-nicole-atkins-john-gallagher-jr",
-   "title": "NICOLE ATKINS, JOHN GALLAGHER JR.",
-   "date": "2026-11-29",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gettight-2026-12-01-cowpoke-karaoke-with-brand-franklin-8-00-pm",
@@ -4280,7 +3767,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-01-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "o",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4288,24 +3775,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-01-dec"
-  },
-  {
-   "id": "bb-2026-12-02-bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-",
-   "title": "BIT BRIGADE PERFORMS “THE LEGEND OF ZELDA” + “CASTLEVANIA” + “TETRIS” LIVE",
-   "date": "2026-12-02",
-   "doors": "6:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "gettight-2026-12-02-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -4314,7 +3784,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-02-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4322,7 +3792,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-02-dec"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "beers-banjos-slack-family-band-04-dec",
@@ -4337,7 +3807,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [
     {
      "name": "Seats up to 4",
@@ -4379,7 +3848,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$18.54",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -4398,7 +3866,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4406,7 +3874,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gettight-2026-12-09-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -4415,7 +3883,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-09-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4423,7 +3891,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-09-dec"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "gallery5-2026-12-10-nerdy-thirsty-thursdays",
@@ -4432,7 +3900,7 @@
    "doors": "",
    "show_time": "8:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-october",
+   "url": "https://gallery5arts.org/calendar",
    "kind": "m",
    "age": "18+",
    "address": "200 W Marshall St, Richmond, VA",
@@ -4440,7 +3908,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-october"
+   "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
    "id": "bb-2026-12-11-los-hermanos-alacranes-the-sky-chiefs-duo",
@@ -4506,7 +3974,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -4527,20 +3994,12 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/magic-tuber-stringband-crazy-doberman-molasses-industries-december-14-2026-746745",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/magic-tuber-stringband-crazy-doberman-molasses-industries-december-14-2026-746745"
   },
   {
@@ -4550,7 +4009,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-16-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4558,7 +4017,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-16-dec"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",
@@ -4567,7 +4026,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4575,7 +4034,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "bb-2026-12-17-santa-rave-18",
@@ -4635,7 +4094,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-23-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4643,7 +4102,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-23-dec"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "gettight-2026-12-26-salsasoul-with-dj-rattan-10-00-pm",
@@ -4652,7 +4111,7 @@
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-26-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4660,7 +4119,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-26-dec"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "gettight-2026-12-30-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -4669,7 +4128,7 @@
    "doors": "",
    "show_time": "9:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-30-dec",
+   "url": "https://calendar.gettightrva.com/shows",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -4677,7 +4136,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-30-dec"
+   "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
    "id": "new-year-s-eve-w-ma-am-buffie-31-dec",
@@ -4692,7 +4151,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$25.25",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "General Admissions",
@@ -4717,7 +4175,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -4728,23 +4185,6 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
-  },
-  {
-   "id": "bb-2027-02-05-silverada",
-   "title": "SILVERADA",
-   "date": "2027-02-05",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "beers-and-banjos-garden-variety-string-band-19-feb",
@@ -4759,7 +4199,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
-   "table_price": 15.0,
    "tiers": [
     {
      "name": "Seats up to 4",
@@ -4770,62 +4209,6 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
-  },
-  {
-   "id": "caiola-thomas-lavine-19-feb",
-   "title": "Caiola & Thomas LaVine",
-   "date": "2027-02-19",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/caiola-thomas-lavine-19-feb",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42–$50.82",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Membership Presale",
-     "base": 30.42,
-     "fee": 0.0,
-     "total": 30.42,
-     "status": ""
-    },
-    {
-     "name": "$40 Two Pack Presale",
-     "base": 50.82,
-     "fee": 0.0,
-     "total": 50.82,
-     "status": ""
-    },
-    {
-     "name": "Presale",
-     "base": 30.42,
-     "fee": 0.0,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
-  },
-  {
-   "id": "bb-2027-02-27-cory-branan",
-   "title": "CORY BRANAN",
-   "date": "2027-02-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bb-2027-02-28-little-stranger-broken-hearted-boys-tour-shwayze-and-damn-sk",
@@ -4851,7 +4234,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/richmond-symphony-at-hardywood-richmond",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4859,7 +4242,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/richmond-symphony-at-hardywood-richmond"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "sister-wife-sex-strike-local-news-legend-14-apr",
@@ -4874,7 +4257,6 @@
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$23.19",
    "free": false,
-   "table_price": null,
    "tiers": [
     {
      "name": "Advance",
@@ -4893,7 +4275,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/richmond-symphony-at-hardywood-2",
+   "url": "https://www.hardywood.com/richmond-events",
    "kind": "m",
    "age": "21+",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4901,7 +4283,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/richmond-symphony-at-hardywood-2"
+   "ticket_url": "https://www.hardywood.com/richmond-events"
   }
  ]
 }

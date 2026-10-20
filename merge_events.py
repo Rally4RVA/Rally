@@ -26,6 +26,45 @@ def mins(t):
     return (int(m.group(1)) % 12 + (12 if m.group(3).upper() == "PM" else 0)) * 60 + int(m.group(2))
 
 
+import re
+
+
+def vkey(v):
+    return re.sub(r"[^a-z0-9]", "", re.sub(r"^the\s+", "", (v or "").lower()))
+
+
+def bands(title):
+    return [re.sub(r"[^a-z0-9]", "", b.lower()) for b in re.split(r",|\bw/\b|\+|&", title or "") if len(re.sub(r"[^a-z0-9]", "", b.lower())) > 2]
+
+
+def same_show(a, b):
+    """Same venue (allowing 'Bandito's' vs 'Bandito's Burrito Lounge'), same day, and a band in common."""
+    if a["date"] != b["date"]:
+        return False
+    ka, kb = vkey(a["venue"]), vkey(b["venue"])
+    if not (ka.startswith(kb) or kb.startswith(ka)):
+        return False
+    ta = re.sub(r"[^a-z0-9]", "", a["title"].lower())
+    return any(x in ta for x in bands(b["title"])) or any(x in re.sub(r"[^a-z0-9]", "", b["title"].lower()) for x in bands(a["title"]))
+
+
+# A hand-entered show that an automatic scraper already found is dropped, so nothing shows twice.
+# The scraped one wins, and borrows the price / age from the hand-entered row if it had none.
+auto = [e for e in events if not e["id"].startswith("manual-")]
+kept = []
+for e in events:
+    if e["id"].startswith("manual-"):
+        twin = next((a for a in auto if same_show(a, e)), None)
+        if twin:
+            if not twin["price_display"] and e["price_display"]:
+                twin["price_display"], twin["free"] = e["price_display"], e["free"]
+            if not twin["age"] and e["age"]:
+                twin["age"] = e["age"]
+            print("  duplicate dropped:", e["date"], e["venue"], "-", e["title"][:40])
+            continue
+    kept.append(e)
+events = kept
+
 events.sort(key=lambda e: (e["date"], mins(e.get("show_time") or e.get("doors"))))
 Path("events.json").write_text(json.dumps({
     "updated": datetime.now(TZ).isoformat(timespec="seconds"),
