@@ -33,6 +33,26 @@ jobs:
         continue-on-error: true
         run: python scrape_cobra.py
 
+      - name: Scrape Broadberry, Richmond Music Hall and VCU Live
+        continue-on-error: true
+        run: python scrape_broadberry.py
+
+      - name: Scrape Gallery5
+        continue-on-error: true
+        run: python scrape_squarespace.py gallery5
+
+      - name: Scrape Hardywood
+        continue-on-error: true
+        run: python scrape_squarespace.py hardywood
+
+      - name: Scrape Bandito's
+        continue-on-error: true
+        run: python scrape_bandito.py
+
+      - name: Scrape Get Tight
+        continue-on-error: true
+        run: python scrape_gettight.py
+
       - name: Combine venues
         run: python merge_events.py
 
@@ -40,6 +60,6 @@ jobs:
         run: |
           git config user.name "rally-bot"
           git config user.email "rally-bot@users.noreply.github.com"
-          git add events.json camel.json cobra.json
+          git add events.json camel.json cobra.json broadberry.json gallery5.json hardywood.json bandito.json gettight.json
           git diff --cached --quiet || git commit -m "Update shows"
           git push
