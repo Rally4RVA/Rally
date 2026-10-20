@@ -98,6 +98,8 @@ h1 span { color: var(--accent); }
 .tix { color: var(--ink); font-size: 13px; text-underline-offset: 3px; white-space: nowrap; }
 .kind { font-family: var(--font-mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); border: 1px solid var(--line); padding: 1px 5px; margin-left: 6px; vertical-align: 3px; }
 .empty { padding: 40px 0; color: var(--muted); }
+.later-head { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; font-size: 34px; padding-top: 26px; border-top: 2px solid var(--ink); margin-top: 8px; }
+.chip.more { align-self: flex-start; margin-top: 18px; padding: 12px 18px; font-size: 14px; }
 footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
 @media (max-width: 720px) {
   .day { grid-template-columns: minmax(0, 1fr); gap: 6px; }
@@ -120,7 +122,7 @@ footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
   <header>
     <div class="kicker">Richmond, VA &middot; live music, one list</div>
     <h1>Rally<span>.</span></h1>
-    <p class="lede">Every upcoming show in one place. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
+    <p class="lede">Every show in the next 7 days, in one place. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
   </header>
 
   <div class="controls" role="group" aria-label="Filters">
@@ -133,7 +135,7 @@ footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
   <main id="list"></main>
 
   <footer>
-    Shows from The Camel and Cobra Cabana for now, with more Richmond venues on the way. Prices include ticket service fees. Free shows list any optional table reservation.
+    Shows from The Camel, Cobra Cabana, Bandito’s, Get Tight, The Broadberry, Richmond Music Hall, Virginia Credit Union Live, Gallery5 and Hardywood for now, with more Richmond venues on the way. Prices include ticket service fees. Free shows list any optional table reservation.
     Shows drop off the list once they start. <span id="updated"></span>
   </footer>
 </div>
@@ -158,7 +160,9 @@ var inflight = 0;
 var pending = {};     // slug -> true/false, changes not yet confirmed by the database
 var animate = false;
 var shown = 0;
-var state = { q: "", music: true, savedOnly: false };
+var state = { q: "", music: true, savedOnly: false, later: false };
+var scope = "";
+var WEEK_DAYS = 7;   // the main view shows today plus the next 6 days
 
 function configured() { return !!(CONFIG.supabaseUrl && CONFIG.supabaseKey); }
 
@@ -184,6 +188,7 @@ var ICON = '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" f
 
 function pad(n) { return String(n).padStart(2, "0"); }
 function todayISO() { var d = new Date(); return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+function addDays(iso, n) { var d = parts(iso); d.setDate(d.getDate() + n); return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
 function parts(iso) { var p = iso.split("-").map(Number); return new Date(p[0], p[1] - 1, p[2]); }
 
 function minutes(t) {
@@ -195,7 +200,7 @@ function minutes(t) {
 }
 function over(e, today) {
   if (e.date !== today) return false;
-  var m = minutes(e.show);
+  var m = minutes(e.show || e.doors);
   if (m === null) return false;
   var d = new Date();
   return d.getHours() * 60 + d.getMinutes() > m + 180;
@@ -248,7 +253,7 @@ function setStatus(mode) {
 function updateCount() {
   var n = Object.keys(mine).length;
   document.getElementById("count").textContent =
-    shown + (shown === 1 ? " show" : " shows") + " listed" + (n ? " · " + n + " you are interested in" : "");
+    shown + (shown === 1 ? " show" : " shows") + scope + (n ? " · " + n + " you are interested in" : "");
 }
 
 function bump(span) {
@@ -374,21 +379,36 @@ document.addEventListener("visibilitychange", function () { if (!document.hidden
 function render() {
   var today = todayISO();
   var q = state.q.trim().toLowerCase();
-  var rows = events.filter(function (e) {
+  var base = events.filter(function (e) {
     if (e.date < today || over(e, today)) return false;
     if (state.music && e.kind !== "m") return false;
     if (state.savedOnly && !mine[e.slug]) return false;
     if (q && (e.title + " " + e.venue).toLowerCase().indexOf(q) < 0) return false;
     return true;
   });
+  // The main view is the next 7 days. Searching or "My interested" looks at every date.
+  var endISO = addDays(today, WEEK_DAYS - 1);
+  var wide = state.later || !!q || state.savedOnly;
+  var rows = wide ? base : base.filter(function (e) { return e.date <= endISO; });
+  var laterCount = base.length - base.filter(function (e) { return e.date <= endISO; }).length;
+  var canToggle = laterCount > 0 && !q && !state.savedOnly;
+  scope = wide ? " listed" : " in the next 7 days";
   shown = rows.length;
 
   var list = document.getElementById("list");
   list.textContent = "";
 
+  function laterButton() {
+    var b = el("button", "chip more", state.later ? "Back to the next 7 days" : "Show " + laterCount + " later " + (laterCount === 1 ? "show" : "shows"));
+    b.type = "button";
+    b.addEventListener("click", function () { state.later = !state.later; render(); if (!state.later) window.scrollTo(0, 0); });
+    return b;
+  }
+
   if (!rows.length) {
     var anyUpcoming = events.some(function (e) { return e.date >= today && !over(e, today); });
-    list.appendChild(el("div", "empty", !events.length ? "Loading shows…" : !anyUpcoming ? "No upcoming shows right now. Check back soon." : state.savedOnly ? "Nothing marked yet. Tap the people icon on a show and it will land here." : "No shows match that search."));
+    list.appendChild(el("div", "empty", !events.length ? "Loading shows…" : !anyUpcoming ? "No upcoming shows right now. Check back soon." : state.savedOnly ? "Nothing marked yet. Tap the people icon on a show and it will land here." : q ? "No shows match that search." : "Nothing in the next 7 days that matches."));
+    if (canToggle) list.appendChild(laterButton());
     updateCount();
     return;
   }
@@ -396,8 +416,13 @@ function render() {
   var byDate = {}, order = [];
   rows.forEach(function (e) { if (!byDate[e.date]) { byDate[e.date] = []; order.push(e.date); } byDate[e.date].push(e); });
 
+  var laterMarked = false;
   order.forEach(function (iso) {
     var d = parts(iso);
+    if (wide && !q && !state.savedOnly && iso > endISO && !laterMarked) {
+      laterMarked = true;
+      list.appendChild(el("div", "later-head", "Later"));
+    }
     var day = el("section", "day");
     var date = el("div", "date" + (iso === today ? " today" : ""));
     date.appendChild(el("span", "num", String(d.getDate())));
@@ -407,8 +432,8 @@ function render() {
     var shows = el("div", "shows");
     byDate[iso].forEach(function (e) {
       var row = el("article", "show");
-      var t = el("div", "time", e.show);
-      if (e.doors) t.appendChild(el("small", null, "doors " + e.doors));
+      var t = el("div", "time", e.show || (e.doors ? "Doors " + e.doors : ""));
+      if (e.show && e.doors) t.appendChild(el("small", null, "doors " + e.doors));
       row.appendChild(t);
 
       var l = lineup(e.title);
@@ -445,6 +470,7 @@ function render() {
     day.appendChild(shows);
     list.appendChild(day);
   });
+  if (canToggle) list.appendChild(laterButton());
   paint();
 }
 
