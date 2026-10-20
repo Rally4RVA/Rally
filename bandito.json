@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:15:27-04:00",
+ "updated": "2026-10-20T14:00:39-04:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
@@ -13,12 +13,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$18.35",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 15.0,
+     "fee": 3.35,
+     "total": 18.35,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
   },
   {
@@ -32,10 +40,18 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$13",
+   "price_display": "$10 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/dwelling-unit-obedient-power-pants-dollseye-october-22-2026-743230"
   },
   {
@@ -49,10 +65,18 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$13",
+   "price_display": "$10 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/big-red-and-the-cowboy-killers-sundance-cowboy-october-23-2026-761745"
   },
   {
@@ -66,10 +90,18 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$19",
+   "price_display": "$15 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/daikaiju-w-payphones-portside-chapel-october-24-2026-752478"
   },
   {
@@ -81,12 +113,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/pardoner-k9-star-sign-october-25-2026-757886",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$10 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/pardoner-k9-star-sign-october-25-2026-757886"
   },
   {
@@ -115,12 +155,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/sun-v-set-doree-buffie-october-28-2026-778453",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$12 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 12.0,
+     "fee": 0.0,
+     "total": 12.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/sun-v-set-doree-buffie-october-28-2026-778453"
   },
   {
@@ -149,12 +197,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/strawberry-moon-rikki-rikki-human-worm-becoming-october-30-2026-757875",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$10 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/strawberry-moon-rikki-rikki-human-worm-becoming-october-30-2026-757875"
   },
   {
@@ -166,12 +222,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$18.35",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 15.0,
+     "fee": 3.35,
+     "total": 18.35,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570"
   },
   {
@@ -183,12 +247,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/chemical-x-paradiso-plutonium-womb-hard-facts-november-03-2026-760956",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$15 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/chemical-x-paradiso-plutonium-womb-hard-facts-november-03-2026-760956"
   },
   {
@@ -200,12 +272,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$10 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338"
   },
   {
@@ -217,12 +297,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/the-get-off-beast-from-the-east-cold-vein-green-forest-november-08-2026-760955",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$15 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/the-get-off-beast-from-the-east-cold-vein-green-forest-november-08-2026-760955"
   },
   {
@@ -234,7 +322,7 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/ships-in-the-night-syncretist-architrave-bloodx3-november-13-2026-753809",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
    "price_display": "",
    "free": false,
@@ -251,7 +339,7 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/thunderchief-salik-jealous-god-november-14-2026-746456",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
    "price_display": "",
    "free": false,
@@ -285,12 +373,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$15 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859"
   },
   {
@@ -302,12 +398,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$18.35",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 15.0,
+     "fee": 3.35,
+     "total": 18.35,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744"
   },
   {
@@ -319,12 +423,20 @@
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/magic-tuber-stringband-crazy-doberman-molasses-industries-december-14-2026-746745",
    "kind": "m",
-   "age": "",
+   "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$18.35",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 15.0,
+     "fee": 3.35,
+     "total": 18.35,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/magic-tuber-stringband-crazy-doberman-molasses-industries-december-14-2026-746745"
   }
  ]
