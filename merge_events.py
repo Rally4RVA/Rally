@@ -26,7 +26,7 @@ def mins(t):
     return (int(m.group(1)) % 12 + (12 if m.group(3).upper() == "PM" else 0)) * 60 + int(m.group(2))
 
 
-events.sort(key=lambda e: (e["date"], mins(e.get("show_time"))))
+events.sort(key=lambda e: (e["date"], mins(e.get("show_time") or e.get("doors"))))
 Path("events.json").write_text(json.dumps({
     "updated": datetime.now(TZ).isoformat(timespec="seconds"),
     "venues": venues, "events": events}, indent=1, ensure_ascii=False), encoding="utf-8")

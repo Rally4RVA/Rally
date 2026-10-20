@@ -432,8 +432,9 @@ function render() {
     var shows = el("div", "shows");
     byDate[iso].forEach(function (e) {
       var row = el("article", "show");
-      var t = el("div", "time", e.show || (e.doors ? "Doors " + e.doors : ""));
+      var t = el("div", "time", e.show || e.doors);
       if (e.show && e.doors) t.appendChild(el("small", null, "doors " + e.doors));
+      else if (!e.show && e.doors) t.appendChild(el("small", null, "doors"));
       row.appendChild(t);
 
       var l = lineup(e.title);
@@ -483,6 +484,7 @@ document.getElementById("savedOnly").addEventListener("click", function (ev) {
 });
 
 function load() {
+  state.q = document.getElementById("q").value;   // Firefox restores the search box after a refresh without telling the page
   setStatus(configured() ? "connecting" : "local");
   render();
   fetch("events.json", { cache: "no-store" }).then(function (r) {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:33:53-04:00",
+ "updated": "2026-10-19T21:56:17-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -12,6 +12,30 @@
   "The Get Tight Lounge"
  ],
  "events": [
+  {
+   "id": "spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
+   "title": "Spellslingers Speakeasy hosts Magic The Gathering Commander Night: Reality Fractured at The Camel",
+   "date": "2026-10-19",
+   "doors": "5:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10.12",
+   "free": false,
+   "tiers": [
+    {
+     "name": "Entry",
+     "base": 7.0,
+     "fee": 3.12,
+     "total": 10.12,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/775344/web_orders/new"
+  },
   {
    "id": "bb-2026-10-19-an-evening-with-andrew-mcmahon-and-his-piano-special-guest-i",
    "title": "AN EVENING WITH ANDREW MCMAHON AND HIS PIANO, SPECIAL GUEST IVORY LAYNE",
@@ -45,30 +69,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
-   "title": "Spellslingers Speakeasy hosts Magic The Gathering Commander Night: Reality Fractured at The Camel",
-   "date": "2026-10-19",
-   "doors": "5:00 PM",
-   "show_time": "6:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/spellslingers-speakeasy-hosts-magic-the-gathering-commander-night-reality-fractured-at-the-camel-19-oct",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$10.12",
-   "free": false,
-   "tiers": [
-    {
-     "name": "Entry",
-     "base": 7.0,
-     "fee": 3.12,
-     "total": 10.12,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/775344/web_orders/new"
   },
   {
    "id": "gallery5-2026-10-19-rva-venue-town-hall-october",
@@ -272,6 +272,22 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
+   "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
+   "title": "Camel Comedy Happy Hour Open Mic",
+   "date": "2026-10-22",
+   "doors": "5:30 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-22-oct-95e2a",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/760927/web_orders/new"
+  },
+  {
    "id": "bb-2026-10-22-grateful-allman-band-experience-feat-susan-paulette",
    "title": "GRATEFUL ALLMAN BAND EXPERIENCE FEAT. SUSAN PAULETTE",
    "date": "2026-10-22",
@@ -287,22 +303,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
-   "title": "Camel Comedy Happy Hour Open Mic",
-   "date": "2026-10-22",
-   "doors": "5:30 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-22-oct-95e2a",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760927/web_orders/new"
   },
   {
    "id": "m-brett-jones-maddy-curtis-trio-chet-frierson-outcasts-big-band-22-oct",
@@ -361,40 +361,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows"
-  },
-  {
-   "id": "bb-2026-10-23-oso-oso-leisure-hour-and-bad-luck",
-   "title": "OSO OSO, LEISURE HOUR AND BAD LUCK.",
-   "date": "2026-10-23",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-10-23-white-ford-bronco",
-   "title": "WHITE FORD BRONCO",
-   "date": "2026-10-23",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "hardywood-2026-10-23-hardywood-bourbon-caliente-gbs-release",
@@ -528,6 +494,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-10-23-oso-oso-leisure-hour-and-bad-luck",
+   "title": "OSO OSO, LEISURE HOUR AND BAD LUCK.",
+   "date": "2026-10-23",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
+   "id": "bb-2026-10-23-white-ford-bronco",
+   "title": "WHITE FORD BRONCO",
+   "date": "2026-10-23",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "gallery5-2026-10-23-fourth-friday-jazz-night-with-seth-morrissey-jazz-trio",
@@ -955,6 +955,38 @@
    "ticket_url": "https://www.etix.com/ticket/p/81998132/jrobbins-at-banditos-richmond-banditos?partner_id=399"
   },
   {
+   "id": "live-spooky-i-spy-27-oct",
+   "title": "Live Spooky I Spy",
+   "date": "2026-10-27",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-27-oct",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/761079/web_orders/new"
+  },
+  {
+   "id": "the-bachelor-boys-wedding-band-showcase-27-oct",
+   "title": "The Bachelor Boys Wedding Band Showcase",
+   "date": "2026-10-27",
+   "doors": "7:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-27-oct",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/721031/web_orders/new"
+  },
+  {
    "id": "bb-2026-10-27-ouija-macc-america-s-most-wicked-tour-billy-marchiafava-darb",
    "title": "OUIJA MACC: AMERICA’S MOST WICKED TOUR, BILLY MARCHIAFAVA, DARBY O’TRILL, AND MIKEY ROTTEN",
    "date": "2026-10-27",
@@ -987,38 +1019,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "live-spooky-i-spy-27-oct",
-   "title": "Live Spooky I Spy",
-   "date": "2026-10-27",
-   "doors": "5:00 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-27-oct",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/761079/web_orders/new"
-  },
-  {
-   "id": "the-bachelor-boys-wedding-band-showcase-27-oct",
-   "title": "The Bachelor Boys Wedding Band Showcase",
-   "date": "2026-10-27",
-   "doors": "7:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-27-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/721031/web_orders/new"
   },
   {
    "id": "hardywood-2026-10-27-high-five-trivia-every-tuesday",
@@ -1255,6 +1255,39 @@
    "ticket_url": "https://www.etix.com/ticket/p/82491275/hit-like-a-girlgood-teal40-repsmadison-turner-at-banditos-richmond-banditos?partner_id=399"
   },
   {
+   "id": "beers-banjos-the-crooked-creek-misfits-30-oct",
+   "title": "Beers & Banjos: The Crooked Creek Misfits",
+   "date": "2026-10-30",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
+  },
+  {
+   "id": "hardywood-2026-10-30-live-music-tin-can-fish-band",
+   "title": "Tin Can Fish Band",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events",
+   "kind": "m",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
    "id": "bb-2026-10-30-doom-gong-sprawl",
    "title": "DOOM GONG, SPRAWL",
    "date": "2026-10-30",
@@ -1287,39 +1320,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "beers-banjos-the-crooked-creek-misfits-30-oct",
-   "title": "Beers & Banjos: The Crooked Creek Misfits",
-   "date": "2026-10-30",
-   "doors": "6:00 PM",
-   "show_time": "6:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
-   "free": true,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
-  },
-  {
-   "id": "hardywood-2026-10-30-live-music-tin-can-fish-band",
-   "title": "Tin Can Fish Band",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
    "id": "gallery5-2026-10-30-clue-the-drag-show",
@@ -1414,40 +1414,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
-   "title": "HALLOWEEN SHOW: CLEOPHUS JAMES (WEEN TRIBUTE SET) + TWIN FILMS (DRAKE TRIBUTE SET) + SHEET ROCK (STEELY DAN TRIBUTE SET)",
-   "date": "2026-10-31",
-   "doors": "7:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-10-31-rewind-2000-s-halloween-rave-18",
-   "title": "REWIND: 2000’S HALLOWEEN RAVE (18+)",
-   "date": "2026-10-31",
-   "doors": "8:30 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-10-31-spooky-pilates",
    "title": "Spooky Pilates!",
    "date": "2026-10-31",
@@ -1516,6 +1482,23 @@
    "ticket_url": "https://gallery5arts.org/calendar"
   },
   {
+   "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
+   "title": "HALLOWEEN SHOW: CLEOPHUS JAMES (WEEN TRIBUTE SET) + TWIN FILMS (DRAKE TRIBUTE SET) + SHEET ROCK (STEELY DAN TRIBUTE SET)",
+   "date": "2026-10-31",
+   "doors": "7:30 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "halloween-at-the-camel-31-oct",
    "title": "Halloween at The Camel!",
    "date": "2026-10-31",
@@ -1538,6 +1521,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/714123/web_orders/new"
+  },
+  {
+   "id": "bb-2026-10-31-rewind-2000-s-halloween-rave-18",
+   "title": "REWIND: 2000’S HALLOWEEN RAVE (18+)",
+   "date": "2026-10-31",
+   "doors": "8:30 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bandito-2026-10-31-are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world",
@@ -1572,23 +1572,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows"
-  },
-  {
-   "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
-   "title": "BASS DRUM OF DEATH: USA 2026, THE GLARES",
-   "date": "2026-11-01",
-   "doors": "6:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "victims-villains-presents-say-their-name-fest-01-nov",
@@ -1630,6 +1613,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
+   "title": "BASS DRUM OF DEATH: USA 2026, THE GLARES",
+   "date": "2026-11-01",
+   "doors": "6:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
@@ -1799,23 +1799,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-11-04-built-to-spill-fall-2026-tour-quasi",
-   "title": "BUILT TO SPILL: FALL 2026 TOUR, QUASI",
-   "date": "2026-11-04",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-11-04-804-run-club-every-wednesday",
    "title": "804 Run Club - Every Wednesday!",
    "date": "2026-11-04",
@@ -1831,6 +1814,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-11-04-built-to-spill-fall-2026-tour-quasi",
+   "title": "BUILT TO SPILL: FALL 2026 TOUR, QUASI",
+   "date": "2026-11-04",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
@@ -1949,23 +1949,6 @@
    "ticket_url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338"
   },
   {
-   "id": "bb-2026-11-06-bungalow-collect-presents-disco-rap-keep-it-honest-across-th",
-   "title": "BUNGALOW COLLECT PRESENTS DISCO RAP: KEEP IT HONEST ACROSS THE WORLD TOUR",
-   "date": "2026-11-06",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "beers-banjos-slack-family-band-06-nov",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-11-06",
@@ -1997,6 +1980,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-11-06-bungalow-collect-presents-disco-rap-keep-it-honest-across-th",
+   "title": "BUNGALOW COLLECT PRESENTS DISCO RAP: KEEP IT HONEST ACROSS THE WORLD TOUR",
+   "date": "2026-11-06",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
@@ -2047,23 +2047,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
-   "title": "AKEEM ALI: THE TEXTURE TOUR",
-   "date": "2026-11-07",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-11-07-hardywood-bluegrass-festival-2026",
    "title": "Hardywood Bluegrass Festival 2026",
    "date": "2026-11-07",
@@ -2081,6 +2064,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
+   "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
+   "title": "AKEEM ALI: THE TEXTURE TOUR",
+   "date": "2026-11-07",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "baked-shrimp-07-nov",
    "title": "Big Shrimp w/ Greasy Bastards",
    "date": "2026-11-07",
@@ -2095,23 +2095,6 @@
    "free": false,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
-  },
-  {
-   "id": "bb-2026-11-08-sadurn-kitchen",
-   "title": "SADURN, KITCHEN",
-   "date": "2026-11-08",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "hardywood-2026-11-08-hardywood-vinyasa-yoga-with-3s-yoga",
@@ -2170,6 +2153,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
+  },
+  {
+   "id": "bb-2026-11-08-sadurn-kitchen",
+   "title": "SADURN, KITCHEN",
+   "date": "2026-11-08",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bandito-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
@@ -2305,23 +2305,6 @@
    "ticket_url": "https://app.opendate.io/confirms/731199/web_orders/new"
   },
   {
-   "id": "bb-2026-11-11-roe-kapara-the-milestones",
-   "title": "ROE KAPARA, THE MILESTONES",
-   "date": "2026-11-11",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-11-11-804-run-club-every-wednesday",
    "title": "804 Run Club - Every Wednesday!",
    "date": "2026-11-11",
@@ -2337,6 +2320,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-11-11-roe-kapara-the-milestones",
+   "title": "ROE KAPARA, THE MILESTONES",
+   "date": "2026-11-11",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "hardywood-2026-11-11-rva-old-time-jam-2nd-4th-wednesdays",
@@ -2397,6 +2397,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
+   "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
+   "title": "Drag Bingo At Hardywood Richmond",
+   "date": "2026-11-12",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
    "id": "bb-2026-11-12-adult-x-a-place-to-bury-strangers-the-treasury",
    "title": "ADULT. X A PLACE TO BURY STRANGERS, THE TREASURY",
    "date": "2026-11-12",
@@ -2423,57 +2440,6 @@
    "url": "https://thebroadberry.com/events/",
    "kind": "m",
    "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
-   "title": "Drag Bingo At Hardywood Richmond",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events"
-  },
-  {
-   "id": "bb-2026-11-13-sons-of-paradise-x-stylie-one-culture",
-   "title": "SONS OF PARADISE X STYLIE, ONE CULTURE",
-   "date": "2026-11-13",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18",
-   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER (18+)",
-   "date": "2026-11-13",
-   "doors": "8:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "18+",
    "address": "",
    "price_display": "",
    "free": false,
@@ -2549,6 +2515,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
+   "id": "bb-2026-11-13-sons-of-paradise-x-stylie-one-culture",
+   "title": "SONS OF PARADISE X STYLIE, ONE CULTURE",
+   "date": "2026-11-13",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "gallery5-2026-11-13-vigil-primordial-rites-album-release-show",
    "title": "Vigil Primordial Rites Album Release Show",
    "date": "2026-11-13",
@@ -2564,6 +2547,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar"
+  },
+  {
+   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18",
+   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER (18+)",
+   "date": "2026-11-13",
+   "doors": "8:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bandito-2026-11-13-ships-in-the-night-syncretist-architrave-bloodx3",
@@ -2607,40 +2607,6 @@
    "ticket_url": "https://app.opendate.io/confirms/682242/web_orders/new"
   },
   {
-   "id": "bb-2026-11-14-eddie-9v-leroy-from-the-north",
-   "title": "EDDIE 9V, LEROY FROM THE NORTH",
-   "date": "2026-11-14",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex",
-   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX",
-   "date": "2026-11-14",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "cobra-1989265308086",
    "title": "SWEEPING PROMISES, OUTER WORLD, RADON ABATEMENT",
    "date": "2026-11-14",
@@ -2675,6 +2641,40 @@
    "ticket_url": "https://www.hardywood.com/richmond-events"
   },
   {
+   "id": "bb-2026-11-14-eddie-9v-leroy-from-the-north",
+   "title": "EDDIE 9V, LEROY FROM THE NORTH",
+   "date": "2026-11-14",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
+   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex",
+   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX",
+   "date": "2026-11-14",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "bandito-2026-11-14-thunderchief-salik-jealous-god",
    "title": "Thunderchief, SALIK, Jealous God",
    "date": "2026-11-14",
@@ -2707,23 +2707,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows"
-  },
-  {
-   "id": "bb-2026-11-15-ax-and-the-hatchetmen-the-late-checkout-tour-2026-john-rober",
-   "title": "AX AND THE HATCHETMEN: THE LATE CHECKOUT TOUR 2026, JOHN-ROBERT",
-   "date": "2026-11-15",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "hardywood-2026-11-15-live-music-chip-hale-duo",
@@ -2765,6 +2748,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/714049/web_orders/new"
+  },
+  {
+   "id": "bb-2026-11-15-ax-and-the-hatchetmen-the-late-checkout-tour-2026-john-rober",
+   "title": "AX AND THE HATCHETMEN: THE LATE CHECKOUT TOUR 2026, JOHN-ROBERT",
+   "date": "2026-11-15",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bandito-2026-11-15-diles-que-no-me-maten",
@@ -2876,23 +2876,6 @@
    "ticket_url": "https://app.opendate.io/confirms/734049/web_orders/new"
   },
   {
-   "id": "bb-2026-11-18-hiss-golden-messenger-i-m-people-tour-sam-amidon",
-   "title": "HISS GOLDEN MESSENGER: I’M PEOPLE TOUR, SAM AMIDON",
-   "date": "2026-11-18",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-11-18-804-run-club-every-wednesday",
    "title": "804 Run Club - Every Wednesday!",
    "date": "2026-11-18",
@@ -2908,6 +2891,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-11-18-hiss-golden-messenger-i-m-people-tour-sam-amidon",
+   "title": "HISS GOLDEN MESSENGER: I’M PEOPLE TOUR, SAM AMIDON",
+   "date": "2026-11-18",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "dauber-young-scum-housie-heat-sick-18-nov",
@@ -2951,23 +2951,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-11-19-winyah-foxtide",
-   "title": "WINYAH, FOXTIDE",
-   "date": "2026-11-19",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
    "title": "Richmond Symphony at Hardywood!",
    "date": "2026-11-19",
@@ -3009,6 +2992,23 @@
    "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
   },
   {
+   "id": "bb-2026-11-19-winyah-foxtide",
+   "title": "WINYAH, FOXTIDE",
+   "date": "2026-11-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
    "title": "Gorrak, Brash, Future Mantis, After Nations",
    "date": "2026-11-19",
@@ -3024,40 +3024,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar"
-  },
-  {
-   "id": "bb-2026-11-20-blitzkid-modern-hel-tour-2026-blood-ponies-savage-remains-an",
-   "title": "BLITZKID: MODERN HEL TOUR 2026, BLOOD PONIES, SAVAGE REMAINS, AND STEELBOY",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-11-20-kendall-street-company-turkey-jam-big-fancy",
-   "title": "KENDALL STREET COMPANY: TURKEY JAM, BIG FANCY",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "hardywood-2026-11-20-live-music-the-yard-dogs",
@@ -3101,9 +3067,26 @@
    "ticket_url": "https://app.opendate.io/confirms/600849/web_orders/new"
   },
   {
-   "id": "bb-2026-11-21-skydog-a-tribute-to-the-allman-brothers-band",
-   "title": "SKYDOG: A TRIBUTE TO THE ALLMAN BROTHERS BAND",
-   "date": "2026-11-21",
+   "id": "bb-2026-11-20-blitzkid-modern-hel-tour-2026-blood-ponies-savage-remains-an",
+   "title": "BLITZKID: MODERN HEL TOUR 2026, BLOOD PONIES, SAVAGE REMAINS, AND STEELBOY",
+   "date": "2026-11-20",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
+   "id": "bb-2026-11-20-kendall-street-company-turkey-jam-big-fancy",
+   "title": "KENDALL STREET COMPANY: TURKEY JAM, BIG FANCY",
+   "date": "2026-11-20",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
@@ -3174,6 +3157,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/600850/web_orders/new"
+  },
+  {
+   "id": "bb-2026-11-21-skydog-a-tribute-to-the-allman-brothers-band",
+   "title": "SKYDOG: A TRIBUTE TO THE ALLMAN BROTHERS BAND",
+   "date": "2026-11-21",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "hardywood-2026-11-22-anime-holiday-bazaar",
@@ -3350,23 +3350,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-11-27-wolph",
-   "title": "WOLPH",
-   "date": "2026-11-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -3398,6 +3381,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-11-27-wolph",
+   "title": "WOLPH",
+   "date": "2026-11-27",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bandito-2026-11-27-green-knuckle-material-driftline-sorry-excuse",
@@ -3448,23 +3448,6 @@
    "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
   },
   {
-   "id": "bb-2026-11-28-2000-s-rave-18",
-   "title": "2000’S RAVE (18+)",
-   "date": "2026-11-28",
-   "doors": "9:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-11-28-live-music-john-shenk",
    "title": "John Shenk",
    "date": "2026-11-28",
@@ -3497,6 +3480,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows"
+  },
+  {
+   "id": "bb-2026-11-28-2000-s-rave-18",
+   "title": "2000’S RAVE (18+)",
+   "date": "2026-11-28",
+   "doors": "9:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "gettight-2026-11-28-salsasoul-with-dj-rattan-10-00-pm",
@@ -3584,23 +3584,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-12-04-hunger-games-rave-the-capitol-afterdark-18",
-   "title": "HUNGER GAMES RAVE: THE CAPITOL AFTERDARK (18+)",
-   "date": "2026-12-04",
-   "doors": "7:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "beers-banjos-slack-family-band-04-dec",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-12-04",
@@ -3623,6 +3606,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
+  },
+  {
+   "id": "bb-2026-12-04-hunger-games-rave-the-capitol-afterdark-18",
+   "title": "HUNGER GAMES RAVE: THE CAPITOL AFTERDARK (18+)",
+   "date": "2026-12-04",
+   "doors": "7:30 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
@@ -3809,23 +3809,6 @@
    "ticket_url": "https://calendar.gettightrva.com/shows"
   },
   {
-   "id": "bb-2026-12-17-santa-rave-18",
-   "title": "SANTA RAVE 🎅 (18+)",
-   "date": "2026-12-17",
-   "doors": "8:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",
    "title": "Hardywood Presents -- 6 Decades Of The Dead, Suggesting Rhythm",
    "date": "2026-12-17",
@@ -3841,6 +3824,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events"
+  },
+  {
+   "id": "bb-2026-12-17-santa-rave-18",
+   "title": "SANTA RAVE 🎅 (18+)",
+   "date": "2026-12-17",
+   "doors": "8:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
   },
   {
    "id": "bb-2026-12-18-jack-leon-the-sugar-hollows",
