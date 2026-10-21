@@ -32,6 +32,13 @@ VENUES = {
 }
 
 
+SYMPHONY_TICKETS = {
+    "2026-11-19": "https://www.etix.com/ticket/p/68873298/music-at-hardywood-2-richmond-hardywood-park-craft-brewery-richmond-symphony",
+    "2027-03-18": "https://www.etix.com/ticket/p/73303230/?partner_id=240",
+    "2027-04-15": "https://www.etix.com/ticket/p/82759865/?partner_id=240",
+}
+
+
 def find_date(line):
     m = LONG_DATE.match(line)
     if m:
@@ -114,17 +121,24 @@ def parse(body, key, links, today):
             price, free = gallery_price(text)
             music = not ML_NOT_MUSIC.search(title)
         else:
-            price, free = "", False
+            # Hardywood: everything is free except the Richmond Symphony concerts (ticketed through Etix).
+            if re.search(r"symphony", title, re.I):
+                price, free = "", False
+            else:
+                price, free = "Free", True
             music = bool(HW_MUSIC.search(title))
         shown = re.sub(r"^LIVE MUSIC:\s*", "", title)
         shown = re.sub(r"\s+w/\s+", ", ", shown, flags=re.I)
         if day < today:
             continue
         url = links.get(title, cfg["url"])
+        ticket = ""
+        if key == "hardywood" and re.search(r"symphony", title, re.I):
+            ticket = SYMPHONY_TICKETS.get(day, "https://www.richmondsymphony.com/concerts-and-events/rushhour/")
         out.append(event(
             id=f"{key}-{day}-{slug(title)}", title=shown, date=day, doors=doors, show_time=show,
             venue=cfg["name"], url=url, kind="m" if music else "o", age=age,
-            address=cfg["address"], price_display=price, free=free))
+            address=cfg["address"], price_display=price, free=free, ticket_url=ticket))
     return out
 
 
@@ -200,7 +214,7 @@ def run(key):
                 except Exception as ex:
                     print("  could not read", e["title"], "-", str(ex).splitlines()[0])
             b2.close()
-    if key in ("gallery5", "hardywood") and events:
+    if key == "gallery5" and events:
         # No price on the calendar: open the show's page, and if it links to Eventbrite, read the price there.
         with sync_playwright() as p3:
             b3 = p3.chromium.launch(headless=True)
