@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:31:50-04:00",
+ "updated": "2026-10-21T19:54:33-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,6 +21,7 @@
   "Northside Basement",
   "Odin's Underground",
   "Studio Two Three",
+  "The Bellwether Garage",
   "The Canal Club",
   "The National",
   "The Workshop",
@@ -807,6 +808,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother"
+  },
+  {
+   "id": "manual-the-bellwether-garage-2026-10-24-dusty-rug-cole-sullivan-ordinary-ghost",
+   "title": "Dusty Rug, Cole Sullivan, Ordinary Ghost",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "The Bellwether Garage",
+   "url": "https://www.instagram.com/bellwether_garage/",
+   "kind": "m",
+   "age": "",
+   "address": "425 N 31st St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bellwether_garage/"
   },
   {
    "id": "mainline-2026-10-24-higher-education",
@@ -1672,6 +1690,23 @@
    "ticket_url": "https://buytickets.at/reveler/2425086"
   },
   {
+   "id": "recurring-bottomsuppizza-2026-10-30",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
+  },
+  {
    "id": "mainline-2026-10-30-black-cat-market",
    "title": "Black Cat Market",
    "date": "2026-10-30",
@@ -1890,6 +1925,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/samazon-prime-dj-30-oct"
+  },
+  {
+   "id": "recurring-bottomsuppizza-2026-10-31",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
   },
   {
    "id": "hardywood-2026-10-31-spooky-pilates",
@@ -3691,6 +3743,23 @@
    "ticket_url": "https://thebroadberry.com/event/hot-freaks-soft-body-tour-w-thesaurus-rex/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "manual-the-bellwether-garage-2026-11-14-justin-golden-dead-billionaires-ms-jaylin-brown",
+   "title": "Justin Golden, Dead Billionaires, Ms. Jaylin Brown",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "The Bellwether Garage",
+   "url": "https://www.instagram.com/bellwether_garage/",
+   "kind": "m",
+   "age": "",
+   "address": "425 N 31st St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bellwether_garage/"
+  },
+  {
    "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-7-00-pm",
    "title": "Fonville X Fribush Featuring Matthew Stevens",
    "date": "2026-11-14",
@@ -4592,7 +4661,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -4946,15 +5023,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {

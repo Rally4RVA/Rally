@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:31:50-04:00",
+ "updated": "2026-10-21T19:54:32-04:00",
  "venues": [
   "Bandito's",
   "Bottoms Up Pizza",
@@ -12,6 +12,7 @@
   "Northside Basement",
   "Odin's Underground",
   "Studio Two Three",
+  "The Bellwether Garage",
   "The Canal Club",
   "The National",
   "The Workshop",
@@ -374,6 +375,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
+  },
+  {
+   "id": "manual-the-bellwether-garage-2026-10-24-dusty-rug-cole-sullivan-ordinary-ghost",
+   "title": "Dusty Rug, Cole Sullivan, Ordinary Ghost",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "The Bellwether Garage",
+   "url": "https://www.instagram.com/bellwether_garage/",
+   "kind": "m",
+   "age": "",
+   "address": "425 N 31st St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bellwether_garage/"
+  },
+  {
+   "id": "manual-the-bellwether-garage-2026-11-14-justin-golden-dead-billionaires-ms-jaylin-brown",
+   "title": "Justin Golden, Dead Billionaires, Ms. Jaylin Brown",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "The Bellwether Garage",
+   "url": "https://www.instagram.com/bellwether_garage/",
+   "kind": "m",
+   "age": "",
+   "address": "425 N 31st St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bellwether_garage/"
   }
  ]
 }
