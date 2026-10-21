@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:37:19-04:00",
+ "updated": "2026-10-21T15:25:38-04:00",
  "venues": [
   "Hardywood"
  ],
@@ -15,8 +15,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
@@ -32,8 +32,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble"
@@ -49,8 +49,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bourbon-caliente-gbs-release"
@@ -66,8 +66,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-babka-gbs-release-krc82"
@@ -83,8 +83,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/o9zibk5p75u5cndheov1c8ocloyy68-a3ej9"
@@ -100,8 +100,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-gingerbread-porter-release"
@@ -117,8 +117,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/the-embalmers-2-43d5g-wxj8z-cfly2-6l6fy"
@@ -134,8 +134,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em-dh9rr"
@@ -151,8 +151,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
@@ -168,11 +168,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "$12.51",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/rocky-horror-drag-show-tickets-2003047662479?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term="
+   "ticket_url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show"
   },
   {
    "id": "hardywood-2026-10-27-high-five-trivia-every-tuesday",
@@ -185,8 +185,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
@@ -202,8 +202,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
@@ -219,8 +219,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
@@ -236,8 +236,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly"
@@ -253,8 +253,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/spooky-pilates"
@@ -270,11 +270,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "$42.39",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/pumpkin-living-succulent-arrangement-halloween-edition-tickets-2002654706136?aff=oddtdtcreator"
+   "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
   },
   {
    "id": "hardywood-2026-10-31-halloween-throwdown-w-alan-same-the-disco",
@@ -287,8 +287,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco"
@@ -304,8 +304,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-megan-luck"
@@ -321,8 +321,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
@@ -338,8 +338,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
@@ -355,8 +355,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-portico"
@@ -372,8 +372,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bluegrass-festival-2026"
@@ -389,8 +389,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-vinyasa-yoga-g4bfm-53kdz"
@@ -406,8 +406,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l"
@@ -423,8 +423,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave"
@@ -440,8 +440,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
@@ -457,8 +457,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
@@ -474,8 +474,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
@@ -491,8 +491,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t"
@@ -508,8 +508,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-madly-backwards-d4dnt-4mdls"
@@ -525,8 +525,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/bailamos-rva-x-mambo-bones"
@@ -542,8 +542,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-tristan-dougherty-the-heart-pines-jmbyx-nsdek-jdggj"
@@ -559,8 +559,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/chip-hale-duo-p994l-z6gzp-2ptje-2c3rm-sx53d-g6dbc-sx39h-s5r4s-9xcz5-btf6h-zlg5d-ewh76-n6ryf"
@@ -576,8 +576,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
@@ -593,8 +593,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
@@ -614,7 +614,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr"
+   "ticket_url": "https://www.etix.com/ticket/p/68873298/music-at-hardywood-2-richmond-hardywood-park-craft-brewery-richmond-symphony"
   },
   {
    "id": "hardywood-2026-11-20-live-music-the-yard-dogs",
@@ -627,8 +627,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-the-yard-dogs"
@@ -644,8 +644,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/something-borrowed-rva"
@@ -661,8 +661,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-road-kill-roy-fkhly-kdgwh"
@@ -678,8 +678,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar"
@@ -695,8 +695,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
@@ -712,8 +712,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
@@ -729,11 +729,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "$22.05",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/the-silent-party-tickets-1996463847110?aff=oddtdtcreator"
+   "ticket_url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva"
   },
   {
    "id": "hardywood-2026-11-25-rva-old-time-jam-2nd-4th-wednesdays",
@@ -746,8 +746,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
@@ -763,8 +763,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em-dh9rr"
@@ -780,8 +780,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-john-shenk-b85sn"
@@ -797,8 +797,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/pints-pilates-1"
@@ -814,8 +814,8 @@
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/drew-dunbar-ntn2t-flea4"
@@ -831,8 +831,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
@@ -848,8 +848,8 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73"
@@ -869,7 +869,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/richmond-symphony-at-hardywood-richmond"
+   "ticket_url": "https://www.etix.com/ticket/p/73303230/?partner_id=240"
   },
   {
    "id": "hardywood-2027-04-15-richmond-symphony-at-hardywood",
@@ -886,7 +886,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/richmond-symphony-at-hardywood-2"
+   "ticket_url": "https://www.etix.com/ticket/p/82759865/?partner_id=240"
   }
  ]
 }
