@@ -214,6 +214,11 @@ def run(key):
                 except Exception as ex:
                     print("  could not read", e["title"], "-", str(ex).splitlines()[0])
             b2.close()
+    if key == "mainline":
+        # Main Line shows are free unless a price is written on the show's page.
+        for e in events:
+            if not e["price_display"]:
+                e["price_display"], e["free"] = "Free", True
     if key == "gallery5" and events:
         # No price on the calendar: open the show's page, and if it links to Eventbrite, read the price there.
         with sync_playwright() as p3:
