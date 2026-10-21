@@ -7,7 +7,11 @@ import re
 import sys
 from rally_common import fmt_time, iso, slug, save, event, today_iso
 
-URL = "https://thebroadberry.com/"
+URL = "https://thebroadberry.com/events/"
+HOME = "https://thebroadberry.com/"
+# The calendar also lists other venues (Sandler Center, THE LOUD, ...). Those are skipped, so only keep
+# "More Info" links for our three venues, or the links fall out of step with the shows.
+OUR_LINK = re.compile(r"/(?:richmond-music-hall|the-broadberry(?:-\d+)?|virginia-credit-union-live)/")
 VENUES = ("The Broadberry", "Richmond Music Hall", "Virginia Credit Union Live")
 MONTH_HEAD = re.compile(r"^([A-Z][a-z]+) (\d{4})$")
 DAY = re.compile(r"^([A-Z]{3}) (\d{1,2})$")
@@ -82,19 +86,31 @@ def parse(body, links, today):
     return unique
 
 
+def read(pg, url):
+    pg.goto(url, wait_until="domcontentloaded", timeout=60000)
+    pg.wait_for_timeout(6000)
+    for _ in range(5):
+        pg.mouse.wheel(0, 5000)
+        pg.wait_for_timeout(600)
+    body = pg.inner_text("body")
+    # "More Info" link of every real show, in page order (private events have none)
+    links = pg.eval_on_selector_all("a", "els => els.filter(e => /^more info/i.test(e.innerText.trim())).map(e => e.href)")
+    return body, [l for l in links if OUR_LINK.search(l)]
+
+
 def main():
     from playwright.sync_api import sync_playwright
     today = today_iso()
     with sync_playwright() as p:
         b = p.chromium.launch(headless=True)
         pg = b.new_page()
-        pg.goto(URL, wait_until="domcontentloaded", timeout=60000)
-        pg.wait_for_timeout(6000)
-        body = pg.inner_text("body")
-        # "More Info" link of every real show, in page order (private events have none)
-        links = pg.eval_on_selector_all("a", "els => els.filter(e => /^more info/i.test(e.innerText.trim())).map(e => e.href)")
+        body, links = read(pg, URL)
+        events = parse(body, links, today)
+        if len(events) < 5:
+            print(f"Events page gave {len(events)} shows, trying the homepage.")
+            body, links = read(pg, HOME)
+            events = parse(body, links, today)
         b.close()
-    events = parse(body, links, today)
     if len(events) < 5:
         print(f"Only {len(events)} shows came back, so broadberry.json was left alone.")
         sys.exit(1)
