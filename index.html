@@ -497,7 +497,7 @@ function render() {
       meta.appendChild(el("span", "venue", e.venue));
       var isFree = /^Free/.test(e.price);
       var price = el("span", "price" + (isFree ? " free" : "") + (e.price ? "" : " none"), e.price || "See tickets");
-      price.title = e.price ? "Ticket price including fees" : "Price is listed on the venue's page";
+      price.title = !e.price ? "Price is listed on the venue's page" : /^Pricier/.test(e.price) ? "Most shows here run $25 to $100; see tickets for the exact price" : "Ticket price including fees";
       meta.appendChild(price);
       if (e.age) meta.appendChild(el("span", "age", e.age));
       row.appendChild(meta);

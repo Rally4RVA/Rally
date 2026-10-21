@@ -1,7 +1,7 @@
 """
 Rally scraper for The Broadberry, Richmond Music Hall and Virginia Credit Union Live.
 They all list their shows on the Broadberry homepage calendar. Writes broadberry.json.
-Prices are not listed on this site, so shows link to tickets instead.
+Prices are not listed on this site (tickets are on Etix, which shows a blank page to scrapers), so shows link to tickets instead.
 """
 import re
 import sys
@@ -12,6 +12,9 @@ HOME = "https://thebroadberry.com/"
 # The calendar also lists other venues (Sandler Center, THE LOUD, ...). Those are skipped, so only keep
 # "More Info" links for our three venues, or the links fall out of step with the shows.
 OUR_LINK = re.compile(r"/(?:richmond-music-hall|the-broadberry(?:-\d+)?|virginia-credit-union-live)/")
+# Etix hides prices from scrapers. Tommy checked the venue calendars: nearly every show is $25-$100,
+# so these two venues show "Pricier tickets" when nothing better is known.
+TYPICAL = {"The Broadberry": "Pricier tickets", "Richmond Music Hall": "Pricier tickets"}
 VENUES = ("The Broadberry", "Richmond Music Hall", "Virginia Credit Union Live")
 MONTH_HEAD = re.compile(r"^([A-Z][a-z]+) (\d{4})$")
 DAY = re.compile(r"^([A-Z]{3}) (\d{1,2})$")
@@ -72,7 +75,7 @@ def parse(body, links, today):
         url = links[idx] if idx < len(links) else ""
         out.append(event(
             id=f"bb-{day_iso}-{slug(title)}", title=title, date=day_iso, doors=doors, show_time="",
-            venue=block[venue_i], url=url, age=age, price_display="Sold out" if sold else ""))
+            venue=block[venue_i], url=url, age=age, price_display="Sold out" if sold else TYPICAL.get(block[venue_i], "")))
     # If the link list lost step with the show list, send everyone to the calendar page instead.
     if len(links) != len(out):
         for e in out:
@@ -110,18 +113,6 @@ def main():
             print(f"Events page gave {len(events)} shows, trying the homepage.")
             body, links = read(pg, HOME)
             events = parse(body, links, today)
-        # TEST ONLY (does not change any show): can a browser on GitHub read an Etix price page?
-        try:
-            pg.goto(URL, wait_until="domcontentloaded", timeout=60000)
-            pg.wait_for_timeout(4000)
-            etix = pg.eval_on_selector_all("a[href*='etix.com/ticket']", "els => els.map(e => e.href)")[:3]
-            for u in etix:
-                pg.goto(u, wait_until="domcontentloaded", timeout=45000)
-                pg.wait_for_timeout(5000)
-                txt = re.sub(r"\s+", " ", pg.inner_text("body"))[:500]
-                print("ETIX TEST", u[:80], "->", txt or "(blank)")
-        except Exception as ex:
-            print("ETIX TEST failed:", str(ex).splitlines()[0])
         b.close()
     if len(events) < 5:
         print(f"Only {len(events)} shows came back, so broadberry.json was left alone.")
