@@ -150,14 +150,17 @@ def eventbrite_price(pg, url):
                     except Exception:
                         pass
     body = pg.inner_text("body")
-    if lows:
-        lo, hi = min(lows), max(highs or lows)
-        if hi == 0:
-            return "Free", True
+    print("    eventbrite data:", lows, highs, "| says Free:", bool(re.search(r"(?m)^\s*Free\s*$", body)))
+    # A listed price of 0 is not trusted: Eventbrite uses it when no price is published.
+    pos = [x for x in lows + highs if x > 0]
+    if pos:
+        lo, hi = min(pos), max(pos)
         return (money(lo) if lo == hi else f"{money(lo)}–{money(hi)}"), False
-    m = re.search(r"\$\s?(\d+(?:\.\d{2})?)", body)
-    if m:
-        return money(m.group(1)), False
+    # The ticket box shows the price (fees included) on its own line, e.g. "$14.64".
+    box = [float(x) for x in re.findall(r"(?m)^\s*(?:from\s+)?\$\s?(\d+(?:\.\d{2})?)\s*$", body) if float(x) > 0]
+    if box:
+        lo, hi = min(box), max(box)
+        return (money(lo) if lo == hi else f"{money(lo)}–{money(hi)}"), False
     if re.search(r"(?m)^\s*Free\s*$", body):
         return "Free", True
     return "", False
