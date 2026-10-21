@@ -5,7 +5,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("America/New_York")
-FILES = ["camel.json", "cobra.json", "broadberry.json", "gallery5.json", "hardywood.json", "bandito.json", "gettight.json", "manual.json", "mainline.json", "reveler.json"]
+FILES = ["camel.json", "cobra.json", "broadberry.json", "gallery5.json", "hardywood.json", "bandito.json", "gettight.json", "manual.json", "mainline.json", "reveler.json", "canalclub.json"]
 
 today = datetime.now(TZ).date().isoformat()
 events, venues = [], []
@@ -64,6 +64,28 @@ for e in events:
             continue
     kept.append(e)
 events = kept
+
+# Weekly shows with no calendar (Instagram-only venues). Each upcoming matching day gets a "band on Instagram"
+# placeholder, but only when nothing else is listed for that venue on that day, so a real entry replaces it.
+from datetime import date as _date, timedelta
+RECURRING = [
+    {"venue": "Bottoms Up Pizza", "days": [4, 5],   # Python weekday: Monday = 0, Friday = 4, Saturday = 5
+     "title": "Live music (see Instagram for the band)", "price": "Free",
+     "address": "1700 Dock St, Richmond, VA", "url": "https://www.instagram.com/bottomsuppizza/"},
+]
+for r in RECURRING:
+    for n in range(0, 15):
+        d = _date.fromisoformat(today) + timedelta(days=n)
+        if d.weekday() not in r["days"]:
+            continue
+        day = d.isoformat()
+        if any(e["date"] == day and (vkey(e["venue"]).startswith(vkey(r["venue"])) or vkey(r["venue"]).startswith(vkey(e["venue"]))) for e in events):
+            continue
+        events.append({"id": f"recurring-{vkey(r['venue'])}-{day}", "title": r["title"], "date": day, "doors": "", "show_time": "",
+                       "venue": r["venue"], "url": r["url"], "kind": "m", "age": "", "address": r["address"],
+                       "price_display": r["price"], "free": r["price"].lower().startswith("free"),
+                       "table_price": None, "tiers": [], "ticket_url": r["url"]})
+        venues.append(r["venue"]) if r["venue"] not in venues else None
 
 events.sort(key=lambda e: (e["date"], mins(e.get("show_time") or e.get("doors"))))
 Path("events.json").write_text(json.dumps({
