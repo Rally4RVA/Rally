@@ -110,6 +110,18 @@ def main():
             print(f"Events page gave {len(events)} shows, trying the homepage.")
             body, links = read(pg, HOME)
             events = parse(body, links, today)
+        # TEST ONLY (does not change any show): can a browser on GitHub read an Etix price page?
+        try:
+            pg.goto(URL, wait_until="domcontentloaded", timeout=60000)
+            pg.wait_for_timeout(4000)
+            etix = pg.eval_on_selector_all("a[href*='etix.com/ticket']", "els => els.map(e => e.href)")[:3]
+            for u in etix:
+                pg.goto(u, wait_until="domcontentloaded", timeout=45000)
+                pg.wait_for_timeout(5000)
+                txt = re.sub(r"\s+", " ", pg.inner_text("body"))[:500]
+                print("ETIX TEST", u[:80], "->", txt or "(blank)")
+        except Exception as ex:
+            print("ETIX TEST failed:", str(ex).splitlines()[0])
         b.close()
     if len(events) < 5:
         print(f"Only {len(events)} shows came back, so broadberry.json was left alone.")
