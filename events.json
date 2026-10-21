@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:28:35-04:00",
+ "updated": "2026-10-21T14:38:39-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -114,8 +114,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
+   "price_display": "$14.64",
+   "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/mongo-atl-drugula-atl-druid-stone-tickets-2002102306895"
@@ -410,8 +410,8 @@
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
+   "price_display": "",
+   "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/creative-community-happy-hour-closing-art-exhibition-reception-tickets-2003685957637"
@@ -976,8 +976,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
+   "price_display": "$14.64",
+   "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/rival-booking-presents-stress-reliever-lagoon-coded-dmv-tickets-2001706811959"
@@ -1018,8 +1018,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
+   "price_display": "$12.51",
+   "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/gazee-w-cyber-twin-and-crush-tickets-1998110312733"
@@ -1436,15 +1436,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
   },
   {
@@ -1695,8 +1687,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
+   "price_display": "$12.51",
+   "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/halloween-with-the-significant-others-tickets-2003086603954"
@@ -3001,8 +2993,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
+   "price_display": "$12.51",
+   "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/vigil-primordial-rites-album-release-show-tickets-2002095964926"
