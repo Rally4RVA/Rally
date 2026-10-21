@@ -218,6 +218,10 @@ def parse_show(page, url, today, debug_dir, counter):
         tiers = parse_tiers(od)
     lines = [l.strip() for l in od.splitlines() if l.strip()]
 
+    # Free shows (like Blues & Brews) sell reserved tables. When the checkout says "Sold out" it is the tables, not the show.
+    if free and re.search(r"(?mi)^\s*sold out\b", od) and not any(available(t) for t in tiers):
+        free = "Free · tables sold out"
+
     ticket_url = frame_url
     if not ticket_url:
         for h in page.eval_on_selector_all("a[href]", "els => els.map(e => e.getAttribute('href'))"):
