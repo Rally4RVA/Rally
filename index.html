@@ -141,13 +141,10 @@ h1 span { color: var(--accent); }
     <button class="chip" id="musicOnly" type="button" aria-pressed="true">Music only</button>
     <button class="chip" id="savedOnly" type="button" aria-pressed="false">My interested</button>
     <div class="chiprow" role="group" aria-label="Price and sorting">
-      <span class="lab">Price</span>
-      <button class="chip" id="freeOnly" type="button" aria-pressed="false">Free</button>
-      <button class="chip" id="lowCost" type="button" aria-pressed="false">$15 or less</button>
       <span class="lab">Sort</span>
-      <button class="chip" id="sortDate" type="button" aria-pressed="true">Soonest</button>
-      <button class="chip" id="sortPrice" type="button" aria-pressed="false">Price <span id="arrow">&uarr;</span></button>
-      <button class="chip" id="sortInterest" type="button" aria-pressed="false">Most interested</button>
+      <button class="chip" id="sortDate" type="button" aria-pressed="false">Soonest</button>
+      <button class="chip" id="sortPrice" type="button" aria-pressed="true">Price <span id="arrow">&uarr;</span></button>
+      <button class="chip" id="sortInterest" type="button" aria-pressed="false">Interest</button>
     </div>
     <div class="status"><span id="count" aria-live="polite"></span><span class="live" id="live"></span></div>
   </div>
@@ -182,7 +179,7 @@ var inflight = 0;
 var pending = {};     // slug -> true/false, changes not yet confirmed by the database
 var animate = false;
 var shown = 0;
-var state = { q: "", music: true, savedOnly: false, day: "", start: "", price: "", sort: "date", dir: 1 };   // day: the day being viewed ("all" is only used by tests)
+var state = { q: "", music: true, savedOnly: false, day: "", start: "", price: "", sort: "price", dir: 1 };   // day: the day being viewed ("all" is only used by tests)
 var snap = null;     // counts as they were when the page loaded; the "Most interested" order uses this so it only changes on reload
 var scope = "";
 
@@ -465,8 +462,8 @@ function render() {
     return;
   }
 
-  if (state.sort === "price") list.appendChild(el("div", "sortnote", state.dir === 1 ? "Cheapest first, within each day" : "Most expensive first, within each day"));
-  else if (state.sort === "interest") list.appendChild(el("div", "sortnote", snap ? "Most interested first, within each day (updates when you reload the page)" : "Interest counts are not available right now, so these are in time order"));
+  if (state.sort === "price") list.appendChild(el("div", "sortnote", state.dir === 1 ? "Free and cheapest first, within each day" : "Most expensive first, within each day"));
+  else if (state.sort === "interest") list.appendChild(el("div", "sortnote", snap ? "Most interest first, within each day (updates when you reload the page)" : "Interest counts are not available right now, so these are in time order"));
 
   var groups = [], byDate = {};
   rows.forEach(function (e) { if (!byDate[e.date]) { byDate[e.date] = { iso: e.date, items: [] }; groups.push(byDate[e.date]); } byDate[e.date].items.push(e); });
@@ -569,15 +566,11 @@ document.getElementById("musicOnly").addEventListener("click", function (ev) {
   state.music = !state.music; ev.currentTarget.setAttribute("aria-pressed", String(state.music)); render();
 });
 function syncChips() {
-  document.getElementById("freeOnly").setAttribute("aria-pressed", String(state.price === "free"));
-  document.getElementById("lowCost").setAttribute("aria-pressed", String(state.price === "low"));
   document.getElementById("sortDate").setAttribute("aria-pressed", String(state.sort === "date"));
   document.getElementById("sortPrice").setAttribute("aria-pressed", String(state.sort === "price"));
   document.getElementById("sortInterest").setAttribute("aria-pressed", String(state.sort === "interest"));
   document.getElementById("arrow").innerHTML = state.sort === "price" && state.dir === -1 ? "&darr;" : "&uarr;";
 }
-document.getElementById("freeOnly").addEventListener("click", function () { state.price = state.price === "free" ? "" : "free"; syncChips(); render(); });
-document.getElementById("lowCost").addEventListener("click", function () { state.price = state.price === "low" ? "" : "low"; syncChips(); render(); });
 document.getElementById("sortDate").addEventListener("click", function () { state.sort = "date"; syncChips(); render(); });
 document.getElementById("sortPrice").addEventListener("click", function () {
   if (state.sort === "price") state.dir = -state.dir; else { state.sort = "price"; state.dir = 1; }
