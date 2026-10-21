@@ -1,0 +1,613 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rally</title>
+<meta name="description" content="Every live show in Richmond, VA in one list. Tap the people icon to say you're interested.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* A telephone-pole flyer board: big condensed date blocks on the left, one ruled row per show,
+   time in mono, one tap on the people icon to say you're interested. */
+:root {
+  --bg: #E6E8E8;
+  --surface: #F4F5F4;
+  --ink: #15171A;
+  --muted: #596067;
+  --line: #C3C8CA;
+  --accent: #2A3BFF;
+  --on-accent: #FFFFFF;
+  --font-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1114; --surface: #181B1F; --ink: #ECEDEA; --muted: #9AA1A8;
+    --line: #2B3036; --accent: #8C97FF; --on-accent: #0F1114; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1114; --surface: #181B1F; --ink: #ECEDEA; --muted: #9AA1A8;
+  --line: #2B3036; --accent: #8C97FF; --on-accent: #0F1114; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg); color: var(--ink);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.45;
+  padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 980px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+header { display: flex; flex-direction: column; gap: 10px; }
+.kicker { font-family: var(--font-mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+h1 {
+  font-family: var(--font-display); font-weight: 900; text-transform: uppercase;
+  font-size: clamp(52px, 11vw, 104px); line-height: .88; letter-spacing: .005em; margin: 0; text-wrap: balance;
+}
+h1 span { color: var(--accent); }
+.lede { margin: 0; max-width: 52ch; color: var(--muted); }
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding-block: 14px; border-block: 2px solid var(--ink); }
+.controls input[type="search"] {
+  flex: 1 1 200px; min-width: 0; font: inherit; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); padding: 9px 12px; border-radius: 2px;
+}
+.chip {
+  font: 500 13px var(--font-body); color: var(--ink); background: transparent;
+  border: 1px solid var(--ink); padding: 8px 12px; border-radius: 2px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.chip:focus-visible, .interest:focus-visible, .controls input:focus-visible, .tix:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.status { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px 18px; align-items: center; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.live::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--line); margin-right: 7px; }
+.live.on::before { background: var(--accent); }
+.day { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 0 18px; padding-block: 18px; border-bottom: 1px solid var(--line); }
+.date { display: flex; flex-direction: column; line-height: 1; }
+.date .num { font-family: var(--font-display); font-weight: 900; font-size: 64px; letter-spacing: -.01em; }
+.date .mon { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-top: 4px; }
+.date.today .num { color: var(--accent); }
+.shows { display: flex; flex-direction: column; min-width: 0; }
+.show { display: grid; grid-template-columns: 96px minmax(0, 1fr) 150px auto; gap: 6px 16px; align-items: center; padding-block: 12px; }
+.show + .show { border-top: 1px dashed var(--line); }
+.show:first-child { padding-top: 0; }
+.time { font-family: var(--font-mono); font-size: 15px; font-variant-numeric: tabular-nums; }
+.time small { display: block; font-size: 11px; color: var(--muted); }
+.band { min-width: 0; }
+.band b { display: block; font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; }
+.band span { display: block; color: var(--muted); font-size: 13.5px; margin-top: 3px; }
+.meta { font-size: 13px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.meta .venue { font-weight: 600; }
+.meta .price { color: var(--ink); font-family: var(--font-mono); font-size: 12.5px; font-weight: 500; }
+.meta .price.free { color: var(--accent); }
+.meta .price.none { color: var(--muted); font-weight: 400; }
+.meta .age { color: var(--muted); font-size: 12px; }
+.actions { display: flex; align-items: center; gap: 12px; justify-content: flex-end; }
+.interest {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-width: 78px;
+  font: 600 14px var(--font-mono); font-variant-numeric: tabular-nums; cursor: pointer;
+  color: var(--ink); background: transparent; border: 1.5px solid var(--ink);
+  padding: 6px 12px; border-radius: 2px;
+}
+.interest svg { display: block; fill: currentColor; }
+.interest[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.interest .n { display: inline-block; min-width: 1.2ch; text-align: left; }
+.tix { color: var(--ink); font-size: 13px; text-underline-offset: 3px; white-space: nowrap; }
+.kind { font-family: var(--font-mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); border: 1px solid var(--line); padding: 1px 5px; margin-left: 6px; vertical-align: 3px; }
+.empty { padding: 40px 0; color: var(--muted); }
+.chiprow { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chiprow .lab { font-family: var(--font-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-right: 2px; }
+.chiprow .lab:not(:first-child) { margin-left: 10px; }
+.sortnote { font-family: var(--font-mono); font-size: 12px; color: var(--muted); padding-top: 16px; }
+.days { display: flex; gap: 6px; align-items: stretch; overflow-x: auto; padding-bottom: 4px; -webkit-overflow-scrolling: touch; }
+.days[hidden] { display: none; }
+.daybtn { flex: 1 0 64px; font: 500 11px var(--font-mono); color: var(--ink); background: transparent; border: 1px solid var(--ink); padding: 8px 6px 7px; border-radius: 2px; cursor: pointer; text-align: center; text-transform: uppercase; letter-spacing: .06em; }
+.daybtn b { display: block; font-family: var(--font-display); font-weight: 900; font-size: 30px; line-height: 1; letter-spacing: 0; margin-block: 2px; }
+.daybtn small { display: block; font-size: 10.5px; opacity: .75; }
+.daybtn[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.daybtn.none { opacity: .5; }
+.daynav { flex: 0 0 38px; font: 600 20px var(--font-mono); color: var(--ink); background: transparent; border: 1px solid var(--ink); border-radius: 2px; cursor: pointer; }
+.daynav:disabled { opacity: .25; cursor: default; }
+.daybtn:focus-visible, .daynav:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }footer { font-size: 12.5px; color: var(--muted); max-width: 70ch; }
+@media (max-width: 720px) {
+  .day { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  .date { flex-direction: row; align-items: baseline; gap: 10px; }
+  .date .num { font-size: 44px; }
+  .show { grid-template-columns: 78px minmax(0, 1fr); }
+  .meta { grid-column: 2; flex-direction: row; gap: 10px; flex-wrap: wrap; }
+  .actions { grid-column: 1 / -1; justify-content: space-between; }
+  .band b { font-size: 24px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .interest, .chip { transition: background-color .15s, color .15s; }
+  .interest .n.bump { animation: bump .4s ease-out; }
+  @keyframes bump { 0% { transform: scale(1); } 40% { transform: scale(1.4); } 100% { transform: scale(1); } }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">Richmond, VA &middot; live music, one list</div>
+    <h1>Rally<span>.</span></h1>
+    <p class="lede">Every show in Richmond, one day at a time. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
+  </header>
+
+  <div class="controls" role="group" aria-label="Filters">
+    <input type="search" id="q" placeholder="Search bands or venues" aria-label="Search bands or venues">
+    <button class="chip" id="musicOnly" type="button" aria-pressed="true">Music only</button>
+    <button class="chip" id="savedOnly" type="button" aria-pressed="false">My interested</button>
+    <div class="chiprow" role="group" aria-label="Price and sorting">
+      <span class="lab">Sort</span>
+      <button class="chip" id="sortDate" type="button" aria-pressed="false">Soonest</button>
+      <button class="chip" id="sortPrice" type="button" aria-pressed="true">Price <span id="arrow">&uarr;</span></button>
+      <button class="chip" id="sortInterest" type="button" aria-pressed="false">Interest</button>
+    </div>
+    <div class="status"><span id="count" aria-live="polite"></span><span class="live" id="live"></span></div>
+  </div>
+
+  <nav class="days" id="days" aria-label="Pick a day"></nav>
+
+  <main id="list"></main>
+
+  <footer>
+    Shows from The Camel, Cobra Cabana, Bandito’s, Get Tight, The Broadberry, Richmond Music Hall, Gallery5, Hardywood, Main Line Brewery and more small Richmond venues, with more on the way. Prices include ticket service fees. Free shows list any optional table reservation.
+    Shows drop off the list once they start. <span id="updated"></span>
+  </footer>
+</div>
+
+<script>
+// ---- Settings: after the Supabase setup, paste the two values here (see the setup steps) ----
+var CONFIG = {
+  supabaseUrl: "https://ojaxnqxbrqssyykxvwjj.supabase.co",
+  supabaseKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9qYXhucXhicnFzc3l5a3h2d2pqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0MzI4NDYsImV4cCI6MjEwODAwODg0Nn0.r38T5DjBQqdTnt7DK2M1fFCMPrsv2lVsrO__dqkesSs"
+};
+var POLL_MS = 10000;
+
+var KEY = "rally-interested";
+var DEVKEY = "rally-device";
+
+var events = [];
+var mine = {};        // slug -> true, the shows this person is interested in
+var counts = {};      // slug -> number of people interested (from the shared database)
+var haveCounts = false;
+var live = false;
+var inflight = 0;
+var pending = {};     // slug -> true/false, changes not yet confirmed by the database
+var animate = false;
+var shown = 0;
+var state = { q: "", music: true, savedOnly: false, day: "", start: "", price: "", sort: "price", dir: 1 };   // day: the day being viewed ("all" is only used by tests)
+var snap = null;     // counts as they were when the page loaded; the "Most interested" order uses this so it only changes on reload
+var scope = "";
+
+function configured() { return !!(CONFIG.supabaseUrl && CONFIG.supabaseKey); }
+
+try {
+  var stored = JSON.parse(localStorage.getItem(KEY) || "[]");
+  (Array.isArray(stored) ? stored : []).forEach(function (k) { mine[k] = true; });
+} catch (e) { mine = {}; }
+function persist() { try { localStorage.setItem(KEY, JSON.stringify(Object.keys(mine))); } catch (e) {} }
+
+function makeId() {
+  try { if (window.crypto && crypto.randomUUID) return crypto.randomUUID(); } catch (e) {}
+  return "d" + Date.now().toString(36) + Math.random().toString(36).slice(2, 12);
+}
+var DEVICE = (function () {
+  try {
+    var d = localStorage.getItem(DEVKEY);
+    if (!d) { d = makeId(); localStorage.setItem(DEVKEY, d); }
+    return d;
+  } catch (e) { return makeId(); }
+})();
+
+var ICON = '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><circle cx="9" cy="8" r="3.4"/><path d="M2.4 19.5c0-3.5 2.9-5.8 6.6-5.8s6.6 2.3 6.6 5.8z"/><circle cx="17.2" cy="9.2" r="2.6"/><path d="M16.6 13.9c3.1-.2 5.1 1.6 5.1 4.4v1.2h-4.4c0-2.2-.3-4.1-.7-5.6z"/></svg>';
+
+function pad(n) { return String(n).padStart(2, "0"); }
+function todayISO() { var d = new Date(); return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+function addDays(iso, n) { var d = parts(iso); d.setDate(d.getDate() + n); return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+// Lowest price in a label like "$10 adv · $12 door", "Free · $15 tables", "$5–$15". null when there is no price.
+function priceNum(label) {
+  if (/^free/i.test(label || "")) return 0;
+  var m = (label || "").match(/\$\s?\d+(?:\.\d+)?/g);
+  if (!m) return null;
+  return Math.min.apply(null, m.map(function (s) { return parseFloat(s.replace(/[^0-9.]/g, "")); }));
+}
+function parts(iso) { var p = iso.split("-").map(Number); return new Date(p[0], p[1] - 1, p[2]); }
+
+function minutes(t) {
+  var m = /(\d{1,2}):(\d{2})\s*(AM|PM)/i.exec(t || "");
+  if (!m) return null;
+  var h = (+m[1]) % 12;
+  if (/pm/i.test(m[3])) h += 12;
+  return h * 60 + (+m[2]);
+}
+function over(e, today) {
+  if (e.date !== today) return false;
+  var m = minutes(e.show || e.doors);
+  if (m === null) return false;
+  var d = new Date();
+  return d.getHours() * 60 + d.getMinutes() > m + 180;
+}
+
+function lineup(title) {
+  if (title.indexOf(", ") < 0 || /:|\bw\/|\bwith\b|Presents/i.test(title)) return { head: title, rest: "" };
+  var p = title.split(", ");
+  return { head: p[0], rest: "with " + p.slice(1).join(", ") };
+}
+
+function el(tag, cls, text) {
+  var n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+}
+
+// ---- shared counts (Supabase). Without settings the page still works, saved on this device only. ----
+function hdrs() {
+  var h = { "apikey": CONFIG.supabaseKey, "Content-Type": "application/json" };
+  if (CONFIG.supabaseKey.indexOf("eyJ") === 0) h["Authorization"] = "Bearer " + CONFIG.supabaseKey;  // only the older JWT-style key
+  return h;
+}
+function api(fn, body) {
+  return fetch(CONFIG.supabaseUrl.replace(/\/+$/, "") + "/rest/v1/rpc/" + fn, {
+    method: "POST",
+    headers: hdrs(),
+    body: JSON.stringify(body || {})
+  }).then(function (r) {
+    if (!r.ok) throw new Error("http " + r.status);
+    return r.text().then(function (t) { return t ? JSON.parse(t) : null; });
+  });
+}
+
+function totalFor(slug) {
+  if (!haveCounts) return mine[slug] ? 1 : 0;
+  return Math.max(counts[slug] || 0, mine[slug] ? 1 : 0);
+}
+
+function setStatus(mode) {
+  var n = document.getElementById("live");
+  n.className = "live" + (mode === "live" ? " on" : "");
+  n.textContent = mode === "live" ? "Live counts"
+    : mode === "connecting" ? "Connecting…"
+    : mode === "offline" ? "Reconnecting…"
+    : "Counts saved on this device only";
+}
+
+function updateCount() {
+  var n = Object.keys(mine).length;
+  document.getElementById("count").textContent =
+    shown + (shown === 1 ? " show" : " shows") + scope + (n ? " · " + n + " you are interested in" : "");
+}
+
+function bump(span) {
+  if (!animate) return;
+  span.classList.remove("bump");
+  void span.offsetWidth;
+  span.classList.add("bump");
+}
+
+function paint() {
+  var buttons = document.querySelectorAll(".interest");
+  for (var i = 0; i < buttons.length; i++) {
+    var b = buttons[i];
+    var slug = b.getAttribute("data-slug");
+    var on = !!mine[slug];
+    var n = totalFor(slug);
+    var span = b.querySelector(".n");
+    var prev = span.textContent;
+    if (prev !== String(n)) {
+      span.textContent = String(n);
+      if (prev !== "") bump(span);
+    }
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+    b.setAttribute("aria-label", "Interested in " + b.getAttribute("data-title") + ": " + n + (n === 1 ? " person" : " people") + (on ? ", including you" : ""));
+    b.title = on ? "You are interested. Tap to undo." : "Tap if you are interested";
+  }
+  updateCount();
+}
+
+function refreshView() { if (state.savedOnly) render(); else paint(); }
+
+function send(slug, on) {
+  pending[slug] = on;
+  inflight++;
+  return api("set_interest", { p_show: slug, p_device: DEVICE, p_on: on }).then(
+    function () { if (pending[slug] === on) delete pending[slug]; },
+    function () { /* stays pending, retried on the next successful poll */ }
+  ).then(function () { inflight--; });
+}
+
+function fetchCounts() {
+  return api("interest_counts").then(function (rows) {
+    var first = !live;
+    live = true;
+    setStatus("live");
+    if (inflight > 0) return first;       // a tap is mid-flight; its own refresh follows
+    var c = {};
+    (rows || []).forEach(function (r) { c[r.show_id] = Number(r.n) || 0; });
+    counts = c;
+    haveCounts = true;
+    if (!snap) { snap = {}; Object.keys(c).forEach(function (k) { snap[k] = c[k]; }); if (state.sort === "interest") render(); }
+    refreshView();
+    animate = true;
+    return first;
+  }, function () {
+    live = false;
+    setStatus("offline");
+    return false;
+  });
+}
+
+function flushPending() {
+  var all = Object.keys(pending);
+  return Promise.all(all.map(function (s) { return send(s, pending[s]); }));
+}
+
+function pollNow() {
+  return fetchCounts().then(function (first) {
+    if (!live || inflight > 0) return;
+    if (first) Object.keys(mine).forEach(function (s) { if (pending[s] === undefined) pending[s] = true; });
+    if (Object.keys(pending).length) return flushPending().then(fetchCounts);
+  });
+}
+
+function startLive() {
+  if (!configured()) { setStatus("local"); return; }
+  setStatus("connecting");
+  pollNow();
+  setInterval(function () { if (!document.hidden) pollNow(); }, POLL_MS);
+  document.addEventListener("visibilitychange", function () { if (!document.hidden) pollNow(); });
+}
+
+function toggle(slug) {
+  var on = !mine[slug];
+  if (on) mine[slug] = true; else delete mine[slug];
+  persist();
+  if (configured() && haveCounts) counts[slug] = Math.max(0, (counts[slug] || 0) + (on ? 1 : -1));
+  refreshView();
+  if (configured()) send(slug, on).then(fetchCounts);
+}
+
+// ---- keeping the list current ----
+// Past shows leave this device's interested list the first time the page notices.
+function purge() {
+  var today = todayISO();
+  var current = {};
+  events.forEach(function (e) { if (e.date >= today) current[e.slug] = true; });
+  var changed = false;
+  Object.keys(mine).forEach(function (k) {
+    if (!current[k]) { delete mine[k]; changed = true; }
+  });
+  if (changed) persist();
+  return changed;
+}
+
+function liveKey() {
+  var today = todayISO();
+  return today + ":" + events.filter(function (e) { return e.date >= today && !over(e, today); }).length;
+}
+var lastKey = "";
+
+// Every minute (and when the tab comes back): moves past midnight and past showtimes off the list.
+function tick() {
+  var key = liveKey();
+  if (key === lastKey) return;
+  var newDay = lastKey && key.split(":")[0] !== lastKey.split(":")[0];
+  lastKey = key;
+  if (newDay) { purge(); if (state.day !== "all") { state.day = ""; state.start = ""; } }
+  render();
+}
+setInterval(tick, 60000);
+document.addEventListener("visibilitychange", function () { if (!document.hidden) tick(); });
+
+function render() {
+  var today = todayISO();
+  var q = state.q.trim().toLowerCase();
+  var base = events.filter(function (e) {
+    if (e.date < today || over(e, today)) return false;
+    if (state.music && e.kind !== "m") return false;
+    if (state.savedOnly && !mine[e.slug]) return false;
+    if (q && (e.title + " " + e.venue).toLowerCase().indexOf(q) < 0) return false;
+    if (state.price) {
+      var p = priceNum(e.price);
+      if (state.price === "free" ? p !== 0 : (p === null || p > 15)) return false;
+    }
+    return true;
+  });
+
+  // First visit (or a new day): open on the first day that has shows, which is usually today.
+  if (!state.day || (state.day !== "all" && state.day < today)) {
+    state.day = base.length ? base[0].date : today;
+    state.start = state.day >= addDays(today, 7) ? state.day : today;
+  }
+  if (!state.start || state.start < today) state.start = today;
+
+  // One day at a time. Searching or "My interested" looks at every date, still grouped by day.
+  var wide = !!q || state.savedOnly || state.day === "all";
+  var rows = wide ? base : base.filter(function (e) { return e.date === state.day; });
+
+  // Sorting (price or interest) only ever reorders shows within the same day.
+  var ix = function (e) { return events.indexOf(e); };
+  rows = rows.slice().sort(function (a, b) {
+    if (a.date !== b.date) return a.date < b.date ? -1 : 1;
+    if (state.sort === "price") {
+      var pa = priceNum(a.price), pb = priceNum(b.price);
+      if (pa === null && pb === null) return ix(a) - ix(b);
+      if (pa === null) return 1;
+      if (pb === null) return -1;
+      return (pa - pb) * state.dir || ix(a) - ix(b);
+    }
+    if (state.sort === "interest") {
+      var ca = (snap && snap[a.slug]) || 0, cb = (snap && snap[b.slug]) || 0;
+      return (cb - ca) || ix(a) - ix(b);
+    }
+    return ix(a) - ix(b);
+  });
+  shown = rows.length;
+  var vd = wide ? null : parts(state.day);
+  scope = wide ? " listed" : (state.day === today ? " today" : " on " + vd.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" }));
+
+  renderDays(base, wide, today);
+
+  var list = document.getElementById("list");
+  list.textContent = "";
+
+  if (!rows.length) {
+    var anyUpcoming = events.some(function (e) { return e.date >= today && !over(e, today); });
+    list.appendChild(el("div", "empty", !events.length ? "Loading shows…" : !anyUpcoming ? "No upcoming shows right now. Check back soon." : state.savedOnly ? "Nothing marked yet. Tap the people icon on a show and it will land here." : q ? "No shows match that search." : "No shows on this day match. Try another day above."));
+    updateCount();
+    return;
+  }
+
+  if (state.sort === "price") list.appendChild(el("div", "sortnote", state.dir === 1 ? "Free and cheapest first, within each day" : "Most expensive first, within each day"));
+  else if (state.sort === "interest") list.appendChild(el("div", "sortnote", snap ? "Most interest first, within each day (updates when you reload the page)" : "Interest counts are not available right now, so these are in time order"));
+
+  var groups = [], byDate = {};
+  rows.forEach(function (e) { if (!byDate[e.date]) { byDate[e.date] = { iso: e.date, items: [] }; groups.push(byDate[e.date]); } byDate[e.date].items.push(e); });
+
+  groups.forEach(function (g) {
+    var iso = g.iso;
+    var d = parts(iso);
+    var day = el("section", "day");
+    var date = el("div", "date" + (iso === today ? " today" : ""));
+    date.appendChild(el("span", "num", String(d.getDate())));
+    date.appendChild(el("span", "mon", (iso === today ? "Today · " : d.toLocaleDateString("en-US", { weekday: "short" }) + " · ") + d.toLocaleDateString("en-US", { month: "short" })));
+    day.appendChild(date);
+
+    var shows = el("div", "shows");
+    g.items.forEach(function (e) {
+      var row = el("article", "show");
+      var t = el("div", "time", e.show || e.doors);
+      if (e.show && e.doors) t.appendChild(el("small", null, "doors " + e.doors));
+      else if (!e.show && e.doors) t.appendChild(el("small", null, "doors"));
+      row.appendChild(t);
+
+      var l = lineup(e.title);
+      var band = el("div", "band");
+      var b = el("b", null, l.head);
+      if (e.kind !== "m") b.appendChild(el("span", "kind", "not a gig"));
+      band.appendChild(b);
+      if (l.rest) band.appendChild(el("span", null, l.rest));
+      row.appendChild(band);
+
+      var meta = el("div", "meta");
+      meta.appendChild(el("span", "venue", e.venue));
+      var isFree = /^Free/.test(e.price);
+      var price = el("span", "price" + (isFree ? " free" : "") + (e.price ? "" : " none"), e.price || "See tickets");
+      price.title = e.price ? "Ticket price including fees" : "Price is listed on the venue's page";
+      meta.appendChild(price);
+      if (e.age) meta.appendChild(el("span", "age", e.age));
+      row.appendChild(meta);
+
+      var actions = el("div", "actions");
+      var a = el("a", "tix", "Tickets ↗");
+      a.href = e.url; a.target = "_blank"; a.rel = "noopener";
+      actions.appendChild(a);
+      var btn = el("button", "interest");
+      btn.type = "button";
+      btn.setAttribute("data-slug", e.slug);
+      btn.setAttribute("data-title", e.title);
+      btn.innerHTML = ICON + '<span class="n"></span>';
+      btn.addEventListener("click", function () { toggle(e.slug); });
+      actions.appendChild(btn);
+      row.appendChild(actions);
+      shows.appendChild(row);
+    });
+    day.appendChild(shows);
+    list.appendChild(day);
+  });
+  paint();
+}
+
+// The strip of days at the top: seven at a time, with arrows to move a week forward or back.
+function renderDays(base, wide, today) {
+  var nav = document.getElementById("days");
+  nav.textContent = "";
+  nav.hidden = wide;
+  if (wide) return;
+  var last = events.reduce(function (m, e) { return e.date > m ? e.date : m; }, today);
+  var counts = {};
+  base.forEach(function (e) { counts[e.date] = (counts[e.date] || 0) + 1; });
+
+  var prev = el("button", "daynav", "‹");
+  prev.type = "button"; prev.setAttribute("aria-label", "Earlier days");
+  prev.disabled = state.start <= today;
+  prev.addEventListener("click", function () { var s = addDays(state.start, -7); state.start = s < today ? today : s; state.day = state.start; render(); });
+  nav.appendChild(prev);
+
+  for (var i = 0; i < 7; i++) {
+    (function (iso) {
+      var d = parts(iso);
+      var n = counts[iso] || 0;
+      var b = el("button", "daybtn" + (n ? "" : " none"));
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(iso === state.day));
+      b.setAttribute("aria-label", d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" }) + ", " + n + (n === 1 ? " show" : " shows"));
+      b.appendChild(document.createTextNode(iso === today ? "Today" : d.toLocaleDateString("en-US", { weekday: "short" })));
+      b.appendChild(el("b", null, String(d.getDate())));
+      b.appendChild(el("small", null, n ? n + (n === 1 ? " show" : " shows") : "none"));
+      b.addEventListener("click", function () { state.day = iso; render(); });
+      nav.appendChild(b);
+    })(addDays(state.start, i));
+  }
+
+  var next = el("button", "daynav", "›");
+  next.type = "button"; next.setAttribute("aria-label", "Later days");
+  next.disabled = addDays(state.start, 7) > last;
+  next.addEventListener("click", function () { state.start = addDays(state.start, 7); state.day = state.start; render(); });
+  nav.appendChild(next);
+}
+
+document.getElementById("q").addEventListener("input", function (ev) { state.q = ev.target.value; render(); });
+document.getElementById("musicOnly").addEventListener("click", function (ev) {
+  state.music = !state.music; ev.currentTarget.setAttribute("aria-pressed", String(state.music)); render();
+});
+function syncChips() {
+  document.getElementById("sortDate").setAttribute("aria-pressed", String(state.sort === "date"));
+  document.getElementById("sortPrice").setAttribute("aria-pressed", String(state.sort === "price"));
+  document.getElementById("sortInterest").setAttribute("aria-pressed", String(state.sort === "interest"));
+  document.getElementById("arrow").innerHTML = state.sort === "price" && state.dir === -1 ? "&darr;" : "&uarr;";
+}
+document.getElementById("sortDate").addEventListener("click", function () { state.sort = "date"; syncChips(); render(); });
+document.getElementById("sortPrice").addEventListener("click", function () {
+  if (state.sort === "price") state.dir = -state.dir; else { state.sort = "price"; state.dir = 1; }
+  syncChips(); render();
+});
+document.getElementById("sortInterest").addEventListener("click", function () { state.sort = "interest"; syncChips(); render(); });
+document.getElementById("savedOnly").addEventListener("click", function (ev) {
+  state.savedOnly = !state.savedOnly; ev.currentTarget.setAttribute("aria-pressed", String(state.savedOnly)); render();
+});
+
+function load() {
+  state.q = document.getElementById("q").value;   // Firefox restores the search box after a refresh without telling the page
+  setStatus(configured() ? "connecting" : "local");
+  render();
+  fetch("events.json", { cache: "no-store" }).then(function (r) {
+    if (!r.ok) throw new Error("http " + r.status);
+    return r.json();
+  }).then(function (data) {
+    events = (data.events || []).map(function (e) {
+      return { slug: e.id, date: e.date, show: e.show_time || "", doors: e.doors || "", title: e.title,
+               url: e.url, kind: e.kind || "m", venue: e.venue || "", price: e.price_display || "", age: e.age || "" };
+    });
+    if (data.updated) {
+      var u = new Date(data.updated);
+      if (!isNaN(u)) document.getElementById("updated").textContent =
+        "Show list updated " + u.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" }) + ".";
+    }
+    purge();
+    lastKey = liveKey();
+    render();
+    startLive();
+  }).catch(function () {
+    document.getElementById("list").textContent = "";
+    document.getElementById("list").appendChild(el("div", "empty", "Couldn't load the show list. Try refreshing in a moment."));
+  });
+}
+load();
+</script>
+</body>
+</html>
