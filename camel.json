@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:02:03-04:00",
+ "updated": "2026-10-21T13:52:46-04:00",
  "venues": [
   "The Camel"
  ],
@@ -199,10 +199,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$18.54",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/630347/web_orders/new"
   },
   {
@@ -309,18 +317,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
   },
   {
@@ -351,18 +351,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/714126/web_orders/new"
   },
   {
@@ -501,18 +493,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/727475/web_orders/new"
   },
   {
@@ -524,8 +508,8 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -932,7 +916,7 @@
   },
   {
    "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
-   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers",
+   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers *SOLD OUT*",
    "date": "2026-11-22",
    "doors": "2:00 PM",
    "show_time": "2:00 PM",
@@ -941,25 +925,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Adult",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Child (under 16)",
-     "base": 5.0,
-     "fee": 3.05,
-     "total": 8.05,
-     "status": "Sold out"
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
   },
   {
@@ -997,7 +966,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -1037,6 +1006,31 @@
    "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
   },
   {
+   "id": "the-get-off-bowhead-green-forrest-take-by-force-29-nov",
+   "title": "Bowhead, Green Forrest, Take by Force",
+   "date": "2026-11-29",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-get-off-bowhead-green-forrest-take-by-force-29-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/751411/web_orders/new"
+  },
+  {
    "id": "beers-banjos-slack-family-band-04-dec",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-12-04",
@@ -1050,15 +1044,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -1216,6 +1202,76 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
+  },
+  {
+   "id": "earth-to-eve-26-feb",
+   "title": "Earth to Eve",
+   "date": "2027-02-26",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/earth-to-eve-26-feb",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$22.15–$78.71 adv · $27.32 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Artist Presale",
+     "base": 22.15,
+     "fee": 0.0,
+     "total": 22.15,
+     "status": ""
+    },
+    {
+     "name": "Membership Early Access",
+     "base": 22.15,
+     "fee": 0.0,
+     "total": 22.15,
+     "status": ""
+    },
+    {
+     "name": "Advance",
+     "base": 17.0,
+     "fee": 5.15,
+     "total": 22.15,
+     "status": "Sales start October 23, 2026"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 22.0,
+     "fee": 5.32,
+     "total": 27.32,
+     "status": "Sales start February 26, 2027"
+    },
+    {
+     "name": "Oversharing VIP Package",
+     "base": 67.0,
+     "fee": 11.71,
+     "total": 78.71,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788192/web_orders/new"
+  },
+  {
+   "id": "fenne-lily-06-mar",
+   "title": "Fenne Lily, Sluice",
+   "date": "2027-03-06",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/fenne-lily-06-mar",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
    "id": "sister-wife-sex-strike-local-news-legend-14-apr",

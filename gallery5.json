@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:02:30-04:00",
+ "updated": "2026-10-21T13:53:26-04:00",
  "venues": [
   "Gallery5"
  ],
@@ -15,11 +15,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive"
+   "ticket_url": "https://www.eventbrite.com/e/mongo-atl-drugula-atl-druid-stone-tickets-2002102306895"
   },
   {
    "id": "gallery5-2026-10-23-creative-community-happy-hour-and-carnival-of-five-fires-clo",
@@ -32,11 +32,11 @@
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/creative-happy-hour-october"
+   "ticket_url": "https://www.eventbrite.com/e/creative-community-happy-hour-closing-art-exhibition-reception-tickets-2003685957637"
   },
   {
    "id": "gallery5-2026-10-23-fourth-friday-jazz-night-with-seth-morrissey-jazz-trio",
@@ -83,11 +83,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/rival-booking-stress-reliever-lagoon-coded-dmv"
+   "ticket_url": "https://www.eventbrite.com/e/rival-booking-presents-stress-reliever-lagoon-coded-dmv-tickets-2001706811959"
   },
   {
    "id": "gallery5-2026-10-26-gazee-w-cyber-twin-and-crush",
@@ -100,11 +100,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush"
+   "ticket_url": "https://www.eventbrite.com/e/gazee-w-cyber-twin-and-crush-tickets-1998110312733"
   },
   {
    "id": "gallery5-2026-10-28-andy-boay-saadia-rais-gull-danny-shyti",
@@ -151,11 +151,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/halloween-significant-others"
+   "ticket_url": "https://www.eventbrite.com/e/halloween-with-the-significant-others-tickets-2003086603954"
   },
   {
    "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
@@ -185,11 +185,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show"
+   "ticket_url": "https://www.eventbrite.com/e/vigil-primordial-rites-album-release-show-tickets-2002095964926"
   },
   {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
@@ -219,8 +219,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase"

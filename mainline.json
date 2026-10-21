@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:02:48-04:00",
+ "updated": "2026-10-21T13:55:47-04:00",
  "venues": [
   "Main Line Brewery"
  ],
@@ -32,8 +32,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-midnight-bluesmen"
@@ -100,8 +100,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/2026-greg-willard-memorial-blues-challenge"
@@ -168,8 +168,8 @@
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market"
@@ -219,7 +219,7 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$25 adv · $30 door",
    "free": false,
    "table_price": null,
    "tiers": [],

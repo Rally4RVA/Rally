@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:02:39-04:00",
+ "updated": "2026-10-21T13:55:17-04:00",
  "venues": [
   "Hardywood"
  ],
@@ -168,11 +168,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$12.51",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show"
+   "ticket_url": "https://www.eventbrite.com/e/rocky-horror-drag-show-tickets-2003047662479?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term="
   },
   {
    "id": "hardywood-2026-10-27-high-five-trivia-every-tuesday",
@@ -270,11 +270,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$42.39",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
+   "ticket_url": "https://www.eventbrite.com/e/pumpkin-living-succulent-arrangement-halloween-edition-tickets-2002654706136?aff=oddtdtcreator"
   },
   {
    "id": "hardywood-2026-10-31-halloween-throwdown-w-alan-same-the-disco",
@@ -411,6 +411,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l"
+  },
+  {
+   "id": "hardywood-2026-11-08-the-crafty-devil-presents-a-crafty-rave-with-hardywood",
+   "title": "The Crafty Devil Presents: A Crafty Rave with Hardywood",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave"
   },
   {
    "id": "hardywood-2026-11-10-high-five-trivia-every-tuesday",
@@ -712,11 +729,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$22.05",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva"
+   "ticket_url": "https://www.eventbrite.com/e/the-silent-party-tickets-1996463847110?aff=oddtdtcreator"
   },
   {
    "id": "hardywood-2026-11-25-rva-old-time-jam-2nd-4th-wednesdays",

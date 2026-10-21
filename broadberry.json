@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:02:21-04:00",
+ "updated": "2026-10-21T13:53:04-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
@@ -755,6 +755,23 @@
    "ticket_url": "https://thebroadberry.com/events/"
   },
   {
+   "id": "bb-2026-12-11-no-bs-brass-canned-food-drive",
+   "title": "NO BS! BRASS – CANNED FOOD DRIVE",
+   "date": "2026-12-11",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "bb-2027-02-27-cory-branan",
    "title": "CORY BRANAN",
    "date": "2027-02-27",
@@ -861,23 +878,6 @@
    "title": "RVA WINTER JAM FEAT. WILLIE WILLIAMS BAND, SLINGSHOT ON MARS, AND WHISKEY BANJO FOXTROT",
    "date": "2026-12-12",
    "doors": "6:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-12-11-los-hermanos-alacranes-the-sky-chiefs-duo",
-   "title": "LOS HERMANOS ALACRANES, THE SKY CHIEFS DUO",
-   "date": "2026-12-11",
-   "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
    "url": "https://thebroadberry.com/events/",

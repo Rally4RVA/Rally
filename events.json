@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:03:41-04:00",
+ "updated": "2026-10-21T13:56:43-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -114,11 +114,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive"
+   "ticket_url": "https://www.eventbrite.com/e/mongo-atl-drugula-atl-druid-stone-tickets-2002102306895"
   },
   {
    "id": "bandito-2026-10-21-fervence-enthronement-i-regret-nothing-abismo-nix",
@@ -207,8 +207,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-midnight-bluesmen"
@@ -410,11 +410,11 @@
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/creative-happy-hour-october"
+   "ticket_url": "https://www.eventbrite.com/e/creative-community-happy-hour-closing-art-exhibition-reception-tickets-2003685957637"
   },
   {
    "id": "hardywood-2026-10-23-live-music-the-embalmers",
@@ -883,8 +883,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/2026-greg-willard-memorial-blues-challenge"
@@ -934,11 +934,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$12.51",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show"
+   "ticket_url": "https://www.eventbrite.com/e/rocky-horror-drag-show-tickets-2003047662479?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term="
   },
   {
    "id": "staff-picks-dogs-on-shady-lane-kitty-corner-25-oct",
@@ -951,10 +951,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$18.54",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/630347/web_orders/new"
   },
   {
@@ -968,11 +976,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/rival-booking-stress-reliever-lagoon-coded-dmv"
+   "ticket_url": "https://www.eventbrite.com/e/rival-booking-presents-stress-reliever-lagoon-coded-dmv-tickets-2001706811959"
   },
   {
    "id": "bandito-2026-10-25-pardoner-k9-star-sign",
@@ -1010,11 +1018,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush"
+   "ticket_url": "https://www.eventbrite.com/e/gazee-w-cyber-twin-and-crush-tickets-1998110312733"
   },
   {
    "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
@@ -1366,18 +1374,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
   },
   {
@@ -1408,8 +1408,8 @@
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market"
@@ -1569,18 +1569,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/714126/web_orders/new"
   },
   {
@@ -1645,11 +1637,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$42.39",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
+   "ticket_url": "https://www.eventbrite.com/e/pumpkin-living-succulent-arrangement-halloween-edition-tickets-2002654706136?aff=oddtdtcreator"
   },
   {
    "id": "hardywood-2026-10-31-halloween-throwdown-w-alan-same-the-disco",
@@ -1679,11 +1671,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/halloween-significant-others"
+   "ticket_url": "https://www.eventbrite.com/e/halloween-with-the-significant-others-tickets-2003086603954"
   },
   {
    "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
@@ -2017,7 +2009,7 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$25 adv · $30 door",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -2228,18 +2220,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/727475/web_orders/new"
   },
   {
@@ -2276,8 +2260,8 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -2485,6 +2469,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l"
+  },
+  {
+   "id": "hardywood-2026-11-08-the-crafty-devil-presents-a-crafty-rave-with-hardywood",
+   "title": "The Crafty Devil Presents: A Crafty Rave with Hardywood",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave"
   },
   {
    "id": "the-obgms-08-nov",
@@ -2960,11 +2961,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show"
+   "ticket_url": "https://www.eventbrite.com/e/vigil-primordial-rites-album-release-show-tickets-2002095964926"
   },
   {
    "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18",
@@ -3729,7 +3730,7 @@
   },
   {
    "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
-   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers",
+   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers *SOLD OUT*",
    "date": "2026-11-22",
    "doors": "2:00 PM",
    "show_time": "2:00 PM",
@@ -3738,25 +3739,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Adult",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Child (under 16)",
-     "base": 5.0,
-     "fee": 3.05,
-     "total": 8.05,
-     "status": "Sold out"
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
   },
   {
@@ -3871,11 +3857,11 @@
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
+   "price_display": "$22.05",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva"
+   "ticket_url": "https://www.eventbrite.com/e/the-silent-party-tickets-1996463847110?aff=oddtdtcreator"
   },
   {
    "id": "hardywood-2026-11-25-rva-old-time-jam-2nd-4th-wednesdays",
@@ -3921,7 +3907,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -4122,6 +4108,31 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/drew-dunbar-ntn2t-flea4"
   },
   {
+   "id": "the-get-off-bowhead-green-forrest-take-by-force-29-nov",
+   "title": "Bowhead, Green Forrest, Take by Force",
+   "date": "2026-11-29",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-get-off-bowhead-green-forrest-take-by-force-29-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/751411/web_orders/new"
+  },
+  {
    "id": "bb-2026-11-29-nicole-atkins-john-gallagher-jr",
    "title": "NICOLE ATKINS, JOHN GALLAGHER JR.",
    "date": "2026-11-29",
@@ -4203,15 +4214,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -4284,8 +4287,8 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase"
@@ -4325,12 +4328,12 @@
    "ticket_url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-october"
   },
   {
-   "id": "bb-2026-12-11-los-hermanos-alacranes-the-sky-chiefs-duo",
-   "title": "LOS HERMANOS ALACRANES, THE SKY CHIEFS DUO",
+   "id": "bb-2026-12-11-no-bs-brass-canned-food-drive",
+   "title": "NO BS! BRASS – CANNED FOOD DRIVE",
    "date": "2026-12-11",
    "doors": "7:00 PM",
    "show_time": "",
-   "venue": "Richmond Music Hall",
+   "venue": "The Broadberry",
    "url": "https://thebroadberry.com/events/",
    "kind": "m",
    "age": "",
@@ -4651,6 +4654,59 @@
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
   },
   {
+   "id": "earth-to-eve-26-feb",
+   "title": "Earth to Eve",
+   "date": "2027-02-26",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/earth-to-eve-26-feb",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$22.15–$78.71 adv · $27.32 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Artist Presale",
+     "base": 22.15,
+     "fee": 0.0,
+     "total": 22.15,
+     "status": ""
+    },
+    {
+     "name": "Membership Early Access",
+     "base": 22.15,
+     "fee": 0.0,
+     "total": 22.15,
+     "status": ""
+    },
+    {
+     "name": "Advance",
+     "base": 17.0,
+     "fee": 5.15,
+     "total": 22.15,
+     "status": "Sales start October 23, 2026"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 22.0,
+     "fee": 5.32,
+     "total": 27.32,
+     "status": "Sales start February 26, 2027"
+    },
+    {
+     "name": "Oversharing VIP Package",
+     "base": 67.0,
+     "fee": 11.71,
+     "total": 78.71,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788192/web_orders/new"
+  },
+  {
    "id": "bb-2027-02-27-cory-branan",
    "title": "CORY BRANAN",
    "date": "2027-02-27",
@@ -4683,6 +4739,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
+   "id": "fenne-lily-06-mar",
+   "title": "Fenne Lily, Sluice",
+   "date": "2027-03-06",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/fenne-lily-06-mar",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
    "id": "hardywood-2027-03-18-richmond-symphony-at-hardywood-richmond",
