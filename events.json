@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:35:18-04:00",
+ "updated": "2026-10-21T19:31:50-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -11,6 +11,7 @@
   "Bandito's Burrito Lounge",
   "The Get Tight Lounge",
   "Bandito's",
+  "Bottoms Up Pizza",
   "Chugalug",
   "Cobra Cabana",
   "Dogwood Dell",
@@ -24,7 +25,8 @@
   "The National",
   "The Workshop",
   "VSC",
-  "Main Line Brewery"
+  "Main Line Brewery",
+  "Révéler"
  ],
  "events": [
   {
@@ -87,21 +89,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/754493/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "gallery5-2026-10-21-mongo-atl-drugula-atl-badgerhive",
@@ -161,6 +155,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DefDN_lv2dt/"
+  },
+  {
+   "id": "reveler-2026-10-21-the-hurricane-party-album-release-party-8-00-pm",
+   "title": "The Hurricane Party Album Release Party",
+   "date": "2026-10-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-hurricane-party-10212026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2435906"
   },
   {
    "id": "gettight-2026-10-21-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -315,6 +326,23 @@
    "ticket_url": "https://www.instagram.com/p/DeWgKwtx3SR/"
   },
   {
+   "id": "reveler-2026-10-22-kyle-davis-8-00-pm",
+   "title": "Kyle Davis",
+   "date": "2026-10-22",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/kyle-davis-10222026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2452542"
+  },
+  {
    "id": "hardywood-2026-10-23-hardywood-bourbon-caliente-gbs-release",
    "title": "Hardywood Bourbon Caliente GBS Release",
    "date": "2026-10-23",
@@ -417,6 +445,23 @@
    "ticket_url": "https://www.eventbrite.com/e/creative-community-happy-hour-closing-art-exhibition-reception-tickets-2003685957637"
   },
   {
+   "id": "manual-bottoms-up-pizza-2026-10-23-jonathan-paige-brown-jr",
+   "title": "Jonathan Paige Brown Jr",
+   "date": "2026-10-23",
+   "doors": "",
+   "show_time": "5:30 PM",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/p/DesS4uDHwNx/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
+  },
+  {
    "id": "hardywood-2026-10-23-live-music-the-embalmers",
    "title": "The Embalmers",
    "date": "2026-10-23",
@@ -502,6 +547,23 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/h4gl42tr3vc5w4xidx3nxm8py9xu19"
   },
   {
+   "id": "reveler-2026-10-23-saxsmo-gates-plays-cannonball-adderley-7-00-pm",
+   "title": "Saxsmo Gates Plays Cannonball Adderley",
+   "date": "2026-10-23",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/saxsmo-gates-plays-cannonball-adderley",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2413651"
+  },
+  {
    "id": "bandito-2026-10-23-big-red-and-the-cowboy-killers-sundance-cowboy",
    "title": "Big Red and the Cowboy Killers & Sundance Cowboy",
    "date": "2026-10-23",
@@ -569,6 +631,23 @@
    "ticket_url": "https://app.opendate.io/confirms/719268/web_orders/new"
   },
   {
+   "id": "reveler-2026-10-23-saxsmo-gates-plays-cannonball-adderley-9-30-pm",
+   "title": "Saxsmo Gates Plays Cannonball Adderley",
+   "date": "2026-10-23",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/saxsmo-gates-plays-cannonball-adderley",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2413651"
+  },
+  {
    "id": "gettight-2026-10-23-melodic-dj-10-00-pm",
    "title": "MELODIC (DJ)",
    "date": "2026-10-23",
@@ -601,6 +680,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd2Fhu3SQdc/"
+  },
+  {
+   "id": "manual-bottoms-up-pizza-2026-10-24-aidan-kal",
+   "title": "Aidan Kal",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/p/DesS4uDHwNx/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
   },
   {
    "id": "mainline-2026-10-24-filipino-american-history-month-celebration",
@@ -660,6 +756,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/727512/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-10-24-the-cosmic-harp-of-erin-roukous-love-other-horror-stories-3-00-pm",
+   "title": "The Cosmic Harp Of Erin Roukous Love & Other Horror Stories",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-cosmic-harp-of-erin-roukous",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2444218"
   },
   {
    "id": "hardywood-2026-10-24-live-music-james-river-junction-duo",
@@ -797,6 +910,23 @@
    "ticket_url": "https://www.instagram.com/p/Dcyo0SXsoFd/"
   },
   {
+   "id": "reveler-2026-10-24-plunky-oneness-of-juju-9-30-pm",
+   "title": "Plunky & Oneness Of Juju",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/plunky-oneness-of-juju-10242026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2401861"
+  },
+  {
    "id": "gettight-2026-10-24-homie-price-dj-10-00-pm",
    "title": "HOMIE PRICE (DJ)",
    "date": "2026-10-24",
@@ -924,6 +1054,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
   },
   {
+   "id": "reveler-2026-10-25-sunday-soundtracks-robert-donne-fires-in-space-ene-j-4-00-pm",
+   "title": "Sunday Soundtracks Robert Donne, Fires In Space, Ene + J",
+   "date": "2026-10-25",
+   "doors": "",
+   "show_time": "4:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sunday-soundtracks",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2479540"
+  },
+  {
    "id": "hardywood-2026-10-25-rocky-horror-drag-show",
    "title": "Rocky Horror Drag Show",
    "date": "2026-10-25",
@@ -983,6 +1130,23 @@
    "ticket_url": "https://www.eventbrite.com/e/rival-booking-presents-stress-reliever-lagoon-coded-dmv-tickets-2001706811959"
   },
   {
+   "id": "reveler-2026-10-25-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-10-25",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-10252026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "bandito-2026-10-25-pardoner-k9-star-sign",
    "title": "Pardoner, K9, Star Sign",
    "date": "2026-10-25",
@@ -1023,6 +1187,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/gazee-w-cyber-twin-and-crush-tickets-1998110312733"
+  },
+  {
+   "id": "reveler-2026-10-26-charming-disaster-7-00-pm",
+   "title": "Charming Disaster",
+   "date": "2026-10-26",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/charming-disaster-10262026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2372212"
   },
   {
    "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
@@ -1161,6 +1342,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
   },
   {
+   "id": "reveler-2026-10-27-maddy-curtis-the-haunted-quartet-7-00-pm",
+   "title": "Maddy Curtis: The Haunted Quartet",
+   "date": "2026-10-27",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/maddy-curtis-the-haunted-quartet-10272026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2447835"
+  },
+  {
    "id": "gettight-2026-10-27-two-steppin-tuesday-s-w-rebecca-porter-8-00-pm",
    "title": "TWO STEPPIN' TUESDAY'S, REBECCA PORTER",
    "date": "2026-10-27",
@@ -1210,6 +1408,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+  },
+  {
+   "id": "reveler-2026-10-28-rosette-kevin-puts-is-so-hot-right-now-6-30-pm",
+   "title": "Rosette: Kevin Puts Is So Hot Right Now",
+   "date": "2026-10-28",
+   "doors": "",
+   "show_time": "6:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/rosette-kevin-puts-is-so-hot-right-now",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2432898"
   },
   {
    "id": "gallery5-2026-10-28-andy-boay-saadia-rais-gull-danny-shyti",
@@ -1313,6 +1528,23 @@
    "ticket_url": "https://app.opendate.io/e/sun-v-set-doree-buffie-october-28-2026-778453"
   },
   {
+   "id": "reveler-2026-10-28-darius-jones-scott-clark-adam-hopkins-8-30-pm",
+   "title": "Darius Jones, Scott Clark + Adam Hopkins",
+   "date": "2026-10-28",
+   "doors": "",
+   "show_time": "8:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/darius-jones-scott-clark-adam-hopkins-10282026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2448870"
+  },
+  {
    "id": "gettight-2026-10-28-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-10-28",
@@ -1364,6 +1596,23 @@
    "ticket_url": "https://thebroadberry.com/event/nashville-pussy-valient-thorr-and-u-s-bastards/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-7-00-pm",
+   "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
+   "date": "2026-10-29",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-electric-seance-hotpants-blackwood-station-10292026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2425086"
+  },
+  {
    "id": "ian-sweet-29-oct",
    "title": "IAN SWEET",
    "date": "2026-10-29",
@@ -1404,6 +1653,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.etix.com/ticket/p/82491275/hit-like-a-girlgood-teal40-repsmadison-turner-at-banditos-richmond-banditos?partner_id=399"
+  },
+  {
+   "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-9-30-pm",
+   "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
+   "date": "2026-10-29",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-electric-seance-hotpants-blackwood-station-10292026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2425086"
   },
   {
    "id": "mainline-2026-10-30-black-cat-market",
@@ -1567,6 +1833,23 @@
    "ticket_url": "https://www.instagram.com/p/DeIPO0XhE_K/"
   },
   {
+   "id": "reveler-2026-10-30-r-v-ler-cabaret-halloween-edition-featuring-qing-blaze-alisa-8-00-pm",
+   "title": "Révéler Cabaret Halloween Edition Featuring Qing Blaze, Alisa Miles, Gordita Maricona \"The Vampire Goddess Of Burlesque\", Jo'Rie Tigerlily + More",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reveler-cabaret-halloween-edition-2026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2452620"
+  },
+  {
    "id": "pure-punk-covers-of-bag-religion-the-misfits-dead-kennedys-the-clash-descendents-30-oct",
    "title": "Pure Punk: Covers of Bad Religion, The Misfits, Dead Kennedys, The Clash, Descendents",
    "date": "2026-10-30",
@@ -1643,6 +1926,23 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/rva-halloween-block-party"
   },
   {
+   "id": "reveler-2026-10-31-jake-josh-the-hot-seats-johanna-wacker-3-00-pm",
+   "title": "Jake & Josh (The Hot Seats) + Johanna Wacker",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jake-josh-the-hot-seats-johanna-wacker",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$13.13",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2448930"
+  },
+  {
    "id": "hardywood-2026-10-31-rusted-rabbit-pumpkin-living-succulent-halloween-edition",
    "title": "Rusted Rabbit: Pumpkin Living Succulent Halloween Edition!",
    "date": "2026-10-31",
@@ -1709,6 +2009,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheet-rock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2026-10-31-halloween-party-featuring-the-embalmers-with-crack-fox-and-t-7-30-pm",
+   "title": "Halloween Party Featuring The Embalmers With Crack Fox And The Lonely Teardrops",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/halloween-party-2026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "Sold out",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2400169"
   },
   {
    "id": "halloween-at-the-camel-31-oct",
@@ -1905,6 +2222,23 @@
    "ticket_url": "https://www.instagram.com/p/Dd9Y9k4O79o/"
   },
   {
+   "id": "reveler-2026-11-01-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-11-01",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11012026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
    "title": "SWEET PILL, HEART TO GOLD AND STEREOSITY",
    "date": "2026-11-02",
@@ -1920,6 +2254,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/sweet-pill-w-heart-to-gold-and-stereosity/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2026-11-02-studio-one-dub-reggae-project-7-00-pm",
+   "title": "Studio One Dub Reggae Project",
+   "date": "2026-11-02",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/studio-one-dub-reggae-project-11022026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2466441"
   },
   {
    "id": "torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
@@ -2158,6 +2509,23 @@
    "ticket_url": "https://app.opendate.io/confirms/743764/web_orders/new"
   },
   {
+   "id": "reveler-2026-11-04-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
+   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
+   "date": "2026-11-04",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/funk-soul-party-11042026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
    "id": "gettight-2026-11-04-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-11-04",
@@ -2276,6 +2644,23 @@
    "ticket_url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338"
   },
   {
+   "id": "reveler-2026-11-05-b-a-d-thursday-powerhouse-open-mic-for-vocalists-8-00-pm",
+   "title": "B.A.D. Thursday Powerhouse Open Mic For Vocalists",
+   "date": "2026-11-05",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/b-a-d-thursday-11052026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2450314"
+  },
+  {
    "id": "beers-banjos-slack-family-band-06-nov",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-11-06",
@@ -2325,6 +2710,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/bungalow-collect-presents-disco-rap-keep-it-honest-across-the-world-tour/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2026-11-06-rex-richardson-quartet-marshall-gilkes-8-00-pm",
+   "title": "Rex Richardson Quartet + Marshall Gilkes",
+   "date": "2026-11-06",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/rex-richardson-quartet-featuring-marshall-gilkes-11062026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2450443"
   },
   {
    "id": "box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
@@ -2393,6 +2795,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bluegrass-festival-2026"
   },
   {
+   "id": "reveler-2026-11-07-joe-troop-s-whirlwind-3-00-pm",
+   "title": "Joe Troop'S Whirlwind",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/joe-troops-whirlwind-11072026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$22.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2453884"
+  },
+  {
    "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
    "title": "AKEEM ALI: THE TEXTURE TOUR",
    "date": "2026-11-07",
@@ -2427,6 +2846,23 @@
    "ticket_url": "https://www.instagram.com/p/Dehg45wO74M/"
   },
   {
+   "id": "reveler-2026-11-07-makaya-mccraven-7-00-pm",
+   "title": "Makaya Mccraven",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/makaya-mccraven-11072026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$40",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2437706"
+  },
+  {
    "id": "gettight-2026-11-07-celler-dwellers-bullseye-cinch-8-00-pm",
    "title": "CELLER DWELLERS, BULLSEYE, CINCH",
    "date": "2026-11-07",
@@ -2459,6 +2895,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-11-07-makaya-mccraven-9-30-pm",
+   "title": "Makaya Mccraven",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/makaya-mccraven-11072026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$40",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2437706"
   },
   {
    "id": "hardywood-2026-11-08-hardywood-vinyasa-yoga-with-3s-yoga",
@@ -2554,6 +3007,23 @@
    "ticket_url": "https://thebroadberry.com/event/sadurn-w-kitchen/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-11-08-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11082026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "manual-cobra-cabana-2026-11-08-acolyte-torment-not-one-of-them-tba",
    "title": "Acolyte, Torment, Not One Of Them, TBA",
    "date": "2026-11-08",
@@ -2611,6 +3081,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/mamas-broke-reunion-album-release-tour-w-nathan-evans-fox/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2026-11-09-vcu-jazz-combos-7-00-pm",
+   "title": "Vcu Jazz Combos",
+   "date": "2026-11-09",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/vcu-jazz-combos-11092026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2479456"
   },
   {
    "id": "chloe-kimes-09-nov",
@@ -2687,6 +3174,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+  },
+  {
+   "id": "reveler-2026-11-10-zarove-7-00-pm",
+   "title": "Zarove",
+   "date": "2026-11-10",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/zarove-11102026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2477932"
   },
   {
    "id": "john-r-miller-10-nov",
@@ -2788,6 +3292,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/729052/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-11-11-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
+   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
+   "date": "2026-11-11",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/funk-soul-party-11112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1515983"
   },
   {
    "id": "gettight-2026-11-11-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -3068,6 +3589,23 @@
    "ticket_url": "https://app.opendate.io/confirms/682242/web_orders/new"
   },
   {
+   "id": "reveler-2026-11-13-the-sky-chiefs-with-kevin-pittman-and-stephen-mccarthy-9-30-pm",
+   "title": "The Sky Chiefs With Kevin Pittman And Stephen Mccarthy",
+   "date": "2026-11-13",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-sky-chiefs-11132026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2422469"
+  },
+  {
    "id": "manual-moose-lodge-2026-11-14-killing-pace-shits-creek-over-your-head-runnin-hot",
    "title": "Killing Pace, Shits Creek, Over Your Head, Runnin Hot",
    "date": "2026-11-14",
@@ -3153,6 +3691,23 @@
    "ticket_url": "https://thebroadberry.com/event/hot-freaks-soft-body-tour-w-thesaurus-rex/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-7-00-pm",
+   "title": "Fonville X Fribush Featuring Matthew Stevens",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/fonville-x-fribush-11142026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2484128"
+  },
+  {
    "id": "manual-fuzzy-cactus-2026-11-14-ultimatum-destruct-ultimate-disaster-skeksis",
    "title": "Ultimatum, Destruct, Ultimate Disaster, Skeksis",
    "date": "2026-11-14",
@@ -3185,6 +3740,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/e/thunderchief-salik-jealous-god-november-14-2026-746456"
+  },
+  {
+   "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-9-30-pm",
+   "title": "Fonville X Fribush Featuring Matthew Stevens",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/fonville-x-fribush-11142026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2484128"
   },
   {
    "id": "gettight-2026-11-14-hip-hop-henry-10-00-pm",
@@ -3432,6 +4004,23 @@
    "ticket_url": "https://app.opendate.io/confirms/734049/web_orders/new"
   },
   {
+   "id": "reveler-2026-11-17-the-bad-plus-farewell-tour-9-00-pm",
+   "title": "The Bad Plus Farewell Tour",
+   "date": "2026-11-17",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-bad-plus-11172026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2301781"
+  },
+  {
    "id": "hardywood-2026-11-18-804-run-club-every-wednesday",
    "title": "804 Run Club - Every Wednesday!",
    "date": "2026-11-18",
@@ -3584,6 +4173,23 @@
    "ticket_url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations"
   },
   {
+   "id": "reveler-2026-11-19-kia-bennett-8-00-pm",
+   "title": "Kia Bennett",
+   "date": "2026-11-19",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/kia-bennett-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2487017"
+  },
+  {
    "id": "hardywood-2026-11-20-live-music-the-yard-dogs",
    "title": "The Yard Dogs",
    "date": "2026-11-20",
@@ -3658,6 +4264,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/kendall-street-company-turkey-jam-w-big-fancy/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2026-11-20-passerine-8-00-pm",
+   "title": "Passerine",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/passerine-11202026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$22.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2361907"
   },
   {
    "id": "hardywood-2026-11-21-something-borrowed-rva",
@@ -3787,6 +4410,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
   },
   {
+   "id": "reveler-2026-11-22-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-11-22",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11222026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "bandito-2026-11-22-massa-nera-prisoner-terror-cell-kristeva",
    "title": "Massa Nera, Prisoner, Terror Cell, Kristeva",
    "date": "2026-11-22",
@@ -3905,6 +4545,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
   },
   {
+   "id": "reveler-2026-11-25-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
+   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/funk-soul-party-11252026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
    "id": "gettight-2026-11-25-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-11-25",
@@ -3973,6 +4630,23 @@
    "ticket_url": "https://thebroadberry.com/event/wolph-2/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-11-27-janet-martin-wrecking-ball-7-00-pm",
+   "title": "Janet Martin & Wrecking Ball",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/janet-martin-wrecking-ball-112026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2479389"
+  },
+  {
    "id": "bandito-2026-11-27-green-knuckle-material-driftline-sorry-excuse",
    "title": "Green Knuckle Material, Driftline, Sorry Excuse",
    "date": "2026-11-27",
@@ -4028,6 +4702,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-11-27-janet-martin-wrecking-ball-9-30-pm",
+   "title": "Janet Martin & Wrecking Ball",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/janet-martin-wrecking-ball-112026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2479389"
   },
   {
    "id": "hardywood-2026-11-28-live-music-john-shenk",
@@ -4174,6 +4865,23 @@
    "ticket_url": "https://thebroadberry.com/event/nicole-atkins-w-john-gallagher-jr/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-11-29-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-11-29",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11292026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "gettight-2026-12-01-cowpoke-karaoke-with-brand-franklin-8-00-pm",
    "title": "COWPOKE KARAOKE WITH BRAND FRANKLIN",
    "date": "2026-12-01",
@@ -4238,7 +4946,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -4301,6 +5017,23 @@
    "ticket_url": "https://app.opendate.io/confirms/709069/web_orders/new"
   },
   {
+   "id": "reveler-2026-12-06-michael-winograd-and-the-honorable-mentshn-4-00-pm",
+   "title": "Michael Winograd And The Honorable Mentshn",
+   "date": "2026-12-06",
+   "doors": "",
+   "show_time": "4:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/michael-winograd-and-the-honorable-mentshn-12062026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$30",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2466376"
+  },
+  {
    "id": "hardywood-2026-12-06-holiday-wreath-making",
    "title": "Holiday Wreath Making",
    "date": "2026-12-06",
@@ -4316,6 +5049,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
+  },
+  {
+   "id": "reveler-2026-12-06-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-12-06",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-12062026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
    "id": "gallery5-2026-12-08-activism-in-action-critiquing-ai-a-student-research-showcase",
@@ -4454,6 +5204,23 @@
    "ticket_url": "https://thebroadberry.com/event/good-guys-w-clampdown/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-12-12-nate-smith-featuring-kiefer-and-carrtoons-9-30-pm",
+   "title": "Nate Smith Featuring Kiefer And Carrtoons",
+   "date": "2026-12-12",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/nate-smith-12122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2313245"
+  },
+  {
    "id": "public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",
    "title": "Public Acid, Ulcer, No Fucker, Destruct, Massacre System",
    "date": "2026-12-13",
@@ -4477,6 +5244,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/715433/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-12-13-nate-smith-featuring-kiefer-and-carrtoons-8-30-pm",
+   "title": "Nate Smith Featuring Kiefer And Carrtoons",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "8:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/nate-smith-12132026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2313262"
   },
   {
    "id": "bandito-2026-12-14-magic-tuber-stringband-crazy-doberman-molasses-industries",
@@ -4657,6 +5441,23 @@
    "ticket_url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-12-20-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-12-20",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-12202026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "gettight-2026-12-23-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-23",
@@ -4708,6 +5509,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-30-dec"
   },
   {
+   "id": "reveler-2026-12-31-new-year-s-eve-with-the-afro-zen-allstars-8-00-pm",
+   "title": "New Year'S Eve With The Afro-Zen Allstars",
+   "date": "2026-12-31",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/new-years-eve-with-the-afro-zen-allstars",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$60",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2479919"
+  },
+  {
    "id": "new-year-s-eve-w-ma-am-buffie-31-dec",
    "title": "New Year's Eve w/ Bucko, Ma'am, Buffie",
    "date": "2026-12-31",
@@ -4731,6 +5549,74 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/730722/web_orders/new"
+  },
+  {
+   "id": "reveler-2027-01-02-reckoning-presents-workingman-s-beauty-7-30-pm",
+   "title": "Reckoning Presents: Workingman'S Beauty",
+   "date": "2027-01-02",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reckoning-presents-workingmans-beauty-01022027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2487128"
+  },
+  {
+   "id": "reveler-2027-01-03-reckoning-presents-workingman-s-beauty-7-30-pm",
+   "title": "Reckoning Presents: Workingman'S Beauty",
+   "date": "2027-01-03",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reckoning-presents-workingmans-beauty-01032027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2487134"
+  },
+  {
+   "id": "reveler-2027-01-04-reckoning-presents-workingman-s-beauty-7-30-pm",
+   "title": "Reckoning Presents: Workingman'S Beauty",
+   "date": "2027-01-04",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reckoning-presents-workingmans-beauty-01042027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2487135"
+  },
+  {
+   "id": "reveler-2027-01-05-reckoning-presents-workingman-s-beauty-7-30-pm",
+   "title": "Reckoning Presents: Workingman'S Beauty",
+   "date": "2027-01-05",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reckoning-presents-workingmans-beauty",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2487137"
   },
   {
    "id": "sicard-hollow-21-jan",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:32:48-04:00",
+ "updated": "2026-10-21T19:28:10-04:00",
  "venues": [
   "The Camel"
  ],
@@ -13,21 +13,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/754493/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
@@ -1068,7 +1060,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {

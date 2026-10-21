@@ -1,7 +1,8 @@
 {
- "updated": "2026-10-21T16:35:18-04:00",
+ "updated": "2026-10-21T19:31:50-04:00",
  "venues": [
   "Bandito's",
+  "Bottoms Up Pizza",
   "Chugalug",
   "Cobra Cabana",
   "Dogwood Dell",
@@ -339,6 +340,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DdznkRTBKr3/"
+  },
+  {
+   "id": "manual-bottoms-up-pizza-2026-10-23-jonathan-paige-brown-jr",
+   "title": "Jonathan Paige Brown Jr",
+   "date": "2026-10-23",
+   "doors": "",
+   "show_time": "5:30 PM",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/p/DesS4uDHwNx/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
+  },
+  {
+   "id": "manual-bottoms-up-pizza-2026-10-24-aidan-kal",
+   "title": "Aidan Kal",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/p/DesS4uDHwNx/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
   }
  ]
 }
