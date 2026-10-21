@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:24:26-04:00",
+ "updated": "2026-10-21T16:04:25-04:00",
  "venues": [
   "The Camel"
  ],
@@ -82,7 +82,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -341,7 +341,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -534,7 +534,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -947,13 +947,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
    "kind": "m",
-   "age": "",
-   "address": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
   },
   {
    "id": "symphony-of-destiny-invictus-reality-shift-23-nov",
@@ -1068,7 +1068,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -1185,7 +1193,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
