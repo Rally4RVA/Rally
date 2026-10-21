@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:19:17-04:00",
+ "updated": "2026-10-21T16:34:23-04:00",
  "venues": [
   "Main Line Brewery"
  ],
@@ -15,8 +15,8 @@
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y"
@@ -49,8 +49,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/h4gl42tr3vc5w4xidx3nxm8py9xu19"
@@ -66,8 +66,8 @@
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/fil-am-history-month-celebration"
@@ -83,8 +83,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/higher-education"
@@ -117,8 +117,8 @@
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/16th-annual-pug-o-ween"
@@ -134,8 +134,8 @@
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen"
@@ -151,8 +151,8 @@
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf"
