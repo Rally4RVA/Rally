@@ -216,9 +216,13 @@ def run(key):
                     hrefs = pg3.eval_on_selector_all(
                         "a[href*='eventbrite.com/e/'], a[href*='eventbrite.com/tickets']", "els => els.map(a => a.href)")
                     if hrefs:
+                        # Eventbrite is the real ticket page, so it wins over loose wording on the venue's own page.
                         e["ticket_url"] = hrefs[0]
-                        if not price:
-                            price, free = eventbrite_price(pg3, hrefs[0])
+                        eb_price, eb_free = eventbrite_price(pg3, hrefs[0])
+                        if eb_price:
+                            price, free = eb_price, eb_free
+                        elif free:
+                            price, free = "", False  # a bare "Free" from the page text is not trusted without Eventbrite agreeing
                     e["price_display"], e["free"] = price, free
                     print("  price", e["title"], "->", price or "none", "(eventbrite)" if hrefs else "")
                 except Exception as ex:
