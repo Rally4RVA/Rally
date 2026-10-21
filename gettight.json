@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-20T16:06:33-04:00",
+ "updated": "2026-10-21T11:03:40-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-20-two-steppin-tuesday-presents-dj-real-mike-smith-9-00-pm",
-   "title": "TWO STEPPIN' TUESDAY PRESENTS DJ REAL MIKE SMITH",
-   "date": "2026-10-20",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-20-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-20-oct"
-  },
   {
    "id": "gettight-2026-10-21-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",

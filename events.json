@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:06:34-04:00",
+ "updated": "2026-10-21T11:03:41-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -28,106 +28,13 @@
  ],
  "events": [
   {
-   "id": "mainline-2026-10-20-midnight-ukulele-society-show",
-   "title": "Midnight Ukulele Society Show",
-   "date": "2026-10-20",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/midnight-ukulele-society-show",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/midnight-ukulele-society-show"
-  },
-  {
-   "id": "bb-2026-10-20-acid-mothers-temple-magick-potion",
-   "title": "ACID MOTHERS TEMPLE, MAGICK POTION",
-   "date": "2026-10-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "hardywood-2026-10-20-high-five-trivia-every-tuesday",
-   "title": "High Five Trivia - Every Tuesday!",
-   "date": "2026-10-20",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
-  },
-  {
-   "id": "dead-steppe-brash-bedpiss-guzum-20-oct",
-   "title": "Dead Steppe, Brash, Bedpiss, Guzum",
-   "date": "2026-10-20",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/dead-steppe-brash-bedpiss-guzum-20-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/755465/web_orders/new"
-  },
-  {
-   "id": "gettight-2026-10-20-two-steppin-tuesday-presents-dj-real-mike-smith-9-00-pm",
-   "title": "TWO STEPPIN' TUESDAY PRESENTS DJ REAL MIKE SMITH",
-   "date": "2026-10-20",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-20-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-20-oct"
-  },
-  {
    "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
    "title": "Pop-Out WEDNESDAYS networking Event",
    "date": "2026-10-21",
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6",
+   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y",
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
@@ -135,7 +42,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6"
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y"
   },
   {
    "id": "hardywood-2026-10-21-804-run-club-every-wednesday",
@@ -1044,18 +951,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/630347/web_orders/new"
   },
   {
@@ -1467,10 +1366,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$25.25",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
   },
   {
@@ -1662,10 +1569,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/714126/web_orders/new"
   },
   {
@@ -2110,7 +2025,7 @@
   },
   {
    "id": "sap-03-nov",
-   "title": "Sap, Sludge Mother",
+   "title": "Sap, Sludge Mother, easterlin",
    "date": "2026-11-03",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -3929,6 +3844,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
   },
   {
+   "id": "bb-2026-11-25-fear-of-music-a-thanksgiving-eve-tradition",
+   "title": "FEAR OF MUSIC: A THANKSGIVING EVE TRADITION",
+   "date": "2026-11-25",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/events/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/events/"
+  },
+  {
    "id": "hardywood-2026-11-25-the-silent-party-by-unlocking-rva",
    "title": "The Silent Party by Unlocking RVA",
    "date": "2026-11-25",
@@ -3989,7 +3921,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -4342,6 +4274,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
   },
   {
+   "id": "gallery5-2026-12-08-activism-in-action-critiquing-ai-a-student-research-showcase",
+   "title": "Activism in Action - Critiquing AI: a Student Research Showcase",
+   "date": "2026-12-08",
+   "doors": "",
+   "show_time": "6:30 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase"
+  },
+  {
    "id": "gettight-2026-12-09-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-09",
@@ -4399,23 +4348,6 @@
    "doors": "6:30 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-12-12-good-guys-clampdown",
-   "title": "GOOD GUYS, CLAMPDOWN",
-   "date": "2026-12-12",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
    "url": "https://thebroadberry.com/events/",
    "kind": "m",
    "age": "",
@@ -4520,23 +4452,6 @@
    "url": "https://thebroadberry.com/events/",
    "kind": "m",
    "age": "18+",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/events/"
-  },
-  {
-   "id": "bb-2026-12-18-jack-leon-the-sugar-hollows",
-   "title": "JACK LEON, THE SUGAR HOLLOWS",
-   "date": "2026-12-18",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/events/",
-   "kind": "m",
-   "age": "",
    "address": "",
    "price_display": "",
    "free": false,

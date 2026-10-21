@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-20T16:05:39-04:00",
+ "updated": "2026-10-21T11:02:48-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-20-midnight-ukulele-society-show",
-   "title": "Midnight Ukulele Society Show",
-   "date": "2026-10-20",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/midnight-ukulele-society-show",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/midnight-ukulele-society-show"
-  },
   {
    "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
    "title": "Pop-Out WEDNESDAYS networking Event",
@@ -28,7 +11,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6",
+   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y",
    "kind": "o",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
@@ -36,7 +19,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6"
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y"
   },
   {
    "id": "mainline-2026-10-22-the-midnight-bluesmen",

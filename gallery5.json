@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:05:21-04:00",
+ "updated": "2026-10-21T11:02:30-04:00",
  "venues": [
   "Gallery5"
  ],
@@ -207,6 +207,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations"
+  },
+  {
+   "id": "gallery5-2026-12-08-activism-in-action-critiquing-ai-a-student-research-showcase",
+   "title": "Activism in Action - Critiquing AI: a Student Research Showcase",
+   "date": "2026-12-08",
+   "doors": "",
+   "show_time": "6:30 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase"
   },
   {
    "id": "gallery5-2026-12-10-nerdy-thirsty-thursdays",

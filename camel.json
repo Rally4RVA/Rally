@@ -1,34 +1,9 @@
 {
- "updated": "2026-10-20T16:04:54-04:00",
+ "updated": "2026-10-21T11:02:03-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "dead-steppe-brash-bedpiss-guzum-20-oct",
-   "title": "Dead Steppe, Brash, Bedpiss, Guzum",
-   "date": "2026-10-20",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/dead-steppe-brash-bedpiss-guzum-20-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/755465/web_orders/new"
-  },
   {
    "id": "sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
    "title": "Sundance Cowboy, Michael & The Misdemeanors, Wide Toad",
@@ -224,18 +199,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/630347/web_orders/new"
   },
   {
@@ -342,10 +309,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$25.25",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
   },
   {
@@ -376,10 +351,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/714126/web_orders/new"
   },
   {
@@ -459,7 +442,7 @@
   },
   {
    "id": "sap-03-nov",
-   "title": "Sap, Sludge Mother",
+   "title": "Sap, Sludge Mother, easterlin",
    "date": "2026-11-03",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -1014,7 +997,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
