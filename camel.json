@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:26:12-04:00",
+ "updated": "2026-10-21T21:09:32-04:00",
  "venues": [
   "The Camel"
  ],
@@ -265,13 +265,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "guerilla-toss-28-oct",
@@ -524,9 +524,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -592,18 +592,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
@@ -859,8 +851,8 @@
    "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "title": "Dave Hause and The Mermaid: The Cellmates Tour w/Jeremy White",
    "date": "2026-11-19",
-   "doors": "",
-   "show_time": "7:00 PM",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "kind": "m",
@@ -1185,7 +1177,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -1296,31 +1296,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
-  },
-  {
-   "id": "sister-wife-sex-strike-local-news-legend-14-apr",
-   "title": "Sister Wife Sex Strike, Local News Legend",
-   "date": "2027-04-14",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/sister-wife-sex-strike-local-news-legend-14-apr",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   }
  ]
 }

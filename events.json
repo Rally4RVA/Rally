@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:29:54-04:00",
+ "updated": "2026-10-21T21:13:02-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -109,7 +109,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
+   "price_display": "$14.64",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -126,10 +126,18 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$18.35",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 15.0,
+     "fee": 3.35,
+     "total": 18.35,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
   },
   {
@@ -1394,13 +1402,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "hardywood-2026-10-28-804-run-club-every-wednesday",
@@ -2713,9 +2721,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -3019,18 +3027,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
@@ -4175,11 +4175,28 @@
    "ticket_url": "https://www.etix.com/ticket/p/68873298/music-at-hardywood-2-richmond-hardywood-park-craft-brewery-richmond-symphony"
   },
   {
+   "id": "bb-2026-11-19-winyah-foxtide",
+   "title": "WINYAH, FOXTIDE",
+   "date": "2026-11-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "title": "Dave Hause and The Mermaid: The Cellmates Tour w/Jeremy White",
    "date": "2026-11-19",
-   "doors": "",
-   "show_time": "7:00 PM",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "kind": "m",
@@ -4198,23 +4215,6 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
-  },
-  {
-   "id": "bb-2026-11-19-winyah-foxtide",
-   "title": "WINYAH, FOXTIDE",
-   "date": "2026-11-19",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
@@ -5735,7 +5735,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -5897,31 +5905,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.etix.com/ticket/p/73303230/?partner_id=240"
-  },
-  {
-   "id": "sister-wife-sex-strike-local-news-legend-14-apr",
-   "title": "Sister Wife Sex Strike, Local News Legend",
-   "date": "2027-04-14",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/sister-wife-sex-strike-local-news-legend-14-apr",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {
    "id": "hardywood-2027-04-15-richmond-symphony-at-hardywood",

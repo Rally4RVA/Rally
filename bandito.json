@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:28:30-04:00",
+ "updated": "2026-10-21T21:11:44-04:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
@@ -15,10 +15,18 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
+   "price_display": "$18.35",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 15.0,
+     "fee": 3.35,
+     "total": 18.35,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
   },
   {
