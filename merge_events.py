@@ -5,7 +5,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("America/New_York")
-FILES = ["camel.json", "cobra.json", "broadberry.json", "gallery5.json", "hardywood.json", "bandito.json", "gettight.json", "manual.json", "mainline.json", "reveler.json", "canalclub.json", "northside.json"]
+FILES = ["camel.json", "cobra.json", "broadberry.json", "gallery5.json", "hardywood.json", "bandito.json", "gettight.json", "manual.json", "mainline.json", "reveler.json", "canalclub.json", "northside.json", "brambly.json"]
 
 today = datetime.now(TZ).date().isoformat()
 events, venues = [], []
