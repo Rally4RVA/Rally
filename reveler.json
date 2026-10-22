@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:09:44-04:00",
+ "updated": "2026-10-22T11:06:39-04:00",
  "venues": [
   "Révéler"
  ],
@@ -15,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
+   "price_display": "Sold out",
    "free": false,
    "table_price": null,
    "tiers": [],

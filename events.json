@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:11:18-04:00",
+ "updated": "2026-10-22T11:08:12-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -200,7 +200,7 @@
    "kind": "m",
    "age": "21+",
    "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
+   "price_display": "Sold out",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -514,10 +514,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$13.22",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/719268/web_orders/new"
   },
   {
@@ -792,13 +800,21 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/chandler-24-oct",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/684983/web_orders/new"
   },
   {
    "id": "bandito-2026-10-24-daikaiju-w-payphones-portside-chapel",
@@ -1298,7 +1314,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1306,7 +1322,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z"
   },
   {
    "id": "reveler-2026-10-27-maddy-curtis-the-haunted-quartet-7-00-pm",
@@ -1351,13 +1367,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "brambly-2026-10-28-wine-down-wednesdays",
@@ -2441,7 +2457,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2449,7 +2465,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z"
   },
   {
    "id": "manual-the-canal-club-2026-11-03-devil-master-private-hell-vigil",
@@ -3268,7 +3284,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3276,7 +3292,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z"
   },
   {
    "id": "reveler-2026-11-10-zarove-7-00-pm",
@@ -3523,7 +3539,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -4054,7 +4070,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4062,7 +4078,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z"
   },
   {
    "id": "gettight-2026-11-17-two-steppin-tuesday-presents-dj-real-mike-smith-7-00-pm",
@@ -4603,7 +4619,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -4611,7 +4627,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z"
   },
   {
    "id": "bb-2026-11-25-fear-of-music-a-thanksgiving-eve-tradition",
@@ -4712,7 +4728,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -5062,7 +5086,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -5756,6 +5780,23 @@
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
   },
   {
+   "id": "bb-2027-02-05-gage-saylor-the-creekside-boys",
+   "title": "GAGE SAYLOR & THE CREEKSIDE BOYS",
+   "date": "2027-02-05",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/gage-saylor-the-creekside-boys/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/gage-saylor-the-creekside-boys/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-05-silverada",
    "title": "SILVERADA",
    "date": "2027-02-05",
@@ -5786,7 +5827,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -5805,23 +5854,16 @@
    "table_price": null,
    "tiers": [
     {
-     "name": "Membership Presale",
-     "base": 30.42,
-     "fee": 0.0,
-     "total": 30.42,
-     "status": ""
-    },
-    {
-     "name": "$40 Two Pack Presale",
-     "base": 50.82,
-     "fee": 0.0,
+     "name": "$40 Two Pack",
+     "base": 40.0,
+     "fee": 10.82,
      "total": 50.82,
      "status": ""
     },
     {
-     "name": "Presale",
-     "base": 30.42,
-     "fee": 0.0,
+     "name": "Advance",
+     "base": 25.0,
+     "fee": 5.42,
      "total": 30.42,
      "status": ""
     }
@@ -5926,10 +5968,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Presale",
+     "base": 23.19,
+     "fee": 0.0,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
