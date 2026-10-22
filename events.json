@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:30:00-04:00",
+ "updated": "2026-10-21T22:13:00-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -31,23 +31,6 @@
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "brambly-2026-10-21-wine-down-wednesdays",
-   "title": "Wine Down Wednesdays",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "o",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
   {
    "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
    "title": "Pop-Out WEDNESDAYS networking Event",
@@ -220,8 +203,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -389,8 +372,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -406,8 +389,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -779,8 +762,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -796,8 +779,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -813,8 +796,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -1575,8 +1558,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -1871,8 +1854,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -1888,8 +1871,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -1938,7 +1921,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -2142,8 +2125,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -2159,8 +2142,8 @@
    "kind": "m",
    "age": "",
    "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
@@ -4908,7 +4891,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
