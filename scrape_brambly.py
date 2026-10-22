@@ -10,7 +10,7 @@ from rally_common import fmt_time, slug, save, event, today_iso, MONTHS
 LIST = "https://www.bramblypark.com/eventscalendar"
 VENUE = "Brambly Park"
 ADDRESS = "1708 Belleville St, Richmond, VA"
-DEFAULT_PRICE = ""      # the cards list no price; set to "Free" here if the music nights are free
+DEFAULT_PRICE = "Free"   # the cards list no price, and Brambly Park shows are always free
 MONTH_HEAD = re.compile(r"^(January|February|March|April|May|June|July|August|September|October|November|December) (\d{4})$")
 MON = re.compile(r"^(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)$")
 DOW = re.compile(r"^(MON|TUE|WED|THU|FRI|SAT|SUN)$")
@@ -78,7 +78,8 @@ def run():
         out.append(event(
             id=f"brambly-{s['date']}-{slug(s['title'])}", title=s["title"], date=s["date"], show_time=s["show_time"],
             venue=VENUE, url=LIST, ticket_url=LIST, kind="m" if s["music"] else "o", address=ADDRESS,
-            price_display=DEFAULT_PRICE, free=DEFAULT_PRICE.lower().startswith("free")))
+            price_display=DEFAULT_PRICE if s["music"] else "",
+            free=bool(s["music"]) and DEFAULT_PRICE.lower().startswith("free")))
         print(" ", s["date"], "|", s["title"][:50], "|", s["show_time"], "|", "music" if s["music"] else "not a gig")
     if len(out) < 3:
         print(f"Only {len(out)} shows came back, so brambly.json was left alone.")
