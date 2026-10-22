@@ -1,6 +1,9 @@
 """
-Rally scraper for venues that sell through Shotgun (shotgun.live): LOSO and Pandora Cafe & House Music.
-Each venue page lists its shows with date, time and price. Writes shotgun.json.
+Rally scraper for LOSO and Pandora Cafe & House Music. Both sell through Shotgun.
+LOSO's own calendar page (losorichmond.com/calendar) shows each show as a card:
+    Title / LOSO / "Oct 23 | 9:00 PM  $22.70" / genre tags
+Pandora Cafe's Shotgun page uses the same cards. The scraper reads the visible text of the page (and any embedded
+frames), so it does not depend on the page's hidden structure. Writes shotgun.json.
 """
 import re
 import sys
@@ -8,13 +11,15 @@ from datetime import date
 from rally_common import fmt_time, slug, money, save, event, today_iso, MONTHS
 
 VENUES = [
-    {"name": "LOSO", "url": "https://shotgun.live/en/venues/loso", "address": "2727 W Broad St, Richmond, VA"},
-    {"name": "Pandora Cafe", "url": "https://shotgun.live/en/venues/pandora-cafe-house-music", "address": "Richmond, VA"},
+    {"name": "LOSO", "urls": ["https://losorichmond.com/calendar", "https://shotgun.live/en/venues/loso"],
+     "address": "2727 W Broad St, Richmond, VA", "names": ["loso"]},
+    {"name": "Pandora Cafe", "urls": ["https://shotgun.live/en/venues/pandora-cafe-house-music"],
+     "address": "Richmond, VA", "names": ["richmond", "pandora cafe", "pandora café"]},
 ]
-DATE_RE = re.compile(r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.? (\d{1,2})(?:,? (\d{4}))?(?!\d)")
-TIME_RE = re.compile(r"\d{1,2}(?::\d{2})?\s?[AP]M", re.I)
-PRICE_RE = re.compile(r"\$\s?(\d+(?:\.\d{2})?)")
-SKIP = re.compile(r"^(?:Richmond|Sold out|Free|Tickets?|Buy|From|\d{4})$", re.I)
+DATE_LINE = re.compile(
+    r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* (\d{1,2})(?:,? (\d{4}))?\s*\|\s*(\d{1,2}(?::\d{2})?\s?[AP]M)\s*(\$\s?\d+(?:\.\d{2})?)?\s*$", re.I)
+PRICE_LINE = re.compile(r"^\$\s?(\d+(?:\.\d{2})?)$")
+TAG_LINE = re.compile(r"^(?:\+\d+|[A-Z0-9&/ \-]{3,40})$")   # genre chips are ALL CAPS, e.g. "DETROIT TECHNO", "+1"
 
 
 def to_iso(mon, day, year, today):
@@ -30,31 +35,30 @@ def to_iso(mon, day, year, today):
         return ""
 
 
-def parse_card(text, today):
-    """One event card's text -> dict, or None. Title is the first line that is not a date, time, price or city."""
-    lines = [re.sub(r"\s+", " ", l).strip() for l in text.splitlines() if l.strip()]
-    flat = " ".join(lines)
-    dm = DATE_RE.search(flat)
-    if not dm:
-        return None
-    day = to_iso(dm.group(1), dm.group(2), dm.group(3), today)
-    title = ""
-    for l in lines:
-        if DATE_RE.search(l) or PRICE_RE.search(l) or TIME_RE.fullmatch(l) or SKIP.match(l):
+def parse_text(body, today, venue_names):
+    """Cards from page text. Returns a list of dicts in page order."""
+    lines = [re.sub(r"\s+", " ", l).strip() for l in body.splitlines() if l.strip()]
+    out = []
+    for i, l in enumerate(lines):
+        m = DATE_LINE.match(l)
+        if not m:
             continue
-        title = l
-        break
-    if not title:
-        title = re.split(r"(?:Richmond)?\s*(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d", flat)[0].strip()
-    tm = TIME_RE.search(flat[dm.end():])
-    pm = PRICE_RE.search(flat)
-    sold = bool(re.search(r"sold out", flat, re.I)) and not pm
-    price = "Sold out" if sold else (money(pm.group(1)) if pm else "")
-    title = re.sub(r"(.{3,}?)\1+", r"\1", title)          # a title printed twice in a row
-    title = re.sub(r"\s*\|\s*", ", ", title).strip()
-    if not (day and title) or day < today:
-        return None
-    return dict(title=title, date=day, show_time=fmt_time(tm.group(0)) if tm else "", price=price, free=False)
+        price = m.group(5) or ""
+        if not price and i + 1 < len(lines) and PRICE_LINE.match(lines[i + 1]):
+            price = lines[i + 1]
+        # title: walk up past the venue / city line
+        title = ""
+        for k in range(i - 1, max(i - 4, -1), -1):
+            if lines[k].lower() in venue_names:
+                continue
+            title = lines[k]
+            break
+        title = re.sub(r"\s*\|\s*", ", ", title).strip()
+        day = to_iso(m.group(1), m.group(2), m.group(3), today)
+        pm = PRICE_LINE.match(price.replace(" ", "")) if price else None
+        out.append(dict(title=title, date=day, show_time=fmt_time(m.group(4)),
+                        price=money(pm.group(1)) if pm else "", free=False))
+    return [c for c in out if c["title"] and c["date"] and c["date"] >= today]
 
 
 def run():
@@ -65,33 +69,48 @@ def run():
         b = p.chromium.launch(headless=True)
         pg = b.new_page()
         for v in VENUES:
-            try:
-                pg.goto(v["url"], wait_until="domcontentloaded", timeout=60000)
-                pg.wait_for_timeout(6000)
-                for _ in range(6):
-                    pg.mouse.wheel(0, 5000)
-                    pg.wait_for_timeout(600)
-                cards = pg.eval_on_selector_all(
-                    "a[href*='/events/']", "els => els.map(e => [e.innerText, e.href])")
-            except Exception as ex:
-                print(v["name"], "failed:", str(ex).splitlines()[0])
-                continue
-            seen, n = set(), 0
-            for text, href in cards:
-                if href in seen:
+            cards, links, used = [], [], ""
+            for url in v["urls"]:
+                try:
+                    pg.goto(url, wait_until="domcontentloaded", timeout=60000)
+                    pg.wait_for_timeout(7000)
+                    for _ in range(6):
+                        pg.mouse.wheel(0, 5000)
+                        pg.wait_for_timeout(600)
+                except Exception as ex:
+                    print(" ", v["name"], url, "failed:", str(ex).splitlines()[0])
                     continue
-                seen.add(href)
-                c = parse_card(text, today)
-                if not c:
-                    continue
-                n += 1
+                # the shows may be on the page itself or in an embedded frame (the Shotgun widget)
+                for fr in [pg] + [f for f in pg.frames if f != pg.main_frame]:
+                    try:
+                        text = fr.inner_text("body") if fr is not pg else pg.inner_text("body")
+                        found = parse_text(text, today, v["names"])
+                        if found:
+                            cards = found
+                            used = url
+                            links = fr.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)") if fr is not pg \
+                                else pg.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)")
+                            break
+                    except Exception:
+                        continue
+                if cards:
+                    break
+                allt = pg.inner_text("body")
+                print(f"  DEBUG {v['name']} {url}: no shows read. Page title {pg.title()!r}; frames: {[f.url[:60] for f in pg.frames]}")
+                print("   page text starts:", repr(allt[:500]))
+            uniq = []
+            for l in links:
+                if l not in uniq:
+                    uniq.append(l)
+            for n, c in enumerate(cards):
+                href = uniq[n] if len(uniq) == len(cards) else (v["urls"][-1] if "shotgun" in v["urls"][-1] else used)
                 out.append(event(
                     id=f"shotgun-{slug(v['name'])}-{c['date']}-{slug(c['title'])}", title=c["title"], date=c["date"],
                     show_time=c["show_time"], venue=v["name"], url=href, ticket_url=href, kind="m",
                     address=v["address"], price_display=c["price"], free=c["free"]))
                 print(" ", v["name"], c["date"], "|", c["title"][:45], "|", c["price"] or "no price", "|", c["show_time"])
-            print(f"{v['name']}: {n} shows")
-            ok += 1 if n else 0
+            print(f"{v['name']}: {len(cards)} shows" + (f" (read from {used})" if used else ""))
+            ok += 1 if cards else 0
         b.close()
     if not out or not ok:
         print("No shows came back, so shotgun.json was left alone.")
