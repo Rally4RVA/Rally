@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:51:54-04:00",
+ "updated": "2026-10-21T20:27:13-04:00",
  "venues": [
   "Gallery5"
  ],
@@ -15,7 +15,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
+   "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:54:33-04:00",
+ "updated": "2026-10-21T20:29:54-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -109,7 +109,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
+   "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -126,18 +126,10 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
   },
   {
@@ -4661,15 +4653,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -5023,7 +5007,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
