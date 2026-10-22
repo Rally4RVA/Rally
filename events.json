@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:13:02-04:00",
+ "updated": "2026-10-21T21:30:00-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -27,9 +27,27 @@
   "The Workshop",
   "VSC",
   "Main Line Brewery",
-  "Révéler"
+  "Révéler",
+  "Brambly Park"
  ],
  "events": [
+  {
+   "id": "brambly-2026-10-21-wine-down-wednesdays",
+   "title": "Wine Down Wednesdays",
+   "date": "2026-10-21",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
   {
    "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
    "title": "Pop-Out WEDNESDAYS networking Event",
@@ -109,7 +127,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
+   "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -190,6 +208,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct"
+  },
+  {
+   "id": "brambly-2026-10-22-4th-thursdays-with-tyler-meacham",
+   "title": "4th Thursdays with Tyler Meacham",
+   "date": "2026-10-22",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
@@ -342,6 +377,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2452542"
+  },
+  {
+   "id": "brambly-2026-10-23-4th-fridays-with-lilah-moons",
+   "title": "4th Fridays with Lilah Moons",
+   "date": "2026-10-23",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-23-tristan-dougherty",
+   "title": "Tristan Dougherty",
+   "date": "2026-10-23",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "hardywood-2026-10-23-hardywood-bourbon-caliente-gbs-release",
@@ -698,6 +767,57 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
+  },
+  {
+   "id": "brambly-2026-10-24-ross-wright",
+   "title": "Ross Wright",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-24-jim-ivins",
+   "title": "Jim Ivins",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-24-ronnie-luxe",
+   "title": "Ronnie Luxe",
+   "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "mainline-2026-10-24-filipino-american-history-month-celebration",
@@ -1258,6 +1378,23 @@
    "ticket_url": "https://www.etix.com/ticket/p/81998132/jrobbins-at-banditos-richmond-banditos?partner_id=399"
   },
   {
+   "id": "brambly-2026-10-27-trivia-in-the-restaurant",
+   "title": "Trivia in the Restaurant",
+   "date": "2026-10-27",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
    "id": "live-spooky-i-spy-27-oct",
    "title": "Live Spooky I Spy",
    "date": "2026-10-27",
@@ -1402,13 +1539,47 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
    "kind": "m",
-   "age": "",
-   "address": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
+  },
+  {
+   "id": "brambly-2026-10-28-wine-down-wednesdays",
+   "title": "Wine Down Wednesdays",
+   "date": "2026-10-28",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-28-4th-wednesdays-with-corey-wells",
+   "title": "4th Wednesdays with Corey Wells",
+   "date": "2026-10-28",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "hardywood-2026-10-28-804-run-club-every-wednesday",
@@ -1690,6 +1861,40 @@
    "ticket_url": "https://buytickets.at/reveler/2425086"
   },
   {
+   "id": "brambly-2026-10-30-anthony-gill",
+   "title": "Anthony Gill",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-30-ramona-martinez",
+   "title": "Ramona Martinez",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
    "id": "recurring-bottomsuppizza-2026-10-30",
    "title": "Live music (see Instagram for the band)",
    "date": "2026-10-30",
@@ -1925,6 +2130,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/samazon-prime-dj-30-oct"
+  },
+  {
+   "id": "brambly-2026-10-31-kenneka-cook",
+   "title": "Kenneka Cook",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-31-elizabeth-wise",
+   "title": "Elizabeth Wise",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "recurring-bottomsuppizza-2026-10-31",
@@ -2721,9 +2960,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -3027,10 +3266,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
@@ -3468,7 +3715,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -5905,6 +6160,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.etix.com/ticket/p/73303230/?partner_id=240"
+  },
+  {
+   "id": "sister-wife-sex-strike-local-news-legend-14-apr",
+   "title": "Sister Wife Sex Strike, Local News Legend",
+   "date": "2027-04-14",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/sister-wife-sex-strike-local-news-legend-14-apr",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$23.19",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {
    "id": "hardywood-2027-04-15-richmond-symphony-at-hardywood",
