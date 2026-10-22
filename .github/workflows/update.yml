@@ -73,6 +73,10 @@ jobs:
         continue-on-error: true
         run: python scrape_brambly.py
 
+      - name: Scrape LOSO and Pandora Cafe
+        continue-on-error: true
+        run: python scrape_shotgun.py
+
       - name: Read hand-entered shows
         continue-on-error: true
         run: python scrape_sheet.py
@@ -84,6 +88,6 @@ jobs:
         run: |
           git config user.name "rally-bot"
           git config user.email "rally-bot@users.noreply.github.com"
-          git add events.json camel.json cobra.json broadberry.json gallery5.json hardywood.json bandito.json gettight.json manual.json mainline.json reveler.json canalclub.json northside.json brambly.json
+          git add events.json camel.json cobra.json broadberry.json gallery5.json hardywood.json bandito.json gettight.json manual.json mainline.json reveler.json canalclub.json northside.json brambly.json shotgun.json
           git diff --cached --quiet || git commit -m "Update shows"
           git push
