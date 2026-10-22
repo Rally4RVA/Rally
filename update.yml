@@ -1,0 +1,93 @@
+name: Update shows
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # every morning, about 6am Richmond time
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install browser
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      # If one venue breaks, the others still update and that venue keeps its last good list.
+      - name: Scrape The Camel
+        continue-on-error: true
+        run: python scrape_camel.py
+
+      - name: Scrape Cobra Cabana
+        continue-on-error: true
+        run: python scrape_cobra.py
+
+      - name: Scrape Broadberry, Richmond Music Hall and VCU Live
+        continue-on-error: true
+        run: python scrape_broadberry.py
+
+      - name: Scrape Gallery5
+        continue-on-error: true
+        run: python scrape_squarespace.py gallery5
+
+      - name: Scrape Hardywood
+        continue-on-error: true
+        run: python scrape_squarespace.py hardywood
+
+      - name: Scrape Main Line Brewery
+        continue-on-error: true
+        run: python scrape_squarespace.py mainline
+
+      - name: Scrape Bandito's
+        continue-on-error: true
+        run: python scrape_bandito.py
+
+      - name: Scrape Get Tight
+        continue-on-error: true
+        run: python scrape_gettight.py
+
+      - name: Scrape Reveler
+        continue-on-error: true
+        run: python scrape_reveler.py
+
+      - name: Scrape The Canal Club
+        continue-on-error: true
+        run: python scrape_canalclub.py
+
+      - name: Scrape Northside Grille
+        continue-on-error: true
+        run: python scrape_northside.py
+
+      - name: Scrape Brambly Park
+        continue-on-error: true
+        run: python scrape_brambly.py
+
+      - name: Scrape LOSO and Pandora Cafe
+        continue-on-error: true
+        run: python scrape_shotgun.py
+
+      - name: Read hand-entered shows
+        continue-on-error: true
+        run: python scrape_sheet.py
+
+      - name: Combine venues
+        run: python merge_events.py
+
+      - name: Save shows
+        run: |
+          git config user.name "rally-bot"
+          git config user.email "rally-bot@users.noreply.github.com"
+          git add events.json camel.json cobra.json broadberry.json gallery5.json hardywood.json bandito.json gettight.json manual.json mainline.json reveler.json canalclub.json northside.json brambly.json shotgun.json
+          git diff --cached --quiet || git commit -m "Update shows"
+          git push
