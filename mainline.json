@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-21T22:34:31-04:00",
+ "updated": "2026-10-22T00:07:41-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
-   "title": "Pop-Out WEDNESDAYS networking Event",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y"
-  },
   {
    "id": "mainline-2026-10-22-the-midnight-bluesmen",
    "title": "The Midnight Bluesmen",

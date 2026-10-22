@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-21T22:35:26-04:00",
+ "updated": "2026-10-22T00:08:36-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-21-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
-   "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct"
-  },
   {
    "id": "gettight-2026-10-22-brother-thunder-8-00-pm",
    "title": "BROTHER THUNDER",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$17.87",
    "free": false,
    "table_price": null,
    "tiers": [],

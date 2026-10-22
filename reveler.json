@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-21T22:36:36-04:00",
+ "updated": "2026-10-22T00:09:44-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-21-the-hurricane-party-album-release-party-8-00-pm",
-   "title": "The Hurricane Party Album Release Party",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-hurricane-party-10212026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2435906"
-  },
   {
    "id": "reveler-2026-10-22-kyle-davis-8-00-pm",
    "title": "Kyle Davis",

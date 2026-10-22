@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-21T22:34:05-04:00",
+ "updated": "2026-10-22T00:07:14-04:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-10-21-804-run-club-every-wednesday",
-   "title": "804 Run Club - Every Wednesday!",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "5:45 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
-  },
-  {
-   "id": "hardywood-2026-10-21-rva-pro-wrestling-the-lucky-13-rumble",
-   "title": "RVA Pro Wrestling: The Lucky 13 Rumble",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble"
-  },
   {
    "id": "hardywood-2026-10-23-hardywood-bourbon-caliente-gbs-release",
    "title": "Hardywood Bourbon Caliente GBS Release",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-21T22:32:53-04:00",
+ "updated": "2026-10-22T00:06:08-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
-   "title": "Sundance Cowboy, Michael & The Misdemeanors, Wide Toad",
-   "date": "2026-10-21",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
-  },
   {
    "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
    "title": "Camel Comedy Happy Hour Open Mic",
@@ -49,16 +32,23 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    },
     {
      "name": "Advance (1)",
      "base": 18.0,
      "fee": 5.19,
      "total": 23.19,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/755466/web_orders/new"
@@ -91,18 +81,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/719268/web_orders/new"
   },
   {
@@ -139,21 +121,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/chandler-24-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/684983/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "drag-brunch-reigning-terror-25-oct",
@@ -723,7 +697,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,

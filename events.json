@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:38:11-04:00",
+ "updated": "2026-10-22T00:11:18-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -14,7 +14,6 @@
   "Bottoms Up Pizza",
   "Chugalug",
   "Cobra Cabana",
-  "Dogwood Dell",
   "Fuzzy Cactus",
   "Gallery 5",
   "Moose Lodge",
@@ -31,167 +30,6 @@
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-21-pop-out-wednesdays-networking-event",
-   "title": "Pop-Out WEDNESDAYS networking Event",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-music-event-586m6-tsd8y"
-  },
-  {
-   "id": "hardywood-2026-10-21-804-run-club-every-wednesday",
-   "title": "804 Run Club - Every Wednesday!",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "5:45 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
-  },
-  {
-   "id": "hardywood-2026-10-21-rva-pro-wrestling-the-lucky-13-rumble",
-   "title": "RVA Pro Wrestling: The Lucky 13 Rumble",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-pro-wrestling-the-lucky-13-rumble"
-  },
-  {
-   "id": "sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
-   "title": "Sundance Cowboy, Michael & The Misdemeanors, Wide Toad",
-   "date": "2026-10-21",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/sundance-cowboy-michael-the-misdemeanors-wide-toad-21-oct",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
-  },
-  {
-   "id": "gallery5-2026-10-21-mongo-atl-drugula-atl-badgerhive",
-   "title": "Mongo (ATL), Drugula (ATL), Badgerhive",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/mongo-atl-drugula-atl-druid-stone-tickets-2002102306895"
-  },
-  {
-   "id": "bandito-2026-10-21-fervence-enthronement-i-regret-nothing-abismo-nix",
-   "title": "Fervence, Enthronement, I Regret Nothing, Abismo Ónix",
-   "date": "2026-10-21",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/fervence-enthronement-i-regret-nothing-abismo-onix-october-21-2026-743612"
-  },
-  {
-   "id": "manual-dogwood-dell-2026-10-21-foot-fetish-havana-syndrome-inverted-cross-spicy-meatball",
-   "title": "Foot Fetish, Havana Syndrome, Inverted Cross, Spicy Meatball",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Dogwood Dell",
-   "url": "https://www.instagram.com/p/DefDN_lv2dt/",
-   "kind": "m",
-   "age": "",
-   "address": "Byrd Park, Richmond",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DefDN_lv2dt/"
-  },
-  {
-   "id": "reveler-2026-10-21-the-hurricane-party-album-release-party-8-00-pm",
-   "title": "The Hurricane Party Album Release Party",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-hurricane-party-10212026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2435906"
-  },
-  {
-   "id": "gettight-2026-10-21-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
-   "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-21-oct"
-  },
   {
    "id": "brambly-2026-10-22-4th-thursdays-with-tyler-meacham",
    "title": "4th Thursdays with Tyler Meacham",
@@ -271,16 +109,23 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    },
     {
      "name": "Advance (1)",
      "base": 18.0,
      "fee": 5.19,
      "total": 23.19,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/755466/web_orders/new"
@@ -321,7 +166,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$17.87",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -669,18 +514,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/719268/web_orders/new"
   },
   {
@@ -955,21 +792,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/chandler-24-oct",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/684983/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "bandito-2026-10-24-daikaiju-w-payphones-portside-chapel",
@@ -3694,7 +3523,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,

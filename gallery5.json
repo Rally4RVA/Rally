@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-21T22:33:55-04:00",
+ "updated": "2026-10-22T00:07:05-04:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-10-21-mongo-atl-drugula-atl-badgerhive",
-   "title": "Mongo (ATL), Drugula (ATL), Badgerhive",
-   "date": "2026-10-21",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/mongo-drugula-badgerhive",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/mongo-atl-drugula-atl-druid-stone-tickets-2002102306895"
-  },
   {
    "id": "gallery5-2026-10-23-creative-community-happy-hour-and-carnival-of-five-fires-clo",
    "title": "Creative Community Happy Hour and \"Carnival of Five Fires\" Closing Reception",
