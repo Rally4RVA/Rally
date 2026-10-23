@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-22T11:06:39-04:00",
+ "updated": "2026-10-23T10:55:03-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-22-kyle-davis-8-00-pm",
-   "title": "Kyle Davis",
-   "date": "2026-10-22",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/kyle-davis-10222026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "Sold out",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2452542"
-  },
   {
    "id": "reveler-2026-10-23-saxsmo-gates-plays-cannonball-adderley-7-00-pm",
    "title": "Saxsmo Gates Plays Cannonball Adderley",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-22T11:05:32-04:00",
+ "updated": "2026-10-23T10:53:55-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-22-brother-thunder-8-00-pm",
-   "title": "BROTHER THUNDER",
-   "date": "2026-10-22",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/brother-thunder-22-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$17.87",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/brother-thunder-22-oct"
-  },
   {
    "id": "gettight-2026-10-23-melodic-dj-10-00-pm",
    "title": "MELODIC (DJ)",
@@ -156,6 +139,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-28-oct"
+  },
+  {
+   "id": "gettight-2026-10-29-house-night-elliott-10-00-pm",
+   "title": "HOUSE NIGHT: ELLIOTT",
+   "date": "2026-10-29",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/house-night-elliott-29-oct",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-29-oct"
   },
   {
    "id": "gettight-2026-10-30-benefiting-diversity-richmond-miramar-yeni-nostalji-dj-doguc-8-00-pm",

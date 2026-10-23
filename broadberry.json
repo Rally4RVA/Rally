@@ -1,28 +1,11 @@
 {
- "updated": "2026-10-22T11:03:30-04:00",
+ "updated": "2026-10-23T10:51:50-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-10-22-grateful-allman-band-experience-feat-susan-paulette",
-   "title": "GRATEFUL ALLMAN BAND EXPERIENCE FEAT. SUSAN PAULETTE",
-   "date": "2026-10-22",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/grateful-allman-band-experience-feat-susan-paulette-3/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/grateful-allman-band-experience-feat-susan-paulette-3/richmond-music-hall/richmond-virginia/"
-  },
   {
    "id": "bb-2026-10-23-oso-oso-leisure-hour-and-bad-luck",
    "title": "OSO OSO, LEISURE HOUR AND BAD LUCK.",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:08:12-04:00",
+ "updated": "2026-10-23T10:56:38-04:00",
  "venues": [
   "Bandito's",
   "Bottoms Up Pizza",
@@ -51,23 +51,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
-  },
-  {
-   "id": "manual-vsc-2026-10-22-excess-blood-serqet-poison-children",
-   "title": "Excess Blood, Serqet, Poison Children",
-   "date": "2026-10-22",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "VSC",
-   "url": "https://www.instagram.com/p/DeWgKwtx3SR/",
-   "kind": "m",
-   "age": "",
-   "address": "DM for address",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DeWgKwtx3SR/"
   },
   {
    "id": "manual-odin-s-underground-2026-10-30-public-acid-division-of-mind-cicada-invertebrates",

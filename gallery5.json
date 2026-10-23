@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:04:06-04:00",
+ "updated": "2026-10-23T10:52:32-04:00",
  "venues": [
   "Gallery5"
  ],
@@ -190,6 +190,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations"
+  },
+  {
+   "id": "gallery5-2026-11-22-jo-rie-s-bday-jump-off-vol-5",
+   "title": "Jo'Rie's Bday Jump Off Vol. 5",
+   "date": "2026-11-22",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/2026/10/22/jories-bday-jump-off-vol-5",
+   "kind": "m",
+   "age": "18+",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$18.44–$84.83",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/jories-bday-jump-off-vol-5-tickets-1975035964737"
   },
   {
    "id": "gallery5-2026-12-08-activism-in-action-critiquing-ai-a-student-research-showcase",

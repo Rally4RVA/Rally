@@ -1,34 +1,9 @@
 {
- "updated": "2026-10-22T11:05:21-04:00",
+ "updated": "2026-10-23T10:53:44-04:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-10-22-dwelling-unit-obedient-power-pants-dollseye",
-   "title": "Dwelling Unit, Obedient, Power Pants, Dollseye!",
-   "date": "2026-10-22",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/dwelling-unit-obedient-power-pants-dollseye-october-22-2026-743230",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/dwelling-unit-obedient-power-pants-dollseye-october-22-2026-743230"
-  },
   {
    "id": "bandito-2026-10-23-big-red-and-the-cowboy-killers-sundance-cowboy",
    "title": "Big Red and the Cowboy Killers & Sundance Cowboy",

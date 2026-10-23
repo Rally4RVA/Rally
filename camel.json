@@ -1,58 +1,9 @@
 {
- "updated": "2026-10-22T11:03:07-04:00",
+ "updated": "2026-10-23T10:51:29-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "camel-comedy-happy-hour-open-mic-22-oct-95e2a",
-   "title": "Camel Comedy Happy Hour Open Mic",
-   "date": "2026-10-22",
-   "doors": "5:30 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-22-oct-95e2a",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760927/web_orders/new"
-  },
-  {
-   "id": "m-brett-jones-maddy-curtis-trio-chet-frierson-outcasts-big-band-22-oct",
-   "title": "M Brett Jones, Maddy Curtis Trio, Chet Frierson, Outcasts Big Band",
-   "date": "2026-10-22",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/m-brett-jones-maddy-curtis-trio-chet-frierson-outcasts-big-band-22-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day Of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    },
-    {
-     "name": "Advance (1)",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/755466/web_orders/new"
-  },
   {
    "id": "blues-brews-feat-kurt-crandall-true-story-23-oct",
    "title": "Blues & Brews feat Kurt Crandall & True Story",
@@ -255,13 +206,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
    "kind": "m",
-   "age": "",
-   "address": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
   },
   {
    "id": "guerilla-toss-28-oct",
@@ -976,15 +927,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -1045,6 +988,23 @@
    "ticket_url": "https://app.opendate.io/confirms/751411/web_orders/new"
   },
   {
+   "id": "the-bachelor-boys-wedding-band-showcase-01-dec",
+   "title": "The Bachelor Boys Wedding Band Showcase",
+   "date": "2026-12-01",
+   "doors": "7:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-01-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
+  },
+  {
    "id": "beers-banjos-slack-family-band-04-dec",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-12-04",
@@ -1054,11 +1014,19 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -1175,15 +1143,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -1234,25 +1194,11 @@
    "table_price": null,
    "tiers": [
     {
-     "name": "Artist Presale",
-     "base": 22.15,
-     "fee": 0.0,
-     "total": 22.15,
-     "status": ""
-    },
-    {
-     "name": "Membership Early Access",
-     "base": 22.15,
-     "fee": 0.0,
-     "total": 22.15,
-     "status": ""
-    },
-    {
      "name": "Advance",
      "base": 17.0,
      "fee": 5.15,
      "total": 22.15,
-     "status": "Sales start October 23, 2026"
+     "status": ""
     },
     {
      "name": "Day Of Show",
@@ -1287,9 +1233,9 @@
    "table_price": null,
    "tiers": [
     {
-     "name": "Presale",
-     "base": 23.19,
-     "fee": 0.0,
+     "name": "Advance (1)",
+     "base": 18.0,
+     "fee": 5.19,
      "total": 23.19,
      "status": ""
     }

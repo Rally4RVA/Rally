@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-22T11:07:37-04:00",
+ "updated": "2026-10-23T10:56:04-04:00",
  "venues": [
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "brambly-2026-10-22-4th-thursdays-with-tyler-meacham",
-   "title": "4th Thursdays with Tyler Meacham",
-   "date": "2026-10-22",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
   {
    "id": "brambly-2026-10-23-4th-fridays-with-lilah-moons",
    "title": "4th Fridays with Lilah Moons",
