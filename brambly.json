@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-23T10:56:04-04:00",
+ "updated": "2026-10-24T10:02:48-04:00",
  "venues": [
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "brambly-2026-10-23-4th-fridays-with-lilah-moons",
-   "title": "4th Fridays with Lilah Moons",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "brambly-2026-10-23-tristan-dougherty",
-   "title": "Tristan Dougherty",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
   {
    "id": "brambly-2026-10-24-ross-wright",
    "title": "Ross Wright",
@@ -76,6 +42,23 @@
    "id": "brambly-2026-10-24-ronnie-luxe",
    "title": "Ronnie Luxe",
    "date": "2026-10-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "m",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
+   "id": "brambly-2026-10-25-jackson-shurlds",
+   "title": "Jackson Shurlds",
+   "date": "2026-10-25",
    "doors": "",
    "show_time": "",
    "venue": "Brambly Park",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:56:38-04:00",
+ "updated": "2026-10-24T10:03:22-04:00",
  "venues": [
   "Bandito's",
   "Bottoms Up Pizza",
@@ -18,23 +18,6 @@
   "VSC"
  ],
  "events": [
-  {
-   "id": "manual-fuzzy-cactus-2026-10-23-becoming-ducttape-jesus-glop",
-   "title": "Becoming, ducttape jesus, glop",
-   "date": "2026-10-23",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Fuzzy Cactus",
-   "url": "",
-   "kind": "m",
-   "age": "21+",
-   "address": "221 W Brookland Park Blvd, Richmond",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": ""
-  },
   {
    "id": "manual-fuzzy-cactus-2026-11-14-ultimatum-destruct-ultimate-disaster-skeksis",
    "title": "Ultimatum, Destruct, Ultimate Disaster, Skeksis",
@@ -306,23 +289,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DdznkRTBKr3/"
-  },
-  {
-   "id": "manual-bottoms-up-pizza-2026-10-23-jonathan-paige-brown-jr",
-   "title": "Jonathan Paige Brown Jr",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "5:30 PM",
-   "venue": "Bottoms Up Pizza",
-   "url": "https://www.instagram.com/p/DesS4uDHwNx/",
-   "kind": "m",
-   "age": "",
-   "address": "1700 Dock St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DesS4uDHwNx/"
   },
   {
    "id": "manual-bottoms-up-pizza-2026-10-24-aidan-kal",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-23T10:53:55-04:00",
+ "updated": "2026-10-24T10:00:33-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-23-melodic-dj-10-00-pm",
-   "title": "MELODIC (DJ)",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/melodic-dj-23-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-23-oct"
-  },
   {
    "id": "gettight-2026-10-24-p-s-q-s-halloween-bash-2-00-pm",
    "title": "P’S & Q’S HALLOWEEN BASH",
@@ -100,8 +83,8 @@
    "kind": "o",
    "age": "All Ages",
    "address": "Richmond, VA",
-   "price_display": "Free to $50.92",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/crabs-n-oysters-25-oct"
@@ -241,6 +224,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-04-nov"
+  },
+  {
+   "id": "gettight-2026-11-05-ravens-flock-week-9-watch-party-8-15-pm",
+   "title": "RAVENS FLOCK WEEK 9 WATCH PARTY!",
+   "date": "2026-11-05",
+   "doors": "",
+   "show_time": "8:15 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/ravens-flock-week-9-watch-party-05-nov",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/ravens-flock-week-9-watch-party-05-nov"
   },
   {
    "id": "gettight-2026-11-06-mikemetic-10-00-pm",

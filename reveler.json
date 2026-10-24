@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-23T10:55:03-04:00",
+ "updated": "2026-10-24T10:01:46-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-23-saxsmo-gates-plays-cannonball-adderley-7-00-pm",
-   "title": "Saxsmo Gates Plays Cannonball Adderley",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/saxsmo-gates-plays-cannonball-adderley",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2413651"
-  },
-  {
-   "id": "reveler-2026-10-23-saxsmo-gates-plays-cannonball-adderley-9-30-pm",
-   "title": "Saxsmo Gates Plays Cannonball Adderley",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/saxsmo-gates-plays-cannonball-adderley",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2413651"
-  },
   {
    "id": "reveler-2026-10-24-the-cosmic-harp-of-erin-roukous-love-other-horror-stories-3-00-pm",
    "title": "The Cosmic Harp Of Erin Roukous Love & Other Horror Stories",
@@ -294,6 +260,23 @@
    "ticket_url": "https://buytickets.at/reveler/2466441"
   },
   {
+   "id": "reveler-2026-11-03-vote-",
+   "title": "Vote",
+   "date": "2026-11-03",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/vote-closed-maintenance-2026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.revelerexperiences.com/event/vote-closed-maintenance-2026"
+  },
+  {
    "id": "reveler-2026-11-04-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
    "date": "2026-11-04",
@@ -394,6 +377,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2437706"
+  },
+  {
+   "id": "reveler-2026-11-08-justin-trawick-and-the-common-good-4-00-pm",
+   "title": "Justin Trawick And The Common Good",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "4:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/justin-trawick-and-the-common-good-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2492936"
   },
   {
    "id": "reveler-2026-11-08-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
@@ -566,6 +566,23 @@
    "ticket_url": "https://buytickets.at/reveler/2361907"
   },
   {
+   "id": "reveler-2026-11-21-richmond-synth-collective-3-00-pm",
+   "title": "Richmond Synth Collective",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/richmond-synth-collective-11212026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2492472"
+  },
+  {
    "id": "reveler-2026-11-22-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
    "date": "2026-11-22",
@@ -581,23 +598,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
-  },
-  {
-   "id": "reveler-2026-11-25-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
-   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/funk-soul-party-11252026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1515983"
   },
   {
    "id": "reveler-2026-11-27-janet-martin-wrecking-ball-7-00-pm",
@@ -651,8 +651,25 @@
    "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
-   "id": "reveler-2026-12-06-michael-winograd-and-the-honorable-mentshn-4-00-pm",
-   "title": "Michael Winograd And The Honorable Mentshn",
+   "id": "reveler-2026-12-02-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
+   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
+   "date": "2026-12-02",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/funk-soul-party-12022026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
+   "id": "reveler-2026-12-06-michael-winograd-and-the-honorable-mentshn-sponsored-by-the--4-00-pm",
+   "title": "Michael Winograd And The Honorable Mentshn Sponsored By The Center For Cultural Vibrancy",
    "date": "2026-12-06",
    "doors": "",
    "show_time": "4:00 PM",
@@ -719,6 +736,40 @@
    "ticket_url": "https://buytickets.at/reveler/2313262"
   },
   {
+   "id": "reveler-2026-12-16-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
+   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
+   "date": "2026-12-16",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/funk-soul-party-12162026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
+   "id": "reveler-2026-12-19-richmond-synth-collective-3-00-pm",
+   "title": "Richmond Synth Collective",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/richmond-synth-collective-12192026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2492475"
+  },
+  {
    "id": "reveler-2026-12-20-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
    "date": "2026-12-20",
@@ -734,6 +785,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-12-30-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
+   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
+   "date": "2026-12-30",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/funk-soul-party-12302026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1515983"
   },
   {
    "id": "reveler-2026-12-31-new-year-s-eve-with-the-afro-zen-allstars-8-00-pm",

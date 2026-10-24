@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-23T10:52:32-04:00",
+ "updated": "2026-10-24T09:59:11-04:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-10-23-creative-community-happy-hour-and-carnival-of-five-fires-clo",
-   "title": "Creative Community Happy Hour and \"Carnival of Five Fires\" Closing Reception",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/creative-happy-hour-october",
-   "kind": "o",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/creative-community-happy-hour-closing-art-exhibition-reception-tickets-2003685957637"
-  },
-  {
-   "id": "gallery5-2026-10-23-fourth-friday-jazz-night-with-seth-morrissey-jazz-trio",
-   "title": "Fourth Friday Jazz Night with Seth Morrissey Jazz Trio",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/jazz-night-seth-morrissey-jazz-trio",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/jazz-night-seth-morrissey-jazz-trio"
-  },
   {
    "id": "gallery5-2026-10-24-old-pup-wi-pearl-snap-butt-flap-drunk-mother",
    "title": "Old Pup (WI), Pearl Snap Butt Flap, Drunk Mother",
@@ -88,6 +54,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/gazee-w-cyber-twin-and-crush-tickets-1998110312733"
+  },
+  {
+   "id": "gallery5-2026-10-27-punk-hardcore-rave-to-vote-yes-on-1",
+   "title": "Punk Hardcore Rave to Vote YES on 1!",
+   "date": "2026-10-27",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/punk-hardcore-rave-to-vote-yes-on-1",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/punk-hardcore-rave-to-vote-yes-on-1"
   },
   {
    "id": "gallery5-2026-10-28-andy-boay-saadia-rais-gull-danny-shyti",
@@ -156,6 +139,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
+  },
+  {
+   "id": "gallery5-2026-11-07-community-care-pickle-potluck",
+   "title": "Community Care: Pickle Potluck",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/2026/10/24/community-care-pickle-potluck",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/2026/10/24/community-care-pickle-potluck"
+  },
+  {
+   "id": "gallery5-2026-11-08-briney-brunch-variety-show",
+   "title": "Briney Brunch Variety Show",
+   "date": "2026-11-08",
+   "doors": "",
+   "show_time": "1:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/2026/11/8/briney-brunch-variety-show",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$14.64",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/briney-brunch-variety-hour-tickets-2003848446646?aff=oddtdtcreator"
   },
   {
    "id": "gallery5-2026-11-13-vigil-primordial-rites-album-release-show",

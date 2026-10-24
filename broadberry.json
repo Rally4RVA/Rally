@@ -1,45 +1,11 @@
 {
- "updated": "2026-10-23T10:51:50-04:00",
+ "updated": "2026-10-24T09:58:28-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-10-23-oso-oso-leisure-hour-and-bad-luck",
-   "title": "OSO OSO, LEISURE HOUR AND BAD LUCK.",
-   "date": "2026-10-23",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/oso-oso-w-leisure-hour-and-bad-luck/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/oso-oso-w-leisure-hour-and-bad-luck/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-23-white-ford-bronco",
-   "title": "WHITE FORD BRONCO",
-   "date": "2026-10-23",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/white-ford-bronco-11/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/white-ford-bronco-11/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-10-27-ouija-macc-america-s-most-wicked-tour-billy-marchiafava-darb",
    "title": "OUIJA MACC: AMERICA’S MOST WICKED TOUR, BILLY MARCHIAFAVA, DARBY O’TRILL, AND MIKEY ROTTEN",

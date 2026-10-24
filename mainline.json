@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-23T10:53:06-04:00",
+ "updated": "2026-10-24T09:59:44-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-23-bark-at-the-breakdown",
-   "title": "Bark At The Breakdown",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/h4gl42tr3vc5w4xidx3nxm8py9xu19",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/h4gl42tr3vc5w4xidx3nxm8py9xu19"
-  },
   {
    "id": "mainline-2026-10-24-filipino-american-history-month-celebration",
    "title": "Filipino American History Month Celebration",

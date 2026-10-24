@@ -1,94 +1,9 @@
 {
- "updated": "2026-10-23T10:52:42-04:00",
+ "updated": "2026-10-24T09:59:20-04:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-10-23-hardywood-bourbon-caliente-gbs-release",
-   "title": "Hardywood Bourbon Caliente GBS Release",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-bourbon-caliente-gbs-release",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bourbon-caliente-gbs-release"
-  },
-  {
-   "id": "hardywood-2026-10-23-hardywood-babka-gbs-release",
-   "title": "Hardywood Babka GBS Release",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-babka-gbs-release-krc82",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-babka-gbs-release-krc82"
-  },
-  {
-   "id": "hardywood-2026-10-23-hardywood-christmas-pancakes-release",
-   "title": "Hardywood Christmas Pancakes Release",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/o9zibk5p75u5cndheov1c8ocloyy68-a3ej9",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/o9zibk5p75u5cndheov1c8ocloyy68-a3ej9"
-  },
-  {
-   "id": "hardywood-2026-10-23-hardywood-gingerbread-porter-release",
-   "title": "Hardywood Gingerbread Porter Release",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-gingerbread-porter-release",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-gingerbread-porter-release"
-  },
-  {
-   "id": "hardywood-2026-10-23-live-music-the-embalmers",
-   "title": "The Embalmers",
-   "date": "2026-10-23",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/the-embalmers-2-43d5g-wxj8z-cfly2-6l6fy",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-embalmers-2-43d5g-wxj8z-cfly2-6l6fy"
-  },
   {
    "id": "hardywood-2026-10-24-live-music-james-river-junction-duo",
    "title": "James River Junction Duo",
@@ -181,7 +96,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk",
+   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -189,7 +104,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
+   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3"
   },
   {
    "id": "hardywood-2026-10-30-live-music-tin-can-fish-band",
@@ -368,7 +283,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l",
+   "url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-keedn-apxtj",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -376,7 +291,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-glb2l"
+   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-keedn-apxtj"
   },
   {
    "id": "hardywood-2026-11-08-the-crafty-devil-presents-a-crafty-rave-with-hardywood",
@@ -436,7 +351,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk",
+   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -444,7 +359,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
+   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3"
   },
   {
    "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
@@ -708,7 +623,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk",
+   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -716,7 +631,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk"
+   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3"
   },
   {
    "id": "hardywood-2026-11-27-live-music-james-river-junction-duo",

@@ -1,51 +1,9 @@
 {
- "updated": "2026-10-23T10:51:29-04:00",
+ "updated": "2026-10-24T09:58:06-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "blues-brews-feat-kurt-crandall-true-story-23-oct",
-   "title": "Blues & Brews feat Kurt Crandall & True Story",
-   "date": "2026-10-23",
-   "doors": "5:00 PM",
-   "show_time": "5:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/blues-brews-feat-kurt-crandall-true-story-23-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
-   "free": true,
-   "table_price": 15.0,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627474/web_orders/new"
-  },
-  {
-   "id": "erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
-   "title": "Erin & the Wildfire 15 year Anniversary and Karaoke",
-   "date": "2026-10-23",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/erin-the-wildfire-15-year-anniversary-and-karaoke-23-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/719268/web_orders/new"
-  },
   {
    "id": "justin-golden-matinee-w-nicky-diamonds-24-oct",
    "title": "Justin Golden Matinee w/Nicky Diamonds",
@@ -57,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$23.19 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -66,6 +24,13 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
      "status": ""
     }
    ],
@@ -82,7 +47,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "$23.19 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -91,6 +56,13 @@
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
      "status": ""
     }
    ],
@@ -927,7 +899,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
