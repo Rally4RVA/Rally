@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-24T10:01:46-04:00",
+ "updated": "2026-10-25T10:19:14-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-24-the-cosmic-harp-of-erin-roukous-love-other-horror-stories-3-00-pm",
-   "title": "The Cosmic Harp Of Erin Roukous Love & Other Horror Stories",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-cosmic-harp-of-erin-roukous",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2444218"
-  },
-  {
-   "id": "reveler-2026-10-24-plunky-oneness-of-juju-9-30-pm",
-   "title": "Plunky & Oneness Of Juju",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/plunky-oneness-of-juju-10242026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$35",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2401861"
-  },
   {
    "id": "reveler-2026-10-25-sunday-soundtracks-robert-donne-fires-in-space-ene-j-4-00-pm",
    "title": "Sunday Soundtracks Robert Donne, Fires In Space, Ene + J",
@@ -175,8 +141,8 @@
    "ticket_url": "https://buytickets.at/reveler/2425086"
   },
   {
-   "id": "reveler-2026-10-30-r-v-ler-cabaret-halloween-edition-featuring-qing-blaze-alisa-8-00-pm",
-   "title": "Révéler Cabaret Halloween Edition Featuring Qing Blaze, Alisa Miles, Gordita Maricona \"The Vampire Goddess Of Burlesque\", Jo'Rie Tigerlily + More",
+   "id": "reveler-2026-10-30-halloween-cabaret-featuring-qing-blaze-alisa-miles-dave-davi-8-00-pm",
+   "title": "Halloween Cabaret Featuring Qing Blaze, Alisa Miles + Dave Davidson, Gordita Maricona \"The Vampire Goddess Of Burlesque\" + Jo'Rie Tigerlily",
    "date": "2026-10-30",
    "doors": "",
    "show_time": "8:00 PM",
@@ -462,6 +428,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
+   "id": "reveler-2026-11-12-ant-the-symbol-with-morgan-stewart-8-00-pm",
+   "title": "Ant The Symbol With Morgan Stewart",
+   "date": "2026-11-12",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/ant-the-symbol-11122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2493848"
   },
   {
    "id": "reveler-2026-11-13-the-sky-chiefs-with-kevin-pittman-and-stephen-mccarthy-9-30-pm",

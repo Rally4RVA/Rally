@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-24T09:59:11-04:00",
+ "updated": "2026-10-25T10:16:45-04:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-10-24-old-pup-wi-pearl-snap-butt-flap-drunk-mother",
-   "title": "Old Pup (WI), Pearl Snap Butt Flap, Drunk Mother",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/old-pup-pearl-snap-butt-flap-drunk-mother"
-  },
   {
    "id": "gallery5-2026-10-25-rival-booking-presents-stress-reliever-lagoon-coded-d-m-v",
    "title": "Rival Booking Presents: Stress Reliever, Lagoon, Coded, D.M.V.",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
+   "price_display": "$17.85",
    "free": false,
    "table_price": null,
    "tiers": [],

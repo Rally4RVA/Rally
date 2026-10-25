@@ -1,60 +1,9 @@
 {
- "updated": "2026-10-24T10:00:33-04:00",
+ "updated": "2026-10-25T10:18:01-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-24-p-s-q-s-halloween-bash-2-00-pm",
-   "title": "P’S & Q’S HALLOWEEN BASH",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/p-s-q-s-halloween-bash-24-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/p-s-q-s-halloween-bash-24-oct"
-  },
-  {
-   "id": "gettight-2026-10-24-piranha-rama-camo-face-reverse-yr-curse-8-00-pm",
-   "title": "PIRANHA RAMA, CAMO FACE, REVERSE YR CURSE",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/piranha-rama-camo-face-reverse-yr-curse-24-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$12.19",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/piranha-rama-camo-face-reverse-yr-curse-24-oct"
-  },
-  {
-   "id": "gettight-2026-10-24-homie-price-dj-10-00-pm",
-   "title": "HOMIE PRICE (DJ)",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/homie-price-dj-24-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/homie-price-dj-24-oct"
-  },
   {
    "id": "gettight-2026-10-25-ravens-flock-week-7-watch-party-1-00-pm",
    "title": "RAVENS FLOCK WEEK 7 WATCH PARTY!",

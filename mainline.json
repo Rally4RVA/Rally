@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-24T09:59:44-04:00",
+ "updated": "2026-10-25T10:17:15-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-24-filipino-american-history-month-celebration",
-   "title": "Filipino American History Month Celebration",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "12:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/fil-am-history-month-celebration",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/fil-am-history-month-celebration"
-  },
-  {
-   "id": "mainline-2026-10-24-higher-education",
-   "title": "Higher Education",
-   "date": "2026-10-24",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/higher-education",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/higher-education"
-  },
   {
    "id": "mainline-2026-10-25-2026-greg-willard-memorial-blues-challenge",
    "title": "2026 Greg Willard Memorial Blues Challenge",
@@ -96,7 +62,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf",
+   "url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf-pamh3",
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
@@ -104,7 +70,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf"
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf-pamh3"
   },
   {
    "id": "mainline-2026-10-30-black-cat-market",
