@@ -1,66 +1,9 @@
 {
- "updated": "2026-10-25T10:15:39-04:00",
+ "updated": "2026-10-26T12:44:48-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "drag-brunch-reigning-terror-25-oct",
-   "title": "Drag Brunch: Reigning Terror",
-   "date": "2026-10-25",
-   "doors": "11:00 AM",
-   "show_time": "12:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/drag-brunch-reigning-terror-25-oct",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/731218/web_orders/new"
-  },
-  {
-   "id": "staff-picks-dogs-on-shady-lane-kitty-corner-25-oct",
-   "title": "Dogs on Shady Lane, Kitty Corner, Theocles",
-   "date": "2026-10-25",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/staff-picks-dogs-on-shady-lane-kitty-corner-25-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/630347/web_orders/new"
-  },
   {
    "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
    "title": "Open Mic Hosted by Warren Campbell of Dead Billionaires",
@@ -189,7 +132,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -323,7 +266,7 @@
   },
   {
    "id": "woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
-   "title": "Woman Crush Wednesday: No Agenda, Sage is Alive, Cinema Hearts",
+   "title": "Woman Crush Wednesday: No Agenda, Cinema Hearts, Sage is Alive",
    "date": "2026-11-04",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -464,7 +407,7 @@
   },
   {
    "id": "chloe-kimes-09-nov",
-   "title": "Chloe Kimes",
+   "title": "Chloe Kimes w/ Brady Heck, Ramona & The Holy Smokes",
    "date": "2026-11-09",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -720,21 +663,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "tim-barry-20-nov",

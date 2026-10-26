@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-25T10:19:14-04:00",
+ "updated": "2026-10-26T12:48:11-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-25-sunday-soundtracks-robert-donne-fires-in-space-ene-j-4-00-pm",
-   "title": "Sunday Soundtracks Robert Donne, Fires In Space, Ene + J",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "4:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/sunday-soundtracks",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2479540"
-  },
-  {
-   "id": "reveler-2026-10-25-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
-   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jazz-workshop-10252026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1029950"
-  },
   {
    "id": "reveler-2026-10-26-charming-disaster-7-00-pm",
    "title": "Charming Disaster",

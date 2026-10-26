@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-25T10:16:54-04:00",
+ "updated": "2026-10-26T12:45:59-04:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-10-25-live-music-same-side-sitters",
-   "title": "Same Side Sitters",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
-  },
-  {
-   "id": "hardywood-2026-10-25-rocky-horror-drag-show",
-   "title": "Rocky Horror Drag Show",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rocky-horror-drag-show"
-  },
   {
    "id": "hardywood-2026-10-27-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",
@@ -62,7 +28,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -70,7 +36,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz"
   },
   {
    "id": "hardywood-2026-10-28-rva-old-time-jam-2nd-4th-wednesdays",
@@ -141,14 +107,14 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
   },
   {
-   "id": "hardywood-2026-10-31-halloween-throwdown-w-alan-same-the-disco",
-   "title": "HALLOWEEN THROWDOWN, Alan Same & The Disco",
+   "id": "hardywood-2026-10-31-death-at-the-disco-w-alan-same-the-difference",
+   "title": "DEATH AT THE DISCO, Alan Same & The Difference",
    "date": "2026-10-31",
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
    "url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco",
-   "kind": "m",
+   "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
    "price_display": "Free",
@@ -198,7 +164,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -206,7 +172,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz"
   },
   {
    "id": "hardywood-2026-11-06-live-music-portico",
@@ -317,7 +283,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -325,7 +291,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz"
   },
   {
    "id": "hardywood-2026-11-11-rva-old-time-jam-2nd-4th-wednesdays",
@@ -453,7 +419,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -461,7 +427,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz"
   },
   {
    "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
@@ -555,7 +521,7 @@
    "doors": "",
    "show_time": "2:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm",
+   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-wa8hk",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -563,7 +529,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
+   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-wa8hk"
   },
   {
    "id": "hardywood-2026-11-24-high-five-trivia-every-tuesday",
@@ -717,6 +683,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73"
+  },
+  {
+   "id": "hardywood-2027-01-09-tropical-christmas-3-with-kadencia-orchestra-three-kings-day",
+   "title": "Tropical Christmas 3 with Kadencia Orchestra – Three Kings Day edition",
+   "date": "2027-01-09",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/tropical-christmas-3-with-kadencia-orchestra-three-kings-day-edition",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/tropical-christmas-3-with-kadencia-orchestra-three-kings-day-edition"
   },
   {
    "id": "hardywood-2027-03-18-richmond-symphony-at-hardywood-richmond",

@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-25T10:18:01-04:00",
+ "updated": "2026-10-26T12:47:00-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-25-ravens-flock-week-7-watch-party-1-00-pm",
-   "title": "RAVENS FLOCK WEEK 7 WATCH PARTY!",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/ravens-flock-week-7-watch-party-25-oct",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/ravens-flock-week-7-watch-party-25-oct"
-  },
-  {
-   "id": "gettight-2026-10-25-crabs-n-oysters-1-00-pm",
-   "title": "CRABS N' OYSTERS",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/crabs-n-oysters-25-oct",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/crabs-n-oysters-25-oct"
-  },
   {
    "id": "gettight-2026-10-27-two-steppin-tuesday-s-w-rebecca-porter-8-00-pm",
    "title": "TWO STEPPIN' TUESDAY'S, REBECCA PORTER",
@@ -241,6 +207,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov"
+  },
+  {
+   "id": "gettight-2026-11-13-charm-offensive-danger-birds-blair-mountain-8-00-pm",
+   "title": "CHARM OFFENSIVE, DANGER BIRDS, BLAIR MOUNTAIN",
+   "date": "2026-11-13",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/charm-offensive-danger-birds-blair-mountain-13-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "$12.19",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/charm-offensive-danger-birds-blair-mountain-13-nov"
   },
   {
    "id": "gettight-2026-11-14-hip-hop-henry-10-00-pm",

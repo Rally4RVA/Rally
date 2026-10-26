@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:16:00-04:00",
+ "updated": "2026-10-26T12:45:11-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
@@ -976,6 +976,23 @@
    "ticket_url": "https://thebroadberry.com/event/silverada/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-02-13-dogpark-never-ending-fall",
+   "title": "DOGPARK, NEVER ENDING FALL",
+   "date": "2027-02-13",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/dogpark-w-never-ending-fall/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/dogpark-w-never-ending-fall/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-27-cory-branan",
    "title": "CORY BRANAN",
    "date": "2027-02-27",
@@ -1008,6 +1025,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/little-stranger-broken-hearted-boys-tour-w-shwayze-and-damn-skippy/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-03-13-gus-dapperton-4-dear-life-tour",
+   "title": "GUS DAPPERTON: 4 DEAR LIFE TOUR",
+   "date": "2027-03-13",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/gus-dapperton-4-dear-life-tour/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/gus-dapperton-4-dear-life-tour/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-03-24-destroy-boys-illuminati-hotties-and-the-rat-utopia-experimen",
+   "title": "DESTROY BOYS, ILLUMINATI HOTTIES AND THE RAT UTOPIA EXPERIMENT",
+   "date": "2027-03-24",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-05-13-gavin-adcock-the-day-i-hang-it-up-tour-blake-whiten",

@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-25T10:17:15-04:00",
+ "updated": "2026-10-26T12:46:16-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-25-2026-greg-willard-memorial-blues-challenge",
-   "title": "2026 Greg Willard Memorial Blues Challenge",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/2026-greg-willard-memorial-blues-challenge",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/2026-greg-willard-memorial-blues-challenge"
-  },
-  {
-   "id": "mainline-2026-10-25-16th-annual-pug-o-ween",
-   "title": "16th Annual Pug-O-Ween",
-   "date": "2026-10-25",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/16th-annual-pug-o-ween",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/16th-annual-pug-o-ween"
-  },
   {
    "id": "mainline-2026-10-27-lucky-dog-training",
    "title": "Lucky Dog Training",

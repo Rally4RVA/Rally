@@ -1,34 +1,9 @@
 {
- "updated": "2026-10-25T10:17:50-04:00",
+ "updated": "2026-10-26T12:46:49-04:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-10-25-pardoner-k9-star-sign",
-   "title": "Pardoner, K9, Star Sign",
-   "date": "2026-10-25",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/pardoner-k9-star-sign-october-25-2026-757886",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/pardoner-k9-star-sign-october-25-2026-757886"
-  },
   {
    "id": "bandito-2026-10-26-j-robbins",
    "title": "J. Robbins",
