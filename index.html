@@ -12,12 +12,12 @@
 /* A telephone-pole flyer board: big condensed date blocks on the left, one ruled row per show,
    time in mono, one tap on the people icon to say you're interested. */
 :root {
-  --bg: #E6E8E8;
-  --surface: #F4F5F4;
-  --ink: #15171A;
-  --muted: #596067;
-  --line: #C3C8CA;
-  --accent: #2A3BFF;
+  --bg: #F1E8DD;
+  --surface: #FBF6EF;
+  --ink: #4A0F0C;
+  --muted: #6E4E44;
+  --line: #D8C8B8;
+  --accent: #BF3812;
   --on-accent: #FFFFFF;
   --font-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
   --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -25,13 +25,13 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0F1114; --surface: #181B1F; --ink: #ECEDEA; --muted: #9AA1A8;
-    --line: #2B3036; --accent: #8C97FF; --on-accent: #0F1114; color-scheme: dark;
+    --bg: #1F0B09; --surface: #2B100C; --ink: #F3EADF; --muted: #BFA597;
+    --line: #4A2620; --accent: #FF7A4D; --on-accent: #1F0B09; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0F1114; --surface: #181B1F; --ink: #ECEDEA; --muted: #9AA1A8;
-  --line: #2B3036; --accent: #8C97FF; --on-accent: #0F1114; color-scheme: dark;
+  --bg: #1F0B09; --surface: #2B100C; --ink: #F3EADF; --muted: #BFA597;
+  --line: #4A2620; --accent: #FF7A4D; --on-accent: #1F0B09; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body {
@@ -43,7 +43,7 @@ body {
 .wrap { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px;
   padding: 26px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px)); }
 /* A light header band in both themes, so the dark-ink logo always reads. */
-.masthead { background: #F3EADF; color: #3A130C; border-bottom: 3px solid #3A130C; }
+.masthead { background: #F3EADF; color: #4A0F0C; border-bottom: 3px solid #4A0F0C; }
 .mast-in { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px;
   padding: 26px max(16px, env(safe-area-inset-right, 0px)) 24px max(16px, env(safe-area-inset-left, 0px)); }
 .masthead .kicker { color: #7A5F52; }
