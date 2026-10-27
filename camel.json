@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-26T12:44:48-04:00",
+ "updated": "2026-10-27T12:01:04-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
-   "title": "Open Mic Hosted by Warren Campbell of Dead Billionaires",
-   "date": "2026-10-26",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $5 under 21",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760928/web_orders/new"
-  },
   {
    "id": "live-spooky-i-spy-27-oct",
    "title": "Live Spooky I Spy",
@@ -132,7 +115,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -213,6 +196,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/730908/web_orders/new"
+  },
+  {
+   "id": "glowr-sophie-colette-elle-pf-01-nov",
+   "title": "GLOWR, Sophie Colette, Elle PF",
+   "date": "2026-11-01",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/glowr-sophie-colette-elle-pf-01-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": "Sales start October 27, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/778230/web_orders/new"
   },
   {
    "id": "torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
@@ -391,18 +399,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
@@ -663,13 +663,21 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25.25",
    "free": false,
    "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
   },
   {
    "id": "tim-barry-20-nov",
@@ -765,7 +773,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -856,7 +864,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -991,25 +999,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42–$50.82",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "$40 Two Pack",
-     "base": 40.0,
-     "fee": 10.82,
-     "total": 50.82,
-     "status": ""
-    },
-    {
-     "name": "Advance",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
   },
   {
@@ -1023,32 +1016,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$22.15–$78.71 adv · $27.32 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 17.0,
-     "fee": 5.15,
-     "total": 22.15,
-     "status": ""
-    },
-    {
-     "name": "Day Of Show",
-     "base": 22.0,
-     "fee": 5.32,
-     "total": 27.32,
-     "status": "Sales start February 26, 2027"
-    },
-    {
-     "name": "Oversharing VIP Package",
-     "base": 67.0,
-     "fee": 11.71,
-     "total": 78.71,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/788192/web_orders/new"
   },
   {
@@ -1062,18 +1033,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
@@ -1087,18 +1050,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   }
  ]

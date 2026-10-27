@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:49:44-04:00",
+ "updated": "2026-10-27T12:05:57-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -29,74 +29,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-10-26-gazee-w-cyber-twin-and-crush",
-   "title": "Gazee, Cyber Twin and crush",
-   "date": "2026-10-26",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gazee-cyber-twin-and-crush",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$12.51",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/gazee-w-cyber-twin-and-crush-tickets-1998110312733"
-  },
-  {
-   "id": "reveler-2026-10-26-charming-disaster-7-00-pm",
-   "title": "Charming Disaster",
-   "date": "2026-10-26",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/charming-disaster-10262026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2372212"
-  },
-  {
-   "id": "open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
-   "title": "Open Mic Hosted by Warren Campbell of Dead Billionaires",
-   "date": "2026-10-26",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/open-mic-hosted-by-warren-campbell-of-dead-billionaires-26-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $5 under 21",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760928/web_orders/new"
-  },
-  {
-   "id": "bandito-2026-10-26-j-robbins",
-   "title": "J. Robbins",
-   "date": "2026-10-26",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://www.etix.com/ticket/p/81998132/jrobbins-at-banditos-richmond-banditos?partner_id=399",
-   "kind": "m",
-   "age": "",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.etix.com/ticket/p/81998132/jrobbins-at-banditos-richmond-banditos?partner_id=399"
-  },
   {
    "id": "brambly-2026-10-27-trivia-in-the-restaurant",
    "title": "Trivia in the Restaurant",
@@ -261,7 +193,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$9.60–$10.12",
+   "price_display": "$12.19–$14.77",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -692,7 +624,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -1282,6 +1214,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "glowr-sophie-colette-elle-pf-01-nov",
+   "title": "GLOWR, Sophie Colette, Elle PF",
+   "date": "2026-11-01",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/glowr-sophie-colette-elle-pf-01-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": "Sales start October 27, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/778230/web_orders/new"
   },
   {
    "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
@@ -2139,18 +2096,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
@@ -3354,13 +3303,21 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25.25",
    "free": false,
    "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
   },
   {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
@@ -3804,7 +3761,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -4192,7 +4149,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -4683,6 +4640,23 @@
    "ticket_url": "https://thebroadberry.com/event/jeddy-knox-the-late-night-w-jd-morrow/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "bb-2026-12-19-benefitting-supernova-alliance-skalidays-2026-feat-murphy-s-",
+   "title": "Benefitting Supernova Alliance SKALIDAYS 2026 FEAT. MURPHY’S KIDS, CHRIS MURRAY, FUN SIZE, STEELBOY, AND DJ DON CHIRASI",
+   "date": "2026-12-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/skalidays-2026-feat-murphys-kids-chris-murray-fun-size-steelboy-and-dj-don-chirasi/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/skalidays-2026-feat-murphys-kids-chris-murray-fun-size-steelboy-and-dj-don-chirasi/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2026-12-20-reality-shift-twisted-nature-and-abismo-onix",
    "title": "REALITY SHIFT, TWISTED NATURE, AND ABISMO ONIX",
    "date": "2026-12-20",
@@ -5032,25 +5006,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42–$50.82",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "$40 Two Pack",
-     "base": 40.0,
-     "fee": 10.82,
-     "total": 50.82,
-     "status": ""
-    },
-    {
-     "name": "Advance",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
   },
   {
@@ -5064,32 +5023,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$22.15–$78.71 adv · $27.32 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 17.0,
-     "fee": 5.15,
-     "total": 22.15,
-     "status": ""
-    },
-    {
-     "name": "Day Of Show",
-     "base": 22.0,
-     "fee": 5.32,
-     "total": 27.32,
-     "status": "Sales start February 26, 2027"
-    },
-    {
-     "name": "Oversharing VIP Package",
-     "base": 67.0,
-     "fee": 11.71,
-     "total": 78.71,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/788192/web_orders/new"
   },
   {
@@ -5137,18 +5074,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
@@ -5189,7 +5118,7 @@
    "id": "bb-2027-03-24-destroy-boys-illuminati-hotties-and-the-rat-utopia-experimen",
    "title": "DESTROY BOYS, ILLUMINATI HOTTIES AND THE RAT UTOPIA EXPERIMENT",
    "date": "2027-03-24",
-   "doors": "7:00 PM",
+   "doors": "6:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
    "url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/",
@@ -5213,18 +5142,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:45:11-04:00",
+ "updated": "2026-10-27T12:01:25-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
@@ -908,6 +908,23 @@
    "ticket_url": "https://thebroadberry.com/event/jeddy-knox-the-late-night-w-jd-morrow/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "bb-2026-12-19-benefitting-supernova-alliance-skalidays-2026-feat-murphy-s-",
+   "title": "Benefitting Supernova Alliance SKALIDAYS 2026 FEAT. MURPHY’S KIDS, CHRIS MURRAY, FUN SIZE, STEELBOY, AND DJ DON CHIRASI",
+   "date": "2026-12-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/skalidays-2026-feat-murphys-kids-chris-murray-fun-size-steelboy-and-dj-don-chirasi/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/skalidays-2026-feat-murphys-kids-chris-murray-fun-size-steelboy-and-dj-don-chirasi/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2026-12-20-reality-shift-twisted-nature-and-abismo-onix",
    "title": "REALITY SHIFT, TWISTED NATURE, AND ABISMO ONIX",
    "date": "2026-12-20",
@@ -1047,7 +1064,7 @@
    "id": "bb-2027-03-24-destroy-boys-illuminati-hotties-and-the-rat-utopia-experimen",
    "title": "DESTROY BOYS, ILLUMINATI HOTTIES AND THE RAT UTOPIA EXPERIMENT",
    "date": "2027-03-24",
-   "doors": "7:00 PM",
+   "doors": "6:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
    "url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/",
