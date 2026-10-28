@@ -15,13 +15,14 @@
 /* A telephone-pole flyer board: big condensed date blocks on the left, one ruled row per show,
    time in mono, one tap on the people icon to say you're interested. */
 :root {
-  --bg: #32102C;
-  --surface: #3F1838;
+  --bg: #1B0006;          /* main dark */
+  --plum: #32102C;        /* the gradient end */
+  --surface: #2A0C20;
   --ink: #FEEBD3;
   --muted: #CDB3B5;
   --line: #5E2E55;
   --accent: #E96544;
-  --on-accent: #32102C;
+  --on-accent: #1B0006;
   --font-display: "proxima-nova", "Proxima Nova", "Montserrat", "Arial Black", sans-serif;
   --font-body: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-mono: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -37,7 +38,9 @@ body {
 .wrap { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px;
   padding: 26px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px)); }
 /* Pale header so the dark logo reads, with an orange rule under it. */
-.masthead { background: #FEEBD3; color: #32102C; border-bottom: 3px solid var(--accent); }
+.masthead { background: #FEEBD3; color: #32102C; }
+/* A thick plum bar under the cream, then the orange rule, so the orange glows against dark instead of cream. */
+.masthead::after { content: ""; display: block; height: 22px; background: linear-gradient(to bottom, var(--plum) 0 18px, var(--accent) 18px 22px); }
 .masthead .kicker { color: #6B4A5E; }
 .masthead .lede { color: #4A2A42; }
 .mast-in { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px;
@@ -66,15 +69,15 @@ h1.logo img { display: block; width: clamp(200px, 38vw, 340px); height: auto; }
 .status { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px 18px; align-items: center; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
 .live::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--line); margin-right: 7px; }
 .live.on::before { background: var(--accent); }
-.day { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 0 18px; padding-block: 18px; border-bottom: 1px solid var(--line); }
-.date { display: flex; flex-direction: column; line-height: 1; }
+.day { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 0 18px; padding-block: 10px; }
+.date { display: flex; flex-direction: column; line-height: 1; align-self: start; padding: 12px 14px 12px; border: 1px solid var(--line); border-radius: 3px; background: linear-gradient(155deg, var(--bg) 0%, var(--plum) 100%); }
 .date .num { font-family: var(--font-display); font-weight: 900; font-size: 64px; letter-spacing: -.01em; }
 .date .mon { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-top: 4px; }
 .date.today .num { color: var(--accent); }
 .shows { display: flex; flex-direction: column; min-width: 0; }
-.show { display: grid; grid-template-columns: 96px minmax(0, 1fr) 150px auto; gap: 6px 16px; align-items: center; padding-block: 12px; }
-.show + .show { border-top: 1px dashed var(--line); }
-.show:first-child { padding-top: 0; }
+.show { display: grid; grid-template-columns: 96px minmax(0, 1fr) 150px auto; gap: 6px 16px; align-items: center; padding: 14px 16px; margin-bottom: 8px;
+  border: 1px solid var(--line); border-radius: 3px; background: linear-gradient(100deg, var(--bg) 0%, var(--plum) 100%); }
+.show:last-child { margin-bottom: 0; }
 .time { font-family: var(--font-mono); font-size: 15px; font-variant-numeric: tabular-nums; }
 .time small { display: block; font-size: 11px; color: var(--muted); }
 .band { min-width: 0; }
