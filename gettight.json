@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-27T12:03:12-04:00",
+ "updated": "2026-10-28T12:36:08-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-27-two-steppin-tuesday-s-w-rebecca-porter-8-00-pm",
-   "title": "TWO STEPPIN' TUESDAY'S, REBECCA PORTER",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-s-w-rebecca-porter-27-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$12.19–$14.77",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-s-w-rebecca-porter-27-oct"
-  },
   {
    "id": "gettight-2026-10-28-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
@@ -275,6 +258,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
+  },
+  {
+   "id": "gettight-2026-11-25-wnrn-presents-no-bs-brass-band-8-00-pm",
+   "title": "WNRN PRESENTS: NO BS! BRASS BAND",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "$12.19",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov"
   },
   {
    "id": "gettight-2026-11-25-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",

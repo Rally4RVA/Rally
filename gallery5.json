@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-27T12:02:00-04:00",
+ "updated": "2026-10-28T12:35:02-04:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-10-27-punk-hardcore-rave-to-vote-yes-on-1",
-   "title": "Punk Hardcore Rave to Vote YES on 1!",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/punk-hardcore-rave-to-vote-yes-on-1",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/punk-hardcore-rave-to-vote-yes-on-1"
-  },
   {
    "id": "gallery5-2026-10-28-andy-boay-saadia-rais-gull-danny-shyti",
    "title": "Andy Boay, Saadia Rais, Gull, Danny Shyti",
@@ -168,7 +151,7 @@
    "kind": "m",
    "age": "18+",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$18.44–$84.83",
+   "price_display": "$15.55–$77.77",
    "free": false,
    "table_price": null,
    "tiers": [],

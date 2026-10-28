@@ -1,45 +1,11 @@
 {
- "updated": "2026-10-27T12:01:25-04:00",
+ "updated": "2026-10-28T12:34:31-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-10-27-ouija-macc-america-s-most-wicked-tour-billy-marchiafava-darb",
-   "title": "OUIJA MACC: AMERICA’S MOST WICKED TOUR, BILLY MARCHIAFAVA, DARBY O’TRILL, AND MIKEY ROTTEN",
-   "date": "2026-10-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/ouija-macc-americas-most-wicked-tour-w-billy-marchiafava-darby-otrill-and-mikey-rotten/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/ouija-macc-americas-most-wicked-tour-w-billy-marchiafava-darby-otrill-and-mikey-rotten/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-27-skeleton-crewe-ft-rob-barraco-barry-sless-stephen-inglis-pet",
-   "title": "SKELETON CREWE FT. ROB BARRACO, BARRY SLESS, STEPHEN INGLIS, PETE SEARS, AND JAY LANE",
-   "date": "2026-10-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/skeleton-crewe-ft-rob-barraco-barry-sless-stephen-inglis-pete-sears-and-jay-lane/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/skeleton-crewe-ft-rob-barraco-barry-sless-stephen-inglis-pete-sears-and-jay-lane/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-10-29-hudson-westbrook-kenny-whitmire-and-ethan-burdick",
    "title": "HUDSON WESTBROOK, KENNY WHITMIRE AND ETHAN BURDICK",
@@ -466,8 +432,8 @@
    "ticket_url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex",
-   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX",
+   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex-and-fuzzy-prophet",
+   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX AND FUZZY PROPHET",
    "date": "2026-11-14",
    "doors": "7:00 PM",
    "show_time": "",
@@ -704,23 +670,6 @@
    "ticket_url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-04-hunger-games-rave-the-capitol-afterdark-18",
-   "title": "HUNGER GAMES RAVE: THE CAPITOL AFTERDARK (18+)",
-   "date": "2026-12-04",
-   "doors": "7:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/hunger-games-rave-the-capitol-afterdark-18/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/hunger-games-rave-the-capitol-afterdark-18/richmond-music-hall/richmond-virginia/"
-  },
-  {
    "id": "bb-2026-12-04-the-lemon-twigs",
    "title": "THE LEMON TWIGS",
    "date": "2026-12-04",
@@ -736,6 +685,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2026-12-05-suggesting-rhythm-the-old-dominion-tour",
+   "title": "SUGGESTING RHYTHM: THE OLD DOMINION TOUR",
+   "date": "2026-12-05",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-10-robert-ellis",
@@ -838,6 +804,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/king-buffalo-w-babe-lewis/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2026-12-17-away-with-words-x-my-precious-solitude-harsh-intention",
+   "title": "AWAY WITH WORDS X MY PRECIOUS SOLITUDE, HARSH INTENTION",
+   "date": "2026-12-17",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/away-with-words-x-my-precious-solitude-w-harsh-intention/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/away-with-words-x-my-precious-solitude-w-harsh-intention/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-17-santa-rave-18",
@@ -959,6 +942,23 @@
    "ticket_url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
+   "title": "CROOKED FINGERS: SWET DETH, DIGNITY AND SHAME TOUR, JULIA BARFIELD",
+   "date": "2027-01-31",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/crooked-fingers-swet-deth-dignity-and-shame-tour-w-julia-barfield/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/crooked-fingers-swet-deth-dignity-and-shame-tour-w-julia-barfield/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-05-gage-saylor-the-creekside-boys",
    "title": "GAGE SAYLOR & THE CREEKSIDE BOYS",
    "date": "2027-02-05",
@@ -991,6 +991,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/silverada/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-02-07-penelope-road-arts-fishing-club",
+   "title": "PENELOPE ROAD, ARTS FISHING CLUB",
+   "date": "2027-02-07",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/penelope-road-w-arts-fishing-club/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/penelope-road-w-arts-fishing-club/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-13-dogpark-never-ending-fall",

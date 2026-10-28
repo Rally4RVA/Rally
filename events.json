@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:05:57-04:00",
+ "updated": "2026-10-28T12:39:04-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -29,193 +29,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "brambly-2026-10-27-trivia-in-the-restaurant",
-   "title": "Trivia in the Restaurant",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "o",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "live-spooky-i-spy-27-oct",
-   "title": "Live Spooky I Spy",
-   "date": "2026-10-27",
-   "doors": "5:00 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-27-oct",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/761079/web_orders/new"
-  },
-  {
-   "id": "mainline-2026-10-27-lucky-dog-training",
-   "title": "Lucky Dog Training",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "5:45 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen"
-  },
-  {
-   "id": "the-bachelor-boys-wedding-band-showcase-27-oct",
-   "title": "The Bachelor Boys Wedding Band Showcase",
-   "date": "2026-10-27",
-   "doors": "7:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-27-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/721031/web_orders/new"
-  },
-  {
-   "id": "bb-2026-10-27-ouija-macc-america-s-most-wicked-tour-billy-marchiafava-darb",
-   "title": "OUIJA MACC: AMERICA’S MOST WICKED TOUR, BILLY MARCHIAFAVA, DARBY O’TRILL, AND MIKEY ROTTEN",
-   "date": "2026-10-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/ouija-macc-americas-most-wicked-tour-w-billy-marchiafava-darby-otrill-and-mikey-rotten/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/ouija-macc-americas-most-wicked-tour-w-billy-marchiafava-darby-otrill-and-mikey-rotten/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-27-skeleton-crewe-ft-rob-barraco-barry-sless-stephen-inglis-pet",
-   "title": "SKELETON CREWE FT. ROB BARRACO, BARRY SLESS, STEPHEN INGLIS, PETE SEARS, AND JAY LANE",
-   "date": "2026-10-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/skeleton-crewe-ft-rob-barraco-barry-sless-stephen-inglis-pete-sears-and-jay-lane/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/skeleton-crewe-ft-rob-barraco-barry-sless-stephen-inglis-pete-sears-and-jay-lane/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "gallery5-2026-10-27-punk-hardcore-rave-to-vote-yes-on-1",
-   "title": "Punk Hardcore Rave to Vote YES on 1!",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/punk-hardcore-rave-to-vote-yes-on-1",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/punk-hardcore-rave-to-vote-yes-on-1"
-  },
-  {
-   "id": "hardywood-2026-10-27-high-five-trivia-every-tuesday",
-   "title": "High Five Trivia - Every Tuesday!",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7"
-  },
-  {
-   "id": "reveler-2026-10-27-maddy-curtis-the-haunted-quartet-7-00-pm",
-   "title": "Maddy Curtis: The Haunted Quartet",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/maddy-curtis-the-haunted-quartet-10272026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2447835"
-  },
-  {
-   "id": "gettight-2026-10-27-two-steppin-tuesday-s-w-rebecca-porter-8-00-pm",
-   "title": "TWO STEPPIN' TUESDAY'S, REBECCA PORTER",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-s-w-rebecca-porter-27-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$12.19–$14.77",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-s-w-rebecca-porter-27-oct"
-  },
-  {
-   "id": "vcu-jazz-combos-27-oct",
-   "title": "VCU Jazz Combos",
-   "date": "2026-10-27",
-   "doors": "8:00 PM",
-   "show_time": "8:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/vcu-jazz-combos-27-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/760930/web_orders/new"
-  },
   {
    "id": "brambly-2026-10-28-wine-down-wednesdays",
    "title": "Wine Down Wednesdays",
@@ -346,7 +159,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -355,6 +168,13 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -1235,7 +1055,7 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
-     "status": "Sales start October 27, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/778230/web_orders/new"
@@ -2096,10 +1916,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
@@ -2214,7 +2042,7 @@
   },
   {
    "id": "chloe-kimes-09-nov",
-   "title": "Chloe Kimes w/ Brady Heck, Ramona & The Holy Smokes",
+   "title": "Chloe Kimes w/ Ramona & The Holy Smokes, Brady Heck",
    "date": "2026-11-09",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -2383,7 +2211,7 @@
   },
   {
    "id": "autumn-drive-11-nov",
-   "title": "Autumn Drive",
+   "title": "Autumn Drive, Sami Gardner, Hailey Reese",
    "date": "2026-11-11",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -2493,7 +2321,7 @@
   },
   {
    "id": "queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "title": "Queer Roots & Country Night w/Johanna Wacker & Acelia, Joshua Aaron, Elizabeth McCorvey",
+   "title": "Queer Roots & Country Night w/ Acelia & Johanna Wacker, Joshua Aaron, Elizabeth McCorvey",
    "date": "2026-11-12",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -2821,8 +2649,8 @@
    "ticket_url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex",
-   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX",
+   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex-and-fuzzy-prophet",
+   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX AND FUZZY PROPHET",
    "date": "2026-11-14",
    "doors": "7:00 PM",
    "show_time": "",
@@ -3144,7 +2972,7 @@
   },
   {
    "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
-   "title": "Followship, With Sails Ahead, Sun Against Artemis, Melt",
+   "title": "With Sails Ahead, Followship, Sun Against Artemis, Melt",
    "date": "2026-11-17",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -3532,6 +3360,23 @@
    "ticket_url": "https://thebroadberry.com/event/skydog-a-tribute-to-the-allman-brothers-band-5/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-11-21-charles-owens-trio-with-karl-tietze-and-kris-monson-8-00-pm",
+   "title": "Charles Owens Trio With Karl Tietze And Kris Monson",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/charles-owens-trio-11212026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2498848"
+  },
+  {
    "id": "hardywood-2026-11-22-anime-holiday-bazaar",
    "title": "Anime Holiday Bazaar",
    "date": "2026-11-22",
@@ -3610,7 +3455,7 @@
    "kind": "m",
    "age": "18+",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$18.44–$84.83",
+   "price_display": "$15.55–$77.77",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -3642,8 +3487,25 @@
    "ticket_url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859"
   },
   {
+   "id": "reveler-2026-11-23-3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-7-00-pm",
+   "title": "3-11 Tour: Josh Stokes, Lacretia \"T.T\" Bolden & Sed Marsh",
+   "date": "2026-11-23",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$27.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2499550"
+  },
+  {
    "id": "symphony-of-destiny-invictus-reality-shift-23-nov",
-   "title": "Symphony of Destiny, Invictus, Reality Shift",
+   "title": "Reality Shift, Invictus, Symphony of Destiny",
    "date": "2026-11-23",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -3735,6 +3597,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3"
   },
   {
+   "id": "gettight-2026-11-25-wnrn-presents-no-bs-brass-band-8-00-pm",
+   "title": "WNRN PRESENTS: NO BS! BRASS BAND",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "$12.19",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov"
+  },
+  {
    "id": "gettight-2026-11-25-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-11-25",
@@ -3761,7 +3640,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -3997,7 +3876,7 @@
   },
   {
    "id": "the-get-off-bowhead-green-forrest-take-by-force-29-nov",
-   "title": "Bowhead, Green Forrest, Take by Force",
+   "title": "Green Forest, Bowhead, Brash, Take by Force",
    "date": "2026-11-29",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",
@@ -4149,7 +4028,7 @@
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -4174,21 +4053,21 @@
    "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-04-hunger-games-rave-the-capitol-afterdark-18",
-   "title": "HUNGER GAMES RAVE: THE CAPITOL AFTERDARK (18+)",
-   "date": "2026-12-04",
-   "doors": "7:30 PM",
+   "id": "bb-2026-12-05-suggesting-rhythm-the-old-dominion-tour",
+   "title": "SUGGESTING RHYTHM: THE OLD DOMINION TOUR",
+   "date": "2026-12-05",
+   "doors": "7:00 PM",
    "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/hunger-games-rave-the-capitol-afterdark-18/richmond-music-hall/richmond-virginia/",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/",
    "kind": "m",
-   "age": "18+",
+   "age": "",
    "address": "",
    "price_display": "Pricier tickets",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/hunger-games-rave-the-capitol-afterdark-18/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
@@ -4553,6 +4432,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73"
+  },
+  {
+   "id": "bb-2026-12-17-away-with-words-x-my-precious-solitude-harsh-intention",
+   "title": "AWAY WITH WORDS X MY PRECIOUS SOLITUDE, HARSH INTENTION",
+   "date": "2026-12-17",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/away-with-words-x-my-precious-solitude-w-harsh-intention/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/away-with-words-x-my-precious-solitude-w-harsh-intention/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-17-santa-rave-18",
@@ -4928,6 +4824,23 @@
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
   },
   {
+   "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
+   "title": "CROOKED FINGERS: SWET DETH, DIGNITY AND SHAME TOUR, JULIA BARFIELD",
+   "date": "2027-01-31",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/crooked-fingers-swet-deth-dignity-and-shame-tour-w-julia-barfield/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/crooked-fingers-swet-deth-dignity-and-shame-tour-w-julia-barfield/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-05-gage-saylor-the-creekside-boys",
    "title": "GAGE SAYLOR & THE CREEKSIDE BOYS",
    "date": "2027-02-05",
@@ -4960,6 +4873,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/silverada/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-02-07-penelope-road-arts-fishing-club",
+   "title": "PENELOPE ROAD, ARTS FISHING CLUB",
+   "date": "2027-02-07",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/penelope-road-w-arts-fishing-club/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/penelope-road-w-arts-fishing-club/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-13-dogpark-never-ending-fall",
@@ -5006,10 +4936,25 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$30.42–$50.82",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "$40 Two Pack",
+     "base": 40.0,
+     "fee": 10.82,
+     "total": 50.82,
+     "status": ""
+    },
+    {
+     "name": "Advance",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
   },
   {
@@ -5023,10 +4968,32 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$22.15–$78.71 adv · $27.32 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 17.0,
+     "fee": 5.15,
+     "total": 22.15,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 22.0,
+     "fee": 5.32,
+     "total": 27.32,
+     "status": "Sales start February 26, 2027"
+    },
+    {
+     "name": "Oversharing VIP Package",
+     "base": 67.0,
+     "fee": 11.71,
+     "total": 78.71,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/788192/web_orders/new"
   },
   {
@@ -5074,10 +5041,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
@@ -5142,10 +5117,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {

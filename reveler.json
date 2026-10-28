@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-27T12:04:21-04:00",
+ "updated": "2026-10-28T12:37:33-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-27-maddy-curtis-the-haunted-quartet-7-00-pm",
-   "title": "Maddy Curtis: The Haunted Quartet",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/maddy-curtis-the-haunted-quartet-10272026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2447835"
-  },
   {
    "id": "reveler-2026-10-28-rosette-kevin-puts-is-so-hot-right-now-6-30-pm",
    "title": "Rosette: Kevin Puts Is So Hot Right Now",
@@ -515,6 +498,23 @@
    "ticket_url": "https://buytickets.at/reveler/2492472"
   },
   {
+   "id": "reveler-2026-11-21-charles-owens-trio-with-karl-tietze-and-kris-monson-8-00-pm",
+   "title": "Charles Owens Trio With Karl Tietze And Kris Monson",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/charles-owens-trio-11212026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2498848"
+  },
+  {
    "id": "reveler-2026-11-22-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
    "date": "2026-11-22",
@@ -530,6 +530,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-11-23-3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-7-00-pm",
+   "title": "3-11 Tour: Josh Stokes, Lacretia \"T.T\" Bolden & Sed Marsh",
+   "date": "2026-11-23",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$27.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2499550"
   },
   {
    "id": "reveler-2026-11-27-janet-martin-wrecking-ball-7-00-pm",

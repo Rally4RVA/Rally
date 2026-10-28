@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-27T12:02:26-04:00",
+ "updated": "2026-10-28T12:35:24-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-27-lucky-dog-training",
-   "title": "Lucky Dog Training",
-   "date": "2026-10-27",
-   "doors": "",
-   "show_time": "5:45 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lucky-dog-training-1-pxd53-spd3e-ddcen"
-  },
   {
    "id": "mainline-2026-10-28-jammin-on-the-tracks",
    "title": "Jammin' on the Tracks",
