@@ -70,13 +70,13 @@ h1.logo img { display: block; width: clamp(200px, 38vw, 340px); height: auto; }
 .live::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--line); margin-right: 7px; }
 .live.on::before { background: var(--accent); }
 .day { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 0 18px; padding-block: 10px; }
-.date { display: flex; flex-direction: column; line-height: 1; align-self: start; padding: 12px 14px 12px; border: 1px solid var(--line); border-radius: 3px; background: linear-gradient(155deg, var(--bg) 0%, var(--plum) 100%); }
+.date { display: flex; flex-direction: column; line-height: 1; align-self: start; }
 .date .num { font-family: var(--font-display); font-weight: 900; font-size: 64px; letter-spacing: -.01em; }
 .date .mon { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-top: 4px; }
 .date.today .num { color: var(--accent); }
 .shows { display: flex; flex-direction: column; min-width: 0; }
 .show { display: grid; grid-template-columns: 96px minmax(0, 1fr) 150px auto; gap: 6px 16px; align-items: center; padding: 14px 16px; margin-bottom: 8px;
-  border: 1px solid var(--line); border-radius: 3px; background: linear-gradient(100deg, var(--bg) 0%, var(--plum) 100%); }
+  border: 1px solid var(--line); border-radius: 3px; background: var(--plum); }
 .show:last-child { margin-bottom: 0; }
 .time { font-family: var(--font-mono); font-size: 15px; font-variant-numeric: tabular-nums; }
 .time small { display: block; font-size: 11px; color: var(--muted); }
@@ -242,6 +242,15 @@ function lineup(title) {
   if (title.indexOf(", ") < 0 || /:|\bw\/|\bwith\b|Presents/i.test(title)) return { head: title, rest: "" };
   var p = title.split(", ");
   return { head: p[0], rest: "with " + p.slice(1).join(", ") };
+}
+
+function mix(a, b, t) {
+  var out = "#";
+  for (var k = 1; k < 7; k += 2) {
+    var x = parseInt(a.substr(k, 2), 16), y = parseInt(b.substr(k, 2), 16);
+    out += ("0" + Math.round(x + (y - x) * t).toString(16)).slice(-2);
+  }
+  return out;
 }
 
 function el(tag, cls, text) {
@@ -484,8 +493,12 @@ function render() {
     day.appendChild(date);
 
     var shows = el("div", "shows");
-    g.items.forEach(function (e) {
+    g.items.forEach(function (e, i) {
       var row = el("article", "show");
+      // The first show of the day is plum; each box below is a little darker, fading into the page background.
+      var t = Math.min(1, i / Math.max(g.items.length - 1, 7));
+      row.style.background = mix("#32102C", "#1B0006", t);
+      row.style.borderColor = mix("#5E2E55", "#1B0006", t);
       var t = el("div", "time", e.show || e.doors);
       if (e.show && e.doors) t.appendChild(el("small", null, "doors " + e.doors));
       else if (!e.show && e.doors) t.appendChild(el("small", null, "doors"));
