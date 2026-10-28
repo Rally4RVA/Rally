@@ -7,54 +7,46 @@
 <meta name="description" content="Every live show in Richmond, VA in one list. Tap the people icon to say you're interested.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&family=Montserrat:wght@800;900&display=swap">
+<!-- HEADINGS: Proxima Nova Black comes from Adobe Fonts. Make a Web Project at fonts.adobe.com, add Proxima Nova (Black 900),
+     then replace XXXXXXX with your project's kit ID and remove the comment markers. Until then the headings use Montserrat Black, which is very close. -->
+<!-- <link rel="stylesheet" href="https://use.typekit.net/XXXXXXX.css"> -->
 <style>
 /* A telephone-pole flyer board: big condensed date blocks on the left, one ruled row per show,
    time in mono, one tap on the people icon to say you're interested. */
 :root {
-  --bg: #F1E8DD;
-  --surface: #FBF6EF;
-  --ink: #4A0F0C;
-  --muted: #6E4E44;
-  --line: #D8C8B8;
-  --accent: #BF3812;
-  --on-accent: #FFFFFF;
-  --font-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
-  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #1F0B09; --surface: #2B100C; --ink: #F3EADF; --muted: #BFA597;
-    --line: #4A2620; --accent: #FF7A4D; --on-accent: #1F0B09; color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --bg: #1F0B09; --surface: #2B100C; --ink: #F3EADF; --muted: #BFA597;
-  --line: #4A2620; --accent: #FF7A4D; --on-accent: #1F0B09; color-scheme: dark;
+  --bg: #32102C;
+  --surface: #3F1838;
+  --ink: #FEEBD3;
+  --muted: #CDB3B5;
+  --line: #5E2E55;
+  --accent: #E96544;
+  --on-accent: #32102C;
+  --font-display: "proxima-nova", "Proxima Nova", "Montserrat", "Arial Black", sans-serif;
+  --font-body: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body {
   margin: 0;
   background: var(--bg); color: var(--ink);
-  font-family: var(--font-body); font-size: 15px; line-height: 1.45;
+  font-family: var(--font-body); font-weight: 300; font-size: 15px; line-height: 1.45;
   padding-block: 0 56px;
 }
 .wrap { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px;
   padding: 26px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px)); }
-/* A light header band in both themes, so the dark-ink logo always reads. */
-.masthead { background: #F3EADF; color: #4A0F0C; border-bottom: 3px solid #4A0F0C; }
+/* Dark header with a thin orange rule, like a sign over the door. */
+.masthead { background: var(--bg); color: var(--ink); border-bottom: 3px solid var(--accent); }
 .mast-in { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px;
   padding: 26px max(16px, env(safe-area-inset-right, 0px)) 24px max(16px, env(safe-area-inset-left, 0px)); }
-.masthead .kicker { color: #7A5F52; }
-.masthead .lede { color: #5A4339; }
 .kicker { font-family: var(--font-mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
 h1 {
   font-family: var(--font-display); font-weight: 900; text-transform: uppercase;
   font-size: clamp(52px, 11vw, 104px); line-height: .88; letter-spacing: .005em; margin: 0; text-wrap: balance;
 }
 h1 span { color: var(--accent); }
-/* The logo is an image (dark ink on the light header band). */
+/* The logo is an image (cream ink with the orange arrow). */
 h1.logo { line-height: 0; margin: 0 0 4px -4px; }
 h1.logo img { display: block; width: clamp(200px, 38vw, 340px); height: auto; }
 .lede { margin: 0; max-width: 52ch; color: var(--muted); }
@@ -84,8 +76,8 @@ h1.logo img { display: block; width: clamp(200px, 38vw, 340px); height: auto; }
 .time { font-family: var(--font-mono); font-size: 15px; font-variant-numeric: tabular-nums; }
 .time small { display: block; font-size: 11px; color: var(--muted); }
 .band { min-width: 0; }
-.band b { display: block; font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; }
-.band span { display: block; color: var(--muted); font-size: 13.5px; margin-top: 3px; }
+.band b { display: block; font-family: var(--font-display); font-weight: 900; font-size: 26px; line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; }
+.band span { display: block; color: var(--muted); font-size: 13.5px; font-weight: 400; margin-top: 3px; }
 .meta { font-size: 13px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
 .meta .venue { font-weight: 600; }
 .meta .price { color: var(--ink); font-family: var(--font-mono); font-size: 12.5px; font-weight: 500; }
