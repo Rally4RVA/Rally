@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-28T12:37:33-04:00",
+ "updated": "2026-10-29T12:53:47-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-28-rosette-kevin-puts-is-so-hot-right-now-6-30-pm",
-   "title": "Rosette: Kevin Puts Is So Hot Right Now",
-   "date": "2026-10-28",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/rosette-kevin-puts-is-so-hot-right-now",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2432898"
-  },
-  {
-   "id": "reveler-2026-10-28-darius-jones-scott-clark-adam-hopkins-8-30-pm",
-   "title": "Darius Jones, Scott Clark + Adam Hopkins",
-   "date": "2026-10-28",
-   "doors": "",
-   "show_time": "8:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/darius-jones-scott-clark-adam-hopkins-10282026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$17.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2448870"
-  },
   {
    "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-7-00-pm",
    "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
@@ -430,6 +396,40 @@
    "ticket_url": "https://buytickets.at/reveler/2484128"
   },
   {
+   "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-6-00-pm",
+   "title": "Deau Eyes: To Grow Instead",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/deau-eyes-to-grow-instead-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2500865"
+  },
+  {
+   "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-8-00-pm",
+   "title": "Deau Eyes: To Grow Instead",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/deau-eyes-to-grow-instead-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2500865"
+  },
+  {
    "id": "reveler-2026-11-17-the-bad-plus-farewell-tour-9-00-pm",
    "title": "The Bad Plus Farewell Tour",
    "date": "2026-11-17",
@@ -583,6 +583,23 @@
    "ticket_url": "https://buytickets.at/reveler/2479389"
   },
   {
+   "id": "reveler-2026-11-28-plunky-oneness-of-juju-9-30-pm",
+   "title": "Plunky & Oneness Of Juju",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/plunky-oneness-of-juju-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2500907"
+  },
+  {
    "id": "reveler-2026-11-29-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
    "date": "2026-11-29",
@@ -700,6 +717,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
+   "id": "reveler-2026-12-18-a-soulful-christmas-ronee-martin-taquan-wyatt-8-00-pm",
+   "title": "A Soulful Christmas: Ronee Martin + Taquan Wyatt",
+   "date": "2026-12-18",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/a-soulful-christmas-ronee-martin-taquan-wyatt-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2501047"
   },
   {
    "id": "reveler-2026-12-19-richmond-synth-collective-3-00-pm",

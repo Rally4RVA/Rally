@@ -1,1 +1,25 @@
-{"updated":"","venues":[],"events":[]}
+{
+ "updated": "2026-10-29T12:55:20-04:00",
+ "venues": [
+  "Bandito's Burrito Lounge"
+ ],
+ "events": [
+  {
+   "id": "manual-sub-142c352b",
+   "title": "PoopMangina",
+   "date": "2026-10-31",
+   "doors": "11:49 PM",
+   "show_time": "10:49 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://www.instagram.com/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "5",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/"
+  }
+ ]
+}

@@ -1,41 +1,9 @@
 {
- "updated": "2026-10-28T12:34:10-04:00",
+ "updated": "2026-10-29T12:50:27-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "guerilla-toss-28-oct",
-   "title": "Guerilla Toss, Meat Scraps",
-   "date": "2026-10-28",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/guerilla-toss-28-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/730067/web_orders/new"
-  },
   {
    "id": "ian-sweet-29-oct",
    "title": "IAN SWEET",
@@ -47,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "$30.42 adv · $30.42 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -56,6 +24,20 @@
      "base": 20.0,
      "fee": 5.25,
      "total": 25.25,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
+     "status": ""
+    },
+    {
+     "name": "Buy One, Get One",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
      "status": ""
     }
    ],
@@ -629,18 +611,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
   },
   {
@@ -737,7 +711,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,

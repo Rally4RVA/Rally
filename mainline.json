@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-28T12:35:24-04:00",
+ "updated": "2026-10-29T12:51:44-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
   {
-   "id": "mainline-2026-10-28-jammin-on-the-tracks",
-   "title": "Jammin' on the Tracks",
-   "date": "2026-10-28",
+   "id": "mainline-2026-10-29-jade-sunday-band-and-hannah-wicklund",
+   "title": "Jade Sunday Band and Hannah Wicklund",
+   "date": "2026-10-29",
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf-pamh3",
+   "url": "https://www.mainlinerva.com/eventsatmainline/jade-sunday-band-and-hannah-wicklund",
    "kind": "m",
    "age": "",
    "address": "1603 Ownby Ln, Richmond, VA",
@@ -19,7 +19,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/new-event-jammin-on-the-tracks-hcdd8-tkkyt-8acsf-pamh3"
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/jade-sunday-band-and-hannah-wicklund"
   },
   {
    "id": "mainline-2026-10-30-black-cat-market",
@@ -39,6 +39,23 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market"
   },
   {
+   "id": "mainline-2026-10-30-the-royal-we",
+   "title": "The Royal We!",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/the-royal-we-4",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-royal-we-4"
+  },
+  {
    "id": "mainline-2026-10-31-rva-halloween-block-party",
    "title": "RVA Halloween Block Party",
    "date": "2026-10-31",
@@ -54,6 +71,57 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/rva-halloween-block-party"
+  },
+  {
+   "id": "mainline-2026-10-31-dusty-troubles",
+   "title": "Dusty Troubles",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/dusty-troubles-3",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/dusty-troubles-3"
+  },
+  {
+   "id": "mainline-2026-10-31-sold-day-party-with-multiple-djs",
+   "title": "SOLD DAY PARTY WITH MULTIPLE DJS",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/sold-day-party-with-multiple-djs",
+   "kind": "m",
+   "age": "18+",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/sold-day-party-with-multiple-djs"
+  },
+  {
+   "id": "mainline-2026-10-31-the-grey-cells",
+   "title": "The Grey Cells",
+   "date": "2026-10-31",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/the-grey-cells",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-grey-cells"
   },
   {
    "id": "mainline-2026-11-01-5th-annual-oyster-festival",

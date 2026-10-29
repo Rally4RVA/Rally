@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-28T12:36:08-04:00",
+ "updated": "2026-10-29T12:52:27-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-28-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
-   "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
-   "date": "2026-10-28",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-28-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-28-oct"
-  },
   {
    "id": "gettight-2026-10-29-house-night-elliott-10-00-pm",
    "title": "HOUSE NIGHT: ELLIOTT",
