@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Submit a show · Rally</title>
+<meta name="description" content="Playing a show or running a venue in Richmond? Send it to Rally. Every show is checked before it goes up.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&family=Montserrat:wght@800;900&display=swap">
+<!-- If you added your Adobe Fonts kit to index.html, add the same line here so the headings match. -->
+<!-- <link rel="stylesheet" href="https://use.typekit.net/XXXXXXX.css"> -->
+<style>
+:root {
+  --bg: #1B0006; --plum: #32102C; --surface: #2A0C20; --ink: #FEEBD3; --muted: #CDB3B5;
+  --line: #5E2E55; --accent: #E96544; --on-accent: #1B0006;
+  --font-display: "proxima-nova", "Proxima Nova", "Montserrat", "Arial Black", sans-serif;
+  --font-body: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font-body); font-weight: 300; font-size: 15px; line-height: 1.45; padding-bottom: 56px; }
+a { color: var(--accent); text-underline-offset: 3px; }
+.masthead { background: #FEEBD3; color: #32102C; }
+.masthead::after { content: ""; display: block; height: 22px; background: linear-gradient(to bottom, var(--plum) 0 18px, var(--accent) 18px 22px); }
+.mast-in, .wrap { max-width: 1012px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.mast-in { display: flex; flex-direction: column; gap: 10px; padding-top: 26px; padding-bottom: 24px; }
+.kicker { font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: #6B4A5E; }
+.logo { display: block; line-height: 0; margin-left: -4px; }
+.logo img { display: block; width: clamp(150px, 26vw, 220px); height: auto; }
+h1 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; font-size: clamp(30px, 6vw, 48px); line-height: 1; margin: 6px 0 0; color: #32102C; }
+.lede { margin: 0; max-width: 56ch; color: #4A2A42; font-size: 16px; }
+.wrap { padding-top: 26px; }
+.back { display: inline-block; margin-bottom: 18px; font-size: 14px; }
+form { display: grid; grid-template-columns: 1fr 1fr; gap: 16px 18px; background: var(--plum); border: 1px solid var(--line); border-radius: 3px; padding: 24px; }
+.full { grid-column: 1 / -1; }
+label { display: block; font-weight: 500; font-size: 14px; margin-bottom: 6px; }
+label small { font-weight: 300; color: var(--muted); font-size: 13px; }
+.req { color: var(--accent); }
+input, select, textarea {
+  width: 100%; font: inherit; font-weight: 300; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 2px; padding: 10px 12px;
+}
+textarea { min-height: 84px; resize: vertical; }
+input::placeholder, textarea::placeholder { color: #9C8290; }
+input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.hint { margin: 6px 0 0; font-size: 13px; color: var(--muted); }
+.trap { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.actions { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; }
+button.send { font: 600 15px var(--font-body); color: var(--on-accent); background: var(--accent); border: 0; border-radius: 2px; padding: 12px 22px; cursor: pointer; }
+button.send:disabled { opacity: .55; cursor: default; }
+.msg { margin: 0; font-size: 14px; }
+.msg.error { color: #FFB59E; }
+.done { background: var(--plum); border: 1px solid var(--line); border-radius: 3px; padding: 28px 24px; }
+.done h2 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; font-size: 26px; margin: 0 0 8px; color: var(--accent); }
+.done p { margin: 0 0 10px; max-width: 60ch; }
+.how { margin-top: 22px; color: var(--muted); font-size: 13.5px; max-width: 70ch; }
+[hidden] { display: none !important; }
+@media (max-width: 720px) { form { grid-template-columns: 1fr; padding: 18px; } }
+</style>
+</head>
+<body>
+<header class="masthead"><div class="mast-in">
+  <div class="kicker">Richmond, VA &middot; live music, one list</div>
+  <a class="logo" href="./" aria-label="Rally, back to the shows"><img src="logo.svg" width="726" height="318" alt="Rally"></a>
+  <h1>Submit a show</h1>
+  <p class="lede">Playing a show or running a venue? Send it in. We check every show before it goes up, usually within a day.</p>
+</div></header>
+
+<div class="wrap">
+  <a class="back" href="./">&larr; Back to the shows</a>
+
+  <form id="form" novalidate>
+    <div class="full">
+      <label for="title">Band or lineup <span class="req">*</span> <small>(headliner first, separate others with commas)</small></label>
+      <input id="title" name="title" required maxlength="200" autocomplete="off" placeholder="Saiara, Weylin">
+    </div>
+    <div>
+      <label for="venue">Venue <span class="req">*</span></label>
+      <input id="venue" name="venue" required maxlength="120" list="venues" autocomplete="off" placeholder="Pick one or type your own">
+      <datalist id="venues">
+        <option value="The Camel"><option value="Cobra Cabana"><option value="Bandito's Burrito Lounge">
+        <option value="Get Tight Lounge"><option value="The Broadberry"><option value="Richmond Music Hall">
+        <option value="Gallery5"><option value="Hardywood"><option value="Main Line Brewery">
+        <option value="The Canal Club"><option value="Northside Grille"><option value="Brambly Park">
+        <option value="LOSO"><option value="Pandora Cafe"><option value="Bottoms Up Pizza"><option value="Odin's Underground">
+      </datalist>
+      <p class="hint">House show or somewhere new? Type the name.</p>
+    </div>
+    <div>
+      <label for="date">Date <span class="req">*</span></label>
+      <input id="date" name="date" type="date" required>
+    </div>
+    <div>
+      <label for="time">Show time <span class="req">*</span></label>
+      <input id="time" name="time" type="time" required>
+    </div>
+    <div>
+      <label for="doors">Doors <small>(optional)</small></label>
+      <input id="doors" name="doors" type="time">
+    </div>
+    <div>
+      <label for="price">Price <small>(optional)</small></label>
+      <input id="price" name="price" maxlength="60" autocomplete="off" placeholder="Free, $10, or $8 adv / $12 door">
+    </div>
+    <div>
+      <label for="age">Ages <small>(optional)</small></label>
+      <select id="age" name="age">
+        <option value="">Not sure</option><option>All ages</option><option>18+</option><option>21+</option>
+      </select>
+    </div>
+    <div class="full">
+      <label for="link">Link to the ticket page or flyer post <span class="req">*</span></label>
+      <input id="link" name="link" type="url" required maxlength="500" placeholder="https://" autocomplete="off">
+      <p class="hint">This is how we check the show is real: the venue's page, a ticket link, or the Instagram post with the flyer.</p>
+    </div>
+    <div>
+      <label for="email">Your email <span class="req">*</span></label>
+      <input id="email" name="email" type="email" required maxlength="200" autocomplete="email" placeholder="you@example.com">
+      <p class="hint">Only used if we have a question. Never shown on the site.</p>
+    </div>
+    <div>
+      <label for="name">Your name <small>(optional)</small></label>
+      <input id="name" name="name" maxlength="100" autocomplete="name">
+    </div>
+    <div class="full">
+      <label for="notes">Anything else we should know? <small>(optional)</small></label>
+      <textarea id="notes" name="notes" maxlength="1000"></textarea>
+    </div>
+    <div class="trap" aria-hidden="true">
+      <label for="website">Leave this empty</label>
+      <input id="website" name="website" tabindex="-1" autocomplete="off">
+    </div>
+    <div class="actions">
+      <button class="send" id="send" type="submit">Send it in</button>
+      <p class="msg" id="msg" role="status" aria-live="polite"></p>
+    </div>
+  </form>
+
+  <section class="done" id="done" hidden aria-live="polite">
+    <h2>Got it</h2>
+    <p>Thanks. We'll check your show and it goes up on Rally once it's approved, usually within a day. We only email you if we have a question.</p>
+    <p><a href="submit.html" id="another">Send another show</a> &nbsp;&middot;&nbsp; <a href="./">Back to the shows</a></p>
+  </section>
+
+  <p class="how">What shows up on the site: the band, venue, date, time, price, ages and your link. Your email and notes stay private. Shows that can't be checked, or that aren't live music in the Richmond area, won't be added.</p>
+</div>
+
+<script>
+// Same two settings as the main page (the public key is meant to be in the page).
+var CONFIG = {
+  supabaseUrl: "https://ojaxnqxbrqssyykxvwjj.supabase.co",
+  supabaseKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9qYXhucXhicnFzc3l5a3h2d2pqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0MzI4NDYsImV4cCI6MjEwODAwODg0Nn0.r38T5DjBQqdTnt7DK2M1fFCMPrsv2lVsrO__dqkesSs"
+};
+
+var form = document.getElementById("form");
+var msg = document.getElementById("msg");
+var send = document.getElementById("send");
+
+function pad(n) { return String(n).padStart(2, "0"); }
+function isoDay(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+var now = new Date(), end = new Date(); end.setFullYear(end.getFullYear() + 1);
+document.getElementById("date").min = isoDay(now);
+document.getElementById("date").max = isoDay(end);
+
+// "20:00" -> "8:00 PM"
+function to12(v) {
+  var m = /^(\d{1,2}):(\d{2})/.exec(v || "");
+  if (!m) return "";
+  var h = +m[1];
+  return ((h % 12) || 12) + ":" + m[2] + " " + (h >= 12 ? "PM" : "AM");
+}
+
+function show(text, bad) { msg.textContent = text; msg.className = "msg" + (bad ? " error" : ""); }
+
+form.addEventListener("submit", function (ev) {
+  ev.preventDefault();
+  var f = form.elements;
+  var link = f.link.value.trim();
+  if (!f.title.value.trim() || !f.venue.value.trim() || !f.date.value || !f.time.value) { show("Please fill in the band, venue, date and show time.", true); return; }
+  if (!/^https?:\/\/\S+\.\S+$/i.test(link)) { show("Add a link that starts with https:// so we can check the show.", true); return; }
+  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(f.email.value.trim())) { show("Add an email we can reach you at.", true); return; }
+
+  send.disabled = true; show("Sending…", false);
+  fetch(CONFIG.supabaseUrl.replace(/\/+$/, "") + "/rest/v1/rpc/submit_show", {
+    method: "POST",
+    headers: { "apikey": CONFIG.supabaseKey, "Authorization": "Bearer " + CONFIG.supabaseKey, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      p_title: f.title.value.trim(), p_venue: f.venue.value.trim(), p_date: f.date.value,
+      p_show_time: to12(f.time.value), p_doors: to12(f.doors.value), p_price: f.price.value.trim(), p_age: f.age.value,
+      p_link: link, p_email: f.email.value.trim(), p_name: f.name.value.trim(), p_notes: f.notes.value.trim(),
+      p_trap: f.website.value
+    })
+  }).then(function (r) {
+    if (r.ok) return null;
+    return r.json().then(function (j) { return (j && j.message) || "Something went wrong."; }, function () { return "Something went wrong."; });
+  }).then(function (err) {
+    if (err) { show(err, true); send.disabled = false; return; }
+    form.hidden = true;
+    document.getElementById("done").hidden = false;
+    window.scrollTo(0, 0);
+  }, function () {
+    show("Couldn't reach Rally. Check your connection and try again.", true);
+    send.disabled = false;
+  });
+});
+</script>
+</body>
+</html>

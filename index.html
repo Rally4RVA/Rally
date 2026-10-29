@@ -43,6 +43,8 @@ body {
 .masthead::after { content: ""; display: block; height: 22px; background: linear-gradient(to bottom, var(--plum) 0 18px, var(--accent) 18px 22px); }
 .masthead .kicker { color: #6B4A5E; }
 .masthead .lede { color: #4A2A42; }
+.submit-link { align-self: flex-start; font-weight: 500; font-size: 14px; color: #9E2D0C; text-underline-offset: 3px; }
+.submit-link:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 .mast-in { max-width: 1012px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px;
   padding: 26px max(16px, env(safe-area-inset-right, 0px)) 24px max(16px, env(safe-area-inset-left, 0px)); }
 .kicker { font-family: var(--font-mono); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
@@ -139,6 +141,7 @@ h1.logo img { display: block; width: clamp(200px, 38vw, 340px); height: auto; }
       <img src="logo.svg" width="726" height="318" alt="Rally">
     </h1>
     <p class="lede">Every show in Richmond, one day at a time. Tap the people icon on any show to say you are interested. You are not committing to anything, and the number goes up for everyone.</p>
+    <a class="submit-link" href="submit.html">Playing a show or running a venue? Submit it &rarr;</a>
   </div></header>
 <div class="wrap">
 
