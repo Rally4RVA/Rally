@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-29T12:54:45-04:00",
+ "updated": "2026-10-30T12:44:07-04:00",
  "venues": [
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "brambly-2026-10-29-lance-thomas",
-   "title": "Lance Thomas",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
   {
    "id": "brambly-2026-10-30-anthony-gill",
    "title": "Anthony Gill",

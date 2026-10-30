@@ -1,48 +1,9 @@
 {
- "updated": "2026-10-29T12:50:27-04:00",
+ "updated": "2026-10-30T12:39:44-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "ian-sweet-29-oct",
-   "title": "IAN SWEET",
-   "date": "2026-10-29",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/ian-sweet-29-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42 adv · $30.42 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    },
-    {
-     "name": "Buy One, Get One",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
-  },
   {
    "id": "beers-banjos-the-crooked-creek-misfits-30-oct",
    "title": "Beers & Banjos: The Crooked Creek Misfits",
@@ -71,7 +32,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -80,6 +41,13 @@
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": ""
     }
    ],
@@ -611,10 +579,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$25.25",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
   },
   {
@@ -702,6 +678,23 @@
    "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
   },
   {
+   "id": "live-spooky-i-spy-24-nov",
+   "title": "Live I Spy",
+   "date": "2026-11-24",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-24-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/788333/web_orders/new"
+  },
+  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -711,7 +704,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,

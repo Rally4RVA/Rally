@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-29T12:51:44-04:00",
+ "updated": "2026-10-30T12:41:04-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-29-jade-sunday-band-and-hannah-wicklund",
-   "title": "Jade Sunday Band and Hannah Wicklund",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/jade-sunday-band-and-hannah-wicklund",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/jade-sunday-band-and-hannah-wicklund"
-  },
   {
    "id": "mainline-2026-10-30-black-cat-market",
    "title": "Black Cat Market",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:51:30-04:00",
+ "updated": "2026-10-30T12:40:51-04:00",
  "venues": [
   "Hardywood"
  ],
@@ -20,6 +20,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly"
+  },
+  {
+   "id": "hardywood-2026-10-30-topspin-pop-up-at-hardywood-richmond",
+   "title": "TopSpin Pop-Up at Hardywood Richmond",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/topspin-pop-up-at-hardywood-richmond",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/topspin-pop-up-at-hardywood-richmond"
   },
   {
    "id": "hardywood-2026-10-31-spooky-pilates",
@@ -532,13 +549,13 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3"
   },
   {
-   "id": "hardywood-2026-11-27-live-music-james-river-junction-duo",
-   "title": "James River Junction Duo",
+   "id": "hardywood-2026-11-27-live-music-ian-blackwood",
+   "title": "Ian Blackwood",
    "date": "2026-11-27",
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em",
+   "url": "https://www.hardywood.com/richmond-events/sp0xqyqiyoqvby6s9jyaxgw928mvjk-kfnxx-8xzla-sxkky-alk3s",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -546,7 +563,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em"
+   "ticket_url": "https://www.hardywood.com/richmond-events/sp0xqyqiyoqvby6s9jyaxgw928mvjk-kfnxx-8xzla-sxkky-alk3s"
   },
   {
    "id": "hardywood-2026-11-28-live-music-john-shenk",

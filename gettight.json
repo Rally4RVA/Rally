@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-29T12:52:27-04:00",
+ "updated": "2026-10-30T12:41:47-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-29-house-night-elliott-10-00-pm",
-   "title": "HOUSE NIGHT: ELLIOTT",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-elliott-29-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-29-oct"
-  },
   {
    "id": "gettight-2026-10-30-benefiting-diversity-richmond-miramar-yeni-nostalji-dj-doguc-8-00-pm",
    "title": "BENEFITING DIVERSITY RICHMOND: MIRAMAR, YENI NOSTALJI, DJ DOGUCHI",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$20.97",
+   "price_display": "$25.61",
    "free": false,
    "table_price": null,
    "tiers": [],

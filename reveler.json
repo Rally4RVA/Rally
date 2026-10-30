@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-29T12:53:47-04:00",
+ "updated": "2026-10-30T12:43:05-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-7-00-pm",
-   "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-electric-seance-hotpants-blackwood-station-10292026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2425086"
-  },
-  {
-   "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-9-30-pm",
-   "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-electric-seance-hotpants-blackwood-station-10292026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2425086"
-  },
   {
    "id": "reveler-2026-10-30-halloween-cabaret-featuring-qing-blaze-alisa-miles-dave-davi-8-00-pm",
    "title": "Halloween Cabaret Featuring Qing Blaze, Alisa Miles + Dave Davidson, Gordita Maricona \"The Vampire Goddess Of Burlesque\" + Jo'Rie Tigerlily",
@@ -158,6 +124,23 @@
    "ticket_url": "https://buytickets.at/reveler/1515983"
   },
   {
+   "id": "reveler-2026-11-05-kaitlyn-croker-6-00-pm",
+   "title": "Kaitlyn Croker",
+   "date": "2026-11-05",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/kaitlyn-croker-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2503773"
+  },
+  {
    "id": "reveler-2026-11-05-b-a-d-thursday-powerhouse-open-mic-for-vocalists-8-00-pm",
    "title": "B.A.D. Thursday Powerhouse Open Mic For Vocalists",
    "date": "2026-11-05",
@@ -190,23 +173,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2450443"
-  },
-  {
-   "id": "reveler-2026-11-07-joe-troop-s-whirlwind-3-00-pm",
-   "title": "Joe Troop'S Whirlwind",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/joe-troops-whirlwind-11072026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$22.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2453884"
   },
   {
    "id": "reveler-2026-11-07-makaya-mccraven-7-00-pm",

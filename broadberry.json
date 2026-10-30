@@ -1,45 +1,11 @@
 {
- "updated": "2026-10-29T12:50:47-04:00",
+ "updated": "2026-10-30T12:40:05-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-10-29-hudson-westbrook-kenny-whitmire-and-ethan-burdick",
-   "title": "HUDSON WESTBROOK, KENNY WHITMIRE AND ETHAN BURDICK",
-   "date": "2026-10-29",
-   "doors": "6:00 PM",
-   "show_time": "",
-   "venue": "Virginia Credit Union Live",
-   "url": "https://thebroadberry.com/event/hudson-westbrook-w-kenny-whitmire-and-ethan-burdick/virginia-credit-union-live/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/hudson-westbrook-w-kenny-whitmire-and-ethan-burdick/virginia-credit-union-live/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-29-lucky-13-tattoo-piercing-presents-nashville-pussy-valient-th",
-   "title": "Lucky 13 Tattoo & Piercing Presents NASHVILLE PUSSY, VALIENT THORR, AND U.S. BASTARDS",
-   "date": "2026-10-29",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/nashville-pussy-valient-thorr-and-u-s-bastards/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/nashville-pussy-valient-thorr-and-u-s-bastards/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-10-30-doom-gong-sprawl",
    "title": "DOOM GONG, SPRAWL",

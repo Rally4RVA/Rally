@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:55:20-04:00",
+ "updated": "2026-10-30T12:44:43-04:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -30,181 +30,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "brambly-2026-10-29-lance-thomas",
-   "title": "Lance Thomas",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "bb-2026-10-29-hudson-westbrook-kenny-whitmire-and-ethan-burdick",
-   "title": "HUDSON WESTBROOK, KENNY WHITMIRE AND ETHAN BURDICK",
-   "date": "2026-10-29",
-   "doors": "6:00 PM",
-   "show_time": "",
-   "venue": "Virginia Credit Union Live",
-   "url": "https://thebroadberry.com/event/hudson-westbrook-w-kenny-whitmire-and-ethan-burdick/virginia-credit-union-live/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/hudson-westbrook-w-kenny-whitmire-and-ethan-burdick/virginia-credit-union-live/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-29-lucky-13-tattoo-piercing-presents-nashville-pussy-valient-th",
-   "title": "Lucky 13 Tattoo & Piercing Presents NASHVILLE PUSSY, VALIENT THORR, AND U.S. BASTARDS",
-   "date": "2026-10-29",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/nashville-pussy-valient-thorr-and-u-s-bastards/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/nashville-pussy-valient-thorr-and-u-s-bastards/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "mainline-2026-10-29-jade-sunday-band-and-hannah-wicklund",
-   "title": "Jade Sunday Band and Hannah Wicklund",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/jade-sunday-band-and-hannah-wicklund",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/jade-sunday-band-and-hannah-wicklund"
-  },
-  {
-   "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-7-00-pm",
-   "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-electric-seance-hotpants-blackwood-station-10292026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2425086"
-  },
-  {
-   "id": "ian-sweet-29-oct",
-   "title": "IAN SWEET",
-   "date": "2026-10-29",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/ian-sweet-29-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42 adv · $30.42 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    },
-    {
-     "name": "Buy One, Get One",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/683689/web_orders/new"
-  },
-  {
-   "id": "bandito-2026-10-29-hit-like-a-girl-good-teal-40-reps-madison-turner",
-   "title": "Hit Like a Girl, Good Teal, 40 Reps, Madison Turner",
-   "date": "2026-10-29",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://www.etix.com/ticket/p/82491275/hit-like-a-girlgood-teal40-repsmadison-turner-at-banditos-richmond-banditos?partner_id=399",
-   "kind": "m",
-   "age": "",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.etix.com/ticket/p/82491275/hit-like-a-girlgood-teal40-repsmadison-turner-at-banditos-richmond-banditos?partner_id=399"
-  },
-  {
-   "id": "reveler-2026-10-29-the-electric-seance-hotpants-plays-bob-dylan-blackwood-stati-9-30-pm",
-   "title": "The Electric Seance Hotpants Plays Bob Dylan + Blackwood Station Plays The Beatles",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-electric-seance-hotpants-blackwood-station-10292026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2425086"
-  },
-  {
-   "id": "gettight-2026-10-29-house-night-elliott-10-00-pm",
-   "title": "HOUSE NIGHT: ELLIOTT",
-   "date": "2026-10-29",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-elliott-29-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-29-oct"
-  },
   {
    "id": "brambly-2026-10-30-anthony-gill",
    "title": "Anthony Gill",
@@ -308,6 +133,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly"
   },
   {
+   "id": "hardywood-2026-10-30-topspin-pop-up-at-hardywood-richmond",
+   "title": "TopSpin Pop-Up at Hardywood Richmond",
+   "date": "2026-10-30",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/topspin-pop-up-at-hardywood-richmond",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/topspin-pop-up-at-hardywood-richmond"
+  },
+  {
    "id": "bb-2026-10-30-doom-gong-sprawl",
    "title": "DOOM GONG, SPRAWL",
    "date": "2026-10-30",
@@ -359,8 +201,8 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-royal-we-4"
   },
   {
-   "id": "gallery5-2026-10-30-clue-the-drag-show",
-   "title": "CLUE: The Drag Show",
+   "id": "gallery5-2026-10-30-cancelled-clue-the-drag-show",
+   "title": "CANCELLED - CLUE: The Drag Show",
    "date": "2026-10-30",
    "doors": "",
    "show_time": "8:00 PM",
@@ -369,8 +211,8 @@
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/clue-beau-tox-october"
@@ -411,7 +253,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$20.97",
+   "price_display": "$25.61",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -462,7 +304,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -471,6 +313,13 @@
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": ""
     }
    ],
@@ -1306,6 +1155,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-04-nov"
   },
   {
+   "id": "reveler-2026-11-05-kaitlyn-croker-6-00-pm",
+   "title": "Kaitlyn Croker",
+   "date": "2026-11-05",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/kaitlyn-croker-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2503773"
+  },
+  {
    "id": "bb-2026-11-05-weird-phishes-performing-radiohead-s-ok-computer-in-the-styl",
    "title": "WEIRD PHISHES – PERFORMING RADIOHEAD’S “OK COMPUTER” IN THE STYLE OF PHISH",
    "date": "2026-11-05",
@@ -1641,23 +1507,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bluegrass-festival-2026"
-  },
-  {
-   "id": "reveler-2026-11-07-joe-troop-s-whirlwind-3-00-pm",
-   "title": "Joe Troop'S Whirlwind",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/joe-troops-whirlwind-11072026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$22.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2453884"
   },
   {
    "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
@@ -2325,6 +2174,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2493848"
+  },
+  {
+   "id": "recurring-bottomsuppizza-2026-11-13",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-11-13",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
   },
   {
    "id": "blues-brews-feat-willie-de-band-13-nov",
@@ -3142,10 +3008,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$25.25",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
   },
   {
@@ -3547,6 +3421,23 @@
    "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
   },
   {
+   "id": "live-spooky-i-spy-24-nov",
+   "title": "Live I Spy",
+   "date": "2026-11-24",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-24-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/788333/web_orders/new"
+  },
+  {
    "id": "hardywood-2026-11-24-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",
    "date": "2026-11-24",
@@ -3658,7 +3549,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -3666,13 +3557,13 @@
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
-   "id": "hardywood-2026-11-27-live-music-james-river-junction-duo",
-   "title": "James River Junction Duo",
+   "id": "hardywood-2026-11-27-live-music-ian-blackwood",
+   "title": "Ian Blackwood",
    "date": "2026-11-27",
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em",
+   "url": "https://www.hardywood.com/richmond-events/sp0xqyqiyoqvby6s9jyaxgw928mvjk-kfnxx-8xzla-sxkky-alk3s",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3680,7 +3571,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/daniel-glymph-duo-of-james-river-junction-ez2b6-384em"
+   "ticket_url": "https://www.hardywood.com/richmond-events/sp0xqyqiyoqvby6s9jyaxgw928mvjk-kfnxx-8xzla-sxkky-alk3s"
   },
   {
    "id": "bb-2026-11-27-wolph",
