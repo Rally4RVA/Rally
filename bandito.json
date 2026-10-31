@@ -1,34 +1,9 @@
 {
- "updated": "2026-10-30T12:41:35-04:00",
+ "updated": "2026-10-31T11:44:42-04:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-10-30-strawberry-moon-rikki-rikki-human-worm-becoming",
-   "title": "Strawberry Moon, Rikki Rikki, Human Worm, Becoming",
-   "date": "2026-10-30",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/strawberry-moon-rikki-rikki-human-worm-becoming-october-30-2026-757875",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/strawberry-moon-rikki-rikki-human-worm-becoming-october-30-2026-757875"
-  },
   {
    "id": "bandito-2026-10-31-are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world",
    "title": "Are Ya Madferit? The Greatest Oasis Tribute Band In The World, I Will Scare & Crush!",
@@ -40,15 +15,15 @@
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
+   "price_display": "$24.02 door",
    "free": false,
    "table_price": null,
    "tiers": [
     {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
+     "name": "General Admission - Day of Show",
+     "base": 20.0,
+     "fee": 4.02,
+     "total": 24.02,
      "status": ""
     }
    ],

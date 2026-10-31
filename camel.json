@@ -1,58 +1,9 @@
 {
- "updated": "2026-10-30T12:39:44-04:00",
+ "updated": "2026-10-31T11:42:56-04:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "beers-banjos-the-crooked-creek-misfits-30-oct",
-   "title": "Beers & Banjos: The Crooked Creek Misfits",
-   "date": "2026-10-30",
-   "doors": "6:00 PM",
-   "show_time": "6:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/beers-banjos-the-crooked-creek-misfits-30-oct",
-   "kind": "m",
-   "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
-   "free": true,
-   "table_price": 15.0,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627475/web_orders/new"
-  },
-  {
-   "id": "pure-punk-covers-of-bag-religion-the-misfits-dead-kennedys-the-clash-descendents-30-oct",
-   "title": "Pure Punk: Covers of Bad Religion, The Misfits, Dead Kennedys, The Clash, Descendents",
-   "date": "2026-10-30",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/pure-punk-covers-of-bag-religion-the-misfits-dead-kennedys-the-clash-descendents-30-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/714126/web_orders/new"
-  },
   {
    "id": "halloween-at-the-camel-31-oct",
    "title": "Halloween at The Camel!",
@@ -64,16 +15,23 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    },
     {
      "name": "Advance (1)",
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/714123/web_orders/new"
@@ -799,7 +757,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {

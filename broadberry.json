@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:40:05-04:00",
+ "updated": "2026-10-31T11:43:17-04:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
@@ -7,47 +7,13 @@
  ],
  "events": [
   {
-   "id": "bb-2026-10-30-doom-gong-sprawl",
-   "title": "DOOM GONG, SPRAWL",
-   "date": "2026-10-30",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/doom-gong-w-sprawl/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/doom-gong-w-sprawl/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-30-full-moon-fever-a-tom-petty-tribute-caroline-vain",
-   "title": "FULL MOON FEVER: A TOM PETTY TRIBUTE, CAROLINE VAIN",
-   "date": "2026-10-30",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/full-moon-fever-a-tom-petty-tribute-w-caroline-vain/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/full-moon-fever-a-tom-petty-tribute-w-caroline-vain/the-broadberry-2/richmond-virginia/"
-  },
-  {
    "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
-   "title": "HALLOWEEN SHOW: CLEOPHUS JAMES (WEEN TRIBUTE SET) + TWIN FILMS (DRAKE TRIBUTE SET) + SHEET ROCK (STEELY DAN TRIBUTE SET)",
+   "title": "HALLOWEEN SHOW: CLEOPHUS JAMES (WEEN TRIBUTE SET) + TWIN FILMS (DRAKE TRIBUTE SET) + SHEETROCK (STEELY DAN TRIBUTE SET)",
    "date": "2026-10-31",
    "doors": "7:30 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheet-rock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheetrock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -55,7 +21,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheet-rock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheetrock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-10-31-rewind-2000-s-halloween-rave-18",
@@ -296,23 +262,6 @@
    "ticket_url": "https://thebroadberry.com/event/slow-pulp-w-her-new-knife/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-11-roe-kapara-the-milestones",
-   "title": "ROE KAPARA, THE MILESTONES",
-   "date": "2026-11-11",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/roe-kapara-w-the-milestones/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/roe-kapara-w-the-milestones/richmond-music-hall/richmond-virginia/"
-  },
-  {
    "id": "bb-2026-11-12-adult-x-a-place-to-bury-strangers-the-treasury",
    "title": "ADULT. X A PLACE TO BURY STRANGERS, THE TREASURY",
    "date": "2026-11-12",
@@ -432,13 +381,13 @@
    "ticket_url": "https://thebroadberry.com/event/ax-and-the-hatchetmen-the-late-checkout-tour-2026-w-john-robert/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-17-underground-orchard-x-honeymoon-present-454-pig-the-gemini",
-   "title": "Underground Orchard x Honeymoon Present 454, PIG THE GEMINI",
+   "id": "bb-2026-11-17-underground-orchard-x-honeymoon-present-454-pig-the-gemini-a",
+   "title": "Underground Orchard x Honeymoon Present 454, PIG THE GEMINI, ALEX VS ALEX, AND ALFRED",
    "date": "2026-11-17",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/454-w-pig-the-gemini/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/454-w-pig-the-gemini-alex-vs-alex-and-alfred/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -446,7 +395,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/454-w-pig-the-gemini/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/454-w-pig-the-gemini-alex-vs-alex-and-alfred/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-11-17-deer-tick-dug",

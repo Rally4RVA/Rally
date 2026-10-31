@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-30T12:40:51-04:00",
+ "updated": "2026-10-31T11:44:00-04:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-10-30-live-music-tin-can-fish-band",
-   "title": "Tin Can Fish Band",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/tin-can-fish-band-d6wn2-2jfly"
-  },
-  {
-   "id": "hardywood-2026-10-30-topspin-pop-up-at-hardywood-richmond",
-   "title": "TopSpin Pop-Up at Hardywood Richmond",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/topspin-pop-up-at-hardywood-richmond",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/topspin-pop-up-at-hardywood-richmond"
-  },
   {
    "id": "hardywood-2026-10-31-spooky-pilates",
    "title": "Spooky Pilates!",
@@ -283,7 +249,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t",
+   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -291,7 +257,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t"
+   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2"
   },
   {
    "id": "hardywood-2026-11-13-live-music-madly-backwards",

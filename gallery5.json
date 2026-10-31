@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-30T12:40:42-04:00",
+ "updated": "2026-10-31T11:43:51-04:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-10-30-cancelled-clue-the-drag-show",
-   "title": "CANCELLED - CLUE: The Drag Show",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/clue-beau-tox-october",
-   "kind": "o",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/clue-beau-tox-october"
-  },
   {
    "id": "gallery5-2026-10-31-halloween-with-the-significant-others",
    "title": "Halloween with The Significant Others",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$12.51",
+   "price_display": "$17.85",
    "free": false,
    "table_price": null,
    "tiers": [],

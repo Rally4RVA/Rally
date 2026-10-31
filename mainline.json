@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-30T12:41:04-04:00",
+ "updated": "2026-10-31T11:44:13-04:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-10-30-black-cat-market",
-   "title": "Black Cat Market",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-cat-market"
-  },
-  {
-   "id": "mainline-2026-10-30-the-royal-we",
-   "title": "The Royal We!",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/the-royal-we-4",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-royal-we-4"
-  },
   {
    "id": "mainline-2026-10-31-rva-halloween-block-party",
    "title": "RVA Halloween Block Party",

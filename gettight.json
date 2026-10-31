@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-30T12:41:47-04:00",
+ "updated": "2026-10-31T11:44:53-04:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-30-benefiting-diversity-richmond-miramar-yeni-nostalji-dj-doguc-8-00-pm",
-   "title": "BENEFITING DIVERSITY RICHMOND: MIRAMAR, YENI NOSTALJI, DJ DOGUCHI",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/miramar-yeni-nostalji-dj-doguchi-30-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$25.61",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/miramar-yeni-nostalji-dj-doguchi-30-oct"
-  },
-  {
-   "id": "gettight-2026-10-30-samazon-prime-dj-10-00-pm",
-   "title": "SAMAZON PRIME (DJ)",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/samazon-prime-dj-30-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/samazon-prime-dj-30-oct"
-  },
   {
    "id": "gettight-2026-10-31-salsasoul-with-dj-rattan-10-00-pm",
    "title": "SALSASOUL WITH DJ RATTAN",

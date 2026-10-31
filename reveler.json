@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-30T12:43:05-04:00",
+ "updated": "2026-10-31T11:46:00-04:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-30-halloween-cabaret-featuring-qing-blaze-alisa-miles-dave-davi-8-00-pm",
-   "title": "Halloween Cabaret Featuring Qing Blaze, Alisa Miles + Dave Davidson, Gordita Maricona \"The Vampire Goddess Of Burlesque\" + Jo'Rie Tigerlily",
-   "date": "2026-10-30",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/reveler-cabaret-halloween-edition-2026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2452620"
-  },
   {
    "id": "reveler-2026-10-31-jake-josh-the-hot-seats-johanna-wacker-3-00-pm",
    "title": "Jake & Josh (The Hot Seats) + Johanna Wacker",
@@ -49,7 +32,7 @@
    "kind": "m",
    "age": "21+",
    "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "Sold out",
+   "price_display": "$25",
    "free": false,
    "table_price": null,
    "tiers": [],
