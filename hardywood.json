@@ -1,60 +1,9 @@
 {
- "updated": "2026-10-31T11:44:00-04:00",
+ "updated": "2026-11-01T11:45:40-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-10-31-spooky-pilates",
-   "title": "Spooky Pilates!",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "11:00 AM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/spooky-pilates",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/spooky-pilates"
-  },
-  {
-   "id": "hardywood-2026-10-31-rusted-rabbit-pumpkin-living-succulent-halloween-edition",
-   "title": "Rusted Rabbit: Pumpkin Living Succulent Halloween Edition!",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
-  },
-  {
-   "id": "hardywood-2026-10-31-death-at-the-disco-w-alan-same-the-difference",
-   "title": "DEATH AT THE DISCO, Alan Same & The Difference",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco"
-  },
   {
    "id": "hardywood-2026-11-01-live-music-megan-luck",
    "title": "Megan Luck",
@@ -598,6 +547,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
+  },
+  {
+   "id": "hardywood-2026-12-13-smiles-with-santa-12-13",
+   "title": "Smiles With Santa 12/13",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/smiles-with-santa-1212-bwrdc-narjt",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/smiles-with-santa-1212-bwrdc-narjt"
   },
   {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",

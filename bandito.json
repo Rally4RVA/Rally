@@ -1,34 +1,9 @@
 {
- "updated": "2026-10-31T11:44:42-04:00",
+ "updated": "2026-11-01T11:46:25-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-10-31-are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world",
-   "title": "Are Ya Madferit? The Greatest Oasis Tribute Band In The World, I Will Scare & Crush!",
-   "date": "2026-10-31",
-   "doors": "8:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$24.02 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission - Day of Show",
-     "base": 20.0,
-     "fee": 4.02,
-     "total": 24.02,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570"
-  },
   {
    "id": "bandito-2026-11-03-chemical-x-paradiso-plutonium-womb-hard-facts",
    "title": "Chemical-x, Paradiso, Plutonium Womb, Hard Facts",
@@ -80,6 +55,23 @@
    "ticket_url": "https://app.opendate.io/e/slot-clenchers-kitchenette-november-05-2026-761338"
   },
   {
+   "id": "bandito-2026-11-06-kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-phot",
+   "title": "Kitty Corner, Lola.5, Daisy Glaze, Saccharine Bullshit Dog Photo",
+   "date": "2026-11-06",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028"
+  },
+  {
    "id": "bandito-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
    "title": "The Get Off, Beast from the East, Cold Vein, Green Forest",
    "date": "2026-11-08",
@@ -103,6 +95,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/e/the-get-off-beast-from-the-east-cold-vein-green-forest-november-08-2026-760955"
+  },
+  {
+   "id": "bandito-2026-11-12-oshiner-eyes-peeled-plutonium-womb-miscreants",
+   "title": "Oshiner, Eyes Peeled, Plutonium Womb, Miscreants",
+   "date": "2026-11-12",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/oshiner-eyes-peeled-plutonium-womb-miscreants-november-12-2026-796029",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$10 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/oshiner-eyes-peeled-plutonium-womb-miscreants-november-12-2026-796029"
   },
   {
    "id": "bandito-2026-11-13-ships-in-the-night-syncretist-architrave-bloodx3",
@@ -204,6 +221,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744"
+  },
+  {
+   "id": "bandito-2026-12-01-kontusion-hedonist-skeksis",
+   "title": "Kontusion, Hedonist, Skeksis",
+   "date": "2026-12-01",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/kontusion-hedonist-skeksis-december-01-2026-753111",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$16",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 12.0,
+     "fee": 4.0,
+     "total": 16.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/kontusion-hedonist-skeksis-december-01-2026-753111"
   },
   {
    "id": "bandito-2026-12-14-magic-tuber-stringband-crazy-doberman-molasses-industries",

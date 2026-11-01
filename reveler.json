@@ -1,43 +1,9 @@
 {
- "updated": "2026-10-31T11:46:00-04:00",
+ "updated": "2026-11-01T11:47:53-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-10-31-jake-josh-the-hot-seats-johanna-wacker-3-00-pm",
-   "title": "Jake & Josh (The Hot Seats) + Johanna Wacker",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jake-josh-the-hot-seats-johanna-wacker",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$13.13",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2448930"
-  },
-  {
-   "id": "reveler-2026-10-31-halloween-party-featuring-the-embalmers-with-crack-fox-and-t-7-30-pm",
-   "title": "Halloween Party Featuring The Embalmers With Crack Fox And The Lonely Teardrops",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "7:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/halloween-party-2026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2400169"
-  },
   {
    "id": "reveler-2026-11-01-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
@@ -156,6 +122,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2450443"
+  },
+  {
+   "id": "reveler-2026-11-07-elizabeth-wise-3-00-pm",
+   "title": "Elizabeth Wise",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/elizabeth-wise-11072026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2506242"
   },
   {
    "id": "reveler-2026-11-07-makaya-mccraven-7-00-pm",

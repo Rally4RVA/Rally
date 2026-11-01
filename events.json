@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:47:33-04:00",
+ "updated": "2026-11-01T11:49:26-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -22,7 +22,6 @@
   "The Canal Club",
   "The Workshop",
   "VSC",
-  "Bandito's Burrito Lounge",
   "Main Line Brewery",
   "Révéler",
   "Brambly Park",
@@ -30,9 +29,9 @@
  ],
  "events": [
   {
-   "id": "brambly-2026-10-31-kenneka-cook",
-   "title": "Kenneka Cook",
-   "date": "2026-10-31",
+   "id": "brambly-2026-11-01-maddy-curtis-duo",
+   "title": "Maddy Curtis Duo",
+   "date": "2026-11-01",
    "doors": "",
    "show_time": "",
    "venue": "Brambly Park",
@@ -45,335 +44,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "brambly-2026-10-31-elizabeth-wise",
-   "title": "Elizabeth Wise",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "recurring-bottomsuppizza-2026-10-31",
-   "title": "Live music (see Instagram for the band)",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "",
-   "venue": "Bottoms Up Pizza",
-   "url": "https://www.instagram.com/bottomsuppizza/",
-   "kind": "m",
-   "age": "",
-   "address": "1700 Dock St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
-  },
-  {
-   "id": "hardywood-2026-10-31-spooky-pilates",
-   "title": "Spooky Pilates!",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "11:00 AM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/spooky-pilates",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/spooky-pilates"
-  },
-  {
-   "id": "mainline-2026-10-31-rva-halloween-block-party",
-   "title": "RVA Halloween Block Party",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "12:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/rva-halloween-block-party",
-   "kind": "o",
-   "age": "18+",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/rva-halloween-block-party"
-  },
-  {
-   "id": "mainline-2026-10-31-dusty-troubles",
-   "title": "Dusty Troubles",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/dusty-troubles-3",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/dusty-troubles-3"
-  },
-  {
-   "id": "mainline-2026-10-31-sold-day-party-with-multiple-djs",
-   "title": "SOLD DAY PARTY WITH MULTIPLE DJS",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/sold-day-party-with-multiple-djs",
-   "kind": "m",
-   "age": "18+",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/sold-day-party-with-multiple-djs"
-  },
-  {
-   "id": "reveler-2026-10-31-jake-josh-the-hot-seats-johanna-wacker-3-00-pm",
-   "title": "Jake & Josh (The Hot Seats) + Johanna Wacker",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jake-josh-the-hot-seats-johanna-wacker",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$13.13",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2448930"
-  },
-  {
-   "id": "hardywood-2026-10-31-rusted-rabbit-pumpkin-living-succulent-halloween-edition",
-   "title": "Rusted Rabbit: Pumpkin Living Succulent Halloween Edition!",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rusted-rabbit-pumpkin-living-succulent-halloween-edition"
-  },
-  {
-   "id": "hardywood-2026-10-31-death-at-the-disco-w-alan-same-the-difference",
-   "title": "DEATH AT THE DISCO, Alan Same & The Difference",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/halloween-throwdown-w-alan-same-the-disco"
-  },
-  {
-   "id": "gallery5-2026-10-31-halloween-with-the-significant-others",
-   "title": "Halloween with The Significant Others",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/halloween-significant-others",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$17.85",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/halloween-with-the-significant-others-tickets-2003086603954"
-  },
-  {
-   "id": "mainline-2026-10-31-the-grey-cells",
-   "title": "The Grey Cells",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/the-grey-cells",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/the-grey-cells"
-  },
-  {
-   "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
-   "title": "HALLOWEEN SHOW: CLEOPHUS JAMES (WEEN TRIBUTE SET) + TWIN FILMS (DRAKE TRIBUTE SET) + SHEETROCK (STEELY DAN TRIBUTE SET)",
-   "date": "2026-10-31",
-   "doors": "7:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheetrock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheetrock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "reveler-2026-10-31-halloween-party-featuring-the-embalmers-with-crack-fox-and-t-7-30-pm",
-   "title": "Halloween Party Featuring The Embalmers With Crack Fox And The Lonely Teardrops",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "7:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/halloween-party-2026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2400169"
-  },
-  {
-   "id": "halloween-at-the-camel-31-oct",
-   "title": "Halloween at The Camel!",
-   "date": "2026-10-31",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/halloween-at-the-camel-31-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Advance (1)",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/714123/web_orders/new"
-  },
-  {
-   "id": "bb-2026-10-31-rewind-2000-s-halloween-rave-18",
-   "title": "REWIND: 2000’S HALLOWEEN RAVE (18+)",
-   "date": "2026-10-31",
-   "doors": "8:30 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/rewind-2000s-halloween-rave-18/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/rewind-2000s-halloween-rave-18/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "bandito-2026-10-31-are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world",
-   "title": "Are Ya Madferit? The Greatest Oasis Tribute Band In The World, I Will Scare & Crush!",
-   "date": "2026-10-31",
-   "doors": "8:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$24.02 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission - Day of Show",
-     "base": 20.0,
-     "fee": 4.02,
-     "total": 24.02,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/are-ya-madferit-the-greatest-oasis-tribute-band-in-the-world-w-i-will-scare-crush-october-31-2026-734570"
-  },
-  {
-   "id": "gettight-2026-10-31-salsasoul-with-dj-rattan-10-00-pm",
-   "title": "SALSASOUL WITH DJ RATTAN",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-31-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-31-oct"
-  },
-  {
-   "id": "manual-sub-142c352b",
-   "title": "PoopMangina",
-   "date": "2026-10-31",
-   "doors": "11:49 PM",
-   "show_time": "10:49 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://www.instagram.com/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "5",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/"
   },
   {
    "id": "victims-villains-presents-say-their-name-fest-01-nov",
@@ -384,21 +54,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/victims-villains-presents-say-their-name-fest-01-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/730908/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "mainline-2026-11-01-5th-annual-oyster-festival",
@@ -435,6 +97,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-megan-luck"
   },
   {
+   "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
+   "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
+   "date": "2026-11-01",
+   "doors": "",
+   "show_time": "4:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
+   "kind": "m",
+   "age": "All ages",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
+  },
+  {
    "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
    "title": "BASS DRUM OF DEATH: USA 2026, THE GLARES",
    "date": "2026-11-01",
@@ -450,23 +129,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/bass-drum-of-death-usa-2026-w-the-glares/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
-   "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
-   "kind": "m",
-   "age": "All ages",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
   },
   {
    "id": "manual-studio-two-three-2026-11-01-ink-dagger-pageninetynine-sleepytime-trio-ghouli",
@@ -602,6 +264,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.revelerexperiences.com/event/vote-closed-maintenance-2026"
+  },
+  {
+   "id": "brambly-2026-11-03-trivia-in-the-restaurant",
+   "title": "Trivia in the Restaurant",
+   "date": "2026-11-03",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "bb-2026-11-03-the-garcia-project",
@@ -754,6 +433,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-03-nov"
+  },
+  {
+   "id": "brambly-2026-11-04-wine-down-wednesdays",
+   "title": "Wine Down Wednesdays",
+   "date": "2026-11-04",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "hardywood-2026-11-04-804-run-club-every-wednesday",
@@ -1024,7 +720,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/first-fridays-the-art-of-the-pickle-exhibition",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition",
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1032,7 +728,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/first-fridays-the-art-of-the-pickle-exhibition"
+   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition"
   },
   {
    "id": "beers-banjos-slack-family-band-06-nov",
@@ -1084,6 +780,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/bungalow-collect-presents-disco-rap-keep-it-honest-across-the-world-tour/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bandito-2026-11-06-kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-phot",
+   "title": "Kitty Corner, Lola.5, Daisy Glaze, Saccharine Bullshit Dog Photo",
+   "date": "2026-11-06",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028"
   },
   {
    "id": "reveler-2026-11-06-rex-richardson-quartet-marshall-gilkes-8-00-pm",
@@ -1175,7 +888,7 @@
    "doors": "",
    "show_time": "12:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/2026/10/24/community-care-pickle-potluck",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-community-care-pickle-potluck",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1183,7 +896,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/2026/10/24/community-care-pickle-potluck"
+   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-community-care-pickle-potluck"
   },
   {
    "id": "hardywood-2026-11-07-hardywood-bluegrass-festival-2026",
@@ -1203,6 +916,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-bluegrass-festival-2026"
   },
   {
+   "id": "reveler-2026-11-07-elizabeth-wise-3-00-pm",
+   "title": "Elizabeth Wise",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/elizabeth-wise-11072026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2506242"
+  },
+  {
    "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
    "title": "AKEEM ALI: THE TEXTURE TOUR",
    "date": "2026-11-07",
@@ -1218,6 +948,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/akeem-ali-the-texture-tour/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "gallery5-2026-11-07-hot-lava-serqet-future-mantis",
+   "title": "Hot Lava, Serqet, Future Mantis",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-hot-lava-serqet-future-mantis",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-hot-lava-serqet-future-mantis"
   },
   {
    "id": "manual-northside-basement-2026-11-07-real-shocks-crying-hand-putrid-boys-homemade-speed",
@@ -1328,7 +1075,7 @@
    "doors": "",
    "show_time": "1:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/2026/11/8/briney-brunch-variety-show",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-briney-brunch-variety-show",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -1550,6 +1297,23 @@
    "ticket_url": "https://app.opendate.io/confirms/736607/web_orders/new"
   },
   {
+   "id": "brambly-2026-11-10-trivia-in-the-restaurant",
+   "title": "Trivia in the Restaurant",
+   "date": "2026-11-10",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
    "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour",
    "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR",
    "date": "2026-11-10",
@@ -1641,6 +1405,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/731199/web_orders/new"
+  },
+  {
+   "id": "brambly-2026-11-11-wine-down-wednesdays",
+   "title": "Wine Down Wednesdays",
+   "date": "2026-11-11",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "hardywood-2026-11-11-804-run-club-every-wednesday",
@@ -1834,6 +1615,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/731035/web_orders/new"
+  },
+  {
+   "id": "bandito-2026-11-12-oshiner-eyes-peeled-plutonium-womb-miscreants",
+   "title": "Oshiner, Eyes Peeled, Plutonium Womb, Miscreants",
+   "date": "2026-11-12",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/oshiner-eyes-peeled-plutonium-womb-miscreants-november-12-2026-796029",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$10 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/oshiner-eyes-peeled-plutonium-womb-miscreants-november-12-2026-796029"
   },
   {
    "id": "reveler-2026-11-12-ant-the-symbol-with-morgan-stewart-8-00-pm",
@@ -2455,6 +2261,23 @@
    "ticket_url": "https://app.opendate.io/confirms/751045/web_orders/new"
   },
   {
+   "id": "brambly-2026-11-17-trivia-in-the-restaurant",
+   "title": "Trivia in the Restaurant",
+   "date": "2026-11-17",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
    "id": "bb-2026-11-17-underground-orchard-x-honeymoon-present-454-pig-the-gemini-a",
    "title": "Underground Orchard x Honeymoon Present 454, PIG THE GEMINI, ALEX VS ALEX, AND ALFRED",
    "date": "2026-11-17",
@@ -2580,6 +2403,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2301781"
+  },
+  {
+   "id": "brambly-2026-11-18-wine-down-wednesdays",
+   "title": "Wine Down Wednesdays",
+   "date": "2026-11-18",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "hardywood-2026-11-18-804-run-club-every-wednesday",
@@ -3115,6 +2955,23 @@
    "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
   },
   {
+   "id": "brambly-2026-11-24-trivia-in-the-restaurant",
+   "title": "Trivia in the Restaurant",
+   "date": "2026-11-24",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
+  },
+  {
    "id": "live-spooky-i-spy-24-nov",
    "title": "Live I Spy",
    "date": "2026-11-24",
@@ -3147,6 +3004,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz"
+  },
+  {
+   "id": "brambly-2026-11-25-wine-down-wednesdays",
+   "title": "Wine Down Wednesdays",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "",
+   "venue": "Brambly Park",
+   "url": "https://www.bramblypark.com/eventscalendar",
+   "kind": "o",
+   "age": "",
+   "address": "1708 Belleville St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
    "id": "bb-2026-11-25-fear-of-music-a-thanksgiving-eve-tradition",
@@ -3571,6 +3445,31 @@
    "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
   },
   {
+   "id": "bandito-2026-12-01-kontusion-hedonist-skeksis",
+   "title": "Kontusion, Hedonist, Skeksis",
+   "date": "2026-12-01",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/kontusion-hedonist-skeksis-december-01-2026-753111",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$16",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 12.0,
+     "fee": 4.0,
+     "total": 16.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/kontusion-hedonist-skeksis-december-01-2026-753111"
+  },
+  {
    "id": "gettight-2026-12-01-cowpoke-karaoke-with-brand-franklin-8-00-pm",
    "title": "COWPOKE KARAOKE WITH BRAND FRANKLIN",
    "date": "2026-12-01",
@@ -3652,15 +3551,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
@@ -3925,6 +3816,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2313245"
+  },
+  {
+   "id": "hardywood-2026-12-13-smiles-with-santa-12-13",
+   "title": "Smiles With Santa 12/13",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/smiles-with-santa-1212-bwrdc-narjt",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/smiles-with-santa-1212-bwrdc-narjt"
   },
   {
    "id": "public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",

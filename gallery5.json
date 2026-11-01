@@ -1,32 +1,15 @@
 {
- "updated": "2026-10-31T11:43:51-04:00",
+ "updated": "2026-11-01T11:45:30-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
   {
-   "id": "gallery5-2026-10-31-halloween-with-the-significant-others",
-   "title": "Halloween with The Significant Others",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/halloween-significant-others",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$17.85",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/halloween-with-the-significant-others-tickets-2003086603954"
-  },
-  {
    "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
    "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
    "date": "2026-11-01",
    "doors": "",
-   "show_time": "7:00 PM",
+   "show_time": "4:00 PM",
    "venue": "Gallery5",
    "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
    "kind": "m",
@@ -62,7 +45,7 @@
    "doors": "",
    "show_time": "5:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/first-fridays-the-art-of-the-pickle-exhibition",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition",
    "kind": "o",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -70,7 +53,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/first-fridays-the-art-of-the-pickle-exhibition"
+   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition"
   },
   {
    "id": "gallery5-2026-11-07-community-care-pickle-potluck",
@@ -79,7 +62,7 @@
    "doors": "",
    "show_time": "12:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/2026/10/24/community-care-pickle-potluck",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-community-care-pickle-potluck",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
@@ -87,7 +70,24 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/2026/10/24/community-care-pickle-potluck"
+   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-community-care-pickle-potluck"
+  },
+  {
+   "id": "gallery5-2026-11-07-hot-lava-serqet-future-mantis",
+   "title": "Hot Lava, Serqet, Future Mantis",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-hot-lava-serqet-future-mantis",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-hot-lava-serqet-future-mantis"
   },
   {
    "id": "gallery5-2026-11-08-briney-brunch-variety-show",
@@ -96,7 +96,7 @@
    "doors": "",
    "show_time": "1:00 PM",
    "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/2026/11/8/briney-brunch-variety-show",
+   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-briney-brunch-variety-show",
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",

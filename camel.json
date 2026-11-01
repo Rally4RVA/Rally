@@ -1,41 +1,9 @@
 {
- "updated": "2026-10-31T11:42:56-04:00",
+ "updated": "2026-11-01T11:44:38-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "halloween-at-the-camel-31-oct",
-   "title": "Halloween at The Camel!",
-   "date": "2026-10-31",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/halloween-at-the-camel-31-oct",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Advance (1)",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/714123/web_orders/new"
-  },
   {
    "id": "victims-villains-presents-say-their-name-fest-01-nov",
    "title": "Victims & Villains Presents: Say Their Name Fest",
@@ -45,21 +13,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/victims-villains-presents-say-their-name-fest-01-nov",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/730908/web_orders/new"
+   "tiers": [],
+   "ticket_url": "http://www.opendate.io"
   },
   {
    "id": "glowr-sophie-colette-elle-pf-01-nov",
@@ -757,15 +717,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {

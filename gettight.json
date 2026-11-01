@@ -1,26 +1,9 @@
 {
- "updated": "2026-10-31T11:44:53-04:00",
+ "updated": "2026-11-01T11:46:36-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-10-31-salsasoul-with-dj-rattan-10-00-pm",
-   "title": "SALSASOUL WITH DJ RATTAN",
-   "date": "2026-10-31",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-31-oct",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-31-oct"
-  },
   {
    "id": "gettight-2026-11-03-cowpoke-karaoke-with-brand-franklin-8-00-pm",
    "title": "COWPOKE KARAOKE WITH BRAND FRANKLIN",

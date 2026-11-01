@@ -1,45 +1,11 @@
 {
- "updated": "2026-10-31T11:43:17-04:00",
+ "updated": "2026-11-01T11:44:59-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-10-31-halloween-show-cleophus-james-ween-tribute-set-twin-films-dr",
-   "title": "HALLOWEEN SHOW: CLEOPHUS JAMES (WEEN TRIBUTE SET) + TWIN FILMS (DRAKE TRIBUTE SET) + SHEETROCK (STEELY DAN TRIBUTE SET)",
-   "date": "2026-10-31",
-   "doors": "7:30 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheetrock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/halloween-show-cleophus-james-ween-tribute-set-twin-films-drake-tribute-set-sheetrock-steely-dan-tribute-set/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-10-31-rewind-2000-s-halloween-rave-18",
-   "title": "REWIND: 2000’S HALLOWEEN RAVE (18+)",
-   "date": "2026-10-31",
-   "doors": "8:30 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/rewind-2000s-halloween-rave-18/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/rewind-2000s-halloween-rave-18/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
    "title": "BASS DRUM OF DEATH: USA 2026, THE GLARES",
