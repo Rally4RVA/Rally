@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-01T11:45:40-05:00",
+ "updated": "2026-11-02T15:11:03-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-01-live-music-megan-luck",
-   "title": "Megan Luck",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-megan-luck",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-megan-luck"
-  },
   {
    "id": "hardywood-2026-11-03-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",

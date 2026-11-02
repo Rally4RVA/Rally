@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-01T11:48:51-05:00",
+ "updated": "2026-11-02T15:14:04-05:00",
  "venues": [
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "brambly-2026-11-01-maddy-curtis-duo",
-   "title": "Maddy Curtis Duo",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
   {
    "id": "brambly-2026-11-03-trivia-in-the-restaurant",
    "title": "Trivia in the Restaurant",

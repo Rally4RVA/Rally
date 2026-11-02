@@ -1,51 +1,9 @@
 {
- "updated": "2026-11-01T11:44:38-05:00",
+ "updated": "2026-11-02T15:10:04-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "victims-villains-presents-say-their-name-fest-01-nov",
-   "title": "Victims & Villains Presents: Say Their Name Fest",
-   "date": "2026-11-01",
-   "doors": "11:30 AM",
-   "show_time": "12:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/victims-villains-presents-say-their-name-fest-01-nov",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
-  },
-  {
-   "id": "glowr-sophie-colette-elle-pf-01-nov",
-   "title": "GLOWR, Sophie Colette, Elle PF",
-   "date": "2026-11-01",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/glowr-sophie-colette-elle-pf-01-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/778230/web_orders/new"
-  },
   {
    "id": "torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
    "title": "VICK VAPORS, HOLY WATER, FLESHING MACHINE, SOFT FEVER",
@@ -57,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -66,6 +24,13 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -213,29 +178,29 @@
    "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
   },
   {
-   "id": "the-obgms-08-nov",
-   "title": "The OBGMs w/ Fury in Few, So Alive",
+   "id": "hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
+   "title": "Hardcore Matinee: Torino Death Ride, Hard Facts, Sacrificial Betrayal, Green Tips",
    "date": "2026-11-08",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
+   "doors": "1:00 PM",
+   "show_time": "1:30 PM",
    "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/the-obgms-08-nov",
+   "url": "https://www.thecamel.org/shows/hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "$13.22",
    "free": false,
    "table_price": null,
    "tiers": [
     {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
      "status": ""
     }
    ],
-   "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
+   "ticket_url": "https://app.opendate.io/confirms/755581/web_orders/new"
   },
   {
    "id": "chloe-kimes-09-nov",
@@ -358,7 +323,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -385,6 +358,38 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/682242/web_orders/new"
+  },
+  {
+   "id": "adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
+   "title": "ADRENALINE by Open Fleur",
+   "date": "2026-11-14",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44 adv · $23.19 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": "Sales start November 14, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/792883/web_orders/new"
   },
   {
    "id": "heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
@@ -944,18 +949,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   }
  ]

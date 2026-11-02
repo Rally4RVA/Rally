@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-01T11:45:30-05:00",
+ "updated": "2026-11-02T15:10:54-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
-   "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "4:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
-  },
   {
    "id": "gallery5-2026-11-05-autosear-massacre-system-subjects-laughing-corpse-ptbs-destr",
    "title": "autosear | massacre system | subjects | laughing corpse | ptbs | destruct",

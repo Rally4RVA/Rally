@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-01T11:45:51-05:00",
+ "updated": "2026-11-02T15:11:15-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-01-5th-annual-oyster-festival",
-   "title": "5th Annual Oyster Festival",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/5th-annual-oyster-festival",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/5th-annual-oyster-festival"
-  },
   {
    "id": "mainline-2026-11-03-hannah-wicklund-turning-jane-the-cowards-kings-the-queen-of-",
    "title": "Hannah Wicklund & Turning Jane \"The Cowards, Kings & The Queen of Hearts Tour\"",

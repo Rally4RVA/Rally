@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-01T11:44:59-05:00",
+ "updated": "2026-11-02T15:10:25-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
-   "title": "BASS DRUM OF DEATH: USA 2026, THE GLARES",
-   "date": "2026-11-01",
-   "doors": "6:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/bass-drum-of-death-usa-2026-w-the-glares/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/bass-drum-of-death-usa-2026-w-the-glares/richmond-music-hall/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
    "title": "SWEET PILL, HEART TO GOLD AND STEREOSITY",
@@ -585,6 +568,23 @@
    "ticket_url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2026-12-08-quarters",
+   "title": "QUARTERS",
+   "date": "2026-12-08",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2026-12-10-robert-ellis",
    "title": "ROBERT ELLIS",
    "date": "2026-12-10",
@@ -823,6 +823,23 @@
    "ticket_url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-22-shrek-rave-18",
+   "title": "SHREK RAVE (18+)",
+   "date": "2027-01-22",
+   "doors": "9:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
    "title": "CROOKED FINGERS: SWET DETH, DIGNITY AND SHAME TOUR, JULIA BARFIELD",
    "date": "2027-01-31",
@@ -974,6 +991,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-04-14-bryan-andrews",
+   "title": "BRYAN ANDREWS",
+   "date": "2027-04-14",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/bryan-andrews/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/bryan-andrews/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-05-13-gavin-adcock-the-day-i-hang-it-up-tour-blake-whiten",

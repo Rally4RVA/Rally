@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T11:49:26-05:00",
+ "updated": "2026-11-02T15:14:39-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -17,7 +17,6 @@
   "Gallery 5",
   "Moose Lodge",
   "Northside Basement",
-  "Studio Two Three",
   "The Bellwether Garage",
   "The Canal Club",
   "The Workshop",
@@ -28,167 +27,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "brambly-2026-11-01-maddy-curtis-duo",
-   "title": "Maddy Curtis Duo",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "m",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "victims-villains-presents-say-their-name-fest-01-nov",
-   "title": "Victims & Villains Presents: Say Their Name Fest",
-   "date": "2026-11-01",
-   "doors": "11:30 AM",
-   "show_time": "12:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/victims-villains-presents-say-their-name-fest-01-nov",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "http://www.opendate.io"
-  },
-  {
-   "id": "mainline-2026-11-01-5th-annual-oyster-festival",
-   "title": "5th Annual Oyster Festival",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/5th-annual-oyster-festival",
-   "kind": "o",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/5th-annual-oyster-festival"
-  },
-  {
-   "id": "hardywood-2026-11-01-live-music-megan-luck",
-   "title": "Megan Luck",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-megan-luck",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-megan-luck"
-  },
-  {
-   "id": "gallery5-2026-11-01-rival-booking-gif-from-god-circle-breaker-remeberance-auto-i",
-   "title": "Rival Booking: .gif from god, Circle Breaker, Remeberance, Auto Icon",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "4:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon",
-   "kind": "m",
-   "age": "All ages",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gif-from-god-circle-breaker-remeberance-auto-icon"
-  },
-  {
-   "id": "bb-2026-11-01-bass-drum-of-death-usa-2026-the-glares",
-   "title": "BASS DRUM OF DEATH: USA 2026, THE GLARES",
-   "date": "2026-11-01",
-   "doors": "6:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/bass-drum-of-death-usa-2026-w-the-glares/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/bass-drum-of-death-usa-2026-w-the-glares/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "manual-studio-two-three-2026-11-01-ink-dagger-pageninetynine-sleepytime-trio-ghouli",
-   "title": "Ink & Dagger, Pageninetynine, Sleepytime Trio, Ghouli",
-   "date": "2026-11-01",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "Studio Two Three",
-   "url": "https://www.instagram.com/p/Dd9Y9k4O79o/",
-   "kind": "m",
-   "age": "All ages",
-   "address": "1617 W Broad St, Richmond",
-   "price_display": "$25 (door)",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/Dd9Y9k4O79o/"
-  },
-  {
-   "id": "reveler-2026-11-01-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
-   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
-   "date": "2026-11-01",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11012026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1029950"
-  },
-  {
-   "id": "glowr-sophie-colette-elle-pf-01-nov",
-   "title": "GLOWR, Sophie Colette, Elle PF",
-   "date": "2026-11-01",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/glowr-sophie-colette-elle-pf-01-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/778230/web_orders/new"
-  },
   {
    "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
    "title": "SWEET PILL, HEART TO GOLD AND STEREOSITY",
@@ -234,7 +72,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -243,6 +81,13 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -984,23 +829,6 @@
    "ticket_url": "https://www.instagram.com/p/Dehg45wO74M/"
   },
   {
-   "id": "reveler-2026-11-07-makaya-mccraven-7-00-pm",
-   "title": "Makaya Mccraven",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/makaya-mccraven-11072026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$40",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2437706"
-  },
-  {
    "id": "gettight-2026-11-07-celler-dwellers-bullseye-cinch-8-00-pm",
    "title": "CELLER DWELLERS, BULLSEYE, CINCH",
    "date": "2026-11-07",
@@ -1018,6 +846,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/celler-dwellers-bullseye-cinch-07-nov"
   },
   {
+   "id": "reveler-2026-11-07-mike-hawkins-trio-tennishu-8-00-pm",
+   "title": "Mike Hawkins Trio + Tennishu",
+   "date": "2026-11-07",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/mike-hawkins-trio-tennishu-11072026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2507598"
+  },
+  {
    "id": "baked-shrimp-07-nov",
    "title": "Big Shrimp w/ Greasy Bastards",
    "date": "2026-11-07",
@@ -1033,23 +878,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
-  },
-  {
-   "id": "reveler-2026-11-07-makaya-mccraven-9-30-pm",
-   "title": "Makaya Mccraven",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/makaya-mccraven-11072026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$40",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2437706"
   },
   {
    "id": "hardywood-2026-11-08-hardywood-vinyasa-yoga-with-3s-yoga",
@@ -1084,6 +912,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/briney-brunch-variety-hour-tickets-2003848446646?aff=oddtdtcreator"
+  },
+  {
+   "id": "hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
+   "title": "Hardcore Matinee: Torino Death Ride, Hard Facts, Sacrificial Betrayal, Green Tips",
+   "date": "2026-11-08",
+   "doors": "1:00 PM",
+   "show_time": "1:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/755581/web_orders/new"
   },
   {
    "id": "hardywood-2026-11-08-live-music-maddy-curtis-trio",
@@ -1135,31 +988,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2492936"
-  },
-  {
-   "id": "the-obgms-08-nov",
-   "title": "The OBGMs w/ Fury in Few, So Alive",
-   "date": "2026-11-08",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/the-obgms-08-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/688307/web_orders/new"
   },
   {
    "id": "bb-2026-11-08-sadurn-kitchen",
@@ -1689,7 +1517,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -2056,6 +1892,38 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
+  },
+  {
+   "id": "adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
+   "title": "ADRENALINE by Open Fleur",
+   "date": "2026-11-14",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44 adv · $23.19 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": "Sales start November 14, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/792883/web_orders/new"
   },
   {
    "id": "bandito-2026-11-14-thunderchief-salik-jealous-god",
@@ -2454,6 +2322,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/hiss-golden-messenger-im-people-tour-w-sam-amidon/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2026-11-18-bobby-thompson-karen-jonas-jon-tyler-wiley-7-30-pm",
+   "title": "Bobby Thompson / Karen Jonas / Jon Tyler Wiley",
+   "date": "2026-11-18",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/bobby-thompson-karen-jonas-jon-tyler-wiley-11182026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2507169"
   },
   {
    "id": "dauber-young-scum-housie-heat-sick-18-nov",
@@ -3682,6 +3567,23 @@
    "ticket_url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase"
   },
   {
+   "id": "bb-2026-12-08-quarters",
+   "title": "QUARTERS",
+   "date": "2026-12-08",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "gettight-2026-12-09-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-09",
@@ -4377,6 +4279,23 @@
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
   },
   {
+   "id": "bb-2027-01-22-shrek-rave-18",
+   "title": "SHREK RAVE (18+)",
+   "date": "2027-01-22",
+   "doors": "9:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
    "title": "CROOKED FINGERS: SWET DETH, DIGNITY AND SHAME TOUR, JULIA BARFIELD",
    "date": "2027-01-31",
@@ -4660,6 +4579,23 @@
    "ticket_url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-04-14-bryan-andrews",
+   "title": "BRYAN ANDREWS",
+   "date": "2027-04-14",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/bryan-andrews/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/bryan-andrews/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "sister-wife-sex-strike-local-news-legend-14-apr",
    "title": "Sister Wife Sex Strike, Local News Legend",
    "date": "2027-04-14",
@@ -4670,18 +4606,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {
