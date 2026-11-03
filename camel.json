@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-02T15:10:04-05:00",
+ "updated": "2026-11-03T12:42:31-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
-   "title": "VICK VAPORS, HOLY WATER, FLESHING MACHINE, SOFT FEVER",
-   "date": "2026-11-02",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/750000/web_orders/new"
-  },
   {
    "id": "sap-03-nov",
    "title": "Sap, Sludge Mother, easterlin",
@@ -47,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$22.15",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -56,6 +24,13 @@
      "base": 17.0,
      "fee": 5.15,
      "total": 22.15,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -323,15 +298,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -801,6 +768,38 @@
    "ticket_url": "https://app.opendate.io/confirms/730722/web_orders/new"
   },
   {
+   "id": "kazha-13-jan",
+   "title": "Kazha",
+   "date": "2027-01-13",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/kazha-13-jan",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22 adv · $15.44 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day of Show",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": "Sales start January 13, 2027"
+    },
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/796469/web_orders/new"
+  },
+  {
    "id": "sicard-hollow-21-jan",
    "title": "Sicard Hollow",
    "date": "2027-01-21",
@@ -839,7 +838,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -949,11 +956,36 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
+  },
+  {
+   "id": "beers-and-banjos-garden-variety-string-band-16-apr",
+   "title": "Beers and Banjos: Garden Variety String Band",
+   "date": "2027-04-16",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-and-banjos-garden-variety-string-band-16-apr",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "table_price": 15.0,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]
 }

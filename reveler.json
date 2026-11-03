@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-02T15:13:07-05:00",
+ "updated": "2026-11-03T12:45:36-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-02-studio-one-dub-reggae-project-7-00-pm",
-   "title": "Studio One Dub Reggae Project",
-   "date": "2026-11-02",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/studio-one-dub-reggae-project-11022026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2466441"
-  },
   {
    "id": "reveler-2026-11-03-vote-",
    "title": "Vote",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:14:39-05:00",
+ "updated": "2026-11-03T12:47:10-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -27,72 +27,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
-   "title": "SWEET PILL, HEART TO GOLD AND STEREOSITY",
-   "date": "2026-11-02",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/sweet-pill-w-heart-to-gold-and-stereosity/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/sweet-pill-w-heart-to-gold-and-stereosity/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "reveler-2026-11-02-studio-one-dub-reggae-project-7-00-pm",
-   "title": "Studio One Dub Reggae Project",
-   "date": "2026-11-02",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/studio-one-dub-reggae-project-11022026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2466441"
-  },
-  {
-   "id": "torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
-   "title": "VICK VAPORS, HOLY WATER, FLESHING MACHINE, SOFT FEVER",
-   "date": "2026-11-02",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/torture-twin-vick-vapors-holy-water-fleshing-machine-02-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/750000/web_orders/new"
-  },
   {
    "id": "reveler-2026-11-03-vote-",
    "title": "Vote",
@@ -223,7 +157,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$22.15",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -232,6 +166,13 @@
      "base": 17.0,
      "fee": 5.15,
      "total": 22.15,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -1142,13 +1083,13 @@
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
-   "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour",
-   "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR",
+   "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour-eurotripp",
+   "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR, EUROTRIPP",
    "date": "2026-11-10",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -1156,7 +1097,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-11-10-slow-pulp-her-new-knife",
@@ -1362,6 +1303,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov"
   },
   {
+   "id": "hardywood-2026-11-12-hardywood-cheese-steak-pop-up",
+   "title": "Hardywood Cheese Steak Pop-up",
+   "date": "2026-11-12",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3"
+  },
+  {
    "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
    "title": "Drag Bingo At Hardywood Richmond",
    "date": "2026-11-12",
@@ -1517,15 +1475,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -1607,7 +1557,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$12.51",
+   "price_display": "$10–$12.51",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -2688,6 +2638,23 @@
    "ticket_url": "https://www.eventbrite.com/e/jories-bday-jump-off-vol-5-tickets-1975035964737"
   },
   {
+   "id": "gettight-2026-11-21-blu-nickelus-f-8-00-pm",
+   "title": "BLU & NICKELUS F",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "$17.87",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov"
+  },
+  {
    "id": "reveler-2026-11-21-charles-owens-trio-with-karl-tietze-and-kris-monson-8-00-pm",
    "title": "Charles Owens Trio With Karl Tietze And Kris Monson",
    "date": "2026-11-21",
@@ -3133,6 +3100,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2479389"
+  },
+  {
+   "id": "gettight-2026-11-27-hip-hop-henry-dj-10-00-pm",
+   "title": "HIP HOP HENRY (DJ)",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov"
   },
   {
    "id": "hardywood-2026-11-28-live-music-john-shenk",
@@ -4254,6 +4238,38 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/tropical-christmas-3-with-kadencia-orchestra-three-kings-day-edition"
   },
   {
+   "id": "kazha-13-jan",
+   "title": "Kazha",
+   "date": "2027-01-13",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/kazha-13-jan",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22 adv · $15.44 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day of Show",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": "Sales start January 13, 2027"
+    },
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/796469/web_orders/new"
+  },
+  {
    "id": "sicard-hollow-21-jan",
    "title": "Sicard Hollow",
    "date": "2027-01-21",
@@ -4394,8 +4410,33 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
+  },
+  {
+   "id": "bb-2027-02-19-raynes",
+   "title": "RAYNES",
+   "date": "2027-02-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/raynes/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/raynes/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "caiola-thomas-lavine-19-feb",
@@ -4606,10 +4647,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {
@@ -4628,6 +4677,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.etix.com/ticket/p/82759865/?partner_id=240"
+  },
+  {
+   "id": "beers-and-banjos-garden-variety-string-band-16-apr",
+   "title": "Beers and Banjos: Garden Variety String Band",
+   "date": "2027-04-16",
+   "doors": "6:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-and-banjos-garden-variety-string-band-16-apr",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "table_price": 15.0,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {
    "id": "bb-2027-05-13-gavin-adcock-the-day-i-hang-it-up-tour-blake-whiten",

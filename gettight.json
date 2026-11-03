@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:11:58-05:00",
+ "updated": "2026-11-03T12:44:29-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
@@ -175,6 +175,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
   },
   {
+   "id": "gettight-2026-11-21-blu-nickelus-f-8-00-pm",
+   "title": "BLU & NICKELUS F",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "$17.87",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov"
+  },
+  {
    "id": "gettight-2026-11-25-wnrn-presents-no-bs-brass-band-8-00-pm",
    "title": "WNRN PRESENTS: NO BS! BRASS BAND",
    "date": "2026-11-25",
@@ -207,6 +224,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-25-nov"
+  },
+  {
+   "id": "gettight-2026-11-27-hip-hop-henry-dj-10-00-pm",
+   "title": "HIP HOP HENRY (DJ)",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov"
   },
   {
    "id": "gettight-2026-11-28-dj-williams-band-8-00-pm",

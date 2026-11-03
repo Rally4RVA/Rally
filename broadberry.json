@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-02T15:10:25-05:00",
+ "updated": "2026-11-03T12:42:53-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-02-sweet-pill-heart-to-gold-and-stereosity",
-   "title": "SWEET PILL, HEART TO GOLD AND STEREOSITY",
-   "date": "2026-11-02",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/sweet-pill-w-heart-to-gold-and-stereosity/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/sweet-pill-w-heart-to-gold-and-stereosity/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-03-the-garcia-project",
    "title": "THE GARCIA PROJECT",
@@ -177,13 +160,13 @@
    "ticket_url": "https://thebroadberry.com/event/mamas-broke-reunion-album-release-tour-w-nathan-evans-fox/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour",
-   "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR",
+   "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour-eurotripp",
+   "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR, EUROTRIPP",
    "date": "2026-11-10",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -191,7 +174,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-11-10-slow-pulp-her-new-knife",
@@ -923,6 +906,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/dogpark-w-never-ending-fall/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-02-19-raynes",
+   "title": "RAYNES",
+   "date": "2027-02-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/raynes/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/raynes/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-27-cory-branan",

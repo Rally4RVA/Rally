@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:11:03-05:00",
+ "updated": "2026-11-03T12:43:33-05:00",
  "venues": [
   "Hardywood"
  ],
@@ -173,6 +173,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3"
+  },
+  {
+   "id": "hardywood-2026-11-12-hardywood-cheese-steak-pop-up",
+   "title": "Hardywood Cheese Steak Pop-up",
+   "date": "2026-11-12",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3"
   },
   {
    "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
