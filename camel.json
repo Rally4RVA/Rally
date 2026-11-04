@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-03T12:42:31-05:00",
+ "updated": "2026-11-04T12:55:59-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "sap-03-nov",
-   "title": "Sap, Sludge Mother, easterlin",
-   "date": "2026-11-03",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/sap-03-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 17.0,
-     "fee": 5.15,
-     "total": 22.15,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/728161/web_orders/new"
-  },
   {
    "id": "woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
    "title": "Woman Crush Wednesday: No Agenda, Cinema Hearts, Sage is Alive",
@@ -253,6 +221,23 @@
    "ticket_url": "https://app.opendate.io/confirms/729052/web_orders/new"
   },
   {
+   "id": "camel-comedy-happy-hour-open-mic-12-nov-77b37",
+   "title": "Camel Comedy Happy Hour Open Mic",
+   "date": "2026-11-12",
+   "doors": "5:30 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-12-nov-77b37",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/627482/web_orders/new"
+  },
+  {
    "id": "queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
    "title": "Queer Roots & Country Night w/ Acelia & Johanna Wacker, Joshua Aaron, Elizabeth McCorvey",
    "date": "2026-11-12",
@@ -410,7 +395,7 @@
   },
   {
    "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
-   "title": "With Sails Ahead, Followship, Sun Against Artemis, Melt",
+   "title": "With Sails Ahead, Followship, Sun Against Artemis, Melk",
    "date": "2026-11-17",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -568,23 +553,6 @@
    "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
   },
   {
-   "id": "live-spooky-i-spy-24-nov",
-   "title": "Live I Spy",
-   "date": "2026-11-24",
-   "doors": "5:00 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/live-spooky-i-spy-24-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/788333/web_orders/new"
-  },
-  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -632,6 +600,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
+  },
+  {
+   "id": "cj-jones-the-spirit-bones-matinee-28-nov",
+   "title": "CJ Jones & The Spirit Bones Matinee",
+   "date": "2026-11-28",
+   "doors": "1:00 PM",
+   "show_time": "2:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/cj-jones-the-spirit-bones-matinee-28-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/647953/web_orders/new"
   },
   {
    "id": "the-get-off-bowhead-green-forrest-take-by-force-29-nov",
@@ -769,7 +754,7 @@
   },
   {
    "id": "kazha-13-jan",
-   "title": "Kazha",
+   "title": "Kazha w/ Merciful Zero, Her Majesty",
    "date": "2027-01-13",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",

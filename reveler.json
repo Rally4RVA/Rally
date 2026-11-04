@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-03T12:45:36-05:00",
+ "updated": "2026-11-04T12:59:32-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-03-vote-",
-   "title": "Vote",
-   "date": "2026-11-03",
-   "doors": "",
-   "show_time": "",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/vote-closed-maintenance-2026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.revelerexperiences.com/event/vote-closed-maintenance-2026"
-  },
   {
    "id": "reveler-2026-11-04-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
@@ -311,6 +294,23 @@
    "ticket_url": "https://buytickets.at/reveler/2500865"
   },
   {
+   "id": "reveler-2026-11-16-deb-saidel-jazz-flute-quartet-7-00-pm",
+   "title": "Deb Saidel Jazz Flute Quartet",
+   "date": "2026-11-16",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/deb-saidel-jazz-flute-quartet-11162026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2511719"
+  },
+  {
    "id": "reveler-2026-11-17-the-bad-plus-farewell-tour-9-00-pm",
    "title": "The Bad Plus Farewell Tour",
    "date": "2026-11-17",
@@ -413,6 +413,23 @@
    "ticket_url": "https://buytickets.at/reveler/2498848"
   },
   {
+   "id": "reveler-2026-11-22-janel-leppin-animal-surrender-presented-by-sunday-soundtrack-4-00-pm",
+   "title": "Janel Leppin + Animal, Surrender! Presented By Sunday Soundtracks With Jason Sloan",
+   "date": "2026-11-22",
+   "doors": "",
+   "show_time": "4:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/janel-leppin-animal-surrender-jason-sloan-11222026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2512068"
+  },
+  {
    "id": "reveler-2026-11-22-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
    "date": "2026-11-22",
@@ -445,6 +462,74 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2499550"
+  },
+  {
+   "id": "reveler-2026-11-24-jbizz-home-for-the-holidays-presented-by-ten10-entertainment-6-00-pm",
+   "title": "Jbizz: Home For The Holidays Presented By Ten10 Entertainment And Brand New Wave Still Not For Everybody Tour, Hosted By Lela Bizz + A Live Panel With Surprise Guests",
+   "date": "2026-11-24",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jbizz-home-for-the-holidays-112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20–$45",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2509657"
+  },
+  {
+   "id": "reveler-2026-11-24-jouwala-collective-9-30-pm",
+   "title": "Jouwala Collective",
+   "date": "2026-11-24",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jouwala-collective-11242026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2511822"
+  },
+  {
+   "id": "reveler-2026-11-25-time-for-jazz-featuring-members-of-butcher-brown-daniel-clar-9-30-pm",
+   "title": "Time For Jazz Featuring Members Of Butcher Brown + Daniel Clarke",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "9:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/time-for-jazz-11252026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2511891"
+  },
+  {
+   "id": "reveler-2026-11-26-thanksgiving-",
+   "title": "Thanksgiving",
+   "date": "2026-11-26",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/thanksgiving-2026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.revelerexperiences.com/event/thanksgiving-2026"
   },
   {
    "id": "reveler-2026-11-27-janet-martin-wrecking-ball-7-00-pm",
@@ -498,6 +583,23 @@
    "ticket_url": "https://buytickets.at/reveler/2500907"
   },
   {
+   "id": "reveler-2026-11-29-orbital-big-band-4-00-pm",
+   "title": "Orbital Big Band",
+   "date": "2026-11-29",
+   "doors": "",
+   "show_time": "4:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/orbital-big-band-11292026-6mhuf",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2514152"
+  },
+  {
    "id": "reveler-2026-11-29-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
    "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
    "date": "2026-11-29",
@@ -513,6 +615,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-11-30-fatback-the-music-of-new-orleans-7-00-pm",
+   "title": "Fatback: The Music Of New Orleans",
+   "date": "2026-11-30",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/fatback-the-music-of-new-orleans-11302026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2514101"
   },
   {
    "id": "reveler-2026-12-02-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",

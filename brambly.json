@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-03T12:46:34-05:00",
+ "updated": "2026-11-04T13:00:31-05:00",
  "venues": [
   "Brambly Park"
  ],
  "events": [
-  {
-   "id": "brambly-2026-11-03-trivia-in-the-restaurant",
-   "title": "Trivia in the Restaurant",
-   "date": "2026-11-03",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "o",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
   {
    "id": "brambly-2026-11-04-wine-down-wednesdays",
    "title": "Wine Down Wednesdays",

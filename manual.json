@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:47:09-05:00",
+ "updated": "2026-11-04T13:01:05-05:00",
  "venues": [
   "Bandito's",
   "Chugalug",
@@ -9,7 +9,6 @@
   "Moose Lodge",
   "Northside Basement",
   "The Bellwether Garage",
-  "The Canal Club",
   "The Workshop",
   "VSC"
  ],
@@ -30,23 +29,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
-  },
-  {
-   "id": "manual-bandito-s-2026-11-03-chemical-x-paradiso-plutonium-womb-hard-facts",
-   "title": "Chemical-X, Paradiso, Plutonium Womb, Hard Facts",
-   "date": "2026-11-03",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Bandito's",
-   "url": "https://www.instagram.com/p/DePf7JXOqha/",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DePf7JXOqha/"
   },
   {
    "id": "manual-northside-basement-2026-11-07-real-shocks-crying-hand-putrid-boys-homemade-speed",
@@ -166,23 +148,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DePf1LFOQCz/"
-  },
-  {
-   "id": "manual-the-canal-club-2026-11-03-devil-master-private-hell-vigil",
-   "title": "Devil Master, Private Hell, Vigil",
-   "date": "2026-11-03",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.instagram.com/p/Dd_hF2CRpKD/",
-   "kind": "m",
-   "age": "All ages",
-   "address": "1545 E Cary St, Richmond",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/Dd_hF2CRpKD/"
   },
   {
    "id": "manual-gallery-5-2026-11-05-laughing-corpse-pray-to-be-saved-destruct-subjects-massacre-",

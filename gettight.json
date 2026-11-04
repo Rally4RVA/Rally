@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-03T12:44:29-05:00",
+ "updated": "2026-11-04T12:57:54-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-03-cowpoke-karaoke-with-brand-franklin-8-00-pm",
-   "title": "COWPOKE KARAOKE WITH BRAND FRANKLIN",
-   "date": "2026-11-03",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-03-nov",
-   "kind": "o",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-03-nov"
-  },
   {
    "id": "gettight-2026-11-04-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
@@ -173,6 +156,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
+  },
+  {
+   "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",
+   "title": "THE DISCO CAT",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov"
   },
   {
    "id": "gettight-2026-11-21-blu-nickelus-f-8-00-pm",
