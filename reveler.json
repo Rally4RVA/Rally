@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-04T12:59:32-05:00",
+ "updated": "2026-11-05T13:02:04-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-04-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
-   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
-   "date": "2026-11-04",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/funk-soul-party-11042026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1515983"
-  },
   {
    "id": "reveler-2026-11-05-kaitlyn-croker-6-00-pm",
    "title": "Kaitlyn Croker",
@@ -49,7 +32,7 @@
    "kind": "m",
    "age": "",
    "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
+   "price_display": "Sold out",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -141,8 +124,8 @@
    "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
-   "id": "reveler-2026-11-09-vcu-jazz-combos-7-00-pm",
-   "title": "Vcu Jazz Combos",
+   "id": "reveler-2026-11-09-vcu-jazz-ensembles-7-00-pm",
+   "title": "Vcu Jazz Ensembles",
    "date": "2026-11-09",
    "doors": "",
    "show_time": "7:00 PM",
@@ -649,6 +632,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
+   "id": "reveler-2026-12-03-b-a-d-thursday-powerhouse-open-mic-for-vocalists-8-00-pm",
+   "title": "B.A.D. Thursday Powerhouse Open Mic For Vocalists",
+   "date": "2026-12-03",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/b-a-d-thursday-12032026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2516239"
   },
   {
    "id": "reveler-2026-12-06-michael-winograd-and-the-honorable-mentshn-sponsored-by-the--4-00-pm",

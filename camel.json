@@ -1,34 +1,9 @@
 {
- "updated": "2026-11-04T12:55:59-05:00",
+ "updated": "2026-11-05T12:58:26-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
-   "title": "Woman Crush Wednesday: No Agenda, Cinema Hearts, Sage is Alive",
-   "date": "2026-11-04",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/woman-crush-wednesday-no-agenda-sage-is-alive-cinema-hearts-04-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/743764/web_orders/new"
-  },
   {
    "id": "dogwood-tales-05-nov",
    "title": "WNRN Presents: Dogwood Tales w/ Nabeel",
@@ -40,16 +15,23 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    },
     {
      "name": "Advance (1)",
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/727475/web_orders/new"
@@ -728,6 +710,38 @@
    "ticket_url": "https://app.opendate.io/confirms/715433/web_orders/new"
   },
   {
+   "id": "wes-parker-w-slow-funeral-18-dec",
+   "title": "Wes Parker w/ Slow Funeral",
+   "date": "2026-12-18",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/wes-parker-w-slow-funeral-18-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$23.19 adv · $25.25 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": "Sales start December 18, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
+  },
+  {
    "id": "new-year-s-eve-w-ma-am-buffie-31-dec",
    "title": "New Year's Eve w/ Bucko, Ma'am, Buffie",
    "date": "2026-12-31",
@@ -823,15 +837,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {

@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-04T12:56:21-05:00",
+ "updated": "2026-11-05T12:58:49-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-04-built-to-spill-fall-2026-tour-quasi",
-   "title": "BUILT TO SPILL: FALL 2026 TOUR, QUASI",
-   "date": "2026-11-04",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/built-to-spill-fall-2026-tour-w-quasi/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Sold out",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/built-to-spill-fall-2026-tour-w-quasi/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-05-weird-phishes-performing-radiohead-s-ok-computer-in-the-styl",
    "title": "WEIRD PHISHES – PERFORMING RADIOHEAD’S “OK COMPUTER” IN THE STYLE OF PHISH",
@@ -619,6 +602,23 @@
    "ticket_url": "https://thebroadberry.com/event/good-guys-w-clampdown/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2026-12-13-flag-on-the-moon-10-feat-nickelus-f-radio-b-michael-millions",
+   "title": "FLAG ON THE MOON 10 FEAT. NICKELUS F, RADIO B, MICHAEL MILLIONS, AND MORE!",
+   "date": "2026-12-13",
+   "doors": "6:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/flag-on-the-moon-10-feat-nickelus-f-radio-b-michael-millions-and-more/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/flag-on-the-moon-10-feat-nickelus-f-radio-b-michael-millions-and-more/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2026-12-15-king-buffalo-babe-lewis",
    "title": "KING BUFFALO, BABE LEWIS",
    "date": "2026-12-15",
@@ -787,6 +787,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/nye-at-the-broadberry-feat-1996-and-kevin-murder/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-16-better-off-dead",
+   "title": "BETTER OFF DEAD",
+   "date": "2027-01-16",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/better-off-dead/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/better-off-dead/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-22-shrek-rave-18",
