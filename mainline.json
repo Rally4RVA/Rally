@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-05T12:59:47-05:00",
+ "updated": "2026-11-06T12:20:50-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-05-matthew-nino",
-   "title": "Matthew Nino",
-   "date": "2026-11-05",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/matthew-nino",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/matthew-nino"
-  },
   {
    "id": "mainline-2026-11-06-craigs-list-jerry",
    "title": "Craigs List Jerry",

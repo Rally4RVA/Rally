@@ -1,11 +1,10 @@
 {
- "updated": "2026-11-05T13:03:39-05:00",
+ "updated": "2026-11-06T12:24:42-05:00",
  "venues": [
   "Bandito's",
   "Chugalug",
   "Cobra Cabana",
   "Fuzzy Cactus",
-  "Gallery 5",
   "Moose Lodge",
   "Northside Basement",
   "The Bellwether Garage",
@@ -148,23 +147,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DePf1LFOQCz/"
-  },
-  {
-   "id": "manual-gallery-5-2026-11-05-laughing-corpse-pray-to-be-saved-destruct-subjects-massacre-",
-   "title": "Laughing Corpse, Pray To Be Saved, Destruct, Subjects, Massacre System, Auto Sear",
-   "date": "2026-11-05",
-   "doors": "7:00 PM",
-   "show_time": "7:30 PM",
-   "venue": "Gallery 5",
-   "url": "https://www.instagram.com/p/DdznkRTBKr3/",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DdznkRTBKr3/"
   },
   {
    "id": "manual-the-bellwether-garage-2026-11-14-justin-golden-dead-billionaires-ms-jaylin-brown",

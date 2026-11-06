@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-05T13:00:32-05:00",
+ "updated": "2026-11-06T12:21:31-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-05-ravens-flock-week-9-watch-party-8-15-pm",
-   "title": "RAVENS FLOCK WEEK 9 WATCH PARTY!",
-   "date": "2026-11-05",
-   "doors": "",
-   "show_time": "8:15 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/ravens-flock-week-9-watch-party-05-nov",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/ravens-flock-week-9-watch-party-05-nov"
-  },
   {
    "id": "gettight-2026-11-06-mikemetic-10-00-pm",
    "title": "MIKEMETIC",

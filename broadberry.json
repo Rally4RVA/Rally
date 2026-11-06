@@ -1,45 +1,11 @@
 {
- "updated": "2026-11-05T12:58:49-05:00",
+ "updated": "2026-11-06T12:19:38-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-05-weird-phishes-performing-radiohead-s-ok-computer-in-the-styl",
-   "title": "WEIRD PHISHES – PERFORMING RADIOHEAD’S “OK COMPUTER” IN THE STYLE OF PHISH",
-   "date": "2026-11-05",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/weird-phishes-performing-radioheads-ok-computer-in-the-style-of-phish/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/weird-phishes-performing-radioheads-ok-computer-in-the-style-of-phish/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-05-post-animal-maybe-you-have-to-tour-gift",
-   "title": "POST ANIMAL: MAYBE YOU HAVE TO TOUR, GIFT",
-   "date": "2026-11-05",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/post-animal-maybe-you-have-to-tour-w-gift/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/post-animal-maybe-you-have-to-tour-w-gift/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-06-bungalow-collect-presents-disco-rap-keep-it-honest-across-th",
    "title": "BUNGALOW COLLECT PRESENTS DISCO RAP: KEEP IT HONEST ACROSS THE WORLD TOUR",
@@ -789,6 +755,23 @@
    "ticket_url": "https://thebroadberry.com/event/nye-at-the-broadberry-feat-1996-and-kevin-murder/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-06-cash-only-tony-s-lorraine-ostraca-and-gif-from-god",
+   "title": "CASH ONLY TONY’S, LORRAINE, OSTRACA, AND .GIF FROM GOD",
+   "date": "2027-01-06",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/cash-only-tonys-w-lorraine-ostraca-and-gif-from-god/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/cash-only-tonys-w-lorraine-ostraca-and-gif-from-god/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-01-16-better-off-dead",
    "title": "BETTER OFF DEAD",
    "date": "2027-01-16",
@@ -821,6 +804,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-29-blade-rave-18",
+   "title": "BLADE RAVE (18+)",
+   "date": "2027-01-29",
+   "doors": "8:30 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/blade-rave-18-2/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/blade-rave-18-2/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
@@ -872,6 +872,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/silverada/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-02-06-10th-annual-mighty-marley-celebration-feat-mighty-joshua-dou",
+   "title": "10TH ANNUAL MIGHTY MARLEY CELEBRATION FEAT. MIGHTY JOSHUA & DOUBLE TIGER",
+   "date": "2027-02-06",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/10th-annual-mighty-marley-celebration-feat-mighty-joshua-double-tiger/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/10th-annual-mighty-marley-celebration-feat-mighty-joshua-double-tiger/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-07-penelope-road-arts-fishing-club",

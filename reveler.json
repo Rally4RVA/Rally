@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-05T13:02:04-05:00",
+ "updated": "2026-11-06T12:23:07-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-05-kaitlyn-croker-6-00-pm",
-   "title": "Kaitlyn Croker",
-   "date": "2026-11-05",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/kaitlyn-croker-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$17.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2503773"
-  },
-  {
-   "id": "reveler-2026-11-05-b-a-d-thursday-powerhouse-open-mic-for-vocalists-8-00-pm",
-   "title": "B.A.D. Thursday Powerhouse Open Mic For Vocalists",
-   "date": "2026-11-05",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/b-a-d-thursday-11052026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "Sold out",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2450314"
-  },
   {
    "id": "reveler-2026-11-06-rex-richardson-quartet-marshall-gilkes-8-00-pm",
    "title": "Rex Richardson Quartet + Marshall Gilkes",
@@ -207,6 +173,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2422469"
+  },
+  {
+   "id": "reveler-2026-11-14-peni-candra-rini-gamelan-raga-kusuma-traditional-and-new-wor-3-00-pm",
+   "title": "Peni Candra Rini + Gamelan Raga Kusuma Traditional And New Works For Javanese Gamelan Gong Orchestra",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/peni-candra-rini-gamelan-raga-kusuma",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2511948"
   },
   {
    "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-7-00-pm",
@@ -549,6 +532,23 @@
    "ticket_url": "https://buytickets.at/reveler/2479389"
   },
   {
+   "id": "reveler-2026-11-28-the-hot-seats-3-00-pm",
+   "title": "The Hot Seats",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/the-hot-seats-11282026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2516334"
+  },
+  {
    "id": "reveler-2026-11-28-plunky-oneness-of-juju-9-30-pm",
    "title": "Plunky & Oneness Of Juju",
    "date": "2026-11-28",
@@ -683,6 +683,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-12-10-maria-mazzotta-presented-by-secret-planet-richmond-8-00-pm",
+   "title": "Maria Mazzotta Presented By Secret Planet Richmond",
+   "date": "2026-12-10",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/maria-mazzotta-12102026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$22.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2516977"
   },
   {
    "id": "reveler-2026-12-12-nate-smith-featuring-kiefer-and-carrtoons-9-30-pm",

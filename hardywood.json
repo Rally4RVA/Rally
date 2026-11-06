@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-05T12:59:32-05:00",
+ "updated": "2026-11-06T12:20:37-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-05-afterflow-jetset-pilates-present-pilates-at-hardywood-after-",
-   "title": "AfterFlow × JETSET PILATES Present: Pilates at Hardywood After Dark",
-   "date": "2026-11-05",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/0gdq15drcwpqlwi8og9aizm31mztim",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/0gdq15drcwpqlwi8og9aizm31mztim"
-  },
   {
    "id": "hardywood-2026-11-06-live-music-portico",
    "title": "Portico",
