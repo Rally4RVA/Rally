@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-06T12:20:50-05:00",
+ "updated": "2026-11-07T11:17:37-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-06-craigs-list-jerry",
-   "title": "Craigs List Jerry",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/mcb7x8rrc8nkpz99eed59nnsmze4n5",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/mcb7x8rrc8nkpz99eed59nnsmze4n5"
-  },
   {
    "id": "mainline-2026-11-07-duke-benet-s-band",
    "title": "Duke Benet's Band",

@@ -1,58 +1,9 @@
 {
- "updated": "2026-11-06T12:19:18-05:00",
+ "updated": "2026-11-07T11:16:05-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "beers-banjos-slack-family-band-06-nov",
-   "title": "Beers & Banjos: Slack Family Band",
-   "date": "2026-11-06",
-   "doors": "6:00 PM",
-   "show_time": "6:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
-   "free": true,
-   "table_price": 15.0,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/651249/web_orders/new"
-  },
-  {
-   "id": "box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
-   "title": "Box Factory's First Friday with Mad Abbey, Marshall Family Values",
-   "date": "2026-11-06",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day of Show",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    },
-    {
-     "name": "Advance",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/623018/web_orders/new"
-  },
   {
    "id": "baked-shrimp-07-nov",
    "title": "Big Shrimp w/ Greasy Bastards",

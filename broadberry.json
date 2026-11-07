@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-06T12:19:38-05:00",
+ "updated": "2026-11-07T11:16:28-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-06-bungalow-collect-presents-disco-rap-keep-it-honest-across-th",
-   "title": "BUNGALOW COLLECT PRESENTS DISCO RAP: KEEP IT HONEST ACROSS THE WORLD TOUR",
-   "date": "2026-11-06",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/bungalow-collect-presents-disco-rap-keep-it-honest-across-the-world-tour/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/bungalow-collect-presents-disco-rap-keep-it-honest-across-the-world-tour/richmond-music-hall/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
    "title": "AKEEM ALI: THE TEXTURE TOUR",

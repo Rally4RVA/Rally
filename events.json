@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:24:43-05:00",
+ "updated": "2026-11-07T11:21:14-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -25,191 +25,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "recurring-bottomsuppizza-2026-11-06",
-   "title": "Live music (see Instagram for the band)",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "",
-   "venue": "Bottoms Up Pizza",
-   "url": "https://www.instagram.com/bottomsuppizza/",
-   "kind": "m",
-   "age": "",
-   "address": "1700 Dock St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
-  },
-  {
-   "id": "gallery5-2026-11-06-first-fridays-the-art-of-the-pickle-exhibition",
-   "title": "First Fridays: THE ART OF THE PICKLE: EXHIBITION",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition",
-   "kind": "o",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition"
-  },
-  {
-   "id": "beers-banjos-slack-family-band-06-nov",
-   "title": "Beers & Banjos: Slack Family Band",
-   "date": "2026-11-06",
-   "doors": "6:00 PM",
-   "show_time": "6:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-06-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
-   "free": true,
-   "table_price": 15.0,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/651249/web_orders/new"
-  },
-  {
-   "id": "hardywood-2026-11-06-live-music-portico",
-   "title": "Portico",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-portico",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-portico"
-  },
-  {
-   "id": "mainline-2026-11-06-craigs-list-jerry",
-   "title": "Craigs List Jerry",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/mcb7x8rrc8nkpz99eed59nnsmze4n5",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/mcb7x8rrc8nkpz99eed59nnsmze4n5"
-  },
-  {
-   "id": "bb-2026-11-06-bungalow-collect-presents-disco-rap-keep-it-honest-across-th",
-   "title": "BUNGALOW COLLECT PRESENTS DISCO RAP: KEEP IT HONEST ACROSS THE WORLD TOUR",
-   "date": "2026-11-06",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/bungalow-collect-presents-disco-rap-keep-it-honest-across-the-world-tour/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/bungalow-collect-presents-disco-rap-keep-it-honest-across-the-world-tour/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bandito-2026-11-06-kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-phot",
-   "title": "Kitty Corner, Lola.5, Daisy Glaze, Saccharine Bullshit Dog Photo",
-   "date": "2026-11-06",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028"
-  },
-  {
-   "id": "reveler-2026-11-06-rex-richardson-quartet-marshall-gilkes-8-00-pm",
-   "title": "Rex Richardson Quartet + Marshall Gilkes",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/rex-richardson-quartet-featuring-marshall-gilkes-11062026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2450443"
-  },
-  {
-   "id": "box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
-   "title": "Box Factory's First Friday with Mad Abbey, Marshall Family Values",
-   "date": "2026-11-06",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/box-factory-s-first-friday-with-mad-abbey-marshall-family-values-06-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day of Show",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    },
-    {
-     "name": "Advance",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/623018/web_orders/new"
-  },
-  {
-   "id": "gettight-2026-11-06-mikemetic-10-00-pm",
-   "title": "MIKEMETIC",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/mikemetic-06-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/mikemetic-06-nov"
-  },
   {
    "id": "recurring-bottomsuppizza-2026-11-07",
    "title": "Live music (see Instagram for the band)",
@@ -357,7 +172,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$14.77",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -734,7 +549,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -742,7 +557,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
    "id": "reveler-2026-11-10-zarove-7-00-pm",
@@ -810,7 +625,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -818,7 +633,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859"
   },
   {
    "id": "gallery5-2026-11-11-artfully-exposed-burlesque-student-recital-18",
@@ -1739,15 +1554,15 @@
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
    "venue": "Bandito's Burrito Lounge",
-   "url": "https://www.etix.com/ticket/p/93318964/diles-que-no-me-maten-at-banditos-richmond-banditos?partner_id=399",
+   "url": "https://app.opendate.io/e/diles-que-no-me-maten-november-15-2026-728078",
    "kind": "m",
-   "age": "",
+   "age": "All Ages",
    "address": "2905 Patterson Ave, Richmond, VA",
    "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.etix.com/ticket/p/93318964/diles-que-no-me-maten-at-banditos-richmond-banditos?partner_id=399"
+   "ticket_url": "https://app.opendate.io/e/diles-que-no-me-maten-november-15-2026-728078"
   },
   {
    "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-8-00-pm",
@@ -1883,7 +1698,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1891,7 +1706,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
    "id": "gettight-2026-11-17-two-steppin-tuesday-presents-dj-real-mike-smith-7-00-pm",
@@ -1953,6 +1768,31 @@
    "ticket_url": "https://app.opendate.io/confirms/734049/web_orders/new"
   },
   {
+   "id": "bandito-2026-11-17-salisbury-gusher-inverted-cross-subversas",
+   "title": "Salisbury, Gusher, Inverted Cross, Subversas",
+   "date": "2026-11-17",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/salisbury-gusher-inverted-cross-subversas-november-17-2026-798795",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$10 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/salisbury-gusher-inverted-cross-subversas-november-17-2026-798795"
+  },
+  {
    "id": "reveler-2026-11-17-the-bad-plus-farewell-tour-9-00-pm",
    "title": "The Bad Plus Farewell Tour",
    "date": "2026-11-17",
@@ -1993,7 +1833,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2001,7 +1841,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859"
   },
   {
    "id": "bb-2026-11-18-hiss-golden-messenger-i-m-people-tour-sam-amidon",
@@ -2112,6 +1952,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bandito-2026-11-19-naysayer-lose-sight-all-4-all-against-the-world-brawler-unit",
+   "title": "Naysayer, Lose Sight, All 4 All, Against the World, Brawler Unit",
+   "date": "2026-11-19",
+   "doors": "6:30 PM",
+   "show_time": "7:30 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/naysayer-lose-sight-all-4-all-against-the-world-brawler-unit-november-19-2026-798827",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "All Ages",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/naysayer-lose-sight-all-4-all-against-the-world-brawler-unit-november-19-2026-798827"
   },
   {
    "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
@@ -2283,6 +2148,31 @@
    "ticket_url": "https://gallery5arts.org/calendar/white-laces-reverse-yr-curse-cor-de-lux"
   },
   {
+   "id": "bandito-2026-11-20-anastasia-satanic-war-machine-dead-steppe-guzum",
+   "title": "Anastasia, Satanic War Machine, Dead Steppe, GuZum",
+   "date": "2026-11-20",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$10 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780"
+  },
+  {
    "id": "reveler-2026-11-20-passerine-8-00-pm",
    "title": "Passerine",
    "date": "2026-11-20",
@@ -2315,6 +2205,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov"
+  },
+  {
+   "id": "recurring-bottomsuppizza-2026-11-21",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
   },
   {
    "id": "hardywood-2026-11-21-something-borrowed-rva",
@@ -2645,7 +2552,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -2653,7 +2560,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
    "id": "reveler-2026-11-24-jouwala-collective-9-30-pm",
@@ -3426,6 +3333,23 @@
    "ticket_url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-12-05-crazy-chester-a-nc-tribute-to-the-band-the-last-waltz-50th-a-8-00-pm",
+   "title": "Crazy Chester A Nc Tribute To The Band & The Last Waltz - 50Th Anniversary Tour",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/crazy-chester-12052026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2518742"
+  },
+  {
    "id": "dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
    "title": "Dalton Dash Album Release w/ HOTPANTS, Erin Lunsford",
    "date": "2026-12-05",
@@ -3525,6 +3449,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-12-07-jazzvillainy-an-instrumental-tribute-to-mf-doom-7-30-pm",
+   "title": "Jazzvillainy An Instrumental Tribute To Mf Doom",
+   "date": "2026-12-07",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazzvilliany-12072026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2519243"
   },
   {
    "id": "gallery5-2026-12-08-activism-in-action-critiquing-ai-a-student-research-showcase",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-06T12:21:20-05:00",
+ "updated": "2026-11-07T11:18:11-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-11-06-kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-phot",
-   "title": "Kitty Corner, Lola.5, Daisy Glaze, Saccharine Bullshit Dog Photo",
-   "date": "2026-11-06",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/e/kitty-corner-lola-5-daisy-glaze-saccharine-bullshit-dog-photo-november-06-2026-796028"
-  },
   {
    "id": "bandito-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
    "title": "The Get Off, Beast from the East, Cold Vein, Green Forest",
@@ -112,15 +95,90 @@
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
    "venue": "Bandito's Burrito Lounge",
-   "url": "https://www.etix.com/ticket/p/93318964/diles-que-no-me-maten-at-banditos-richmond-banditos?partner_id=399",
+   "url": "https://app.opendate.io/e/diles-que-no-me-maten-november-15-2026-728078",
    "kind": "m",
-   "age": "",
+   "age": "All Ages",
    "address": "2905 Patterson Ave, Richmond, VA",
    "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.etix.com/ticket/p/93318964/diles-que-no-me-maten-at-banditos-richmond-banditos?partner_id=399"
+   "ticket_url": "https://app.opendate.io/e/diles-que-no-me-maten-november-15-2026-728078"
+  },
+  {
+   "id": "bandito-2026-11-17-salisbury-gusher-inverted-cross-subversas",
+   "title": "Salisbury, Gusher, Inverted Cross, Subversas",
+   "date": "2026-11-17",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/salisbury-gusher-inverted-cross-subversas-november-17-2026-798795",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$10 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/salisbury-gusher-inverted-cross-subversas-november-17-2026-798795"
+  },
+  {
+   "id": "bandito-2026-11-19-naysayer-lose-sight-all-4-all-against-the-world-brawler-unit",
+   "title": "Naysayer, Lose Sight, All 4 All, Against the World, Brawler Unit",
+   "date": "2026-11-19",
+   "doors": "6:30 PM",
+   "show_time": "7:30 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/naysayer-lose-sight-all-4-all-against-the-world-brawler-unit-november-19-2026-798827",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "All Ages",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/naysayer-lose-sight-all-4-all-against-the-world-brawler-unit-november-19-2026-798827"
+  },
+  {
+   "id": "bandito-2026-11-20-anastasia-satanic-war-machine-dead-steppe-guzum",
+   "title": "Anastasia, Satanic War Machine, Dead Steppe, GuZum",
+   "date": "2026-11-20",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$10 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 10.0,
+     "fee": 0.0,
+     "total": 10.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780"
   },
   {
    "id": "bandito-2026-11-22-massa-nera-prisoner-terror-cell-kristeva",

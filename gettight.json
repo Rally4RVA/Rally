@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-06T12:21:31-05:00",
+ "updated": "2026-11-07T11:18:23-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-06-mikemetic-10-00-pm",
-   "title": "MIKEMETIC",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/mikemetic-06-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/mikemetic-06-nov"
-  },
   {
    "id": "gettight-2026-11-07-celler-dwellers-bullseye-cinch-8-00-pm",
    "title": "CELLER DWELLERS, BULLSEYE, CINCH",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$14.77",
    "free": false,
    "table_price": null,
    "tiers": [],

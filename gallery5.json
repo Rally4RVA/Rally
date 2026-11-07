@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-06T12:20:28-05:00",
+ "updated": "2026-11-07T11:17:13-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-06-first-fridays-the-art-of-the-pickle-exhibition",
-   "title": "First Fridays: THE ART OF THE PICKLE: EXHIBITION",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "5:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition",
-   "kind": "o",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-first-fridays-the-art-of-the-pickle-exhibition"
-  },
   {
    "id": "gallery5-2026-11-07-hot-lava-serqet-future-mantis",
    "title": "Hot Lava, Serqet, Future Mantis",

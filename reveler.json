@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-06T12:23:07-05:00",
+ "updated": "2026-11-07T11:19:41-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-06-rex-richardson-quartet-marshall-gilkes-8-00-pm",
-   "title": "Rex Richardson Quartet + Marshall Gilkes",
-   "date": "2026-11-06",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/rex-richardson-quartet-featuring-marshall-gilkes-11062026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2450443"
-  },
   {
    "id": "reveler-2026-11-07-elizabeth-wise-3-00-pm",
    "title": "Elizabeth Wise",
@@ -651,6 +634,23 @@
    "ticket_url": "https://buytickets.at/reveler/2516239"
   },
   {
+   "id": "reveler-2026-12-05-crazy-chester-a-nc-tribute-to-the-band-the-last-waltz-50th-a-8-00-pm",
+   "title": "Crazy Chester A Nc Tribute To The Band & The Last Waltz - 50Th Anniversary Tour",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/crazy-chester-12052026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2518742"
+  },
+  {
    "id": "reveler-2026-12-06-michael-winograd-and-the-honorable-mentshn-sponsored-by-the--4-00-pm",
    "title": "Michael Winograd And The Honorable Mentshn Sponsored By The Center For Cultural Vibrancy",
    "date": "2026-12-06",
@@ -683,6 +683,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-12-07-jazzvillainy-an-instrumental-tribute-to-mf-doom-7-30-pm",
+   "title": "Jazzvillainy An Instrumental Tribute To Mf Doom",
+   "date": "2026-12-07",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazzvilliany-12072026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2519243"
   },
   {
    "id": "reveler-2026-12-10-maria-mazzotta-presented-by-secret-planet-richmond-8-00-pm",
