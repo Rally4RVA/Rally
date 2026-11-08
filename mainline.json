@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-07T11:17:37-05:00",
+ "updated": "2026-11-08T11:39:48-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-07-duke-benet-s-band",
-   "title": "Duke Benet's Band",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/duke-benets-band",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/duke-benets-band"
-  },
-  {
-   "id": "mainline-2026-11-07-green-list-band",
-   "title": "Green List Band",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/green-list-band",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/green-list-band"
-  },
   {
    "id": "mainline-2026-11-08-megan-luck",
    "title": "Megan Luck",

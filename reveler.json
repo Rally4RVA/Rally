@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-07T11:19:41-05:00",
+ "updated": "2026-11-08T11:41:56-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-07-elizabeth-wise-3-00-pm",
-   "title": "Elizabeth Wise",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/elizabeth-wise-11072026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2506242"
-  },
-  {
-   "id": "reveler-2026-11-07-mike-hawkins-trio-tennishu-8-00-pm",
-   "title": "Mike Hawkins Trio + Tennishu",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/mike-hawkins-trio-tennishu-11072026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2507598"
-  },
   {
    "id": "reveler-2026-11-08-justin-trawick-and-the-common-good-4-00-pm",
    "title": "Justin Trawick And The Common Good",

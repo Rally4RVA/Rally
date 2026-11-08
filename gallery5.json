@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-07T11:17:13-05:00",
+ "updated": "2026-11-08T11:39:23-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-07-hot-lava-serqet-future-mantis",
-   "title": "Hot Lava, Serqet, Future Mantis",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-hot-lava-serqet-future-mantis",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-hot-lava-serqet-future-mantis"
-  },
-  {
-   "id": "gallery5-2026-11-07-community-care-pickle-potluck-updated-time-11-a-m-1-p-m",
-   "title": "Community Care: Pickle Potluck (UPDATED TIME: 11 a.m. - 1 p.m.)",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "11:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/richmond-pickle-party-community-care-pickle-potluck",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/richmond-pickle-party-community-care-pickle-potluck"
-  },
   {
    "id": "gallery5-2026-11-08-briney-brunch-variety-show",
    "title": "Briney Brunch Variety Show",

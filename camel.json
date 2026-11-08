@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-07T11:16:05-05:00",
+ "updated": "2026-11-08T11:38:11-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "baked-shrimp-07-nov",
-   "title": "Big Shrimp w/ Greasy Bastards",
-   "date": "2026-11-07",
-   "doors": "8:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/baked-shrimp-07-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/709918/web_orders/new"
-  },
   {
    "id": "hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
    "title": "Hardcore Matinee: Torino Death Ride, Hard Facts, Sacrificial Betrayal, Green Tips",
@@ -480,7 +463,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,

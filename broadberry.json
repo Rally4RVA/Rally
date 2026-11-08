@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-07T11:16:28-05:00",
+ "updated": "2026-11-08T11:38:35-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-07-akeem-ali-the-texture-tour",
-   "title": "AKEEM ALI: THE TEXTURE TOUR",
-   "date": "2026-11-07",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/akeem-ali-the-texture-tour/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/akeem-ali-the-texture-tour/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-08-sadurn-kitchen",
    "title": "SADURN, KITCHEN",

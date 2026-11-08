@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-07T11:18:23-05:00",
+ "updated": "2026-11-08T11:40:37-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-07-celler-dwellers-bullseye-cinch-8-00-pm",
-   "title": "CELLER DWELLERS, BULLSEYE, CINCH",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/celler-dwellers-bullseye-cinch-07-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$14.77",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/celler-dwellers-bullseye-cinch-07-nov"
-  },
   {
    "id": "gettight-2026-11-11-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",

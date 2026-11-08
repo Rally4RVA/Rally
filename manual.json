@@ -1,12 +1,11 @@
 {
- "updated": "2026-11-07T11:21:13-05:00",
+ "updated": "2026-11-08T11:43:29-05:00",
  "venues": [
   "Bandito's",
   "Chugalug",
   "Cobra Cabana",
   "Fuzzy Cactus",
   "Moose Lodge",
-  "Northside Basement",
   "The Bellwether Garage",
   "The Workshop",
   "VSC"
@@ -28,23 +27,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
-  },
-  {
-   "id": "manual-northside-basement-2026-11-07-real-shocks-crying-hand-putrid-boys-homemade-speed",
-   "title": "Real Shocks, Crying Hand, Putrid Boys, Homemade Speed",
-   "date": "2026-11-07",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Northside Basement",
-   "url": "https://www.instagram.com/p/Dehg45wO74M/",
-   "kind": "m",
-   "age": "",
-   "address": "DM for address",
-   "price_display": "$10 cash / $15 card",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/Dehg45wO74M/"
   },
   {
    "id": "manual-cobra-cabana-2026-11-08-acolyte-torment-not-one-of-them-tba",
