@@ -1,34 +1,9 @@
 {
- "updated": "2026-11-08T11:38:11-05:00",
+ "updated": "2026-11-09T15:39:22-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
-   "title": "Hardcore Matinee: Torino Death Ride, Hard Facts, Sacrificial Betrayal, Green Tips",
-   "date": "2026-11-08",
-   "doors": "1:00 PM",
-   "show_time": "1:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/hardcore-matinee-torino-death-ride-hard-facts-sacrificial-betrayal-green-tips-08-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/755581/web_orders/new"
-  },
   {
    "id": "chloe-kimes-09-nov",
    "title": "Chloe Kimes w/ Ramona & The Holy Smokes, Brady Heck",
@@ -40,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -49,6 +24,13 @@
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": ""
     }
    ],
@@ -454,6 +436,31 @@
    "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
   },
   {
+   "id": "backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
+   "title": "Backroom Throwback w/ Shartchan, Sophsick, Meep, OZO, MyDiaryToYou, Paradiso, Squish",
+   "date": "2026-11-24",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$18.54",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
+  },
+  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -463,7 +470,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -709,6 +716,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
+  },
+  {
+   "id": "zhtml-nomillionaires-dhemo-20-dec",
+   "title": "ZHTML, Nomillionaires, Dhemo",
+   "date": "2026-12-20",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/zhtml-nomillionaires-dhemo-20-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": "Sales start November 16, 2026"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/798097/web_orders/new"
   },
   {
    "id": "new-year-s-eve-w-ma-am-buffie-31-dec",

@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-08T11:38:35-05:00",
+ "updated": "2026-11-09T15:39:43-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-08-sadurn-kitchen",
-   "title": "SADURN, KITCHEN",
-   "date": "2026-11-08",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/sadurn-w-kitchen/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/sadurn-w-kitchen/richmond-music-hall/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-09-mama-s-broke-reunion-album-release-tour-nathan-evans-fox",
    "title": "MAMA’S BROKE: REUNION ALBUM RELEASE TOUR, NATHAN EVANS FOX",
@@ -68,20 +51,20 @@
    "kind": "m",
    "age": "",
    "address": "",
-   "price_display": "Pricier tickets",
+   "price_display": "Sold out",
    "free": false,
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/slow-pulp-w-her-new-knife/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-12-adult-x-a-place-to-bury-strangers-the-treasury",
-   "title": "ADULT. X A PLACE TO BURY STRANGERS, THE TREASURY",
+   "id": "bb-2026-11-12-a-place-to-bury-strangers-x-adult-the-treasury",
+   "title": "A PLACE TO BURY STRANGERS X ADULT., THE TREASURY",
    "date": "2026-11-12",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/adult-x-a-place-to-bury-strangers-w-the-treasury/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/a-place-to-bury-strangers-x-adult-w-the-treasury/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -89,7 +72,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/adult-x-a-place-to-bury-strangers-w-the-treasury/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/a-place-to-bury-strangers-x-adult-w-the-treasury/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-11-12-sir-woman-playtime-tour-uncle-roy-spice",

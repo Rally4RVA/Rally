@@ -1,9 +1,7 @@
 {
- "updated": "2026-11-08T11:43:29-05:00",
+ "updated": "2026-11-09T15:44:16-05:00",
  "venues": [
-  "Bandito's",
   "Chugalug",
-  "Cobra Cabana",
   "Fuzzy Cactus",
   "Moose Lodge",
   "The Bellwether Garage",
@@ -27,40 +25,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
-  },
-  {
-   "id": "manual-cobra-cabana-2026-11-08-acolyte-torment-not-one-of-them-tba",
-   "title": "Acolyte, Torment, Not One Of Them, TBA",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "7:30 PM",
-   "venue": "Cobra Cabana",
-   "url": "",
-   "kind": "m",
-   "age": "",
-   "address": "901 W Marshall St, Richmond",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": ""
-  },
-  {
-   "id": "manual-bandito-s-2026-11-08-the-get-off-beast-from-the-east-cold-vein-green-forest",
-   "title": "The Get Off, Beast From The East, Cold Vein, Green Forest",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Bandito's",
-   "url": "https://www.instagram.com/p/DeSXleAKKtj/",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DeSXleAKKtj/"
   },
   {
    "id": "manual-chugalug-2026-11-13-gonzobomb-500-fine-caske",

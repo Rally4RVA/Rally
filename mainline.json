@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-08T11:39:48-05:00",
+ "updated": "2026-11-09T15:40:45-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-08-megan-luck",
-   "title": "Megan Luck",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/megan-luck",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/megan-luck"
-  },
   {
    "id": "mainline-2026-11-11-bearly-dead",
    "title": "Bearly Dead",
@@ -71,6 +54,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-dog-led-zeppelin-tribute"
+  },
+  {
+   "id": "mainline-2026-11-14-dead-people-s-stuff-vintage-market",
+   "title": "Dead People's Stuff Vintage Market",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/4nleapkrjlp33fede4hr3fg886lcsa",
+   "kind": "o",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/4nleapkrjlp33fede4hr3fg886lcsa"
+  },
+  {
+   "id": "mainline-2026-11-14-jojo-and-the-kickits",
+   "title": "JoJo and the Kickits",
+   "date": "2026-11-14",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/jojo-and-the-kickits",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/jojo-and-the-kickits"
   }
  ]
 }

@@ -1,60 +1,9 @@
 {
- "updated": "2026-11-08T11:39:33-05:00",
+ "updated": "2026-11-09T15:40:32-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-08-hardywood-vinyasa-yoga-with-3s-yoga",
-   "title": "Hardywood Vinyasa Yoga with 3S Yoga",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "11:45 AM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-vinyasa-yoga-g4bfm-53kdz",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-vinyasa-yoga-g4bfm-53kdz"
-  },
-  {
-   "id": "hardywood-2026-11-08-live-music-maddy-curtis-trio",
-   "title": "Maddy Curtis Trio",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-keedn-apxtj",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-trio-keedn-apxtj"
-  },
-  {
-   "id": "hardywood-2026-11-08-the-crafty-devil-presents-a-crafty-rave-with-hardywood",
-   "title": "The Crafty Devil Presents: A Crafty Rave with Hardywood",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-crafty-devil-presents-crafty-rave"
-  },
   {
    "id": "hardywood-2026-11-10-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",
@@ -130,7 +79,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2",
+   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -138,7 +87,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2"
+   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5"
   },
   {
    "id": "hardywood-2026-11-13-live-music-madly-backwards",
@@ -249,7 +198,7 @@
    "doors": "",
    "show_time": "6:30 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr",
+   "url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr-zmcr9",
    "kind": "m",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -481,6 +430,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
   },
   {
+   "id": "hardywood-2026-12-10-drag-bingo-at-hardywood-richmond",
+   "title": "Drag Bingo At Hardywood Richmond",
+   "date": "2026-12-10",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5"
+  },
+  {
    "id": "hardywood-2026-12-13-smiles-with-santa-12-13",
    "title": "Smiles With Santa 12/13",
    "date": "2026-12-13",
@@ -498,6 +464,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/smiles-with-santa-1212-bwrdc-narjt"
   },
   {
+   "id": "hardywood-2026-12-13-live-music-maddy-curtis-holiday-band",
+   "title": "Maddy Curtis Holiday Band!",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "12:30 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-holiday-band",
+   "kind": "m",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-holiday-band"
+  },
+  {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",
    "title": "Hardywood Presents -- 6 Decades Of The Dead, Suggesting Rhythm",
    "date": "2026-12-17",
@@ -513,6 +496,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73"
+  },
+  {
+   "id": "hardywood-2026-12-31-new-year-s-eve-party-w-what-s-our-age-again",
+   "title": "New Year's Eve Party, WHAT'S OUR AGE AGAIN!",
+   "date": "2026-12-31",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/new-years-eve-party-w-whats-our-age-again",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/new-years-eve-party-w-whats-our-age-again"
   },
   {
    "id": "hardywood-2027-01-09-tropical-christmas-3-with-kadencia-orchestra-three-kings-day",

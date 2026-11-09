@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-08T11:41:56-05:00",
+ "updated": "2026-11-09T15:42:46-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-08-justin-trawick-and-the-common-good-4-00-pm",
-   "title": "Justin Trawick And The Common Good",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "4:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/justin-trawick-and-the-common-good-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2492936"
-  },
-  {
-   "id": "reveler-2026-11-08-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
-   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
-   "date": "2026-11-08",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11082026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1029950"
-  },
   {
    "id": "reveler-2026-11-09-vcu-jazz-ensembles-7-00-pm",
    "title": "Vcu Jazz Ensembles",
@@ -564,6 +530,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2514101"
+  },
+  {
+   "id": "reveler-2026-12-01-ivy-quincy-harmon-7-00-pm",
+   "title": "Ivy + Quincy Harmon",
+   "date": "2026-12-01",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/ivy-quincy-harmon",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2519743"
   },
   {
    "id": "reveler-2026-12-02-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",

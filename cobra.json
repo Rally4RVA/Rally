@@ -1,25 +1,7 @@
 {
- "updated": "2026-11-08T11:38:21-05:00",
+ "updated": "2026-11-09T15:39:31-05:00",
  "venues": [
   "Cobra Cabana"
  ],
- "events": [
-  {
-   "id": "cobra-2001619732502",
-   "title": "SWEEPING PROMISES, OUTER WORLD, RADON ABATEMENT",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Cobra Cabana",
-   "url": "https://www.eventbrite.com/e/1113-ar-kaics-w-axis-sova-piranha-rama-graphic-violets-cobra-tickets-2001619732502",
-   "kind": "m",
-   "age": "",
-   "address": "901 W Marshall St, Richmond, VA",
-   "price_display": "$18.91",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/1113-ar-kaics-w-axis-sova-piranha-rama-graphic-violets-cobra-tickets-2001619732502"
-  }
- ]
+ "events": []
 }
