@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:44:18-05:00",
+ "updated": "2026-11-10T12:43:27-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -22,72 +22,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-09-mama-s-broke-reunion-album-release-tour-nathan-evans-fox",
-   "title": "MAMA’S BROKE: REUNION ALBUM RELEASE TOUR, NATHAN EVANS FOX",
-   "date": "2026-11-09",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/mamas-broke-reunion-album-release-tour-w-nathan-evans-fox/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/mamas-broke-reunion-album-release-tour-w-nathan-evans-fox/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "reveler-2026-11-09-vcu-jazz-ensembles-7-00-pm",
-   "title": "Vcu Jazz Ensembles",
-   "date": "2026-11-09",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/vcu-jazz-combos-11092026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2479456"
-  },
-  {
-   "id": "chloe-kimes-09-nov",
-   "title": "Chloe Kimes w/ Ramona & The Holy Smokes, Brady Heck",
-   "date": "2026-11-09",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/chloe-kimes-09-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/736607/web_orders/new"
-  },
   {
    "id": "brambly-2026-11-10-trivia-in-the-restaurant",
    "title": "Trivia in the Restaurant",
@@ -184,7 +118,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "$30.42 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -193,6 +127,13 @@
      "base": 20.0,
      "fee": 5.25,
      "total": 25.25,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
      "status": ""
     }
    ],
@@ -566,7 +507,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -972,7 +921,7 @@
    "id": "adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
    "title": "ADRENALINE by Open Fleur",
    "date": "2026-11-14",
-   "doors": "8:00 PM",
+   "doors": "9:00 PM",
    "show_time": "9:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
@@ -999,23 +948,6 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/792883/web_orders/new"
-  },
-  {
-   "id": "bandito-2026-11-14-thunderchief-salik-jealous-god",
-   "title": "Thunderchief, SALIK, Jealous God",
-   "date": "2026-11-14",
-   "doors": "8:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/thunderchief-salik-jealous-god-november-14-2026-746456",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/e/thunderchief-salik-jealous-god-november-14-2026-746456"
   },
   {
    "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-9-30-pm",
@@ -1052,6 +984,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-14-nov"
   },
   {
+   "id": "hardywood-2026-11-15-better-housing-coalition-s-gingerbread-house-challenge",
+   "title": "Better Housing Coalition's Gingerbread House Challenge",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/better-housing-coalitions-gingerbread-house-challenge",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/better-housing-coalitions-gingerbread-house-challenge"
+  },
+  {
    "id": "hardywood-2026-11-15-live-music-chip-hale-duo",
    "title": "Chip Hale Duo",
    "date": "2026-11-15",
@@ -1067,6 +1016,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/chip-hale-duo-p994l-z6gzp-2ptje-2c3rm-sx53d-g6dbc-sx39h-s5r4s-9xcz5-btf6h-zlg5d-ewh76-n6ryf"
+  },
+  {
+   "id": "mainline-2026-11-15-little-birdies",
+   "title": "Little Birdies",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/little-birdies",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/little-birdies"
   },
   {
    "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-6-00-pm",
@@ -1246,8 +1212,8 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/scrappy-hour-17-nov",
    "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "SCRAPpy HourAll AgesTuesday, November 17, 2026Doors 3:00 PM · Show 4:00 PM1621 West Broad Street, Richmond, VA, 23220, USSign InApplySold outFind verified resale tickets or join the waitlist if more become available on Tixel — our official fan-to-fan ticket exchange.Go to Fan ExchangePowered byCheckout",
    "price_display": "",
    "free": false,
    "table_price": null,
@@ -1439,6 +1405,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859"
+  },
+  {
+   "id": "mainline-2026-11-18-pop-out-wednesdays",
+   "title": "Pop-Out Wednesdays",
+   "date": "2026-11-18",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-wednesdays",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-wednesdays"
   },
   {
    "id": "bb-2026-11-18-hiss-golden-messenger-i-m-people-tour-sam-amidon",
@@ -2304,6 +2287,38 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov"
   },
   {
+   "id": "geek-rva-are-ya-madferit-25-nov",
+   "title": "Geek RVA, Are Ya Madferit?",
+   "date": "2026-11-25",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/geek-rva-are-ya-madferit-25-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44 adv · $18.54 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": "Sales start November 25, 2026"
+    },
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788298/web_orders/new"
+  },
+  {
    "id": "gettight-2026-11-25-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-11-25",
@@ -2794,6 +2809,23 @@
    "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
   },
   {
+   "id": "hardywood-2026-12-01-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-01",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
    "id": "reveler-2026-12-01-ivy-quincy-harmon-7-00-pm",
    "title": "Ivy + Quincy Harmon",
    "date": "2026-12-01",
@@ -2854,12 +2886,12 @@
   },
   {
    "id": "bb-2026-12-02-bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-",
-   "title": "BIT BRIGADE PERFORMS “THE LEGEND OF ZELDA” + “CASTLEVANIA” + “TETRIS” LIVE",
+   "title": "BIT BRIGADE PERFORMS “THE LEGEND OF ZELDA” + “CASTLEVANIA” + “TETRIS” LIVE, SLOWLY CRUSHED",
    "date": "2026-12-02",
    "doors": "6:30 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live-w-slowly-crushed/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -2867,7 +2899,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live-w-slowly-crushed/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "gallery5-2026-12-02-my-cousin-s-girlfriend-s-house-seneca-burns-shotclock-235-wa",
@@ -2921,6 +2953,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-02-dec"
   },
   {
+   "id": "hardywood-2026-12-03-holiday-wreath-making",
+   "title": "Holiday Wreath Making",
+   "date": "2026-12-03",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
+  },
+  {
    "id": "bandito-2026-12-03-manas-stephen-vitiello-jim-strong-and-opera-benezet-s-sutton",
    "title": "MANAS, Stephen Vitiello, Jim Strong and Opera Benezet, S. Sutton, Molasses",
    "date": "2026-12-03",
@@ -2963,9 +3012,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
+   "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -2987,6 +3036,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
+   "title": "Chords For a Cause Charity Event w/ Sorry Excuse, Saturn Has Ears, Ataraxia, Amherst, Red Light Fever",
+   "date": "2026-12-05",
+   "doors": "2:00 PM",
+   "show_time": "2:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/794314/web_orders/new"
   },
   {
    "id": "bb-2026-12-05-suggesting-rhythm-the-old-dominion-tour",
@@ -3048,6 +3122,31 @@
    "ticket_url": "https://app.opendate.io/confirms/709069/web_orders/new"
   },
   {
+   "id": "brunch-mosh-w-eyes-peeled-white-beast-fantazma-brash-06-dec",
+   "title": "Brunch Mosh w/ Eyes Peeled, White Beast, Fantazma, Brash",
+   "date": "2026-12-06",
+   "doors": "1:00 PM",
+   "show_time": "1:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/brunch-mosh-w-eyes-peeled-white-beast-fantazma-brash-06-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/799048/web_orders/new"
+  },
+  {
    "id": "reveler-2026-12-06-michael-winograd-and-the-honorable-mentshn-sponsored-by-the--4-00-pm",
    "title": "Michael Winograd And The Honorable Mentshn Sponsored By The Center For Cultural Vibrancy",
    "date": "2026-12-06",
@@ -3063,23 +3162,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2466376"
-  },
-  {
-   "id": "hardywood-2026-12-06-holiday-wreath-making",
-   "title": "Holiday Wreath Making",
-   "date": "2026-12-06",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
   },
   {
    "id": "hoof-the-scudz-jordan-rein-06-dec",
@@ -3175,6 +3257,23 @@
    "ticket_url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "hardywood-2026-12-08-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-08",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
    "id": "voodoo-mother-a-shrewdness-of-apes-americans-abroad-good-mother-lizard-08-dec",
    "title": "Voodoo Mother, A Shrewdness of Apes, Americans Abroad, Good Mother Lizard",
    "date": "2026-12-08",
@@ -3198,6 +3297,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/750364/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-12-09-s-o-n-o-s-o-featuring-marlysse-simmons-bruno-alcalde-and-lau-7-30-pm",
+   "title": "São Não São Featuring Marlysse Simmons, Bruno Alcalde, And Laura Ann Singh",
+   "date": "2026-12-09",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sao-nao-sao-12092026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2523599"
   },
   {
    "id": "gettight-2026-12-09-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -3505,6 +3621,23 @@
    "ticket_url": "https://thebroadberry.com/event/king-buffalo-w-babe-lewis/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "hardywood-2026-12-15-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-15",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
    "id": "reveler-2026-12-16-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
    "date": "2026-12-16",
@@ -3800,6 +3933,23 @@
    "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
+   "id": "hardywood-2026-12-22-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-22",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
    "id": "gettight-2026-12-23-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-23",
@@ -3832,6 +3982,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-26-dec"
+  },
+  {
+   "id": "hardywood-2026-12-29-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-29",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
    "id": "reveler-2026-12-30-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
@@ -4095,6 +4262,23 @@
    "ticket_url": "https://thebroadberry.com/event/better-off-dead/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-16-folk-night-out-the-indie-folk-dj-night-18",
+   "title": "FOLK NIGHT OUT: THE INDIE FOLK DJ NIGHT (18+)",
+   "date": "2027-01-16",
+   "doors": "8:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "sicard-hollow-21-jan",
    "title": "Sicard Hollow",
    "date": "2027-01-21",
@@ -4152,6 +4336,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/blade-rave-18-2/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-30-corduroy-cadets-live-in-concert",
+   "title": "CORDUROY CADETS – LIVE IN CONCERT",
+   "date": "2027-01-30",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/corduroy-cadets-live-in-concert/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/corduroy-cadets-live-in-concert/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-30-blisspop-presents-hot-in-herre-2000s-dance-party-18",
+   "title": "Blisspop Presents HOT IN HERRE: 2000S DANCE PARTY (18+)",
+   "date": "2027-01-30",
+   "doors": "7:30 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/hot-in-herre-2000s-dance-party-18-2/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/hot-in-herre-2000s-dance-party-18-2/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
@@ -4269,7 +4487,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -4579,6 +4805,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/gavin-adcock-the-day-i-hang-it-up-tour-w-blake-whiten/virginia-credit-union-live/richmond-virginia/"
+  },
+  {
+   "id": "bandito-2027-05-15-almost-a-m",
+   "title": "almost a.m.",
+   "date": "2027-05-15",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/almost-a-m-may-15-2027-799392",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/e/almost-a-m-may-15-2027-799392"
   },
   {
    "id": "bb-2027-06-16-dad-rock-night-2000-s-rock-party",

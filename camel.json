@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-09T15:39:22-05:00",
+ "updated": "2026-11-10T12:38:33-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "chloe-kimes-09-nov",
-   "title": "Chloe Kimes w/ Ramona & The Holy Smokes, Brady Heck",
-   "date": "2026-11-09",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/chloe-kimes-09-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/736607/web_orders/new"
-  },
   {
    "id": "john-r-miller-10-nov",
    "title": "John R. Miller, Lou Hazel",
@@ -47,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "$30.42 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -56,6 +24,13 @@
      "base": 20.0,
      "fee": 5.25,
      "total": 25.25,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
      "status": ""
     }
    ],
@@ -149,7 +124,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -181,7 +164,7 @@
    "id": "adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
    "title": "ADRENALINE by Open Fleur",
    "date": "2026-11-14",
-   "doors": "8:00 PM",
+   "doors": "9:00 PM",
    "show_time": "9:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
@@ -268,8 +251,8 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/scrappy-hour-17-nov",
    "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "SCRAPpy HourAll AgesTuesday, November 17, 2026Doors 3:00 PM · Show 4:00 PM1621 West Broad Street, Richmond, VA, 23220, USSign InApplySold outFind verified resale tickets or join the waitlist if more become available on Tixel — our official fan-to-fan ticket exchange.Go to Fan ExchangePowered byCheckout",
    "price_display": "",
    "free": false,
    "table_price": null,
@@ -461,6 +444,38 @@
    "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
   },
   {
+   "id": "geek-rva-are-ya-madferit-25-nov",
+   "title": "Geek RVA, Are Ya Madferit?",
+   "date": "2026-11-25",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/geek-rva-are-ya-madferit-25-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44 adv · $18.54 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": "Sales start November 25, 2026"
+    },
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788298/web_orders/new"
+  },
+  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -577,13 +592,38 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
+   "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
+  },
+  {
+   "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
+   "title": "Chords For a Cause Charity Event w/ Sorry Excuse, Saturn Has Ears, Ataraxia, Amherst, Red Light Fever",
+   "date": "2026-12-05",
+   "doors": "2:00 PM",
+   "show_time": "2:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/794314/web_orders/new"
   },
   {
    "id": "dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
@@ -609,6 +649,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/709069/web_orders/new"
+  },
+  {
+   "id": "brunch-mosh-w-eyes-peeled-white-beast-fantazma-brash-06-dec",
+   "title": "Brunch Mosh w/ Eyes Peeled, White Beast, Fantazma, Brash",
+   "date": "2026-12-06",
+   "doors": "1:00 PM",
+   "show_time": "1:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/brunch-mosh-w-eyes-peeled-white-beast-fantazma-brash-06-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/799048/web_orders/new"
   },
   {
    "id": "hoof-the-scudz-jordan-rein-06-dec",
@@ -838,7 +903,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {

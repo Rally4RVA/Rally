@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:40:32-05:00",
+ "updated": "2026-11-10T12:39:43-05:00",
  "venues": [
   "Hardywood"
  ],
@@ -139,6 +139,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-tristan-dougherty-the-heart-pines-jmbyx-nsdek-jdggj"
+  },
+  {
+   "id": "hardywood-2026-11-15-better-housing-coalition-s-gingerbread-house-challenge",
+   "title": "Better Housing Coalition's Gingerbread House Challenge",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/better-housing-coalitions-gingerbread-house-challenge",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/better-housing-coalitions-gingerbread-house-challenge"
   },
   {
    "id": "hardywood-2026-11-15-live-music-chip-hale-duo",
@@ -413,9 +430,26 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/drew-dunbar-ntn2t-flea4"
   },
   {
-   "id": "hardywood-2026-12-06-holiday-wreath-making",
+   "id": "hardywood-2026-12-01-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-01",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
+   "id": "hardywood-2026-12-03-holiday-wreath-making",
    "title": "Holiday Wreath Making",
-   "date": "2026-12-06",
+   "date": "2026-12-03",
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
@@ -428,6 +462,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/holiday-wreath-making-2"
+  },
+  {
+   "id": "hardywood-2026-12-08-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-08",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
    "id": "hardywood-2026-12-10-drag-bingo-at-hardywood-richmond",
@@ -481,6 +532,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-maddy-curtis-holiday-band"
   },
   {
+   "id": "hardywood-2026-12-15-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-15",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",
    "title": "Hardywood Presents -- 6 Decades Of The Dead, Suggesting Rhythm",
    "date": "2026-12-17",
@@ -496,6 +564,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm-xcz9w-bydxc-9knfc-ga69d-27d73"
+  },
+  {
+   "id": "hardywood-2026-12-22-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-22",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+  },
+  {
+   "id": "hardywood-2026-12-29-high-five-trivia-every-tuesday",
+   "title": "High Five Trivia - Every Tuesday!",
+   "date": "2026-12-29",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Hardywood",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "kind": "o",
+   "age": "",
+   "address": "2410 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
    "id": "hardywood-2026-12-31-new-year-s-eve-party-w-what-s-our-age-again",

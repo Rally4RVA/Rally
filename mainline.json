@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:40:45-05:00",
+ "updated": "2026-11-10T12:39:54-05:00",
  "venues": [
   "Main Line Brewery"
  ],
@@ -88,6 +88,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/jojo-and-the-kickits"
+  },
+  {
+   "id": "mainline-2026-11-15-little-birdies",
+   "title": "Little Birdies",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/little-birdies",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/little-birdies"
+  },
+  {
+   "id": "mainline-2026-11-18-pop-out-wednesdays",
+   "title": "Pop-Out Wednesdays",
+   "date": "2026-11-18",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-wednesdays",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-wednesdays"
   }
  ]
 }

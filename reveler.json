@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-09T15:42:46-05:00",
+ "updated": "2026-11-10T12:41:56-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-09-vcu-jazz-ensembles-7-00-pm",
-   "title": "Vcu Jazz Ensembles",
-   "date": "2026-11-09",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/vcu-jazz-combos-11092026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2479456"
-  },
   {
    "id": "reveler-2026-11-10-zarove-7-00-pm",
    "title": "Zarove",
@@ -649,6 +632,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2519243"
+  },
+  {
+   "id": "reveler-2026-12-09-s-o-n-o-s-o-featuring-marlysse-simmons-bruno-alcalde-and-lau-7-30-pm",
+   "title": "São Não São Featuring Marlysse Simmons, Bruno Alcalde, And Laura Ann Singh",
+   "date": "2026-12-09",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sao-nao-sao-12092026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2523599"
   },
   {
    "id": "reveler-2026-12-10-maria-mazzotta-presented-by-secret-planet-richmond-8-00-pm",

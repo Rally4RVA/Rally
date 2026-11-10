@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-09T15:39:43-05:00",
+ "updated": "2026-11-10T12:38:54-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-09-mama-s-broke-reunion-album-release-tour-nathan-evans-fox",
-   "title": "MAMA’S BROKE: REUNION ALBUM RELEASE TOUR, NATHAN EVANS FOX",
-   "date": "2026-11-09",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/mamas-broke-reunion-album-release-tour-w-nathan-evans-fox/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/mamas-broke-reunion-album-release-tour-w-nathan-evans-fox/richmond-music-hall/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour-eurotripp",
    "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR, EUROTRIPP",
@@ -365,12 +348,12 @@
   },
   {
    "id": "bb-2026-12-02-bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-",
-   "title": "BIT BRIGADE PERFORMS “THE LEGEND OF ZELDA” + “CASTLEVANIA” + “TETRIS” LIVE",
+   "title": "BIT BRIGADE PERFORMS “THE LEGEND OF ZELDA” + “CASTLEVANIA” + “TETRIS” LIVE, SLOWLY CRUSHED",
    "date": "2026-12-02",
    "doors": "6:30 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live-w-slowly-crushed/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -378,7 +361,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live-w-slowly-crushed/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-04-the-lemon-twigs",
@@ -738,6 +721,23 @@
    "ticket_url": "https://thebroadberry.com/event/better-off-dead/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-16-folk-night-out-the-indie-folk-dj-night-18",
+   "title": "FOLK NIGHT OUT: THE INDIE FOLK DJ NIGHT (18+)",
+   "date": "2027-01-16",
+   "doors": "8:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-01-22-shrek-rave-18",
    "title": "SHREK RAVE (18+)",
    "date": "2027-01-22",
@@ -770,6 +770,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/blade-rave-18-2/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-30-corduroy-cadets-live-in-concert",
+   "title": "CORDUROY CADETS – LIVE IN CONCERT",
+   "date": "2027-01-30",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/corduroy-cadets-live-in-concert/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/corduroy-cadets-live-in-concert/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-30-blisspop-presents-hot-in-herre-2000s-dance-party-18",
+   "title": "Blisspop Presents HOT IN HERRE: 2000S DANCE PARTY (18+)",
+   "date": "2027-01-30",
+   "doors": "7:30 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/hot-in-herre-2000s-dance-party-18-2/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/hot-in-herre-2000s-dance-party-18-2/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-31-crooked-fingers-swet-deth-dignity-and-shame-tour-julia-barfi",
