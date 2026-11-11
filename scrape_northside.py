@@ -11,7 +11,7 @@ LIST = "https://www.thenorthsidegrille.com/band-calendar"
 VENUE = "Northside Grille"
 ADDRESS = "1217 Bellevue Ave, Richmond, VA"
 TIME_LINE = re.compile(r"([A-Z][a-z]{2})[a-z]* (\d{1,2})(?:,? (\d{4}))?(?:,| at|\s·|\s-)?\s*(\d{1,2}(?::\d{2})?\s?[AaPp]\.?[Mm]\.?)(?:\s*[–-]\s*(\d{1,2}(?::\d{2})?\s?[AaPp]\.?[Mm]\.?))?")
-HEADING = re.compile(r"^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),? [A-Z][a-z]{2} \d{1,2}$")
+HEADING = re.compile(r"^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),? ([A-Z][a-z]{2})[a-z]* (\d{1,2})(?:,? (\d{4}))?$")
 SKIP = re.compile(r"^(?:Northside Grille(?: Patio)?|Patio Show|Band Link|Tickets?|Load More|Share|Facebook|Twitter|Link)$", re.I)
 
 
@@ -31,41 +31,41 @@ def price_in(text):
     return "", False
 
 
+def year_for(mon, dom, today, year=None):
+    if year:
+        return int(year)
+    y = int(today[:4])
+    # no year printed: this year, or next year if that month is already well behind us
+    if mon < int(today[5:7]) - 1:
+        y += 1
+    return y
+
+
 def parse(body, today):
+    """The list is one card per show: a date heading ('Wed, Nov 11'), the band, '/', the venue, then 'Band Link' or 'Buy Tickets'.
+    A time or price line inside the card is used if the site prints one."""
     lines = [re.sub(r"\s+", " ", l).strip() for l in body.splitlines() if l.strip()]
-    hits = [(i, TIME_LINE.search(l)) for i, l in enumerate(lines) if TIME_LINE.search(l)]
+    heads = [(i, HEADING.match(l)) for i, l in enumerate(lines) if HEADING.match(l)]
     out = []
-    for n, (i, m) in enumerate(hits):
+    for n, (i, m) in enumerate(heads):
         mon = MONTHS.get(m.group(1).lower())
         if not mon:
             continue
-        if m.group(3):
-            year = int(m.group(3))
-        else:                                      # no year printed: use this year, or next if the date already passed by months
-            year = int(today[:4])
-            if f"{year:04d}-{mon:02d}-{int(m.group(2)):02d}" < today[:8] + "01" and mon < int(today[5:7]):
-                year += 1
-        day = f"{year:04d}-{mon:02d}-{int(m.group(2)):02d}"
-        # the title sits right after the date heading, a few lines above the time line
-        title = ""
-        for k in range(i - 1, max(i - 7, -1), -1):
-            if HEADING.match(lines[k]):
-                if k + 1 < i:
-                    title = lines[k + 1]
-                break
-        if not title or SKIP.match(title):
-            title = next((lines[k] for k in range(i - 1, max(i - 5, -1), -1)
-                          if not HEADING.match(lines[k]) and not SKIP.match(lines[k]) and not TIME_LINE.search(lines[k])), "")
-        end = hits[n + 1][0] - 1 if n + 1 < len(hits) else len(lines)
-        after = " ".join(lines[i + 1:max(i + 1, end)][:8])
-        price, free = price_in(after)
+        day = f"{year_for(mon, int(m.group(2)), today, m.group(3)):04d}-{mon:02d}-{int(m.group(2)):02d}"
+        end = heads[n + 1][0] if n + 1 < len(heads) else len(lines)
+        card = lines[i + 1:end]
+        title = next((l for l in card if l != "/" and not SKIP.match(l) and not re.match(r"^buy tickets?$", l, re.I)
+                      and not TIME_LINE.search(l)), "")
+        text = " ".join(card)
+        t = re.search(r"(\d{1,2}(?::\d{2})?\s?[AaPp]\.?[Mm]\.?)", text)
+        price, free = price_in(text)
+        ticketed = any(re.match(r"^buy tickets?$", l, re.I) for l in card)
         if not price:
-            price, free = "Free", True
+            price, free = ("", False) if ticketed else ("Free", True)
         if day < today or not title:
             continue
-        out.append(dict(title=clean_title(title), date=day, show_time=fmt_time(m.group(4)),
-                        patio=bool(re.search(r"patio", " ".join(lines[max(i - 3, 0):i + 3]), re.I)),
-                        price=price, free=free, card=n))
+        out.append(dict(title=clean_title(title), date=day, show_time=fmt_time(t.group(1)) if t else "",
+                        patio=bool(re.search(r"patio", text, re.I)), price=price, free=free, card=n))
     return out
 
 
@@ -94,7 +94,7 @@ def run():
     for l in links:
         if l not in uniq:
             uniq.append(l)
-    total = sum(1 for l in body.splitlines() if TIME_LINE.search(l))
+    total = sum(1 for l in body.splitlines() if HEADING.match(re.sub(r"\s+", " ", l).strip()))
     if total == 0:                                  # show what the page looked like, so the log says why
         print("  --- page text (first 60 lines) ---")
         for l in [x.strip() for x in body.splitlines() if x.strip()][:60]:
