@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-10T12:38:33-05:00",
+ "updated": "2026-11-11T12:25:03-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "john-r-miller-10-nov",
-   "title": "John R. Miller, Lou Hazel",
-   "date": "2026-11-10",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/john-r-miller-10-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/731199/web_orders/new"
-  },
   {
    "id": "autumn-drive-11-nov",
    "title": "Autumn Drive, Sami Gardner, Hailey Reese",
@@ -47,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -56,6 +24,13 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": ""
     }
    ],
@@ -485,7 +460,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -540,6 +515,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/647953/web_orders/new"
+  },
+  {
+   "id": "drag-brunch-duets-29-nov",
+   "title": "Drag Brunch: Duets",
+   "date": "2026-11-29",
+   "doors": "11:00 AM",
+   "show_time": "12:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/drag-brunch-duets-29-nov",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/731213/web_orders/new"
   },
   {
    "id": "the-get-off-bowhead-green-forrest-take-by-force-29-nov",
@@ -679,8 +679,8 @@
    "id": "hoof-the-scudz-jordan-rein-06-dec",
    "title": "Jordan Rein, HOOF, The Scudz",
    "date": "2026-12-06",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/hoof-the-scudz-jordan-rein-06-dec",
    "kind": "m",
@@ -866,7 +866,7 @@
   },
   {
    "id": "sicard-hollow-21-jan",
-   "title": "Sicard Hollow",
+   "title": "Sicard Hollow w/ Radish",
    "date": "2027-01-21",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",

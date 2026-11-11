@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:43:27-05:00",
+ "updated": "2026-11-11T12:29:57-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -16,129 +16,13 @@
   "The Bellwether Garage",
   "The Workshop",
   "VSC",
+  "cobra cabana",
   "Main Line Brewery",
   "Révéler",
   "Brambly Park",
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "brambly-2026-11-10-trivia-in-the-restaurant",
-   "title": "Trivia in the Restaurant",
-   "date": "2026-11-10",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "o",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour-eurotripp",
-   "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR, EUROTRIPP",
-   "date": "2026-11-10",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-10-slow-pulp-her-new-knife",
-   "title": "SLOW PULP, HER NEW KNIFE",
-   "date": "2026-11-10",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/slow-pulp-w-her-new-knife/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Sold out",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/slow-pulp-w-her-new-knife/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "hardywood-2026-11-10-high-five-trivia-every-tuesday",
-   "title": "High Five Trivia - Every Tuesday!",
-   "date": "2026-11-10",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
-  },
-  {
-   "id": "reveler-2026-11-10-zarove-7-00-pm",
-   "title": "Zarove",
-   "date": "2026-11-10",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/zarove-11102026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2477932"
-  },
-  {
-   "id": "john-r-miller-10-nov",
-   "title": "John R. Miller, Lou Hazel",
-   "date": "2026-11-10",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/john-r-miller-10-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/731199/web_orders/new"
-  },
   {
    "id": "brambly-2026-11-11-wine-down-wednesdays",
    "title": "Wine Down Wednesdays",
@@ -235,7 +119,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -244,10 +128,34 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/729052/web_orders/new"
+  },
+  {
+   "id": "manual-sub-4fa4c32b",
+   "title": "poopman, led zeeplin",
+   "date": "2026-11-11",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "cobra cabana",
+   "url": "https://www.google.com/?zx=1794411671973",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "1 billion",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.google.com/?zx=1794411671973"
   },
   {
    "id": "reveler-2026-11-11-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
@@ -604,13 +512,13 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/black-dog-led-zeppelin-tribute"
   },
   {
-   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18",
-   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER (18+)",
+   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj",
+   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER & DJ TOPPER DANDY (18+)",
    "date": "2026-11-13",
    "doors": "8:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj-topper-dandy-18/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "18+",
    "address": "",
@@ -618,7 +526,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj-topper-dandy-18/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bandito-2026-11-13-ships-in-the-night-syncretist-architrave-bloodx3",
@@ -1517,6 +1425,23 @@
    "ticket_url": "https://www.etix.com/ticket/p/68873298/music-at-hardywood-2-richmond-hardywood-park-craft-brewery-richmond-symphony"
   },
   {
+   "id": "mainline-2026-11-19-hoof",
+   "title": "Hoof",
+   "date": "2026-11-19",
+   "doors": "",
+   "show_time": "6:30 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/hoof-2",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/hoof-2"
+  },
+  {
    "id": "bb-2026-11-19-winyah-foxtide",
    "title": "WINYAH, FOXTIDE",
    "date": "2026-11-19",
@@ -1728,6 +1653,23 @@
    "ticket_url": "https://gallery5arts.org/calendar/white-laces-reverse-yr-curse-cor-de-lux"
   },
   {
+   "id": "mainline-2026-11-20-tin-can-fish-band",
+   "title": "Tin Can Fish Band",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1"
+  },
+  {
    "id": "bandito-2026-11-20-anastasia-satanic-war-machine-dead-steppe-guzum",
    "title": "Anastasia, Satanic War Machine, Dead Steppe, GuZum",
    "date": "2026-11-20",
@@ -1821,6 +1763,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/something-borrowed-rva"
   },
   {
+   "id": "mainline-2026-11-21-the-hit-list",
+   "title": "The Hit List",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/ykhscevu8pkfrkk37vv50oh2r583j6",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/ykhscevu8pkfrkk37vv50oh2r583j6"
+  },
+  {
    "id": "reveler-2026-11-21-richmond-synth-collective-3-00-pm",
    "title": "Richmond Synth Collective",
    "date": "2026-11-21",
@@ -1887,6 +1846,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/skydog-a-tribute-to-the-allman-brothers-band-5/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "mainline-2026-11-21-totally-random",
+   "title": "Totally Random",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/totally-random-1",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/totally-random-1"
   },
   {
    "id": "gallery5-2026-11-21-jo-rie-s-bday-jump-off-vol-5-18",
@@ -2006,6 +1982,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-wa8hk"
+  },
+  {
+   "id": "mainline-2026-11-22-brett-baboorian",
+   "title": "Brett Baboorian",
+   "date": "2026-11-22",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/brett-baboorian-4",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/brett-baboorian-4"
   },
   {
    "id": "reveler-2026-11-22-janel-leppin-animal-surrender-presented-by-sunday-soundtrack-4-00-pm",
@@ -2370,6 +2363,23 @@
    "ticket_url": "https://www.revelerexperiences.com/event/thanksgiving-2026"
   },
   {
+   "id": "mainline-2026-11-26-closed-for-thanksgiving",
+   "title": "CLOSED FOR THANKSGIVING",
+   "date": "2026-11-26",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/closed-for-thanksgiving-1",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/closed-for-thanksgiving-1"
+  },
+  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -2379,7 +2389,7 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
@@ -2419,6 +2429,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/wolph-2/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "mainline-2026-11-27-blue-rooster",
+   "title": "Blue Rooster",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/blue-rooster-2",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/blue-rooster-2"
   },
   {
    "id": "reveler-2026-11-27-janet-martin-wrecking-ball-7-00-pm",
@@ -2546,6 +2573,23 @@
    "ticket_url": "https://app.opendate.io/confirms/647953/web_orders/new"
   },
   {
+   "id": "mainline-2026-11-28-meisha-herron",
+   "title": "Meisha Herron",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "2:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/meisha-herron",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/meisha-herron"
+  },
+  {
    "id": "reveler-2026-11-28-the-hot-seats-3-00-pm",
    "title": "The Hot Seats",
    "date": "2026-11-28",
@@ -2578,6 +2622,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-john-shenk-b85sn"
+  },
+  {
+   "id": "mainline-2026-11-28-lost-point",
+   "title": "Lost Point",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/lost-point",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lost-point"
+  },
+  {
+   "id": "mainline-2026-11-28-run-forrest-run",
+   "title": "Run Forrest Run",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1"
   },
   {
    "id": "gettight-2026-11-28-dj-williams-band-8-00-pm",
@@ -2646,6 +2724,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-28-nov"
+  },
+  {
+   "id": "drag-brunch-duets-29-nov",
+   "title": "Drag Brunch: Duets",
+   "date": "2026-11-29",
+   "doors": "11:00 AM",
+   "show_time": "12:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/drag-brunch-duets-29-nov",
+   "kind": "o",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/731213/web_orders/new"
   },
   {
    "id": "hardywood-2026-11-29-pints-pilates",
@@ -3164,11 +3267,28 @@
    "ticket_url": "https://buytickets.at/reveler/2466376"
   },
   {
+   "id": "reveler-2026-12-06-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
+   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
+   "date": "2026-12-06",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/jazz-workshop-12062026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$8",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
    "id": "hoof-the-scudz-jordan-rein-06-dec",
    "title": "Jordan Rein, HOOF, The Scudz",
    "date": "2026-12-06",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/hoof-the-scudz-jordan-rein-06-dec",
    "kind": "m",
@@ -3187,23 +3307,6 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/758419/web_orders/new"
-  },
-  {
-   "id": "reveler-2026-12-06-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
-   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
-   "date": "2026-12-06",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jazz-workshop-12062026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
    "id": "reveler-2026-12-07-jazzvillainy-an-instrumental-tribute-to-mf-doom-7-30-pm",
@@ -3984,6 +4087,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-26-dec"
   },
   {
+   "id": "bb-2026-12-28-barstool-rodeo-the-music-of-widespread-panic",
+   "title": "BARSTOOL RODEO: THE MUSIC OF WIDESPREAD PANIC",
+   "date": "2026-12-28",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/barstool-rodeo-the-music-of-widespread-panic-6/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/barstool-rodeo-the-music-of-widespread-panic-6/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "hardywood-2026-12-29-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",
    "date": "2026-12-29",
@@ -4245,6 +4365,31 @@
    "ticket_url": "https://app.opendate.io/confirms/796469/web_orders/new"
   },
   {
+   "id": "bandito-2027-01-13-division-of-mind-special-move-outta-pocket-brawler-unit",
+   "title": "Division of Mind, Special Move, Outta Pocket, Brawler Unit",
+   "date": "2027-01-13",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/division-of-mind-special-move-outta-pocket-brawler-unit-january-13-2027-798798",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "All Ages",
+     "base": 20.0,
+     "fee": 0.0,
+     "total": 20.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/division-of-mind-special-move-outta-pocket-brawler-unit-january-13-2027-798798"
+  },
+  {
    "id": "bb-2027-01-16-better-off-dead",
    "title": "BETTER OFF DEAD",
    "date": "2027-01-16",
@@ -4280,7 +4425,7 @@
   },
   {
    "id": "sicard-hollow-21-jan",
-   "title": "Sicard Hollow",
+   "title": "Sicard Hollow w/ Radish",
    "date": "2027-01-21",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -4319,6 +4464,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-29-kpop-night-18",
+   "title": "KPOP NIGHT (18+)",
+   "date": "2027-01-29",
+   "doors": "7:30 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/kpop-night-18-7/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/kpop-night-18-7/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-29-blade-rave-18",
@@ -4712,6 +4874,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/chatham-county-line-3/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-03-31-sqwerv",
+   "title": "SQWERV",
+   "date": "2027-03-31",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/sqwerv/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/sqwerv/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-04-14-bryan-andrews",

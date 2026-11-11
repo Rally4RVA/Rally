@@ -1,45 +1,11 @@
 {
- "updated": "2026-11-10T12:38:54-05:00",
+ "updated": "2026-11-11T12:25:24-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-10-wesghost-if-it-s-not-forever-the-tour-eurotripp",
-   "title": "WESGHOST: IF IT’S NOT FOREVER THE TOUR, EUROTRIPP",
-   "date": "2026-11-10",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wesghost-if-its-not-forever-the-tour-w-eurotripp/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-10-slow-pulp-her-new-knife",
-   "title": "SLOW PULP, HER NEW KNIFE",
-   "date": "2026-11-10",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/slow-pulp-w-her-new-knife/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Sold out",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/slow-pulp-w-her-new-knife/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-12-a-place-to-bury-strangers-x-adult-the-treasury",
    "title": "A PLACE TO BURY STRANGERS X ADULT., THE TREASURY",
@@ -92,13 +58,13 @@
    "ticket_url": "https://thebroadberry.com/event/sons-of-paradise-x-stylie-w-one-culture/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18",
-   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER (18+)",
+   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj",
+   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER & DJ TOPPER DANDY (18+)",
    "date": "2026-11-13",
    "doors": "8:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj-topper-dandy-18/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "18+",
    "address": "",
@@ -106,7 +72,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-18/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj-topper-dandy-18/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2026-11-14-eddie-9v-leroy-from-the-north",
@@ -670,6 +636,23 @@
    "ticket_url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2026-12-28-barstool-rodeo-the-music-of-widespread-panic",
+   "title": "BARSTOOL RODEO: THE MUSIC OF WIDESPREAD PANIC",
+   "date": "2026-12-28",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/barstool-rodeo-the-music-of-widespread-panic-6/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/barstool-rodeo-the-music-of-widespread-panic-6/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2026-12-31-nye-at-the-broadberry-feat-1996-and-kevin-murder",
    "title": "NYE AT THE BROADBERRY FEAT. 1996 AND KEVIN MURDER",
    "date": "2026-12-31",
@@ -753,6 +736,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/shrek-rave-18-5/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-29-kpop-night-18",
+   "title": "KPOP NIGHT (18+)",
+   "date": "2027-01-29",
+   "doors": "7:30 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/kpop-night-18-7/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/kpop-night-18-7/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-29-blade-rave-18",
@@ -1008,6 +1008,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/chatham-county-line-3/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-03-31-sqwerv",
+   "title": "SQWERV",
+   "date": "2027-03-31",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/sqwerv/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/sqwerv/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-04-14-bryan-andrews",

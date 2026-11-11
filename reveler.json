@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-10T12:41:56-05:00",
+ "updated": "2026-11-11T12:28:25-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-10-zarove-7-00-pm",
-   "title": "Zarove",
-   "date": "2026-11-10",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/zarove-11102026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2477932"
-  },
   {
    "id": "reveler-2026-11-11-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",

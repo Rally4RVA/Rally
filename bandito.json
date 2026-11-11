@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:40:29-05:00",
+ "updated": "2026-11-11T12:27:03-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
@@ -271,6 +271,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/e/magic-tuber-stringband-crazy-doberman-molasses-industries-december-14-2026-746745"
+  },
+  {
+   "id": "bandito-2027-01-13-division-of-mind-special-move-outta-pocket-brawler-unit",
+   "title": "Division of Mind, Special Move, Outta Pocket, Brawler Unit",
+   "date": "2027-01-13",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/division-of-mind-special-move-outta-pocket-brawler-unit-january-13-2027-798798",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "All Ages",
+     "base": 20.0,
+     "fee": 0.0,
+     "total": 20.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/division-of-mind-special-move-outta-pocket-brawler-unit-january-13-2027-798798"
   },
   {
    "id": "bandito-2027-05-15-almost-a-m",
