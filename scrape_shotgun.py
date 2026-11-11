@@ -11,7 +11,7 @@ from datetime import date
 from rally_common import fmt_time, slug, money, save, event, today_iso, MONTHS
 
 VENUES = [
-    {"name": "LOSO", "urls": ["https://losorichmond.com/calendar", "https://shotgun.live/en/venues/loso"],
+    {"name": "LOSO", "urls": ["https://losorichmond.com/calendar"],
      "address": "2727 W Broad St, Richmond, VA", "names": ["loso"]},
     {"name": "Pandora Cafe", "urls": ["https://shotgun.live/en/venues/pandora-cafe-house-music"],
      "address": "Richmond, VA", "names": ["richmond", "pandora cafe", "pandora café"]},
@@ -80,24 +80,53 @@ def run():
                 except Exception as ex:
                     print(" ", v["name"], url, "failed:", str(ex).splitlines()[0])
                     continue
-                # the shows may be on the page itself or in an embedded frame (the Shotgun widget)
-                for fr in [pg] + [f for f in pg.frames if f != pg.main_frame]:
+                # the shows may be on the page itself or in an embedded frame (a calendar widget): scroll and read each
+                srcs = []
+                for fr in pg.frames:
                     try:
-                        text = fr.inner_text("body") if fr is not pg else pg.inner_text("body")
-                        found = parse_text(text, today, v["names"])
-                        if found:
-                            cards = found
-                            used = url
-                            links = fr.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)") if fr is not pg \
-                                else pg.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)")
-                            break
+                        for _ in range(8):
+                            fr.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                            pg.wait_for_timeout(500)
+                    except Exception:
+                        pass
+                    if fr != pg.main_frame and fr.url.startswith("http"):
+                        srcs.append(fr.url)
+                for fr in [pg.main_frame] + [f for f in pg.frames if f != pg.main_frame]:
+                    try:
+                        found = parse_text(fr.inner_text("body"), today, v["names"])
                     except Exception:
                         continue
+                    if found:
+                        cards, used = found, url
+                        links = fr.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)")
+                        break
+                if not cards:
+                    # last try: open each embedded calendar's own address directly
+                    for src in srcs:
+                        try:
+                            pg.goto(src, wait_until="domcontentloaded", timeout=60000)
+                            pg.wait_for_timeout(6000)
+                            for _ in range(8):
+                                pg.mouse.wheel(0, 5000)
+                                pg.wait_for_timeout(500)
+                            found = parse_text(pg.inner_text("body"), today, v["names"])
+                            if found:
+                                cards, used = found, src
+                                links = pg.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)")
+                                break
+                        except Exception:
+                            continue
                 if cards:
                     break
                 allt = pg.inner_text("body")
-                print(f"  DEBUG {v['name']} {url}: no shows read. Page title {pg.title()!r}; frames: {[f.url[:60] for f in pg.frames]}")
+                print(f"  DEBUG {v['name']} {url}: no shows read. Page title {pg.title()!r}; frames: {[f.url[:80] for f in pg.frames]}")
                 print("   page text starts:", repr(allt[:500]))
+                for fr in pg.frames:
+                    if fr != pg.main_frame:
+                        try:
+                            print("   frame", fr.url[:90], "text starts:", repr(fr.inner_text("body")[:400]))
+                        except Exception as ex:
+                            print("   frame", fr.url[:90], "unreadable:", str(ex).splitlines()[0])
             uniq = []
             for l in links:
                 if l not in uniq:
