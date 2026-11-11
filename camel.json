@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:50:58-05:00",
+ "updated": "2026-11-11T14:41:22-05:00",
  "venues": [
   "The Camel"
  ],
@@ -136,7 +136,7 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
    "kind": "m",
-   "age": "All Ages",
+   "age": "21+",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "$15.44 adv · $23.19 door",
    "free": false,
@@ -473,15 +473,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -609,13 +601,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
+   "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
    "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
@@ -920,15 +912,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -1066,15 +1050,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]
