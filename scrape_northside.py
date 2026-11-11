@@ -10,7 +10,7 @@ from rally_common import fmt_time, slug, money, save, event, today_iso, MONTHS
 LIST = "https://www.thenorthsidegrille.com/band-calendar"
 VENUE = "Northside Grille"
 ADDRESS = "1217 Bellevue Ave, Richmond, VA"
-TIME_LINE = re.compile(r"([A-Z][a-z]{2}) (\d{1,2}), (\d{4}),? (\d{1,2}(?::\d{2})?\s?[AP]M)(?:\s*[–-]\s*(\d{1,2}(?::\d{2})?\s?[AP]M))?")
+TIME_LINE = re.compile(r"([A-Z][a-z]{2})[a-z]* (\d{1,2})(?:,? (\d{4}))?(?:,| at|\s·|\s-)?\s*(\d{1,2}(?::\d{2})?\s?[AaPp]\.?[Mm]\.?)(?:\s*[–-]\s*(\d{1,2}(?::\d{2})?\s?[AaPp]\.?[Mm]\.?))?")
 HEADING = re.compile(r"^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),? [A-Z][a-z]{2} \d{1,2}$")
 SKIP = re.compile(r"^(?:Northside Grille(?: Patio)?|Patio Show|Band Link|Tickets?|Load More|Share|Facebook|Twitter|Link)$", re.I)
 
@@ -36,7 +36,16 @@ def parse(body, today):
     hits = [(i, TIME_LINE.search(l)) for i, l in enumerate(lines) if TIME_LINE.search(l)]
     out = []
     for n, (i, m) in enumerate(hits):
-        day = f"{int(m.group(3)):04d}-{MONTHS[m.group(1).lower()]:02d}-{int(m.group(2)):02d}"
+        mon = MONTHS.get(m.group(1).lower())
+        if not mon:
+            continue
+        if m.group(3):
+            year = int(m.group(3))
+        else:                                      # no year printed: use this year, or next if the date already passed by months
+            year = int(today[:4])
+            if f"{year:04d}-{mon:02d}-{int(m.group(2)):02d}" < today[:8] + "01" and mon < int(today[5:7]):
+                year += 1
+        day = f"{year:04d}-{mon:02d}-{int(m.group(2)):02d}"
         # the title sits right after the date heading, a few lines above the time line
         title = ""
         for k in range(i - 1, max(i - 7, -1), -1):
@@ -86,6 +95,10 @@ def run():
         if l not in uniq:
             uniq.append(l)
     total = sum(1 for l in body.splitlines() if TIME_LINE.search(l))
+    if total == 0:                                  # show what the page looked like, so the log says why
+        print("  --- page text (first 60 lines) ---")
+        for l in [x.strip() for x in body.splitlines() if x.strip()][:60]:
+            print("  |", l[:120])
     if len(uniq) != total:
         print(f"  note: {total} shows but {len(uniq)} event links, so shows link to the calendar page")
         uniq = []
