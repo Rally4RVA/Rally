@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:29:57-05:00",
+ "updated": "2026-11-11T12:55:51-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -415,15 +415,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -2346,6 +2338,23 @@
    "ticket_url": "https://buytickets.at/reveler/2511891"
   },
   {
+   "id": "closed-for-thanksgiving-26-nov",
+   "title": "CLOSED FOR THANKSGIVING",
+   "date": "2026-11-26",
+   "doors": "12:00 AM",
+   "show_time": "12:00 AM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/closed-for-thanksgiving-26-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/627205/web_orders/new"
+  },
+  {
    "id": "reveler-2026-11-26-thanksgiving-",
    "title": "Thanksgiving",
    "date": "2026-11-26",
@@ -2389,11 +2398,19 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -3115,13 +3132,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "bb-2026-12-04-the-lemon-twigs",
@@ -4965,7 +4982,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {
