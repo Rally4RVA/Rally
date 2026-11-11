@@ -10,7 +10,7 @@ from rally_common import fmt_time, slug, money, save, event, today_iso, MONTHS
 LIST = "https://thecanalclub.com/events/"
 VENUE = "The Canal Club"
 ADDRESS = "Richmond, VA"
-DATE_LINE = re.compile(r"^(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),? ([A-Za-z]+) (\d{1,2})(?:,? (\d{4}))?$")
+DATE_LINE = re.compile(r"^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*\.?,? ([A-Za-z]{3,9})\.? (\d{1,2})(?:st|nd|rd|th)?(?:,? (\d{4}))?$", re.I)
 TIMES = re.compile(r"Doors:?\s*(\d{1,2}(?::\d{2})?\s*[AP]M)(?:\s*\|\s*Show:?\s*(\d{1,2}(?::\d{2})?\s*[AP]M))?", re.I)
 AGE = re.compile(r"^(?:All Ages|Ages? \d{2}\+|\d{2}\+)$", re.I)
 
@@ -87,6 +87,10 @@ def run():
         links = pg.eval_on_selector_all(
             "a[href*='tixr.com']", "els => els.filter(e => /ticket/i.test(e.innerText)).map(e => e.href)")
         total = sum(1 for l in body.splitlines() if DATE_LINE.match(re.sub(r"\s+", " ", l).strip()))
+        if total == 0:                              # show what the page looked like, so the log says why
+            print("  --- page text (first 70 lines) ---")
+            for l in [x.strip() for x in body.splitlines() if x.strip()][:70]:
+                print("  |", l[:120])
         if len(links) != total:
             print(f"  note: {total} dates but {len(links)} ticket links, so shows link to the events page")
             links = []
