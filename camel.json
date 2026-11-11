@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:41:22-05:00",
+ "updated": "2026-11-11T15:01:09-05:00",
  "venues": [
   "The Camel"
  ],
@@ -99,7 +99,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -469,12 +477,12 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "wilson-springs-hotel-27-nov",
@@ -912,7 +920,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {

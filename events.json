@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:46:37-05:00",
+ "updated": "2026-11-11T15:06:51-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -19,10 +19,29 @@
   "cobra cabana",
   "Main Line Brewery",
   "Révéler",
+  "The Canal Club",
+  "Northside Grille",
   "Brambly Park",
   "Bottoms Up Pizza"
  ],
  "events": [
+  {
+   "id": "northside-2026-11-11-sasha-landon",
+   "title": "Sasha Landon",
+   "date": "2026-11-11",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
   {
    "id": "brambly-2026-11-11-wine-down-wednesdays",
    "title": "Wine Down Wednesdays",
@@ -109,6 +128,23 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/bearly-dead-5"
   },
   {
+   "id": "canalclub-2026-11-11-heal-the-hurt-no-hope-in-hell-tour-magdalene-rose-unbroken-r",
+   "title": "HEAL THE HURT: NO HOPE IN HELL TOUR, Magdalene Rose, Unbroken Reign, To Be A King",
+   "date": "2026-11-11",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/heal-the-hurt-no-hope-in-hell-tour-194800",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/heal-the-hurt-no-hope-in-hell-tour-194800"
+  },
+  {
    "id": "autumn-drive-11-nov",
    "title": "Autumn Drive, Sami Gardner, Hailey Reese",
    "date": "2026-11-11",
@@ -190,6 +226,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov"
+  },
+  {
+   "id": "northside-2026-11-12-ross-wright-piano-bar",
+   "title": "Ross Wright Piano Bar",
+   "date": "2026-11-12",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "hardywood-2026-11-12-hardywood-cheese-steak-pop-up",
@@ -385,6 +438,40 @@
    "ticket_url": "https://buytickets.at/reveler/2493848"
   },
   {
+   "id": "canalclub-2026-11-12-honey-revenge-hunny-broadside",
+   "title": "HONEY REVENGE, Hunny, Broadside",
+   "date": "2026-11-12",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/honey-revenge-208326",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/honey-revenge-208326"
+  },
+  {
+   "id": "northside-2026-11-13-mekong-express",
+   "title": "Mekong Express",
+   "date": "2026-11-13",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "recurring-bottomsuppizza-2026-11-13",
    "title": "Live music (see Instagram for the band)",
    "date": "2026-11-13",
@@ -415,7 +502,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -451,6 +546,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/bailamos-rva-x-mambo-bones"
+  },
+  {
+   "id": "canalclub-2026-11-13-big-ass-truck-i-e-chamber-mugshot-restrictor-plate-surfaced",
+   "title": "BIG ASS TRUCK I.E., Chamber, Mugshot, Restrictor Plate, Surfaced",
+   "date": "2026-11-13",
+   "doors": "6:00 PM",
+   "show_time": "6:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/big-ass-truck-i-e--203313",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/big-ass-truck-i-e--203313"
   },
   {
    "id": "bb-2026-11-13-sons-of-paradise-x-stylie-one-culture",
@@ -884,6 +996,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-14-nov"
   },
   {
+   "id": "northside-2026-11-15-prabir",
+   "title": "Prabir",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "hardywood-2026-11-15-better-housing-coalition-s-gingerbread-house-challenge",
    "title": "Better Housing Coalition's Gingerbread House Challenge",
    "date": "2026-11-15",
@@ -1009,6 +1138,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dekk61vuvB1/"
+  },
+  {
+   "id": "canalclub-2026-11-15-primer-55-sicksense-redefind",
+   "title": "PRIMER 55, Sicksense, Redefind",
+   "date": "2026-11-15",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/primer-55-204386",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/primer-55-204386"
   },
   {
    "id": "bandito-2026-11-15-diles-que-no-me-maten",
@@ -1273,6 +1419,23 @@
    "ticket_url": "https://buytickets.at/reveler/2301781"
   },
   {
+   "id": "northside-2026-11-18-mackenzie-roark",
+   "title": "Mackenzie Roark",
+   "date": "2026-11-18",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "brambly-2026-11-18-wine-down-wednesdays",
    "title": "Wine Down Wednesdays",
    "date": "2026-11-18",
@@ -1398,6 +1561,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
+  },
+  {
+   "id": "northside-2026-11-19-the-reverend-billy-c-wirtz",
+   "title": "The Reverend Billy C. Wirtz",
+   "date": "2026-11-19",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
@@ -1533,6 +1713,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2487017"
+  },
+  {
+   "id": "northside-2026-11-20-east-lex-boys",
+   "title": "East Lex Boys",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "recurring-bottomsuppizza-2026-11-20",
@@ -1719,6 +1916,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov"
+  },
+  {
+   "id": "northside-2026-11-21-northside-rva-oyster-roast-clam-bake",
+   "title": "Northside RVA Oyster Roast & Clam Bake",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
+   "id": "northside-2026-11-21-john-moser-the-blue-cosmos",
+   "title": "John Moser & The Blue Cosmos",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "recurring-bottomsuppizza-2026-11-21",
@@ -1923,6 +2154,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2498848"
+  },
+  {
+   "id": "canalclub-2026-11-21-suggesting-rhythm",
+   "title": "SUGGESTING RHYTHM",
+   "date": "2026-11-21",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/suggesting-rhythm-212907",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/suggesting-rhythm-212907"
+  },
+  {
+   "id": "northside-2026-11-22-susan-greenbaum",
+   "title": "Susan Greenbaum",
+   "date": "2026-11-22",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "hardywood-2026-11-22-anime-holiday-bazaar",
@@ -2187,6 +2452,23 @@
    "ticket_url": "https://buytickets.at/reveler/2511822"
   },
   {
+   "id": "northside-2026-11-25-illbilly-s",
+   "title": "Illbilly’s",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "brambly-2026-11-25-wine-down-wednesdays",
    "title": "Wine Down Wednesdays",
    "date": "2026-11-25",
@@ -2270,6 +2552,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov"
+  },
+  {
+   "id": "canalclub-2026-11-25-what-s-our-age-again-full-send",
+   "title": "WHAT'S OUR AGE AGAIN?, Full Send",
+   "date": "2026-11-25",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/what-s-our-age-again--205246",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/what-s-our-age-again--205246"
   },
   {
    "id": "geek-rva-are-ya-madferit-25-nov",
@@ -2389,6 +2688,23 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/closed-for-thanksgiving-1"
   },
   {
+   "id": "northside-2026-11-27-armistead-s-armi",
+   "title": "Armistead's Armi",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -2398,12 +2714,12 @@
    "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
    "kind": "m",
    "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "address": "",
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "hardywood-2026-11-27-live-music-ian-blackwood",
@@ -2633,6 +2949,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/live-music-john-shenk-b85sn"
   },
   {
+   "id": "canalclub-2026-11-28-canal-club-family-show-sheoru-misery-blooms-wine-and-warpain",
+   "title": "CANAL CLUB FAMILY SHOW, Sheoru, Misery Blooms, Wine and Warpaint, Celler Dwellers, Eyes Peeled, Distress",
+   "date": "2026-11-28",
+   "doors": "5:30 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/canal-club-family-show-212151",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/canal-club-family-show-212151"
+  },
+  {
    "id": "mainline-2026-11-28-lost-point",
    "title": "Lost Point",
    "date": "2026-11-28",
@@ -2733,6 +3066,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-28-nov"
+  },
+  {
+   "id": "northside-2026-11-29-nucleus-trio",
+   "title": "Nucleus Trio",
+   "date": "2026-11-29",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "drag-brunch-duets-29-nov",
@@ -3065,6 +3415,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-02-dec"
   },
   {
+   "id": "northside-2026-12-03-the-grain-hoppers",
+   "title": "The Grain Hoppers",
+   "date": "2026-12-03",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "hardywood-2026-12-03-holiday-wreath-making",
    "title": "Holiday Wreath Making",
    "date": "2026-12-03",
@@ -3148,6 +3515,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2026-12-04-king-tuff-sheer-mag-mod-lang",
+   "title": "KING TUFF, SHEER MAG, Mod Lang",
+   "date": "2026-12-04",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/king-tuff-sheer-mag-206057",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/king-tuff-sheer-mag-206057"
   },
   {
    "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
@@ -3479,6 +3863,23 @@
    "ticket_url": "https://thebroadberry.com/event/robert-ellis/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "canalclub-2026-12-10-the-crimson-armada-thus-spoke-zarathustra-bonewretch-a-kiss-",
+   "title": "THE CRIMSON ARMADA, Thus Spoke Zarathustra, Bonewretch, A Kiss Before Burial",
+   "date": "2026-12-10",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/the-crimson-armada-211566",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/the-crimson-armada-211566"
+  },
+  {
    "id": "gallery5-2026-12-10-nerdy-thirsty-thursdays-18",
    "title": "Nerdy Thirsty Thursdays | 18+",
    "date": "2026-12-10",
@@ -3547,6 +3948,23 @@
    "ticket_url": "https://thebroadberry.com/event/no-bs-brass-canned-food-drive/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "canalclub-2026-12-11-conditions-savage-hands-blush",
+   "title": "CONDITIONS, Savage Hands, blush",
+   "date": "2026-12-11",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/conditions-204989",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/conditions-204989"
+  },
+  {
    "id": "bb-2026-12-12-rva-winter-jam-feat-willie-williams-band-slingshot-on-mars-a",
    "title": "RVA WINTER JAM FEAT. WILLIE WILLIAMS BAND, SLINGSHOT ON MARS, AND WHISKEY BANJO FOXTROT",
    "date": "2026-12-12",
@@ -3562,6 +3980,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/rva-winter-jam-feat-willie-williams-band-slingshot-on-mars-and-whiskey-banjo-foxtrot/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2026-12-12-telltale-in-her-own-words-glimmers-roderik-emerald-beach",
+   "title": "TELLTALE, In Her Own Words, glimmers, RODERIK, Emerald Beach",
+   "date": "2026-12-12",
+   "doors": "5:30 PM",
+   "show_time": "6:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/telltale-198360",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/telltale-198360"
   },
   {
    "id": "bb-2026-12-12-good-guys-clampdown",
@@ -3750,6 +4185,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
   },
   {
+   "id": "canalclub-2026-12-15-amorphis-insomnium-hinayana",
+   "title": "AMORPHIS, INSOMNIUM, Hinayana",
+   "date": "2026-12-15",
+   "doors": "6:30 PM",
+   "show_time": "7:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/amorphis-insomnium-204383",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/amorphis-insomnium-204383"
+  },
+  {
    "id": "reveler-2026-12-16-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
    "date": "2026-12-16",
@@ -3884,6 +4336,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2501047"
+  },
+  {
+   "id": "canalclub-2026-12-18-gimme-gimme-disco",
+   "title": "GIMME GIMME DISCO",
+   "date": "2026-12-18",
+   "doors": "8:00 PM",
+   "show_time": "8:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/gimme-gimme-disco-214021",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/gimme-gimme-disco-214021"
   },
   {
    "id": "wes-parker-w-slow-funeral-18-dec",
@@ -4342,6 +4811,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/tropical-christmas-3-with-kadencia-orchestra-three-kings-day-edition"
   },
   {
+   "id": "canalclub-2027-01-09-depeche-mode-and-cure-tribute-night-burn-the-cure-experience",
+   "title": "DEPECHE MODE AND CURE TRIBUTE NIGHT, Burn, the Cure experience",
+   "date": "2027-01-09",
+   "doors": "7:30 PM",
+   "show_time": "8:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/depeche-mode-and-cure-tribute-night-195167",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/depeche-mode-and-cure-tribute-night-195167"
+  },
+  {
    "id": "kazha-13-jan",
    "title": "Kazha w/ Merciful Zero, Her Majesty",
    "date": "2027-01-13",
@@ -4492,6 +4978,23 @@
    "ticket_url": "https://thebroadberry.com/event/kpop-night-18-7/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "canalclub-2027-01-29-fade-to-black-a-tribute-to-metallica",
+   "title": "FADE TO BLACK: A TRIBUTE TO METALLICA",
+   "date": "2027-01-29",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/fade-to-black-a-tribute-to-metallica-210646",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/fade-to-black-a-tribute-to-metallica-210646"
+  },
+  {
    "id": "bb-2027-01-29-blade-rave-18",
    "title": "BLADE RAVE (18+)",
    "date": "2027-01-29",
@@ -4628,6 +5131,40 @@
    "ticket_url": "https://thebroadberry.com/event/penelope-road-w-arts-fishing-club/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "canalclub-2027-02-07-caskets",
+   "title": "CASKETS",
+   "date": "2027-02-07",
+   "doors": "6:30 PM",
+   "show_time": "7:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/caskets-212864",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/caskets-212864"
+  },
+  {
+   "id": "canalclub-2027-02-11-adelitas-way-magdalene-rose-scarhaven",
+   "title": "ADELITAS WAY, Magdalene Rose, Scarhaven",
+   "date": "2027-02-11",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/adelitas-way-206722",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/adelitas-way-206722"
+  },
+  {
    "id": "bb-2027-02-13-dogpark-never-ending-fall",
    "title": "DOGPARK, NEVER ENDING FALL",
    "date": "2027-02-13",
@@ -4658,7 +5195,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -4709,6 +5254,40 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
+  },
+  {
+   "id": "canalclub-2027-02-22-haywire-dark-thoughts-gvllow",
+   "title": "HAYWIRE, Dark Thoughts, Gvllow",
+   "date": "2027-02-22",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/haywire-211843",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/haywire-211843"
+  },
+  {
+   "id": "canalclub-2027-02-23-boundaries-spite-the-callous-daoboys-your-spirit-dies",
+   "title": "BOUNDARIES, Spite, The Callous Daoboys, Your Spirit Dies",
+   "date": "2027-02-23",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/boundaries-213713",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/boundaries-213713"
   },
   {
    "id": "earth-to-eve-26-feb",
@@ -4892,6 +5471,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/sqwerv/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2027-04-02-millington-summer-wars",
+   "title": "MILLINGTON, Summer Wars",
+   "date": "2027-04-02",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/millington-213901",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/millington-213901"
   },
   {
    "id": "bb-2027-04-14-bryan-andrews",
