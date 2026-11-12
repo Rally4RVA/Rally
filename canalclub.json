@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-11T16:17:45-05:00",
+ "updated": "2026-11-12T13:08:20-05:00",
  "venues": [
   "The Canal Club"
  ],
  "events": [
-  {
-   "id": "canalclub-2026-11-11-heal-the-hurt-no-hope-in-hell-tour-magdalene-rose-unbroken-r",
-   "title": "HEAL THE HURT: NO HOPE IN HELL TOUR, Magdalene Rose, Unbroken Reign, To Be A King",
-   "date": "2026-11-11",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.tixr.com/groups/thecanalclub/events/heal-the-hurt-no-hope-in-hell-tour-194800",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/heal-the-hurt-no-hope-in-hell-tour-194800"
-  },
   {
    "id": "canalclub-2026-11-12-honey-revenge-hunny-broadside",
    "title": "HONEY REVENGE, Hunny, Broadside",
@@ -56,8 +39,8 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/big-ass-truck-i-e--203313"
   },
   {
-   "id": "canalclub-2026-11-15-primer-55-sicksense-redefind",
-   "title": "PRIMER 55, Sicksense, Redefind",
+   "id": "canalclub-2026-11-15-primer-55-sicksense-redefind-magg-dylan",
+   "title": "PRIMER 55, Sicksense, Redefind, Magg Dylan",
    "date": "2026-11-15",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",

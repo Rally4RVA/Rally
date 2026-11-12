@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-11T16:16:42-05:00",
+ "updated": "2026-11-12T13:07:21-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-11-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
-   "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
-   "date": "2026-11-11",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/funk-soul-party-11112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1515983"
-  },
   {
    "id": "reveler-2026-11-12-ant-the-symbol-with-morgan-stewart-8-00-pm",
    "title": "Ant The Symbol With Morgan Stewart",

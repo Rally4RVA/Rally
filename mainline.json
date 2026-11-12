@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-11T16:14:41-05:00",
+ "updated": "2026-11-12T13:05:20-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-11-bearly-dead",
-   "title": "Bearly Dead",
-   "date": "2026-11-11",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/bearly-dead-5",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/bearly-dead-5"
-  },
   {
    "id": "mainline-2026-11-12-matt-minor-solo",
    "title": "Matt Minor - Solo",

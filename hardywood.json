@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-11T16:14:29-05:00",
+ "updated": "2026-11-12T13:05:09-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-11-804-run-club-every-wednesday",
-   "title": "804 Run Club - Every Wednesday!",
-   "date": "2026-11-11",
-   "doors": "",
-   "show_time": "5:45 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859"
-  },
-  {
-   "id": "hardywood-2026-11-11-rva-old-time-jam-2nd-4th-wednesdays",
-   "title": "RVA Old-Time Jam - 2nd & 4th Wednesdays",
-   "date": "2026-11-11",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3-y2zah",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3-y2zah"
-  },
   {
    "id": "hardywood-2026-11-12-hardywood-cheese-steak-pop-up",
    "title": "Hardywood Cheese Steak Pop-up",
@@ -164,7 +130,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -172,7 +138,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-11-18-804-run-club-every-wednesday",
@@ -300,7 +266,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -308,7 +274,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-11-25-the-silent-party-by-unlocking-rva",
@@ -419,7 +385,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -427,7 +393,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-12-03-holiday-wreath-making",
@@ -453,7 +419,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -461,7 +427,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-12-10-drag-bingo-at-hardywood-richmond",
@@ -521,7 +487,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -529,7 +495,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",
@@ -555,7 +521,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -563,7 +529,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-12-29-high-five-trivia-every-tuesday",
@@ -572,7 +538,7 @@
    "doors": "",
    "show_time": "7:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y",
+   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -580,7 +546,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y"
+   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg"
   },
   {
    "id": "hardywood-2026-12-31-new-year-s-eve-party-w-what-s-our-age-again",

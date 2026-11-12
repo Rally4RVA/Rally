@@ -1,25 +1,5 @@
 {
- "updated": "2026-11-11T16:19:18-05:00",
- "venues": [
-  "cobra cabana"
- ],
- "events": [
-  {
-   "id": "manual-sub-4fa4c32b",
-   "title": "poopman, led zeeplin",
-   "date": "2026-11-11",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "cobra cabana",
-   "url": "https://www.google.com/?zx=1794411671973",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "1 billion",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.google.com/?zx=1794411671973"
-  }
- ]
+ "updated": "2026-11-12T13:09:54-05:00",
+ "venues": [],
+ "events": []
 }

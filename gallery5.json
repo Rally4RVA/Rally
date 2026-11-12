@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-11T16:14:20-05:00",
+ "updated": "2026-11-12T13:05:00-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-11-artfully-exposed-burlesque-student-recital-18",
-   "title": "Artfully Exposed: Burlesque Student Recital | 18+",
-   "date": "2026-11-11",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/artfully-exposed-burlesque-student-recital",
-   "kind": "m",
-   "age": "18+",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$13.70",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/artfully-exposed-burlesque-student-recital-tickets-2003795903488"
-  },
   {
    "id": "gallery5-2026-11-12-heron-s-loss-fesssi-k-billy-capricorn",
    "title": "heron's loss, fesssi k., billy capricorn",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$14.64",
+   "price_display": "$17.85",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -71,6 +54,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/sally-rose-feral-album-release-catie-lausten-belly-of-the-heart"
+  },
+  {
+   "id": "gallery5-2026-11-15-parallel-listening-series-vol-14",
+   "title": "Parallel Listening Series vol. 14",
+   "date": "2026-11-15",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/parallel-listening-series-nov",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/parallel-listening-series-nov"
   },
   {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",

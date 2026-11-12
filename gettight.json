@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-11T16:15:30-05:00",
+ "updated": "2026-11-12T13:06:10-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
   {
-   "id": "gettight-2026-11-11-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
-   "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
-   "date": "2026-11-11",
+   "id": "gettight-2026-11-12-house-night-kayaura-10-00-pm",
+   "title": "HOUSE NIGHT: KAYAURA",
+   "date": "2026-11-12",
    "doors": "",
-   "show_time": "9:00 PM",
+   "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov",
+   "url": "https://calendar.gettightrva.com/shows/house-night-kayaura-12-nov",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -19,7 +19,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-11-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-kayaura-12-nov"
   },
   {
    "id": "gettight-2026-11-13-charm-offensive-danger-birds-blair-mountain-8-00-pm",
@@ -88,6 +88,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
+  },
+  {
+   "id": "gettight-2026-11-19-house-night-tanenzaph-10-00-pm",
+   "title": "HOUSE NIGHT: TANENZAPH",
+   "date": "2026-11-19",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-19-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-19-nov"
   },
   {
    "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",

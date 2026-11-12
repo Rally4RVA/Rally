@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-11T16:13:24-05:00",
+ "updated": "2026-11-12T13:04:05-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "autumn-drive-11-nov",
-   "title": "Autumn Drive, Sami Gardner, Hailey Reese",
-   "date": "2026-11-11",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/autumn-drive-11-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/729052/web_orders/new"
-  },
   {
    "id": "camel-comedy-happy-hour-open-mic-12-nov-77b37",
    "title": "Camel Comedy Happy Hour Open Mic",
@@ -64,7 +32,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -73,14 +41,14 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 12, 2026"
+     "status": ""
     },
     {
      "name": "Advance (1)",
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/731035/web_orders/new"
@@ -94,20 +62,12 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
    "kind": "m",
-   "age": "",
+   "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
   },
   {
@@ -481,15 +441,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -617,9 +569,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -774,6 +726,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/715433/web_orders/new"
+  },
+  {
+   "id": "rebecca-porter-kai-crowe-getty-pressley-laton-17-dec",
+   "title": "Rebecca Porter, Kai Crowe-Getty, Pressley Laton",
+   "date": "2026-12-17",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/rebecca-porter-kai-crowe-getty-pressley-laton-17-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/754499/web_orders/new"
   },
   {
    "id": "wes-parker-w-slow-funeral-18-dec",
