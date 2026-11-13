@@ -1,58 +1,9 @@
 {
- "updated": "2026-11-12T13:04:05-05:00",
+ "updated": "2026-11-13T12:39:38-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "camel-comedy-happy-hour-open-mic-12-nov-77b37",
-   "title": "Camel Comedy Happy Hour Open Mic",
-   "date": "2026-11-12",
-   "doors": "5:30 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-12-nov-77b37",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627482/web_orders/new"
-  },
-  {
-   "id": "queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "title": "Queer Roots & Country Night w/ Acelia & Johanna Wacker, Joshua Aaron, Elizabeth McCorvey",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Advance (1)",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/731035/web_orders/new"
-  },
   {
    "id": "blues-brews-feat-willie-de-band-13-nov",
    "title": "Blues & Brews feat. Willie DE Band",
@@ -81,7 +32,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -90,6 +41,13 @@
      "base": 18.0,
      "fee": 5.19,
      "total": 23.19,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -106,7 +64,7 @@
    "kind": "m",
    "age": "21+",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $23.19 door",
+   "price_display": "$15.44 adv · $18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -119,9 +77,9 @@
     },
     {
      "name": "Day Of Show",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": "Sales start November 14, 2026"
     }
    ],
@@ -355,7 +313,7 @@
   },
   {
    "id": "backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
-   "title": "Backroom Throwback w/ Shartchan, Sophsick, Meep, OZO, MyDiaryToYou, Paradiso, Squish",
+   "title": "Backrooms Throwback: OZO, Meep, Shartchan, Sophsick, My Diary To You, This Man May Die, and Plutonium Womb",
    "date": "2026-11-24",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",
@@ -364,16 +322,23 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$13.22 adv · $18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
     {
-     "name": "General Admissions",
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    },
+    {
+     "name": "Day of Show",
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": ""
+     "status": "Sales start November 24, 2026"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
@@ -569,9 +534,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],

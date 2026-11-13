@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-12T13:05:20-05:00",
+ "updated": "2026-11-13T12:40:54-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-12-matt-minor-solo",
-   "title": "Matt Minor - Solo",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/matt-minor-solo",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/matt-minor-solo"
-  },
   {
    "id": "mainline-2026-11-13-black-dog-led-zeppelin-tribute",
    "title": "Black Dog- Led Zeppelin Tribute",

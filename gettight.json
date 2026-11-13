@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-12T13:06:10-05:00",
+ "updated": "2026-11-13T12:41:41-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-12-house-night-kayaura-10-00-pm",
-   "title": "HOUSE NIGHT: KAYAURA",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-kayaura-12-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-kayaura-12-nov"
-  },
   {
    "id": "gettight-2026-11-13-charm-offensive-danger-birds-blair-mountain-8-00-pm",
    "title": "CHARM OFFENSIVE, DANGER BIRDS, BLAIR MOUNTAIN",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$14.77",
    "free": false,
    "table_price": null,
    "tiers": [],

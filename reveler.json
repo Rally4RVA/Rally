@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-12T13:07:21-05:00",
+ "updated": "2026-11-13T12:43:23-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-12-ant-the-symbol-with-morgan-stewart-8-00-pm",
-   "title": "Ant The Symbol With Morgan Stewart",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/ant-the-symbol-11122026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$17.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2493848"
-  },
   {
    "id": "reveler-2026-11-13-the-sky-chiefs-with-kevin-pittman-and-stephen-mccarthy-9-30-pm",
    "title": "The Sky Chiefs With Kevin Pittman And Stephen Mccarthy",
@@ -530,6 +513,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2516239"
+  },
+  {
+   "id": "reveler-2026-12-04-black-janis-sam-reed-performs-the-music-of-janis-joplin-",
+   "title": "Black Janis Sam Reed Performs The Music Of Janis Joplin",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/black-janis-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2530066"
+  },
+  {
+   "id": "reveler-2026-12-05-nicole-mitchell-joe-westerlund-3-00-pm",
+   "title": "Nicole Mitchell + Joe Westerlund",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/nicole-mitchell-joe-westerlund-12052026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2531603"
   },
   {
    "id": "reveler-2026-12-05-crazy-chester-a-nc-tribute-to-the-band-the-last-waltz-50th-a-8-00-pm",

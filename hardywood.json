@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-12T13:05:09-05:00",
+ "updated": "2026-11-13T12:40:41-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-12-hardywood-cheese-steak-pop-up",
-   "title": "Hardywood Cheese Steak Pop-up",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3"
-  },
-  {
-   "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
-   "title": "Drag Bingo At Hardywood Richmond",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5"
-  },
   {
    "id": "hardywood-2026-11-13-live-music-madly-backwards",
    "title": "Madly Backwards",
@@ -147,7 +113,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859-rycs2",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -155,7 +121,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859-rycs2"
   },
   {
    "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
@@ -436,7 +402,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5",
+   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -444,7 +410,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5"
+   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2"
   },
   {
    "id": "hardywood-2026-12-13-smiles-with-santa-12-13",

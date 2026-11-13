@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-12T13:08:27-05:00",
+ "updated": "2026-11-13T12:44:27-05:00",
  "venues": [
   "Northside Grille"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-12-ross-wright-piano-bar",
-   "title": "Ross Wright Piano Bar",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
   {
    "id": "northside-2026-11-13-mekong-express",
    "title": "Mekong Express",
@@ -92,6 +75,23 @@
   {
    "id": "northside-2026-11-20-east-lex-boys",
    "title": "East Lex Boys",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
+   "id": "northside-2026-11-20-scott-morese-and-the-live-wire-blues-revue",
+   "title": "Scott Morese and the Live Wire Blues Revue",
    "date": "2026-11-20",
    "doors": "",
    "show_time": "",

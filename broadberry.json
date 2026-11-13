@@ -1,45 +1,11 @@
 {
- "updated": "2026-11-12T13:04:26-05:00",
+ "updated": "2026-11-13T12:39:59-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-12-a-place-to-bury-strangers-x-adult-the-treasury",
-   "title": "A PLACE TO BURY STRANGERS X ADULT., THE TREASURY",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/a-place-to-bury-strangers-x-adult-w-the-treasury/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/a-place-to-bury-strangers-x-adult-w-the-treasury/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-12-sir-woman-playtime-tour-uncle-roy-spice",
-   "title": "SIR WOMAN: PLAYTIME TOUR, UNCLE ROY & SPICE",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/sir-woman-playtime-tour-w-uncle-roy-spice/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/sir-woman-playtime-tour-w-uncle-roy-spice/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-13-sons-of-paradise-x-stylie-one-culture",
    "title": "SONS OF PARADISE X STYLIE, ONE CULTURE",
@@ -381,13 +347,13 @@
    "ticket_url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-10-robert-ellis",
-   "title": "ROBERT ELLIS",
+   "id": "bb-2026-12-10-robert-ellis-jacob-paul-allen",
+   "title": "ROBERT ELLIS, JACOB PAUL ALLEN",
    "date": "2026-12-10",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/robert-ellis/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/robert-ellis-w-jacob-paul-allen/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -395,7 +361,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/robert-ellis/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/robert-ellis-w-jacob-paul-allen/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-11-los-hermanos-alacranes-the-sky-chiefs-duo",
@@ -685,6 +651,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/cash-only-tonys-w-lorraine-ostraca-and-gif-from-god/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-15-house-party-18",
+   "title": "HOUSE PARTY (18+)",
+   "date": "2027-01-15",
+   "doors": "9:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/house-party-18/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/house-party-18/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-16-better-off-dead",

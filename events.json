@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:09:54-05:00",
+ "updated": "2026-11-13T12:45:54-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -24,250 +24,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-12-ross-wright-piano-bar",
-   "title": "Ross Wright Piano Bar",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
-  {
-   "id": "hardywood-2026-11-12-hardywood-cheese-steak-pop-up",
-   "title": "Hardywood Cheese Steak Pop-up",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/hardywood-cheese-steak-pop-up-439g3"
-  },
-  {
-   "id": "camel-comedy-happy-hour-open-mic-12-nov-77b37",
-   "title": "Camel Comedy Happy Hour Open Mic",
-   "date": "2026-11-12",
-   "doors": "5:30 PM",
-   "show_time": "5:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/camel-comedy-happy-hour-open-mic-12-nov-77b37",
-   "kind": "o",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627482/web_orders/new"
-  },
-  {
-   "id": "hardywood-2026-11-12-drag-bingo-at-hardywood-richmond",
-   "title": "Drag Bingo At Hardywood Richmond",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5"
-  },
-  {
-   "id": "mainline-2026-11-12-matt-minor-solo",
-   "title": "Matt Minor - Solo",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/matt-minor-solo",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/matt-minor-solo"
-  },
-  {
-   "id": "bb-2026-11-12-a-place-to-bury-strangers-x-adult-the-treasury",
-   "title": "A PLACE TO BURY STRANGERS X ADULT., THE TREASURY",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/a-place-to-bury-strangers-x-adult-w-the-treasury/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/a-place-to-bury-strangers-x-adult-w-the-treasury/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-12-sir-woman-playtime-tour-uncle-roy-spice",
-   "title": "SIR WOMAN: PLAYTIME TOUR, UNCLE ROY & SPICE",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/sir-woman-playtime-tour-w-uncle-roy-spice/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/sir-woman-playtime-tour-w-uncle-roy-spice/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "gallery5-2026-11-12-heron-s-loss-fesssi-k-billy-capricorn",
-   "title": "heron's loss, fesssi k., billy capricorn",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/herons-loss-fesssi-k-billy-capricorn",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$17.85",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/herons-loss-fesssi-k-billy-capricorn-tickets-2004109269775"
-  },
-  {
-   "id": "queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "title": "Queer Roots & Country Night w/ Acelia & Johanna Wacker, Joshua Aaron, Elizabeth McCorvey",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/queer-roots-country-night-w-johanna-wacker-acelia-joshua-aaron-elizabeth-mccorvey-12-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Advance (1)",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": "Sale ended"
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/731035/web_orders/new"
-  },
-  {
-   "id": "bandito-2026-11-12-oshiner-eyes-peeled-plutonium-womb-miscreants",
-   "title": "Oshiner, Eyes Peeled, Plutonium Womb, Miscreants",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/oshiner-eyes-peeled-plutonium-womb-miscreants-november-12-2026-796029",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/oshiner-eyes-peeled-plutonium-womb-miscreants-november-12-2026-796029"
-  },
-  {
-   "id": "reveler-2026-11-12-ant-the-symbol-with-morgan-stewart-8-00-pm",
-   "title": "Ant The Symbol With Morgan Stewart",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/ant-the-symbol-11122026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$17.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2493848"
-  },
-  {
-   "id": "canalclub-2026-11-12-honey-revenge-hunny-broadside",
-   "title": "HONEY REVENGE, Hunny, Broadside",
-   "date": "2026-11-12",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.tixr.com/groups/thecanalclub/events/honey-revenge-208326",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/honey-revenge-208326"
-  },
-  {
-   "id": "gettight-2026-11-12-house-night-kayaura-10-00-pm",
-   "title": "HOUSE NIGHT: KAYAURA",
-   "date": "2026-11-12",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-kayaura-12-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-kayaura-12-nov"
-  },
   {
    "id": "northside-2026-11-13-mekong-express",
    "title": "Mekong Express",
@@ -388,8 +144,8 @@
    "ticket_url": "https://thebroadberry.com/event/sons-of-paradise-x-stylie-w-one-culture/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "gallery5-2026-11-13-vigil-primordial-rites-album-release-show",
-   "title": "Vigil Primordial Rites Album Release Show",
+   "id": "gallery5-2026-11-13-sold-out-vigil-primordial-rites-album-release-show",
+   "title": "SOLD OUT: Vigil Primordial Rites Album Release Show",
    "date": "2026-11-13",
    "doors": "",
    "show_time": "7:00 PM",
@@ -398,11 +154,11 @@
    "kind": "m",
    "age": "",
    "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$12.51",
-   "free": false,
+   "price_display": "Free",
+   "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.eventbrite.com/e/vigil-primordial-rites-album-release-show-tickets-2002095964926"
+   "ticket_url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show"
   },
   {
    "id": "mainline-2026-11-13-black-dog-led-zeppelin-tribute",
@@ -466,7 +222,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$14.77",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -500,7 +256,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -509,6 +265,13 @@
      "base": 18.0,
      "fee": 5.19,
      "total": 23.19,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -746,7 +509,7 @@
    "kind": "m",
    "age": "21+",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $23.19 door",
+   "price_display": "$15.44 adv · $18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -759,9 +522,9 @@
     },
     {
      "name": "Day Of Show",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": "Sales start November 14, 2026"
     }
    ],
@@ -1282,7 +1045,7 @@
    "doors": "",
    "show_time": "5:45 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859",
+   "url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859-rycs2",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -1290,7 +1053,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859"
+   "ticket_url": "https://www.hardywood.com/richmond-events/p39pj5f3flh7j5b-bgzhf-kyxd2-3x929-4prlj-6sxrc-gt9hp-4ty8t-2fs6z-jyl94-y4k4c-3cajs-z4nx8-2pp6y-dnmsm-75g2f-37z55-4s858-9fn6z-zfh4n-lsxzz-x92wx-ar859-rycs2"
   },
   {
    "id": "mainline-2026-11-18-pop-out-wednesdays",
@@ -1557,6 +1320,23 @@
   {
    "id": "northside-2026-11-20-east-lex-boys",
    "title": "East Lex Boys",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
+   "id": "northside-2026-11-20-scott-morese-and-the-live-wire-blues-revue",
+   "title": "Scott Morese and the Live Wire Blues Revue",
    "date": "2026-11-20",
    "doors": "",
    "show_time": "",
@@ -2234,7 +2014,7 @@
   },
   {
    "id": "backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
-   "title": "Backroom Throwback w/ Shartchan, Sophsick, Meep, OZO, MyDiaryToYou, Paradiso, Squish",
+   "title": "Backrooms Throwback: OZO, Meep, Shartchan, Sophsick, My Diary To You, This Man May Die, and Plutonium Womb",
    "date": "2026-11-24",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",
@@ -2243,16 +2023,23 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$13.22 adv · $18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
     {
-     "name": "General Admissions",
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    },
+    {
+     "name": "Day of Show",
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": ""
+     "status": "Sales start November 24, 2026"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
@@ -2545,6 +2332,23 @@
    "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
+   "id": "recurring-bottomsuppizza-2026-11-27",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
+  },
+  {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
    "date": "2026-11-27",
@@ -2594,6 +2398,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/wolph-2/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "gallery5-2026-11-27-jazz-night-with-the-ayinde-williams-quartet",
+   "title": "Jazz Night with the Ayinde Williams Quartet",
+   "date": "2026-11-27",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/jazz-night-ayinde-williams-quartet",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/jazz-night-ayinde-williams-quartet"
   },
   {
    "id": "mainline-2026-11-27-blue-rooster",
@@ -2804,6 +2625,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/canal-club-family-show-212151"
+  },
+  {
+   "id": "gallery5-2026-11-28-dance-dance-revolution",
+   "title": "Dance Dance Revolution",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/dance-dance-revolution-ant-symbol-iami-collective",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$15 adv · $20 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/dance-dance-revolution-ant-symbol-iami-collective"
   },
   {
    "id": "mainline-2026-11-28-lost-point",
@@ -3323,6 +3161,23 @@
    "ticket_url": "https://buytickets.at/reveler/2516239"
   },
   {
+   "id": "reveler-2026-12-04-black-janis-sam-reed-performs-the-music-of-janis-joplin-",
+   "title": "Black Janis Sam Reed Performs The Music Of Janis Joplin",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/black-janis-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2530066"
+  },
+  {
    "id": "beers-banjos-slack-family-band-04-dec",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-12-04",
@@ -3331,9 +3186,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -3397,6 +3252,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/794314/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-12-05-nicole-mitchell-joe-westerlund-3-00-pm",
+   "title": "Nicole Mitchell + Joe Westerlund",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/nicole-mitchell-joe-westerlund-12052026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2531603"
   },
   {
    "id": "bb-2026-12-05-suggesting-rhythm-the-old-dominion-tour",
@@ -3675,7 +3547,7 @@
    "doors": "",
    "show_time": "6:00 PM",
    "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5",
+   "url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2",
    "kind": "o",
    "age": "",
    "address": "2410 Ownby Ln, Richmond, VA",
@@ -3683,16 +3555,16 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2-tmye5"
+   "ticket_url": "https://www.hardywood.com/richmond-events/drag-bingo-08-zlmh5-s3xdy-tea5d-97z69-54fc2-c7mrg-4he4d-mlkmc-p8ygr-fjd2b-57zx8-4es2z-m566e-nlxsx-nzb4y-wxjg6-xhba8-4hh2a-jkpgz-z9693-szg5p-fmcsb-6k5cl-skz9t-mg6l2"
   },
   {
-   "id": "bb-2026-12-10-robert-ellis",
-   "title": "ROBERT ELLIS",
+   "id": "bb-2026-12-10-robert-ellis-jacob-paul-allen",
+   "title": "ROBERT ELLIS, JACOB PAUL ALLEN",
    "date": "2026-12-10",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/robert-ellis/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/robert-ellis-w-jacob-paul-allen/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -3700,7 +3572,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/robert-ellis/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/robert-ellis-w-jacob-paul-allen/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "canalclub-2026-12-10-the-crimson-armada-thus-spoke-zarathustra-bonewretch-a-kiss-",
@@ -3922,6 +3794,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/flag-on-the-moon-10-feat-nickelus-f-radio-b-michael-millions-and-more/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "gallery5-2026-12-13-radqueer-productions-presents-sadqueer",
+   "title": "RadQueer Productions presents SADQUEER",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/2026/12/13/radqueer-productions-presents-sadqueer",
+   "kind": "m",
+   "age": "18+",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$12.51–$28.52",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/radqueer-productions-present-sadqueer-tickets-2004800709891"
   },
   {
    "id": "public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",
@@ -4748,6 +4637,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/e/division-of-mind-special-move-outta-pocket-brawler-unit-january-13-2027-798798"
+  },
+  {
+   "id": "bb-2027-01-15-house-party-18",
+   "title": "HOUSE PARTY (18+)",
+   "date": "2027-01-15",
+   "doors": "9:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/house-party-18/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/house-party-18/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-16-better-off-dead",
