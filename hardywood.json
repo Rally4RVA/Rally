@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-13T12:40:41-05:00",
+ "updated": "2026-11-14T11:32:47-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-13-live-music-madly-backwards",
-   "title": "Madly Backwards",
-   "date": "2026-11-13",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-madly-backwards-d4dnt-4mdls",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-madly-backwards-d4dnt-4mdls"
-  },
-  {
-   "id": "hardywood-2026-11-13-baila-mambo-at-hardywood",
-   "title": "BAILA MAMBO AT HARDYWOOD",
-   "date": "2026-11-13",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/bailamos-rva-x-mambo-bones",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/bailamos-rva-x-mambo-bones"
-  },
   {
    "id": "hardywood-2026-11-14-live-music-tristan-dougherty",
    "title": "Tristan Dougherty",

@@ -1,7 +1,6 @@
 {
- "updated": "2026-11-13T12:45:53-05:00",
+ "updated": "2026-11-14T11:37:27-05:00",
  "venues": [
-  "Chugalug",
   "Fuzzy Cactus",
   "Moose Lodge",
   "The Bellwether Garage",
@@ -25,23 +24,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
-  },
-  {
-   "id": "manual-chugalug-2026-11-13-gonzobomb-500-fine-caske",
-   "title": "Gonzobomb, 500$ Fine, Caske",
-   "date": "2026-11-13",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Chugalug",
-   "url": "",
-   "kind": "m",
-   "age": "",
-   "address": "Ask a pal",
-   "price_display": "$10",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": ""
   },
   {
    "id": "manual-moose-lodge-2026-11-14-killing-pace-shits-creek-over-your-head-runnin-hot",

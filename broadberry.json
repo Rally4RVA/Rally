@@ -1,62 +1,11 @@
 {
- "updated": "2026-11-13T12:39:59-05:00",
+ "updated": "2026-11-14T11:32:05-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-13-sons-of-paradise-x-stylie-one-culture",
-   "title": "SONS OF PARADISE X STYLIE, ONE CULTURE",
-   "date": "2026-11-13",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/sons-of-paradise-x-stylie-w-one-culture/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/sons-of-paradise-x-stylie-w-one-culture/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-13-come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj",
-   "title": "COME SAIL AWAY! YACHT ROCK PARTY FEAT. DJ CAPTAIN MAX POWER & DJ TOPPER DANDY (18+)",
-   "date": "2026-11-13",
-   "doors": "8:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj-topper-dandy-18/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/come-sail-away-yacht-rock-party-feat-dj-captain-max-power-dj-topper-dandy-18/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-14-eddie-9v-leroy-from-the-north",
-   "title": "EDDIE 9V, LEROY FROM THE NORTH",
-   "date": "2026-11-14",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex-and-fuzzy-prophet",
    "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX AND FUZZY PROPHET",
@@ -653,6 +602,23 @@
    "ticket_url": "https://thebroadberry.com/event/cash-only-tonys-w-lorraine-ostraca-and-gif-from-god/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-13-eddie-9v-leroy-from-the-north",
+   "title": "EDDIE 9V, LEROY FROM THE NORTH",
+   "date": "2027-01-13",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-01-15-house-party-18",
    "title": "HOUSE PARTY (18+)",
    "date": "2027-01-15",
@@ -702,6 +668,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-22-wizard-fest-18",
+   "title": "WIZARD FEST (18+)",
+   "date": "2027-01-22",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/wizard-fest-18/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/wizard-fest-18/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-22-shrek-rave-18",

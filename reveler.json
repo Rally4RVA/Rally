@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-13T12:43:23-05:00",
+ "updated": "2026-11-14T11:35:00-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-13-the-sky-chiefs-with-kevin-pittman-and-stephen-mccarthy-9-30-pm",
-   "title": "The Sky Chiefs With Kevin Pittman And Stephen Mccarthy",
-   "date": "2026-11-13",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-sky-chiefs-11132026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2422469"
-  },
   {
    "id": "reveler-2026-11-14-peni-candra-rini-gamelan-raga-kusuma-traditional-and-new-wor-3-00-pm",
    "title": "Peni Candra Rini + Gamelan Raga Kusuma Traditional And New Works For Javanese Gamelan Gong Orchestra",
@@ -615,6 +598,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2519243"
+  },
+  {
+   "id": "reveler-2026-12-08-fuse-ensemble-both-sides-of-the-mirror-with-curt-sydnor-pipp-7-00-pm",
+   "title": "Fuse Ensemble: Both Sides Of The Mirror With Curt Sydnor + Pippin Barnett",
+   "date": "2026-12-08",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/fuse-ensemble-both-sides-of-the-mirror-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2532149"
   },
   {
    "id": "reveler-2026-12-09-s-o-n-o-s-o-featuring-marlysse-simmons-bruno-alcalde-and-lau-7-30-pm",

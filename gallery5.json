@@ -1,29 +1,12 @@
 {
- "updated": "2026-11-13T12:40:32-05:00",
+ "updated": "2026-11-14T11:32:37-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
   {
-   "id": "gallery5-2026-11-13-sold-out-vigil-primordial-rites-album-release-show",
-   "title": "SOLD OUT: Vigil Primordial Rites Album Release Show",
-   "date": "2026-11-13",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/vigil-primordial-rites-album-release-show"
-  },
-  {
-   "id": "gallery5-2026-11-14-sally-rose-feral-album-release-with-catie-lausten-and-belly-",
-   "title": "Sally Rose 'Feral Album' Release with Catie Lausten and Belly of the Heart",
+   "id": "gallery5-2026-11-14-sally-rose-feral-release-with-catie-lausten-and-belly-of-the",
+   "title": "Sally Rose \"Feral\" Release with Catie Lausten and Belly of the Heart",
    "date": "2026-11-14",
    "doors": "",
    "show_time": "7:00 PM",

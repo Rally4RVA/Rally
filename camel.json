@@ -1,58 +1,9 @@
 {
- "updated": "2026-11-13T12:39:38-05:00",
+ "updated": "2026-11-14T11:31:43-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "blues-brews-feat-willie-de-band-13-nov",
-   "title": "Blues & Brews feat. Willie DE Band",
-   "date": "2026-11-13",
-   "doors": "5:00 PM",
-   "show_time": "5:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/blues-brews-feat-willie-de-band-13-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
-   "free": true,
-   "table_price": 15.0,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627480/web_orders/new"
-  },
-  {
-   "id": "jesse-roper-13-nov",
-   "title": "WNRN Presents: Jesse Roper w/ Big Tobacco, Tyler Meacham (solo)",
-   "date": "2026-11-13",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/jesse-roper-13-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/682242/web_orders/new"
-  },
   {
    "id": "adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
    "title": "ADRENALINE by Open Fleur",
@@ -64,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -73,14 +24,14 @@
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
-     "status": ""
+     "status": "Sale ended"
     },
     {
      "name": "Day Of Show",
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 14, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/792883/web_orders/new"
@@ -546,7 +497,7 @@
    "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
    "title": "Chords For a Cause Charity Event w/ Sorry Excuse, Saturn Has Ears, Ataraxia, Amherst, Red Light Fever",
    "date": "2026-12-05",
-   "doors": "2:00 PM",
+   "doors": "1:00 PM",
    "show_time": "2:30 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",

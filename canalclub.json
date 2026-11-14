@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-13T12:44:19-05:00",
+ "updated": "2026-11-14T11:35:54-05:00",
  "venues": [
   "The Canal Club"
  ],
  "events": [
-  {
-   "id": "canalclub-2026-11-13-big-ass-truck-i-e-chamber-mugshot-restrictor-plate-surfaced",
-   "title": "BIG ASS TRUCK I.E., Chamber, Mugshot, Restrictor Plate, Surfaced",
-   "date": "2026-11-13",
-   "doors": "6:00 PM",
-   "show_time": "6:30 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.tixr.com/groups/thecanalclub/events/big-ass-truck-i-e--203313",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/big-ass-truck-i-e--203313"
-  },
   {
    "id": "canalclub-2026-11-15-primer-55-sicksense-redefind-magg-dylan",
    "title": "PRIMER 55, Sicksense, Redefind, Magg Dylan",

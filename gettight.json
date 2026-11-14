@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-13T12:41:41-05:00",
+ "updated": "2026-11-14T11:33:47-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-13-charm-offensive-danger-birds-blair-mountain-8-00-pm",
-   "title": "CHARM OFFENSIVE, DANGER BIRDS, BLAIR MOUNTAIN",
-   "date": "2026-11-13",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/charm-offensive-danger-birds-blair-mountain-13-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$14.77",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/charm-offensive-danger-birds-blair-mountain-13-nov"
-  },
   {
    "id": "gettight-2026-11-14-hip-hop-henry-10-00-pm",
    "title": "HIP HOP HENRY",

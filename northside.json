@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-13T12:44:27-05:00",
+ "updated": "2026-11-14T11:36:01-05:00",
  "venues": [
   "Northside Grille"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-13-mekong-express",
-   "title": "Mekong Express",
-   "date": "2026-11-13",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
   {
    "id": "northside-2026-11-15-prabir",
    "title": "Prabir",
