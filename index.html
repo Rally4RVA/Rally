@@ -194,6 +194,14 @@ var CONFIG = {
 var POLL_MS = 10000;
 
 var KEY = "rally-interested";
+// Click tracking (GoatCounter "events"). Quietly does nothing if the counter is blocked or hasn't loaded.
+function track(path, title) {
+  try {
+    if (window.goatcounter && window.goatcounter.count) {
+      window.goatcounter.count({ path: path, title: title || path, event: true });
+    }
+  } catch (err) {}
+}
 var DEVKEY = "rally-device";
 
 var events = [];
@@ -544,13 +552,19 @@ function render() {
       var actions = el("div", "actions");
       var a = el("a", "tix", "Tickets ↗");
       a.href = e.url; a.target = "_blank"; a.rel = "noopener";
+      var tixTitle = e.title + " @ " + e.venue + " (" + e.date + ")";
+      a.addEventListener("click", function () { track("ticket/" + e.slug, tixTitle); });
+      a.addEventListener("auxclick", function () { track("ticket/" + e.slug, tixTitle); });
       actions.appendChild(a);
       var btn = el("button", "interest");
       btn.type = "button";
       btn.setAttribute("data-slug", e.slug);
       btn.setAttribute("data-title", e.title);
       btn.innerHTML = ICON + '<span class="n"></span>';
-      btn.addEventListener("click", function () { toggle(e.slug); });
+      btn.addEventListener("click", function () {
+        if (!mine[e.slug]) track("interested/" + e.slug, e.title + " @ " + e.venue + " (" + e.date + ")");   // only when turning it on
+        toggle(e.slug);
+      });
       actions.appendChild(btn);
       row.appendChild(actions);
       shows.appendChild(row);
@@ -601,6 +615,8 @@ function renderDays(base, wide, today) {
 }
 
 document.getElementById("q").addEventListener("input", function (ev) { state.q = ev.target.value; render(); });
+var submitBtn = document.querySelector(".submit-link");
+if (submitBtn) submitBtn.addEventListener("click", function () { track("submit-click", "Clicked Submit a show"); });
 document.getElementById("musicOnly").addEventListener("click", function (ev) {
   state.music = !state.music; ev.currentTarget.setAttribute("aria-pressed", String(state.music)); render();
 });
