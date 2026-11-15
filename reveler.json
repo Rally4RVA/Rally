@@ -1,60 +1,9 @@
 {
- "updated": "2026-11-14T11:35:00-05:00",
+ "updated": "2026-11-15T11:58:54-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-14-peni-candra-rini-gamelan-raga-kusuma-traditional-and-new-wor-3-00-pm",
-   "title": "Peni Candra Rini + Gamelan Raga Kusuma Traditional And New Works For Javanese Gamelan Gong Orchestra",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/peni-candra-rini-gamelan-raga-kusuma",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2511948"
-  },
-  {
-   "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-7-00-pm",
-   "title": "Fonville X Fribush Featuring Matthew Stevens",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/fonville-x-fribush-11142026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2484128"
-  },
-  {
-   "id": "reveler-2026-11-14-fonville-x-fribush-featuring-matthew-stevens-9-30-pm",
-   "title": "Fonville X Fribush Featuring Matthew Stevens",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "9:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/fonville-x-fribush-11142026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2484128"
-  },
   {
    "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-6-00-pm",
    "title": "Deau Eyes: To Grow Instead",
@@ -649,6 +598,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2516977"
+  },
+  {
+   "id": "reveler-2026-12-11-blue-orpheus-orchestra-7-30-pm",
+   "title": "Blue Orpheus Orchestra",
+   "date": "2026-12-11",
+   "doors": "",
+   "show_time": "7:30 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/blue-orpheus-orchestra-12112026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2532989"
   },
   {
    "id": "reveler-2026-12-12-nate-smith-featuring-kiefer-and-carrtoons-9-30-pm",

@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-14T11:31:43-05:00",
+ "updated": "2026-11-15T11:55:44-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
-   "title": "ADRENALINE by Open Fleur",
-   "date": "2026-11-14",
-   "doors": "9:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/adrenaline-an-electronic-music-event-by-open-fleur-14-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/792883/web_orders/new"
-  },
   {
    "id": "heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
    "title": "Heavy Is The Head, Duressted, Contact, Coded, Not One of Them",
@@ -408,6 +376,38 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/647953/web_orders/new"
+  },
+  {
+   "id": "julie-storey-benefit-feat-opin-tess-fisher-knifing-around-star-sign-28-nov",
+   "title": "Julie Storey Benefit feat: OPIN, Tess Fisher, Knifing Around, Star Sign",
+   "date": "2026-11-28",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/julie-storey-benefit-feat-opin-tess-fisher-knifing-around-star-sign-28-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44 adv · $18.54 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": "Sales start November 28, 2026"
+    },
+    {
+     "name": "Advance",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/794558/web_orders/new"
   },
   {
    "id": "drag-brunch-duets-29-nov",

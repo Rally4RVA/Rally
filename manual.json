@@ -1,47 +1,10 @@
 {
- "updated": "2026-11-14T11:37:27-05:00",
+ "updated": "2026-11-15T12:01:23-05:00",
  "venues": [
-  "Fuzzy Cactus",
-  "Moose Lodge",
-  "The Bellwether Garage",
   "The Workshop",
   "VSC"
  ],
  "events": [
-  {
-   "id": "manual-fuzzy-cactus-2026-11-14-ultimatum-destruct-ultimate-disaster-skeksis",
-   "title": "Ultimatum, Destruct, Ultimate Disaster, Skeksis",
-   "date": "2026-11-14",
-   "doors": "8:00 PM",
-   "show_time": "8:30 PM",
-   "venue": "Fuzzy Cactus",
-   "url": "https://www.instagram.com/p/Dd85-dSvabR/",
-   "kind": "m",
-   "age": "18+",
-   "address": "221 W Brookland Park Blvd, Richmond",
-   "price_display": "$15 cash only",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/Dd85-dSvabR/"
-  },
-  {
-   "id": "manual-moose-lodge-2026-11-14-killing-pace-shits-creek-over-your-head-runnin-hot",
-   "title": "Killing Pace, Shits Creek, Over Your Head, Runnin Hot",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "",
-   "venue": "Moose Lodge",
-   "url": "https://www.instagram.com/p/DefC2KOPqe-/",
-   "kind": "m",
-   "age": "",
-   "address": "1207 Hilliard Rd, Richmond",
-   "price_display": "$15 (door only)",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DefC2KOPqe-/"
-  },
   {
    "id": "manual-vsc-2026-11-15-ultimate-disaster-the-brood-zima",
    "title": "Ultimate Disaster, The Brood, Zima",
@@ -75,23 +38,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.instagram.com/p/DePf1LFOQCz/"
-  },
-  {
-   "id": "manual-the-bellwether-garage-2026-11-14-justin-golden-dead-billionaires-ms-jaylin-brown",
-   "title": "Justin Golden, Dead Billionaires, Ms. Jaylin Brown",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "The Bellwether Garage",
-   "url": "https://www.instagram.com/bellwether_garage/",
-   "kind": "m",
-   "age": "",
-   "address": "425 N 31st St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/bellwether_garage/"
   }
  ]
 }

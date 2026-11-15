@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-14T11:32:47-05:00",
+ "updated": "2026-11-15T11:56:46-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-14-live-music-tristan-dougherty",
-   "title": "Tristan Dougherty",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-tristan-dougherty-the-heart-pines-jmbyx-nsdek-jdggj",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-tristan-dougherty-the-heart-pines-jmbyx-nsdek-jdggj"
-  },
   {
    "id": "hardywood-2026-11-15-better-housing-coalition-s-gingerbread-house-challenge",
    "title": "Better Housing Coalition's Gingerbread House Challenge",

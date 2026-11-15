@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-14T11:32:05-05:00",
+ "updated": "2026-11-15T11:56:06-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-14-hot-freaks-soft-body-tour-thesaurus-rex-and-fuzzy-prophet",
-   "title": "HOT FREAKS: SOFT BODY TOUR, THESAURUS REX AND FUZZY PROPHET",
-   "date": "2026-11-14",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/hot-freaks-soft-body-tour-w-thesaurus-rex/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/hot-freaks-soft-body-tour-w-thesaurus-rex/richmond-music-hall/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-15-ax-and-the-hatchetmen-the-late-checkout-tour-2026-john-rober",
    "title": "AX AND THE HATCHETMEN: THE LATE CHECKOUT TOUR 2026, JOHN-ROBERT",

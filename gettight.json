@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-14T11:33:47-05:00",
+ "updated": "2026-11-15T11:57:45-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-14-hip-hop-henry-10-00-pm",
-   "title": "HIP HOP HENRY",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-14-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-14-nov"
-  },
   {
    "id": "gettight-2026-11-17-two-steppin-tuesday-presents-dj-real-mike-smith-7-00-pm",
    "title": "TWO STEPPIN' TUESDAY PRESENTS DJ REAL MIKE SMITH",

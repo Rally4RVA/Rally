@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-14T11:32:37-05:00",
+ "updated": "2026-11-15T11:56:37-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-14-sally-rose-feral-release-with-catie-lausten-and-belly-of-the",
-   "title": "Sally Rose \"Feral\" Release with Catie Lausten and Belly of the Heart",
-   "date": "2026-11-14",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/sally-rose-feral-album-release-catie-lausten-belly-of-the-heart",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10 adv · $15 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/sally-rose-feral-album-release-catie-lausten-belly-of-the-heart"
-  },
   {
    "id": "gallery5-2026-11-15-parallel-listening-series-vol-14",
    "title": "Parallel Listening Series vol. 14",
