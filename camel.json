@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:41:43-05:00",
+ "updated": "2026-11-16T15:59:28-05:00",
  "venues": [
   "The Camel"
  ],
@@ -307,15 +307,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -981,15 +973,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]

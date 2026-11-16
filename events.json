@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:47:10-05:00",
+ "updated": "2026-11-16T16:04:57-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -10,7 +10,8 @@
   "Hardywood",
   "Bandito's Burrito Lounge",
   "The Get Tight Lounge",
-  "The Workshop",
+  "LOSO",
+  "Pandora Cafe",
   "Cobra Cabana",
   "Main Line Brewery",
   "Révéler",
@@ -170,23 +171,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-17-nov"
-  },
-  {
-   "id": "manual-the-workshop-2026-11-17-rosemary-nods-upon-the-grave-slowhole-drawn-bow-ostraca-mour",
-   "title": "Rosemary Nods Upon The Grave, Slowhole, Drawn Bow, Ostraca, Mourning Portrait",
-   "date": "2026-11-17",
-   "doors": "7:00 PM",
-   "show_time": "7:30 PM",
-   "venue": "The Workshop",
-   "url": "https://www.instagram.com/p/DePf1LFOQCz/",
-   "kind": "m",
-   "age": "All ages",
-   "address": "1400 MacTavish Ave, Richmond",
-   "price_display": "$15 (NOTAFLOF)",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/DePf1LFOQCz/"
   },
   {
    "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
@@ -772,6 +756,40 @@
    "ticket_url": "https://buytickets.at/reveler/2361907"
   },
   {
+   "id": "manual-loso-2026-11-20-root-wrk-armando-x",
+   "title": "Root.Wrk: Armando X",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/root-wrk-armando-x",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/root-wrk-armando-x"
+  },
+  {
+   "id": "manual-pandora-cafe-2026-11-20-spectre-presents-jr2k-at-pandora",
+   "title": "Spectre Presents: Jr2k At Pandora",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "Pandora Cafe",
+   "url": "https://shotgun.live/en/events/spectre-presents-jr-2-k-at-pandora",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "$10-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/spectre-presents-jr-2-k-at-pandora"
+  },
+  {
    "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",
    "title": "THE DISCO CAT",
    "date": "2026-11-20",
@@ -1008,6 +1026,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov"
+  },
+  {
+   "id": "manual-pandora-cafe-2026-11-21-groove-room-1",
+   "title": "Groove Room #1",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Pandora Cafe",
+   "url": "https://shotgun.live/en/events/groove-room-1",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "$10-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/groove-room-1"
   },
   {
    "id": "reveler-2026-11-21-charles-owens-trio-with-karl-tietze-and-kris-monson-8-00-pm",
@@ -1432,6 +1467,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov"
   },
   {
+   "id": "manual-pandora-cafe-2026-11-25-wassu",
+   "title": "Wassu",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Pandora Cafe",
+   "url": "https://shotgun.live/en/events/wassu",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "$10-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/wassu"
+  },
+  {
    "id": "canalclub-2026-11-25-what-s-our-age-again-full-send",
    "title": "WHAT'S OUR AGE AGAIN?, Full Send",
    "date": "2026-11-25",
@@ -1496,6 +1548,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-25-nov"
+  },
+  {
+   "id": "manual-loso-2026-11-25-dj-holographic",
+   "title": "Dj Holographic",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/dj-holographic-thanksgiving-eve",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/dj-holographic-thanksgiving-eve"
   },
   {
    "id": "reveler-2026-11-25-time-for-jazz-featuring-members-of-butcher-brown-daniel-clar-9-30-pm",
@@ -1613,15 +1682,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -1984,6 +2045,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/dj-williams-band-28-nov"
+  },
+  {
+   "id": "manual-pandora-cafe-2026-11-28-enamour-1",
+   "title": "Enamour #1",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Pandora Cafe",
+   "url": "https://shotgun.live/en/events/enamour-1",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "$10-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/enamour-1"
   },
   {
    "id": "bb-2026-11-28-2000-s-rave-18",
@@ -2605,6 +2683,23 @@
    "ticket_url": "https://www.instagram.com/p/DfU3cGfBog-/?cplk=MXB2MnZmb3d3NDU3OQ=="
   },
   {
+   "id": "manual-loso-2026-12-04-planet-had2-dedro",
+   "title": "Planet Had2: Dedro",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-dedro",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-dedro"
+  },
+  {
    "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
    "title": "Chords For a Cause Charity Event w/ Sorry Excuse, Saturn Has Ears, Ataraxia, Amherst, Red Light Fever",
    "date": "2026-12-05",
@@ -2721,6 +2816,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/709069/web_orders/new"
+  },
+  {
+   "id": "manual-loso-2026-12-05-ysheso",
+   "title": "Ysheso_",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/ysheso",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/ysheso"
   },
   {
    "id": "brunch-mosh-w-eyes-peeled-white-beast-fantazma-brash-06-dec",
@@ -3189,6 +3301,23 @@
    "ticket_url": "https://thebroadberry.com/event/good-guys-w-clampdown/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "manual-loso-2026-12-12-bridge",
+   "title": "Bridge",
+   "date": "2026-12-12",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/bridge",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/bridge"
+  },
+  {
    "id": "reveler-2026-12-12-nate-smith-featuring-kiefer-and-carrtoons-9-30-pm",
    "title": "Nate Smith Featuring Kiefer And Carrtoons",
    "date": "2026-12-12",
@@ -3587,6 +3716,23 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/gimme-gimme-disco-214021"
   },
   {
+   "id": "manual-loso-2026-12-18-love-club",
+   "title": "Love Club",
+   "date": "2026-12-18",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/love-club-12-18",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/love-club-12-18"
+  },
+  {
    "id": "wes-parker-w-slow-funeral-18-dec",
    "title": "Wes Parker w/ Slow Funeral",
    "date": "2026-12-18",
@@ -3668,6 +3814,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/skalidays-2026-feat-murphys-kids-chris-murray-fun-size-steelboy-and-dj-don-chirasi/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "manual-loso-2026-12-19-bridget",
+   "title": "Bridget",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/bridget-12-19",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/bridget-12-19"
   },
   {
    "id": "zhtml-nomillionaires-dhemo-20-dec",
@@ -3939,6 +4102,40 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/730722/web_orders/new"
+  },
+  {
+   "id": "manual-loso-2026-12-31-nye-colored-craig",
+   "title": "Nye: Colored Craig",
+   "date": "2026-12-31",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/colored-craig-nye",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/colored-craig-nye"
+  },
+  {
+   "id": "manual-loso-2027-01-01-planet-had2-junior-sanchez",
+   "title": "Planet Had2: Junior Sanchez",
+   "date": "2027-01-01",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-junior-sanchez",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-junior-sanchez"
   },
   {
    "id": "reveler-2027-01-02-reckoning-presents-workingman-s-beauty-7-30-pm",
@@ -4380,6 +4577,23 @@
    "ticket_url": "https://thebroadberry.com/event/silverada-w-abe-partridge/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "manual-loso-2027-02-05-planet-had2-rsun-rhythm-city-collective",
+   "title": "Planet Had2: Rsun & Rhythm City Collective",
+   "date": "2027-02-05",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-rsun-rhythm-city-collective",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-rsun-rhythm-city-collective"
+  },
+  {
    "id": "bb-2027-02-06-10th-annual-mighty-marley-celebration-feat-mighty-joshua-dou",
    "title": "10TH ANNUAL MIGHTY MARLEY CELEBRATION FEAT. MIGHTY JOSHUA & DOUBLE TIGER",
    "date": "2027-02-06",
@@ -4670,6 +4884,23 @@
    "ticket_url": "https://thebroadberry.com/event/little-stranger-broken-hearted-boys-tour-w-shwayze-and-damn-skippy/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "manual-loso-2027-03-05-planet-had2-k3oni",
+   "title": "Planet Had2: K3oni",
+   "date": "2027-03-05",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-k3oni",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-k3oni"
+  },
+  {
    "id": "fenne-lily-06-mar",
    "title": "Fenne Lily, Sluice",
    "date": "2027-03-06",
@@ -4814,6 +5045,23 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/millington-213901"
   },
   {
+   "id": "manual-loso-2027-04-02-planet-had2-koji-aiken-dnbinthedmv",
+   "title": "Planet Had2: Koji Aiken & Dnbinthedmv",
+   "date": "2027-04-02",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-koji-aiken-dnbinthedmv",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-koji-aiken-dnbinthedmv"
+  },
+  {
    "id": "bb-2027-04-14-bryan-andrews",
    "title": "BRYAN ANDREWS",
    "date": "2027-04-14",
@@ -4886,15 +5134,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {
@@ -4913,6 +5153,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/cursive-happy-hollow-20th-anniversary-w-small-brown-bike/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "manual-loso-2027-05-07-planet-had2-ghost-friends",
+   "title": "Planet Had2: Ghost & Friends",
+   "date": "2027-05-07",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-ghost-and-friends",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-ghost-and-friends"
   },
   {
    "id": "bb-2027-05-11-76th-street",
@@ -4983,6 +5240,23 @@
    "ticket_url": "https://thebroadberry.com/event/fun-lovin-criminals-w-rob-eberle/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "manual-loso-2027-06-04-planet-had2-tony-romera",
+   "title": "Planet Had2: Tony Romera",
+   "date": "2027-06-04",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-tony-romera",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-tony-romera"
+  },
+  {
    "id": "bb-2027-06-16-dad-rock-night-2000-s-rock-party",
    "title": "DAD ROCK NIGHT: 2000’S ROCK PARTY",
    "date": "2027-06-16",
@@ -4998,6 +5272,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/dad-rock-night-2000s-rock-party/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "manual-loso-2027-07-02-planet-had2",
+   "title": "Planet Had2: ???",
+   "date": "2027-07-02",
+   "doors": "",
+   "show_time": "9:00 PM",
+   "venue": "LOSO",
+   "url": "https://shotgun.live/en/events/planet-had2-level-12",
+   "kind": "m",
+   "age": "",
+   "address": "2727 W Broad St, Richmond, VA",
+   "price_display": "$12-$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://shotgun.live/en/events/planet-had2-level-12"
   }
  ]
 }
