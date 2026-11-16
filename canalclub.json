@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-15T11:59:50-05:00",
+ "updated": "2026-11-16T13:44:12-05:00",
  "venues": [
   "The Canal Club"
  ],
  "events": [
-  {
-   "id": "canalclub-2026-11-15-primer-55-sicksense-redefind-magg-dylan",
-   "title": "PRIMER 55, Sicksense, Redefind, Magg Dylan",
-   "date": "2026-11-15",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.tixr.com/groups/thecanalclub/events/primer-55-204386",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/primer-55-204386"
-  },
   {
    "id": "canalclub-2026-11-21-suggesting-rhythm",
    "title": "SUGGESTING RHYTHM",

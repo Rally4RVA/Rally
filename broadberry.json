@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-15T11:56:06-05:00",
+ "updated": "2026-11-16T13:40:34-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-15-ax-and-the-hatchetmen-the-late-checkout-tour-2026-john-rober",
-   "title": "AX AND THE HATCHETMEN: THE LATE CHECKOUT TOUR 2026, JOHN-ROBERT",
-   "date": "2026-11-15",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/ax-and-the-hatchetmen-the-late-checkout-tour-2026-w-john-robert/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/ax-and-the-hatchetmen-the-late-checkout-tour-2026-w-john-robert/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-17-underground-orchard-x-honeymoon-present-454-pig-the-gemini-a",
    "title": "Underground Orchard x Honeymoon Present 454, PIG THE GEMINI, ALEX VS ALEX, AND ALFRED",
@@ -585,13 +568,13 @@
    "ticket_url": "https://thebroadberry.com/event/cash-only-tonys-w-lorraine-ostraca-and-gif-from-god/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-01-13-eddie-9v-leroy-from-the-north",
-   "title": "EDDIE 9V, LEROY FROM THE NORTH",
+   "id": "bb-2027-01-13-eddie-9v-rescheduled-date",
+   "title": "EDDIE 9V ***RESCHEDULED DATE***",
    "date": "2027-01-13",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/eddie-9v-rescheduled-date/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -599,7 +582,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/eddie-9v-w-leroy-from-the-north/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/eddie-9v-rescheduled-date/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-15-house-party-18",
@@ -789,13 +772,13 @@
    "ticket_url": "https://thebroadberry.com/event/gage-saylor-the-creekside-boys/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-02-05-silverada",
-   "title": "SILVERADA",
+   "id": "bb-2027-02-05-silverada-abe-partridge",
+   "title": "SILVERADA, ABE PARTRIDGE",
    "date": "2027-02-05",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/silverada/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/silverada-w-abe-partridge/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -803,7 +786,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/silverada/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/silverada-w-abe-partridge/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-06-10th-annual-mighty-marley-celebration-feat-mighty-joshua-dou",
@@ -1010,6 +993,40 @@
    "ticket_url": "https://thebroadberry.com/event/bryan-andrews/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "bb-2027-04-30-cursive-happy-hollow-20th-anniversary-small-brown-bike",
+   "title": "CURSIVE: HAPPY HOLLOW 20TH ANNIVERSARY, SMALL BROWN BIKE",
+   "date": "2027-04-30",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/cursive-happy-hollow-20th-anniversary-w-small-brown-bike/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/cursive-happy-hollow-20th-anniversary-w-small-brown-bike/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-05-11-76th-street",
+   "title": "76TH STREET",
+   "date": "2027-05-11",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/76th-street/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/76th-street/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-05-13-gavin-adcock-the-day-i-hang-it-up-tour-blake-whiten",
    "title": "GAVIN ADCOCK: THE DAY I HANG IT UP TOUR, BLAKE WHITEN",
    "date": "2027-05-13",
@@ -1025,6 +1042,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/gavin-adcock-the-day-i-hang-it-up-tour-w-blake-whiten/virginia-credit-union-live/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-06-04-fun-lovin-criminals-rob-eberle",
+   "title": "FUN LOVIN’ CRIMINALS, ROB EBERLE",
+   "date": "2027-06-04",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/fun-lovin-criminals-w-rob-eberle/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/fun-lovin-criminals-w-rob-eberle/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-06-16-dad-rock-night-2000-s-rock-party",

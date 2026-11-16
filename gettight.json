@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T11:57:45-05:00",
+ "updated": "2026-11-16T13:42:12-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
@@ -39,13 +39,13 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-18-nov"
   },
   {
-   "id": "gettight-2026-11-19-house-night-tanenzaph-10-00-pm",
-   "title": "HOUSE NIGHT: TANENZAPH",
+   "id": "gettight-2026-11-19-house-night-tanenzaph-w-dj-paul-breedlove-10-00-pm",
+   "title": "HOUSE NIGHT: TANENZAPH, DJ PAUL BREEDLOVE",
    "date": "2026-11-19",
    "doors": "",
    "show_time": "10:00 PM",
    "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-19-nov",
+   "url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-w-dj-paul-breedlove-19-nov",
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
@@ -53,7 +53,7 @@
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-19-nov"
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-w-dj-paul-breedlove-19-nov"
   },
   {
    "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",
@@ -209,6 +209,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-02-dec"
   },
   {
+   "id": "gettight-2026-12-03-house-night-xav-10-00-pm",
+   "title": "HOUSE NIGHT: XAV",
+   "date": "2026-12-03",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/house-night-elliott-03-dec",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-03-dec"
+  },
+  {
    "id": "gettight-2026-12-09-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-09",
@@ -226,6 +243,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-09-dec"
   },
   {
+   "id": "gettight-2026-12-10-house-night-zanel-rozendo-10-00-pm",
+   "title": "HOUSE NIGHT: ZANEL ROZENDO",
+   "date": "2026-12-10",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/house-night-zanel-rozendo-10-dec",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-zanel-rozendo-10-dec"
+  },
+  {
    "id": "gettight-2026-12-16-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-16",
@@ -241,6 +275,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-16-dec"
+  },
+  {
+   "id": "gettight-2026-12-17-house-night-elliott-10-00-pm",
+   "title": "HOUSE NIGHT: ELLIOTT",
+   "date": "2026-12-17",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/house-night-elliott-17-dec",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-17-dec"
   },
   {
    "id": "gettight-2026-12-23-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",

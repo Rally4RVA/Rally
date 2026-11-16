@@ -1,34 +1,9 @@
 {
- "updated": "2026-11-15T11:55:44-05:00",
+ "updated": "2026-11-16T13:40:13-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
-   "title": "Heavy Is The Head, Duressted, Contact, Coded, Not One of Them",
-   "date": "2026-11-15",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/heavy-is-the-head-duressted-contact-coded-not-one-of-them-15-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/714049/web_orders/new"
-  },
   {
    "id": "peter-stone-anterra-nick-shaw-16-nov",
    "title": "Peter Stone, Anterra, Sun v Set, Nic Shaw",
@@ -40,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -49,6 +24,13 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
      "status": ""
     }
    ],
@@ -485,9 +467,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -720,7 +702,7 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
-     "status": "Sales start November 16, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/798097/web_orders/new"
@@ -806,6 +788,38 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
+  },
+  {
+   "id": "the-steppers-creek-mill-grass-co-coastal-plain-10-feb",
+   "title": "The Steppers, Creek Mill Grass Co, Coastal Plain",
+   "date": "2027-02-10",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/the-steppers-creek-mill-grass-co-coastal-plain-10-feb",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22 adv · $18.54 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": "Sales start February 10, 2027"
+    },
+    {
+     "name": "Advance (1)",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/801520/web_orders/new"
   },
   {
    "id": "beers-and-banjos-garden-variety-string-band-19-feb",
@@ -931,18 +945,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {

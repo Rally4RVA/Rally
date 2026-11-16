@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-15T11:58:54-05:00",
+ "updated": "2026-11-16T13:43:21-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-6-00-pm",
-   "title": "Deau Eyes: To Grow Instead",
-   "date": "2026-11-15",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/deau-eyes-to-grow-instead-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2500865"
-  },
-  {
-   "id": "reveler-2026-11-15-deau-eyes-to-grow-instead-8-00-pm",
-   "title": "Deau Eyes: To Grow Instead",
-   "date": "2026-11-15",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/deau-eyes-to-grow-instead-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2500865"
-  },
   {
    "id": "reveler-2026-11-16-deb-saidel-jazz-flute-quartet-7-00-pm",
    "title": "Deb Saidel Jazz Flute Quartet",

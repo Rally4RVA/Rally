@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-15T11:56:46-05:00",
+ "updated": "2026-11-16T13:41:13-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-15-better-housing-coalition-s-gingerbread-house-challenge",
-   "title": "Better Housing Coalition's Gingerbread House Challenge",
-   "date": "2026-11-15",
-   "doors": "",
-   "show_time": "12:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/better-housing-coalitions-gingerbread-house-challenge",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/better-housing-coalitions-gingerbread-house-challenge"
-  },
-  {
-   "id": "hardywood-2026-11-15-live-music-chip-hale-duo",
-   "title": "Chip Hale Duo",
-   "date": "2026-11-15",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/chip-hale-duo-p994l-z6gzp-2ptje-2c3rm-sx53d-g6dbc-sx39h-s5r4s-9xcz5-btf6h-zlg5d-ewh76-n6ryf",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/chip-hale-duo-p994l-z6gzp-2ptje-2c3rm-sx53d-g6dbc-sx39h-s5r4s-9xcz5-btf6h-zlg5d-ewh76-n6ryf"
-  },
   {
    "id": "hardywood-2026-11-17-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",
@@ -264,7 +230,7 @@
    "title": "Pints & Pilates",
    "date": "2026-11-29",
    "doors": "",
-   "show_time": "12:00 PM",
+   "show_time": "11:00 AM",
    "venue": "Hardywood",
    "url": "https://www.hardywood.com/richmond-events/pints-pilates-1",
    "kind": "o",

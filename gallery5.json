@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-15T11:56:37-05:00",
+ "updated": "2026-11-16T13:41:04-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-15-parallel-listening-series-vol-14",
-   "title": "Parallel Listening Series vol. 14",
-   "date": "2026-11-15",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/parallel-listening-series-nov",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/parallel-listening-series-nov"
-  },
   {
    "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
    "title": "Gorrak, Brash, Future Mantis, After Nations",

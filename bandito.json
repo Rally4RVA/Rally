@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-15T11:57:34-05:00",
+ "updated": "2026-11-16T13:42:01-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-11-15-diles-que-no-me-maten",
-   "title": "Diles que no me maten",
-   "date": "2026-11-15",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/diles-que-no-me-maten-november-15-2026-728078",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/e/diles-que-no-me-maten-november-15-2026-728078"
-  },
   {
    "id": "bandito-2026-11-17-salisbury-gusher-inverted-cross-subversas",
    "title": "Salisbury, Gusher, Inverted Cross, Subversas",
@@ -221,6 +204,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/e/brain-tourniquet-malform-exsanguinary-december-04-2026-798816"
+  },
+  {
+   "id": "bandito-2026-12-06-halloween-so-alive-morpha-too",
+   "title": "Halloween, So Alive, Morpha Too",
+   "date": "2026-12-06",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/halloween-so-alive-morpha-too-december-06-2026-798997",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/e/halloween-so-alive-morpha-too-december-06-2026-798997"
   },
   {
    "id": "bandito-2026-12-14-magic-tuber-stringband-crazy-doberman-molasses-industries",

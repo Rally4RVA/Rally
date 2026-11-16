@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-15T11:56:58-05:00",
+ "updated": "2026-11-16T13:41:25-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-15-little-birdies",
-   "title": "Little Birdies",
-   "date": "2026-11-15",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/little-birdies",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/little-birdies"
-  },
   {
    "id": "mainline-2026-11-18-pop-out-wednesdays",
    "title": "Pop-Out Wednesdays",

@@ -1,27 +1,9 @@
 {
- "updated": "2026-11-15T12:01:23-05:00",
+ "updated": "2026-11-16T13:45:45-05:00",
  "venues": [
-  "The Workshop",
-  "VSC"
+  "The Workshop"
  ],
  "events": [
-  {
-   "id": "manual-vsc-2026-11-15-ultimate-disaster-the-brood-zima",
-   "title": "Ultimate Disaster, The Brood, Zima",
-   "date": "2026-11-15",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "VSC",
-   "url": "https://www.instagram.com/p/Dekk61vuvB1/",
-   "kind": "m",
-   "age": "",
-   "address": "DM for address",
-   "price_display": "$12",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/p/Dekk61vuvB1/"
-  },
   {
    "id": "manual-the-workshop-2026-11-17-rosemary-nods-upon-the-grave-slowhole-drawn-bow-ostraca-mour",
    "title": "Rosemary Nods Upon The Grave, Slowhole, Drawn Bow, Ostraca, Mourning Portrait",
