@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:11:39-05:00",
+ "updated": "2026-11-16T15:41:43-05:00",
  "venues": [
   "The Camel"
  ],
@@ -307,7 +307,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -936,7 +944,7 @@
   },
   {
    "id": "sister-wife-sex-strike-local-news-legend-14-apr",
-   "title": "Sister Wife Sex Strike, Local News Legend",
+   "title": "Sister Wife Sex Strike, Local News Legend, Shotgun Princess",
    "date": "2027-04-14",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -973,7 +981,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]
