@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:41:25-05:00",
+ "updated": "2026-11-16T15:12:53-05:00",
  "venues": [
   "Main Line Brewery"
  ],
@@ -175,11 +175,11 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lost-point"
   },
   {
-   "id": "mainline-2026-11-28-run-forrest-run",
+   "id": "mainline-2026-11-29-run-forrest-run",
    "title": "Run Forrest Run",
-   "date": "2026-11-28",
+   "date": "2026-11-29",
    "doors": "",
-   "show_time": "7:00 PM",
+   "show_time": "3:00 PM",
    "venue": "Main Line Brewery",
    "url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1",
    "kind": "m",
@@ -190,6 +190,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1"
+  },
+  {
+   "id": "mainline-2026-12-05-three-days-ride-from-bakersfield",
+   "title": "Three Days Ride from bakersfield",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "6:30 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/three-days-ride",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/three-days-ride"
   }
  ]
 }

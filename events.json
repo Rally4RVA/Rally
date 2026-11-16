@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:45:46-05:00",
+ "updated": "2026-11-16T15:17:18-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -1929,23 +1929,6 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/lost-point"
   },
   {
-   "id": "mainline-2026-11-28-run-forrest-run",
-   "title": "Run Forrest Run",
-   "date": "2026-11-28",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1"
-  },
-  {
    "id": "julie-storey-benefit-feat-opin-tess-fisher-knifing-around-star-sign-28-nov",
    "title": "Julie Storey Benefit feat: OPIN, Tess Fisher, Knifing Around, Star Sign",
    "date": "2026-11-28",
@@ -2120,6 +2103,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/drew-dunbar-ntn2t-flea4"
+  },
+  {
+   "id": "mainline-2026-11-29-run-forrest-run",
+   "title": "Run Forrest Run",
+   "date": "2026-11-29",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/run-forrest-run-1"
   },
   {
    "id": "reveler-2026-11-29-orbital-big-band-4-00-pm",
@@ -2503,9 +2503,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -2620,6 +2620,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2531603"
+  },
+  {
+   "id": "mainline-2026-12-05-three-days-ride-from-bakersfield",
+   "title": "Three Days Ride from bakersfield",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "6:30 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/three-days-ride",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/three-days-ride"
   },
   {
    "id": "bb-2026-12-05-suggesting-rhythm-the-old-dominion-tour",
@@ -4799,10 +4816,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750003/web_orders/new"
   },
   {
