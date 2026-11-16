@@ -58,7 +58,36 @@ def parse_text(body, today, venue_names):
         pm = PRICE_LINE.match(price.replace(" ", "")) if price else None
         out.append(dict(title=title, date=day, show_time=fmt_time(m.group(4)),
                         price=money(pm.group(1)) if pm else "", free=False))
-    return [c for c in out if c["title"] and c["date"] and c["date"] >= today]
+    seen, uniq = set(), []                           # the same card can be read twice (page text + card links): keep one
+    for c in out:
+        key = (c["title"].lower(), c["date"])
+        if c["title"] and c["date"] and c["date"] >= today and key not in seen:
+            seen.add(key)
+            uniq.append(c)
+    return uniq
+
+
+def frame_text(fr):
+    """All the text we can find in a frame. Shotgun's calendar is built from web components, and plain inner_text('body')
+    can skip what is inside them, so we also read each event card (a link to /events/...) directly."""
+    parts = []
+    try:
+        parts.append(fr.inner_text("body"))
+    except Exception:
+        pass
+    try:
+        cards = fr.locator("a[href*='/events/']").all_inner_texts()
+        parts.append("\n".join(cards[i] for i in range(len(cards))))
+    except Exception:
+        pass
+    return "\n".join(p for p in parts if p)
+
+
+def frame_links(fr):
+    try:
+        return fr.locator("a[href*='/events/']").evaluate_all("els => els.map(e => e.href)")
+    except Exception:
+        return []
 
 
 def run():
@@ -93,12 +122,12 @@ def run():
                         srcs.append(fr.url)
                 for fr in [pg.main_frame] + [f for f in pg.frames if f != pg.main_frame]:
                     try:
-                        found = parse_text(fr.inner_text("body"), today, v["names"])
+                        found = parse_text(frame_text(fr), today, v["names"])
                     except Exception:
                         continue
                     if found:
                         cards, used = found, url
-                        links = fr.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)")
+                        links = frame_links(fr)
                         break
                 if not cards:
                     # last try: open each embedded calendar's own address directly
@@ -109,10 +138,10 @@ def run():
                             for _ in range(8):
                                 pg.mouse.wheel(0, 5000)
                                 pg.wait_for_timeout(500)
-                            found = parse_text(pg.inner_text("body"), today, v["names"])
+                            found = parse_text(frame_text(pg.main_frame), today, v["names"])
                             if found:
                                 cards, used = found, src
-                                links = pg.eval_on_selector_all("a[href*='/events/']", "els => els.map(e => e.href)")
+                                links = frame_links(pg.main_frame)
                                 break
                         except Exception:
                             continue
@@ -124,7 +153,7 @@ def run():
                 for fr in pg.frames:
                     if fr != pg.main_frame:
                         try:
-                            print("   frame", fr.url[:90], "text starts:", repr(fr.inner_text("body")[:400]))
+                            print("   frame", fr.url[:90], "event-card links:", len(frame_links(fr)), "| text starts:", repr(frame_text(fr)[:400]))
                         except Exception as ex:
                             print("   frame", fr.url[:90], "unreadable:", str(ex).splitlines()[0])
             uniq = []
