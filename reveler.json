@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-16T16:02:34-05:00",
+ "updated": "2026-11-17T14:07:09-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-16-deb-saidel-jazz-flute-quartet-7-00-pm",
-   "title": "Deb Saidel Jazz Flute Quartet",
-   "date": "2026-11-16",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/deb-saidel-jazz-flute-quartet-11162026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2511719"
-  },
   {
    "id": "reveler-2026-11-17-the-bad-plus-farewell-tour-9-00-pm",
    "title": "The Bad Plus Farewell Tour",

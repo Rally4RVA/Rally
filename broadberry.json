@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:59:49-05:00",
+ "updated": "2026-11-17T14:04:21-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
@@ -636,23 +636,6 @@
    "ticket_url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-01-22-wizard-fest-18",
-   "title": "WIZARD FEST (18+)",
-   "date": "2027-01-22",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/wizard-fest-18/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wizard-fest-18/richmond-music-hall/richmond-virginia/"
-  },
-  {
    "id": "bb-2027-01-22-shrek-rave-18",
    "title": "SHREK RAVE (18+)",
    "date": "2027-01-22",
@@ -806,6 +789,23 @@
    "ticket_url": "https://thebroadberry.com/event/10th-annual-mighty-marley-celebration-feat-mighty-joshua-double-tiger/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-02-06-party-iconic-presents-heated-rivalry-night-18",
+   "title": "party iconic presents: HEATED RIVALRY NIGHT (18+)",
+   "date": "2027-02-06",
+   "doors": "8:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/heated-rivalry-night-18/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/heated-rivalry-night-18/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-07-penelope-road-arts-fishing-club",
    "title": "PENELOPE ROAD, ARTS FISHING CLUB",
    "date": "2027-02-07",
@@ -891,6 +891,23 @@
    "ticket_url": "https://thebroadberry.com/event/little-stranger-broken-hearted-boys-tour-w-shwayze-and-damn-skippy/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-03-10-asiris-the-summerside-final-lap-tour",
+   "title": "ASIRIS: THE SUMMERSIDE FINAL LAP TOUR",
+   "date": "2027-03-10",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/asiris-the-summerside-final-lap-tour/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/asiris-the-summerside-final-lap-tour/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-03-13-gus-dapperton-4-dear-life-tour",
    "title": "GUS DAPPERTON: 4 DEAR LIFE TOUR",
    "date": "2027-03-13",
@@ -974,6 +991,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/sqwerv/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-04-04-robbie-fulks",
+   "title": "ROBBIE FULKS",
+   "date": "2027-04-04",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/robbie-fulks/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/robbie-fulks/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-04-14-bryan-andrews",
@@ -1076,6 +1110,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/dad-rock-night-2000s-rock-party/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-10-19-osees",
+   "title": "OSEES",
+   "date": "2027-10-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/osees/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/osees/the-broadberry-2/richmond-virginia/"
   }
  ]
 }

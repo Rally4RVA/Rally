@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:04:57-05:00",
+ "updated": "2026-11-17T14:09:43-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,55 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-16-deb-saidel-jazz-flute-quartet-7-00-pm",
-   "title": "Deb Saidel Jazz Flute Quartet",
-   "date": "2026-11-16",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/deb-saidel-jazz-flute-quartet-11162026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2511719"
-  },
-  {
-   "id": "peter-stone-anterra-nick-shaw-16-nov",
-   "title": "Peter Stone, Anterra, Sun v Set, Nic Shaw",
-   "date": "2026-11-16",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/peter-stone-anterra-nick-shaw-16-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/751045/web_orders/new"
-  },
   {
    "id": "brambly-2026-11-17-trivia-in-the-restaurant",
    "title": "Trivia in the Restaurant",
@@ -183,7 +134,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -192,6 +143,13 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -1682,7 +1640,22 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -3250,6 +3223,31 @@
    "ticket_url": "https://buytickets.at/reveler/2532989"
   },
   {
+   "id": "bandito-2026-12-11-dead-billionaires-the-wayward-leaves-danger-birds",
+   "title": "Dead Billionaires, The Wayward Leaves, Danger Birds",
+   "date": "2026-12-11",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/dead-billionaires-the-wayward-leaves-danger-birds-december-11-2026-801621",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$15 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/dead-billionaires-the-wayward-leaves-danger-birds-december-11-2026-801621"
+  },
+  {
    "id": "bb-2026-12-12-rva-winter-jam-feat-willie-williams-band-slingshot-on-mars-a",
    "title": "RVA WINTER JAM FEAT. WILLIE WILLIAMS BAND, SLINGSHOT ON MARS, AND WHISKEY BANJO FOXTROT",
    "date": "2026-12-12",
@@ -4407,21 +4405,21 @@
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
   },
   {
-   "id": "bb-2027-01-22-wizard-fest-18",
-   "title": "WIZARD FEST (18+)",
+   "id": "canalclub-2027-01-22-shovelhead-a-d-the-ziggurat-wolf-legion-spiral-fracture-bata",
+   "title": "SHOVELHEAD A.D., The Ziggurat , Wolf Legion, Spiral Fracture, Batavia",
    "date": "2027-01-22",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/wizard-fest-18/richmond-music-hall/richmond-virginia/",
+   "doors": "6:00 PM",
+   "show_time": "6:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/shovelhead-a-d--214980",
    "kind": "m",
-   "age": "18+",
-   "address": "",
-   "price_display": "Pricier tickets",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wizard-fest-18/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/shovelhead-a-d--214980"
   },
   {
    "id": "bb-2027-01-22-shrek-rave-18",
@@ -4611,6 +4609,23 @@
    "ticket_url": "https://thebroadberry.com/event/10th-annual-mighty-marley-celebration-feat-mighty-joshua-double-tiger/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "bb-2027-02-06-party-iconic-presents-heated-rivalry-night-18",
+   "title": "party iconic presents: HEATED RIVALRY NIGHT (18+)",
+   "date": "2027-02-06",
+   "doors": "8:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/heated-rivalry-night-18/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "18+",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/heated-rivalry-night-18/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-07-penelope-road-arts-fishing-club",
    "title": "PENELOPE ROAD, ARTS FISHING CLUB",
    "date": "2027-02-07",
@@ -4724,7 +4739,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -4926,6 +4949,23 @@
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
+   "id": "bb-2027-03-10-asiris-the-summerside-final-lap-tour",
+   "title": "ASIRIS: THE SUMMERSIDE FINAL LAP TOUR",
+   "date": "2027-03-10",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/asiris-the-summerside-final-lap-tour/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/asiris-the-summerside-final-lap-tour/richmond-music-hall/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-03-13-gus-dapperton-4-dear-life-tour",
    "title": "GUS DAPPERTON: 4 DEAR LIFE TOUR",
    "date": "2027-03-13",
@@ -4941,6 +4981,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/gus-dapperton-4-dear-life-tour/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2027-03-14-narrow-head-soul-blind-knumears-seko",
+   "title": "NARROW HEAD, Soul Blind, Knumears, Seko",
+   "date": "2027-03-14",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/narrow-head-214856",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/narrow-head-214856"
   },
   {
    "id": "hardywood-2027-03-18-richmond-symphony-at-hardywood-richmond",
@@ -4992,6 +5049,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/destroy-boys-w-illuminati-hotties-and-the-rat-utopia-experiment/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2027-03-26-slow-crush-seahaven-grivo",
+   "title": "SLOW CRUSH, Seahaven, Grivo",
+   "date": "2027-03-26",
+   "doors": "6:30 PM",
+   "show_time": "7:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/slow-crush-214452",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/slow-crush-214452"
   },
   {
    "id": "bb-2027-03-27-chatham-county-line",
@@ -5060,6 +5134,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://shotgun.live/en/events/planet-had2-koji-aiken-dnbinthedmv"
+  },
+  {
+   "id": "bb-2027-04-04-robbie-fulks",
+   "title": "ROBBIE FULKS",
+   "date": "2027-04-04",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/robbie-fulks/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/robbie-fulks/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-04-14-bryan-andrews",
@@ -5134,7 +5225,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {
@@ -5289,6 +5388,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://shotgun.live/en/events/planet-had2-level-12"
+  },
+  {
+   "id": "bb-2027-10-19-osees",
+   "title": "OSEES",
+   "date": "2027-10-19",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/osees/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/osees/the-broadberry-2/richmond-virginia/"
   }
  ]
 }

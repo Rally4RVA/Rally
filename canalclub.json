@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:03:25-05:00",
+ "updated": "2026-11-17T14:08:08-05:00",
  "venues": [
   "The Canal Club"
  ],
@@ -175,6 +175,23 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/depeche-mode-and-cure-tribute-night-195167"
   },
   {
+   "id": "canalclub-2027-01-22-shovelhead-a-d-the-ziggurat-wolf-legion-spiral-fracture-bata",
+   "title": "SHOVELHEAD A.D., The Ziggurat , Wolf Legion, Spiral Fracture, Batavia",
+   "date": "2027-01-22",
+   "doors": "6:00 PM",
+   "show_time": "6:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/shovelhead-a-d--214980",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/shovelhead-a-d--214980"
+  },
+  {
    "id": "canalclub-2027-01-29-fade-to-black-a-tribute-to-metallica",
    "title": "FADE TO BLACK: A TRIBUTE TO METALLICA",
    "date": "2027-01-29",
@@ -258,6 +275,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/boundaries-213713"
+  },
+  {
+   "id": "canalclub-2027-03-14-narrow-head-soul-blind-knumears-seko",
+   "title": "NARROW HEAD, Soul Blind, Knumears, Seko",
+   "date": "2027-03-14",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/narrow-head-214856",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/narrow-head-214856"
+  },
+  {
+   "id": "canalclub-2027-03-26-slow-crush-seahaven-grivo",
+   "title": "SLOW CRUSH, Seahaven, Grivo",
+   "date": "2027-03-26",
+   "doors": "6:30 PM",
+   "show_time": "7:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/slow-crush-214452",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/slow-crush-214452"
   },
   {
    "id": "canalclub-2027-04-02-millington-summer-wars",

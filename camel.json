@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-16T15:59:28-05:00",
+ "updated": "2026-11-17T14:03:59-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "peter-stone-anterra-nick-shaw-16-nov",
-   "title": "Peter Stone, Anterra, Sun v Set, Nic Shaw",
-   "date": "2026-11-16",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/peter-stone-anterra-nick-shaw-16-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance (1)",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/751045/web_orders/new"
-  },
   {
    "id": "scrappy-hour-17-nov",
    "title": "SCRAPpy Hour",
@@ -64,7 +32,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54",
+   "price_display": "$25.25 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -73,6 +41,13 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
      "status": ""
     }
    ],
@@ -307,7 +282,22 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -835,7 +825,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -973,7 +971,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]
