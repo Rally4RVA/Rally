@@ -1,58 +1,9 @@
 {
- "updated": "2026-11-17T14:03:59-05:00",
+ "updated": "2026-11-18T13:48:04-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "scrappy-hour-17-nov",
-   "title": "SCRAPpy Hour",
-   "date": "2026-11-17",
-   "doors": "3:00 PM",
-   "show_time": "4:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/scrappy-hour-17-nov",
-   "kind": "o",
-   "age": "",
-   "address": "SCRAPpy HourAll AgesTuesday, November 17, 2026Doors 3:00 PM · Show 4:00 PM1621 West Broad Street, Richmond, VA, 23220, USSign InApplySold outFind verified resale tickets or join the waitlist if more become available on Tixel — our official fan-to-fan ticket exchange.Go to Fan ExchangePowered byCheckout",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/788325/web_orders/new"
-  },
-  {
-   "id": "followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
-   "title": "With Sails Ahead, Followship, Sun Against Artemis, Melk",
-   "date": "2026-11-17",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/followship-with-sails-ahead-sun-against-artemis-melt-17-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/734049/web_orders/new"
-  },
   {
    "id": "dauber-young-scum-housie-heat-sick-18-nov",
    "title": "Dauber, Young Scum, Housie, Heat Sick",
@@ -220,6 +171,23 @@
    "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
   },
   {
+   "id": "live-i-spy-hosted-by-vice-antiques-25-nov",
+   "title": "Live I Spy Hosted by Vice Antiques",
+   "date": "2026-11-25",
+   "doors": "",
+   "show_time": "12:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/live-i-spy-hosted-by-vice-antiques-25-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/797104/web_orders/new"
+  },
+  {
    "id": "geek-rva-are-ya-madferit-25-nov",
    "title": "Geek RVA, Are Ya Madferit?",
    "date": "2026-11-25",
@@ -282,22 +250,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Seats up to 5",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -430,6 +383,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/751411/web_orders/new"
+  },
+  {
+   "id": "magic-the-gathering-commander-party-30-nov",
+   "title": "Magic: The Gathering Commander Party",
+   "date": "2026-11-30",
+   "doors": "5:00 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/magic-the-gathering-commander-party-30-nov",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$10.12",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Event Entry",
+     "base": 7.0,
+     "fee": 3.12,
+     "total": 10.12,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/747444/web_orders/new"
   },
   {
    "id": "the-bachelor-boys-wedding-band-showcase-01-dec",
@@ -589,6 +567,56 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/750364/web_orders/new"
+  },
+  {
+   "id": "whiskey-gogo-sami-garnder-envy-aubrey-s-ashes-09-dec",
+   "title": "Sami Gardner, Wiskeygogo, Audrey's Ashes, Envy",
+   "date": "2026-12-09",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/whiskey-gogo-sami-garnder-envy-aubrey-s-ashes-09-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788247/web_orders/new"
+  },
+  {
+   "id": "painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
+   "title": "Painted World Album Release w/ Piranha Rama, Sun V Set",
+   "date": "2026-12-12",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/719297/web_orders/new"
   },
   {
    "id": "public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",
@@ -780,6 +808,23 @@
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
   },
   {
+   "id": "amelia-day-04-feb",
+   "title": "Amelia Day",
+   "date": "2027-02-04",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/amelia-day-04-feb",
+   "kind": "m",
+   "age": "",
+   "address": "Amelia DayAll AgesThursday, February 04, 2027Doors 7:00 PM · Show 8:00 PM1621 West Broad Street, Richmond, VA, 23220, USSign InApplySold outFind verified resale tickets or join the waitlist if more become available on Tixel — our official fan-to-fan ticket exchange.Go to Fan ExchangePowered byContinue",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/750791/web_orders/new"
+  },
+  {
    "id": "the-steppers-creek-mill-grass-co-coastal-plain-10-feb",
    "title": "The Steppers, Creek Mill Grass Co, Coastal Plain",
    "date": "2027-02-10",
@@ -933,6 +978,45 @@
    "ticket_url": "https://app.opendate.io/confirms/746797/web_orders/new"
   },
   {
+   "id": "dug-w-nat-myers-23-mar",
+   "title": "DUG w/ TBA support",
+   "date": "2027-03-23",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/dug-w-nat-myers-23-mar",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25.25 adv · $30.42 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Artist Presale",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    },
+    {
+     "name": "Advance",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": "Sales start November 20, 2026"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
+     "status": "Sales start March 23, 2027"
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/799570/web_orders/new"
+  },
+  {
    "id": "sister-wife-sex-strike-local-news-legend-14-apr",
    "title": "Sister Wife Sex Strike, Local News Legend, Shotgun Princess",
    "date": "2027-04-14",
@@ -971,15 +1055,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]

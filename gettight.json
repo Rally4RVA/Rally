@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-17T14:06:01-05:00",
+ "updated": "2026-11-18T13:50:15-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-17-two-steppin-tuesday-presents-dj-real-mike-smith-7-00-pm",
-   "title": "TWO STEPPIN' TUESDAY PRESENTS DJ REAL MIKE SMITH",
-   "date": "2026-11-17",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-17-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/two-steppin-tuesday-presents-dj-real-mike-smith-17-nov"
-  },
   {
    "id": "gettight-2026-11-18-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
@@ -88,6 +71,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov"
+  },
+  {
+   "id": "gettight-2026-11-21-melodic-dj-10-00-pm",
+   "title": "MELODIC (DJ)",
+   "date": "2026-11-21",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/melodic-dj-21-nov",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-21-nov"
   },
   {
    "id": "gettight-2026-11-25-wnrn-presents-no-bs-brass-band-8-00-pm",
@@ -224,6 +224,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-03-dec"
+  },
+  {
+   "id": "gettight-2026-12-04-melodic-dj-10-00-pm",
+   "title": "MELODIC (DJ)",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/melodic-dj-04-dec",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-04-dec"
   },
   {
    "id": "gettight-2026-12-09-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",

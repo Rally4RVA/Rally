@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-17T14:07:09-05:00",
+ "updated": "2026-11-18T13:51:22-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-17-the-bad-plus-farewell-tour-9-00-pm",
-   "title": "The Bad Plus Farewell Tour",
-   "date": "2026-11-17",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/the-bad-plus-11172026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$35",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2301781"
-  },
   {
    "id": "reveler-2026-11-18-bobby-thompson-karen-jonas-jon-tyler-wiley-7-30-pm",
    "title": "Bobby Thompson / Karen Jonas / Jon Tyler Wiley",

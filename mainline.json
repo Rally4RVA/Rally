@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-17T14:05:11-05:00",
+ "updated": "2026-11-18T13:49:23-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-18-pop-out-wednesdays",
-   "title": "Pop-Out Wednesdays",
-   "date": "2026-11-18",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/pop-out-wednesdays",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/pop-out-wednesdays"
-  },
   {
    "id": "mainline-2026-11-19-hoof",
    "title": "Hoof",
@@ -224,6 +207,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/three-days-ride"
+  },
+  {
+   "id": "mainline-2026-12-13-river-city-wranglerz-holiday-party-toys-for-tots-collection-",
+   "title": "River City Wranglerz, Holiday Party, Toys for Tots Collection, Lighted Jeep Show",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "1:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/river-city-wranglerz-holiday-party-toys-for-tots-collection-lighted-jeep-show",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/river-city-wranglerz-holiday-party-toys-for-tots-collection-lighted-jeep-show"
   }
  ]
 }

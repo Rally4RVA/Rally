@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:04:50-05:00",
+ "updated": "2026-11-18T13:48:57-05:00",
  "venues": [
   "Gallery5"
  ],
@@ -107,6 +107,23 @@
    "ticket_url": "https://www.eventbrite.com/e/hagstone-producer-mt-forever-tickets-2004110722119"
   },
   {
+   "id": "gallery5-2026-12-01-yuletide-monsters-mask-making-workshop",
+   "title": "Yuletide Monsters Mask Making Workshop",
+   "date": "2026-12-01",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/yuletide-monsters-2026-mask-making",
+   "kind": "o",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/yuletide-monsters-2026-mask-making"
+  },
+  {
    "id": "gallery5-2026-12-02-my-cousin-s-girlfriend-s-house-seneca-burns-shotclock-235-wa",
    "title": "My Cousin's Girlfriend's House, Seneca Burns, Shotclock, 235-Ways",
    "date": "2026-12-02",
@@ -122,6 +139,57 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/my-cousins-girlfriends-house-seneca-burns-shotclock-235-ways-tickets-2004110825428"
+  },
+  {
+   "id": "gallery5-2026-12-03-community-care-night-winter-witch-drink-draw-with-rva-krampu",
+   "title": "Community Care Night: Winter Witch Drink & Draw with RVA Krampusnacht | 18+",
+   "date": "2026-12-03",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht"
+  },
+  {
+   "id": "gallery5-2026-12-04-first-fridays-yuletide-monsters-first-friday-kick-off",
+   "title": "First Fridays: Yuletide Monsters First Friday Kick-off!",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "5:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/first-fridays-yuletide-monsters-first-friday-kick-off-rva-krampusnacht",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/first-fridays-yuletide-monsters-first-friday-kick-off-rva-krampusnacht"
+  },
+  {
+   "id": "gallery5-2026-12-06-rival-booking-blazoner-heeymeyer-nuke-lord-cannabyss",
+   "title": "RIVAL BOOKING: Blazoner, Heeymeyer, Nuke Lord, Cannabyss",
+   "date": "2026-12-06",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/rival-booking-blazoner-heeymeyer-nuke-lord-cannabyss",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$10",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/rival-booking-blazoner-heeymeyer-nuke-lord-cannabyss"
   },
   {
    "id": "gallery5-2026-12-08-activism-in-action-critiquing-ai-a-student-research-showcase",
@@ -158,8 +226,8 @@
    "ticket_url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-december"
   },
   {
-   "id": "gallery5-2026-12-13-radqueer-productions-presents-sadqueer",
-   "title": "RadQueer Productions presents SADQUEER",
+   "id": "gallery5-2026-12-13-radqueer-productions-presents-sadqueer-18",
+   "title": "RadQueer Productions presents SADQUEER | 18+",
    "date": "2026-12-13",
    "doors": "",
    "show_time": "6:00 PM",
@@ -173,6 +241,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/radqueer-productions-present-sadqueer-tickets-2004800709891"
+  },
+  {
+   "id": "gallery5-2027-01-03-rival-booking-remembrance-doomhauer-plutonium-womb-biscuitsl",
+   "title": "RIVAL BOOKING: Remembrance, Doomhauer, Plutonium Womb, Biscuitslut (SC)",
+   "date": "2027-01-03",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/rival-booking-remembrance-doomhauer-plutonium-womb-biscuitslut-sc",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/rival-booking-remembrance-doomhauer-plutonium-womb-biscuitslut-sc"
   }
  ]
 }
