@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:48:57-05:00",
+ "updated": "2026-11-19T14:01:48-05:00",
  "venues": [
   "Gallery5"
  ],
@@ -226,6 +226,23 @@
    "ticket_url": "https://gallery5arts.org/calendar/2026/1/20/nerdy-thirsty-thursdays-december"
   },
   {
+   "id": "gallery5-2026-12-11-tom-waits-77th-birthday-eve-feat-get-behind-the-mule",
+   "title": "Tom Waits 77th Birthday Eve feat. Get Behind The Mule",
+   "date": "2026-12-11",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/tom-waits-77th-birthday-eve-get-behind-the-mule",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$18 adv · $22 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/tom-waits-77th-birthday-eve-get-behind-the-mule"
+  },
+  {
    "id": "gallery5-2026-12-13-radqueer-productions-presents-sadqueer-18",
    "title": "RadQueer Productions presents SADQUEER | 18+",
    "date": "2026-12-13",
@@ -258,6 +275,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://gallery5arts.org/calendar/rival-booking-remembrance-doomhauer-plutonium-womb-biscuitslut-sc"
+  },
+  {
+   "id": "gallery5-2027-01-19-morgan-garrett-with-navi-and-white-beast",
+   "title": "Morgan Garrett with Navi and White Beast",
+   "date": "2027-01-19",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/morgan-garrett-navi-white-beast",
+   "kind": "m",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "$12.51",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/morgan-garrett-with-navi-and-white-beast-tickets-2004393909139"
   }
  ]
 }

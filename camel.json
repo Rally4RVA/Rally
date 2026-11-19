@@ -1,34 +1,9 @@
 {
- "updated": "2026-11-18T13:48:04-05:00",
+ "updated": "2026-11-19T14:00:52-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "dauber-young-scum-housie-heat-sick-18-nov",
-   "title": "Dauber, Young Scum, Housie, Heat Sick",
-   "date": "2026-11-18",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/dauber-young-scum-housie-heat-sick-18-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/745417/web_orders/new"
-  },
   {
    "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
    "title": "Dave Hause and The Mermaid: The Cellmates Tour w/Jeremy White",
@@ -40,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25",
+   "price_display": "$30.42 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -49,6 +24,13 @@
      "base": 20.0,
      "fee": 5.25,
      "total": 25.25,
+     "status": "Sale ended"
+    },
+    {
+     "name": "Day Of Show",
+     "base": 25.0,
+     "fee": 5.42,
+     "total": 30.42,
      "status": ""
     }
    ],
@@ -418,13 +400,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-01-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "age": "",
+   "address": "",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "beers-banjos-slack-family-band-04-dec",
@@ -452,21 +434,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 12.0,
-     "fee": 3.44,
-     "total": 15.44,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/794314/web_orders/new"
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "dalton-dash-album-release-w-hotpants-erin-lunsford-trio-05-dec",
@@ -504,18 +478,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/799048/web_orders/new"
   },
   {
@@ -602,21 +568,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/719297/web_orders/new"
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "public-acid-ulcer-no-fucker-destruct-massacre-system-13-dec",
@@ -870,15 +828,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -993,7 +943,7 @@
    "table_price": null,
    "tiers": [
     {
-     "name": "Artist Presale",
+     "name": "Membership VIP",
      "base": 25.25,
      "fee": 0.0,
      "total": 25.25,

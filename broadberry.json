@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-18T13:48:26-05:00",
+ "updated": "2026-11-19T14:01:13-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-18-hiss-golden-messenger-i-m-people-tour-sam-amidon",
-   "title": "HISS GOLDEN MESSENGER: I’M PEOPLE TOUR, SAM AMIDON",
-   "date": "2026-11-18",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/hiss-golden-messenger-im-people-tour-w-sam-amidon/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/hiss-golden-messenger-im-people-tour-w-sam-amidon/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-19-winyah-foxtide",
    "title": "WINYAH, FOXTIDE",
@@ -534,6 +517,23 @@
    "ticket_url": "https://thebroadberry.com/event/cash-only-tonys-w-lorraine-ostraca-and-gif-from-god/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "bb-2027-01-09-life-on-mars-a-tribute-to-david-bowie-the-notorious-byrd",
+   "title": "LIFE ON MARS: A TRIBUTE TO DAVID BOWIE, THE NOTORIOUS BYRD",
+   "date": "2027-01-09",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/life-on-mars-a-tribute-to-david-bowie-w-the-notorious-byrd/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/life-on-mars-a-tribute-to-david-bowie-w-the-notorious-byrd/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-01-13-eddie-9v-rescheduled-date",
    "title": "EDDIE 9V ***RESCHEDULED DATE***",
    "date": "2027-01-13",
@@ -651,6 +651,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/the-jack-wharff-band-the-coming-home-world-tour-2027/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-27-jeromes-dream",
+   "title": "JEROMES DREAM",
+   "date": "2027-01-27",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "Richmond Music Hall",
+   "url": "https://thebroadberry.com/event/jeromes-dream/richmond-music-hall/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/jeromes-dream/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-29-kpop-night-18",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-18T13:51:22-05:00",
+ "updated": "2026-11-19T14:04:10-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-18-bobby-thompson-karen-jonas-jon-tyler-wiley-7-30-pm",
-   "title": "Bobby Thompson / Karen Jonas / Jon Tyler Wiley",
-   "date": "2026-11-18",
-   "doors": "",
-   "show_time": "7:30 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/bobby-thompson-karen-jonas-jon-tyler-wiley-11182026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$17.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2507169"
-  },
   {
    "id": "reveler-2026-11-19-kia-bennett-8-00-pm",
    "title": "Kia Bennett",
@@ -632,6 +615,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2492475"
+  },
+  {
+   "id": "reveler-2026-12-19-tennishu-8-00-pm",
+   "title": "Tennishu",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/tennishu-12192026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2541818"
   },
   {
    "id": "reveler-2026-12-20-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
