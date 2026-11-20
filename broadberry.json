@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-19T14:01:13-05:00",
+ "updated": "2026-11-20T13:29:45-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-19-winyah-foxtide",
-   "title": "WINYAH, FOXTIDE",
-   "date": "2026-11-19",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-20-blitzkid-modern-hel-tour-2026-blood-ponies-savage-remains-an",
    "title": "BLITZKID: MODERN HEL TOUR 2026, BLOOD PONIES, SAVAGE REMAINS, AND STEELBOY",
@@ -959,13 +942,13 @@
    "ticket_url": "https://thebroadberry.com/event/jared-benjamin/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-03-21-comehelpglo-whos-whybie-tour-shlumpy-and-comehelpmae",
-   "title": "COMEHELPGLO: “WHOS WHYBIE?” TOUR, SHLUMPY AND COMEHELPMAE",
+   "id": "bb-2027-03-21-comehelpglo-whos-whybie-tour-shlumpy-and-comehelpmae-moved-t",
+   "title": "COMEHELPGLO: “WHOS WHYBIE?” TOUR, SHLUMPY AND COMEHELPMAE ***MOVED TO THE BROADBERRY***",
    "date": "2027-03-21",
    "doors": "7:00 PM",
    "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae/richmond-music-hall/richmond-virginia/",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae-moved-to-the-broadberry/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -973,7 +956,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae-moved-to-the-broadberry/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-03-24-destroy-boys-illuminati-hotties-and-the-rat-utopia-experimen",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-19T14:02:00-05:00",
+ "updated": "2026-11-20T13:30:29-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
-   "title": "Richmond Symphony at Hardywood!",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr-zmcr9",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.etix.com/ticket/p/68873298/music-at-hardywood-2-richmond-hardywood-park-craft-brewery-richmond-symphony"
-  },
   {
    "id": "hardywood-2026-11-20-live-music-the-yard-dogs",
    "title": "The Yard Dogs",

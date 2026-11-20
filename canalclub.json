@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:05:10-05:00",
+ "updated": "2026-11-20T13:33:39-05:00",
  "venues": [
   "The Canal Club"
  ],
@@ -71,6 +71,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/king-tuff-sheer-mag-206057"
+  },
+  {
+   "id": "canalclub-2026-12-05-punks-for-presents",
+   "title": "PUNKS FOR PRESENTS",
+   "date": "2026-12-05",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/punks-for-presents-215683",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/punks-for-presents-215683"
   },
   {
    "id": "canalclub-2026-12-10-the-crimson-armada-thus-spoke-zarathustra-bonewretch-a-kiss-",
@@ -175,8 +192,8 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/depeche-mode-and-cure-tribute-night-195167"
   },
   {
-   "id": "canalclub-2027-01-22-shovelhead-a-d-the-ziggurat-wolf-legion-spiral-fracture-bata",
-   "title": "SHOVELHEAD A.D., The Ziggurat , Wolf Legion, Spiral Fracture, Batavia",
+   "id": "canalclub-2027-01-22-shovelhead-a-d-the-ziggurat-spiral-fracture-wolf-legion-bata",
+   "title": "SHOVELHEAD A.D., The Ziggurat , Spiral Fracture, Wolf Legion, Batavia",
    "date": "2027-01-22",
    "doors": "6:00 PM",
    "show_time": "6:30 PM",

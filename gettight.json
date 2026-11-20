@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-19T14:03:05-05:00",
+ "updated": "2026-11-20T13:31:30-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-19-house-night-tanenzaph-w-dj-paul-breedlove-10-00-pm",
-   "title": "HOUSE NIGHT: TANENZAPH, DJ PAUL BREEDLOVE",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-w-dj-paul-breedlove-19-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-w-dj-paul-breedlove-19-nov"
-  },
   {
    "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",
    "title": "THE DISCO CAT",
@@ -309,6 +292,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-17-dec"
+  },
+  {
+   "id": "gettight-2026-12-19-hip-hop-henry-10-00-pm",
+   "title": "HIP HOP HENRY",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-19-dec",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-19-dec"
   },
   {
    "id": "gettight-2026-12-23-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",

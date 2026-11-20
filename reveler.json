@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-19T14:04:10-05:00",
+ "updated": "2026-11-20T13:32:37-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-19-kia-bennett-8-00-pm",
-   "title": "Kia Bennett",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/kia-bennett-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2487017"
-  },
   {
    "id": "reveler-2026-11-20-passerine-8-00-pm",
    "title": "Passerine",
@@ -581,6 +564,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1515983"
+  },
+  {
+   "id": "reveler-2026-12-17-sweet-potatoes-holiday-special-special-tribute-to-whitney-ho-8-00-pm",
+   "title": "Sweet Potatoes Holiday Special Special Tribute To Whitney Houston",
+   "date": "2026-12-17",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sweet-potatoes-holiday-special-2026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2544036"
   },
   {
    "id": "reveler-2026-12-18-a-soulful-christmas-ronee-martin-taquan-wyatt-8-00-pm",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:06:46-05:00",
+ "updated": "2026-11-20T13:35:13-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,182 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-19-the-reverend-billy-c-wirtz",
-   "title": "The Reverend Billy C. Wirtz",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
-  {
-   "id": "hardywood-2026-11-19-richmond-symphony-at-hardywood",
-   "title": "Richmond Symphony at Hardywood!",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/qs9i3yggj6smta8kznfa1ihy74iu78-hdwpw-yrnf3-e3dnr-zmcr9",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.etix.com/ticket/p/68873298/music-at-hardywood-2-richmond-hardywood-park-craft-brewery-richmond-symphony"
-  },
-  {
-   "id": "mainline-2026-11-19-hoof",
-   "title": "Hoof",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "6:30 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/hoof-2",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/hoof-2"
-  },
-  {
-   "id": "bb-2026-11-19-winyah-foxtide",
-   "title": "WINYAH, FOXTIDE",
-   "date": "2026-11-19",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/winyah-w-foxtide/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "bandito-2026-11-19-naysayer-lose-sight-all-4-all-against-the-world-brawler-unit",
-   "title": "Naysayer, Lose Sight, All 4 All, Against the World, Brawler Unit",
-   "date": "2026-11-19",
-   "doors": "6:30 PM",
-   "show_time": "7:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/naysayer-lose-sight-all-4-all-against-the-world-brawler-unit-november-19-2026-798827",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "All Ages",
-     "base": 15.0,
-     "fee": 0.0,
-     "total": 15.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/naysayer-lose-sight-all-4-all-against-the-world-brawler-unit-november-19-2026-798827"
-  },
-  {
-   "id": "dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
-   "title": "Dave Hause and The Mermaid: The Cellmates Tour w/Jeremy White",
-   "date": "2026-11-19",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/dave-hause-and-the-mermaid-the-cellmates-tour-19-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day Of Show",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/655028/web_orders/new"
-  },
-  {
-   "id": "gallery5-2026-11-19-gorrak-brash-future-mantis-after-nations",
-   "title": "Gorrak, Brash, Future Mantis, After Nations",
-   "date": "2026-11-19",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10 adv · $15 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/gorrak-brash-future-mantis-after-nations"
-  },
-  {
-   "id": "reveler-2026-11-19-kia-bennett-8-00-pm",
-   "title": "Kia Bennett",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/kia-bennett-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$30",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2487017"
-  },
-  {
-   "id": "gettight-2026-11-19-house-night-tanenzaph-w-dj-paul-breedlove-10-00-pm",
-   "title": "HOUSE NIGHT: TANENZAPH, DJ PAUL BREEDLOVE",
-   "date": "2026-11-19",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-w-dj-paul-breedlove-19-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/house-night-tanenzaph-w-dj-paul-breedlove-19-nov"
-  },
   {
    "id": "northside-2026-11-20-east-lex-boys",
    "title": "East Lex Boys",
@@ -276,18 +100,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$30.42",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/600849/web_orders/new"
   },
   {
@@ -359,11 +175,28 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1"
   },
   {
+   "id": "reveler-2026-11-20-passerine-8-00-pm",
+   "title": "Passerine",
+   "date": "2026-11-20",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/passerine-11202026",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$22.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2361907"
+  },
+  {
    "id": "bandito-2026-11-20-anastasia-satanic-war-machine-dead-steppe-guzum",
    "title": "Anastasia, Satanic War Machine, Dead Steppe, GuZum",
    "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
+   "doors": "8:00 PM",
+   "show_time": "9:00 PM",
    "venue": "Bandito's Burrito Lounge",
    "url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780",
    "kind": "m",
@@ -382,23 +215,6 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780"
-  },
-  {
-   "id": "reveler-2026-11-20-passerine-8-00-pm",
-   "title": "Passerine",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/passerine-11202026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$22.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2361907"
   },
   {
    "id": "manual-loso-2026-11-20-root-wrk-armando-x",
@@ -1378,7 +1194,22 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -2047,13 +1878,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/the-bachelor-boys-wedding-band-showcase-01-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
    "price_display": "Free",
    "free": true,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
+   "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
   },
   {
    "id": "gallery5-2026-12-01-yuletide-monsters-mask-making-workshop",
@@ -2336,6 +2167,23 @@
    "ticket_url": "https://buytickets.at/reveler/2530066"
   },
   {
+   "id": "recurring-bottomsuppizza-2026-12-04",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
+  },
+  {
    "id": "gallery5-2026-12-04-first-fridays-yuletide-monsters-first-friday-kick-off",
    "title": "First Fridays: Yuletide Monsters First Friday Kick-off!",
    "date": "2026-12-04",
@@ -2493,17 +2341,25 @@
    "title": "Chords For a Cause Charity Event w/ Sorry Excuse, Saturn Has Ears, Ataraxia, Amherst, Red Light Fever",
    "date": "2026-12-05",
    "doors": "1:00 PM",
-   "show_time": "2:30 PM",
+   "show_time": "1:30 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/794314/web_orders/new"
   },
   {
    "id": "reveler-2026-12-05-nicole-mitchell-joe-westerlund-3-00-pm",
@@ -2555,6 +2411,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2026-12-05-punks-for-presents",
+   "title": "PUNKS FOR PRESENTS",
+   "date": "2026-12-05",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/punks-for-presents-215683",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/punks-for-presents-215683"
   },
   {
    "id": "reveler-2026-12-05-crazy-chester-a-nc-tribute-to-the-band-the-last-waltz-50th-a-8-00-pm",
@@ -2626,10 +2499,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$13.22",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admission",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/799048/web_orders/new"
   },
   {
@@ -3183,13 +3064,21 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
    "free": false,
    "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/719297/web_orders/new"
   },
   {
    "id": "manual-loso-2026-12-12-bridge",
@@ -3539,6 +3428,23 @@
    "ticket_url": "https://thebroadberry.com/event/santa-rave-%f0%9f%8e%85-18-3/the-broadberry-2/richmond-virginia/"
   },
   {
+   "id": "reveler-2026-12-17-sweet-potatoes-holiday-special-special-tribute-to-whitney-ho-8-00-pm",
+   "title": "Sweet Potatoes Holiday Special Special Tribute To Whitney Houston",
+   "date": "2026-12-17",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sweet-potatoes-holiday-special-2026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2544036"
+  },
+  {
    "id": "gettight-2026-12-17-house-night-elliott-10-00-pm",
    "title": "HOUSE NIGHT: ELLIOTT",
    "date": "2026-12-17",
@@ -3756,6 +3662,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://shotgun.live/en/events/bridget-12-19"
+  },
+  {
+   "id": "gettight-2026-12-19-hip-hop-henry-10-00-pm",
+   "title": "HIP HOP HENRY",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "10:00 PM",
+   "venue": "The Get Tight Lounge",
+   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-19-dec",
+   "kind": "m",
+   "age": "21+",
+   "address": "Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-19-dec"
   },
   {
    "id": "zhtml-nomillionaires-dhemo-20-dec",
@@ -4383,8 +4306,8 @@
    "ticket_url": "https://app.opendate.io/confirms/755590/web_orders/new"
   },
   {
-   "id": "canalclub-2027-01-22-shovelhead-a-d-the-ziggurat-wolf-legion-spiral-fracture-bata",
-   "title": "SHOVELHEAD A.D., The Ziggurat , Wolf Legion, Spiral Fracture, Batavia",
+   "id": "canalclub-2027-01-22-shovelhead-a-d-the-ziggurat-spiral-fracture-wolf-legion-bata",
+   "title": "SHOVELHEAD A.D., The Ziggurat , Spiral Fracture, Wolf Legion, Batavia",
    "date": "2027-01-22",
    "doors": "6:00 PM",
    "show_time": "6:30 PM",
@@ -5072,13 +4995,13 @@
    "ticket_url": "https://thebroadberry.com/event/jared-benjamin/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-03-21-comehelpglo-whos-whybie-tour-shlumpy-and-comehelpmae",
-   "title": "COMEHELPGLO: “WHOS WHYBIE?” TOUR, SHLUMPY AND COMEHELPMAE",
+   "id": "bb-2027-03-21-comehelpglo-whos-whybie-tour-shlumpy-and-comehelpmae-moved-t",
+   "title": "COMEHELPGLO: “WHOS WHYBIE?” TOUR, SHLUMPY AND COMEHELPMAE ***MOVED TO THE BROADBERRY***",
    "date": "2027-03-21",
    "doors": "7:00 PM",
    "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae/richmond-music-hall/richmond-virginia/",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae-moved-to-the-broadberry/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -5086,7 +5009,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/comehelpglo-whos-whybie-tour-w-shlumpy-and-comehelpmae-moved-to-the-broadberry/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "dug-w-nat-myers-23-mar",
@@ -5104,18 +5027,11 @@
    "table_price": null,
    "tiers": [
     {
-     "name": "Membership VIP",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    },
-    {
      "name": "Advance",
      "base": 20.0,
      "fee": 5.25,
      "total": 25.25,
-     "status": "Sales start November 20, 2026"
+     "status": ""
     },
     {
      "name": "Day Of Show",
@@ -5319,7 +5235,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {
