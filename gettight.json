@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-20T13:31:30-05:00",
+ "updated": "2026-11-21T12:18:45-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",
-   "title": "THE DISCO CAT",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov"
-  },
   {
    "id": "gettight-2026-11-21-blu-nickelus-f-8-00-pm",
    "title": "BLU & NICKELUS F",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$17.87",
+   "price_display": "$23.55",
    "free": false,
    "table_price": null,
    "tiers": [],

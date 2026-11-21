@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:35:13-05:00",
+ "updated": "2026-11-21T12:22:24-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,252 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-20-east-lex-boys",
-   "title": "East Lex Boys",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
-  {
-   "id": "northside-2026-11-20-scott-morese-and-the-live-wire-blues-revue",
-   "title": "Scott Morese and the Live Wire Blues Revue",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
-  {
-   "id": "recurring-bottomsuppizza-2026-11-20",
-   "title": "Live music (see Instagram for the band)",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "",
-   "venue": "Bottoms Up Pizza",
-   "url": "https://www.instagram.com/bottomsuppizza/",
-   "kind": "m",
-   "age": "",
-   "address": "1700 Dock St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
-  },
-  {
-   "id": "hardywood-2026-11-20-live-music-the-yard-dogs",
-   "title": "The Yard Dogs",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "6:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-the-yard-dogs",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-the-yard-dogs"
-  },
-  {
-   "id": "tim-barry-20-nov",
-   "title": "November Fest '26 with Tim Barry Day 1: feat. Julie Karr, Roger Harvey, Sally Rose",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/tim-barry-20-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/600849/web_orders/new"
-  },
-  {
-   "id": "bb-2026-11-20-blitzkid-modern-hel-tour-2026-blood-ponies-savage-remains-an",
-   "title": "BLITZKID: MODERN HEL TOUR 2026, BLOOD PONIES, SAVAGE REMAINS, AND STEELBOY",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/blitzkid-modern-hel-tour-2026-w-blood-ponies-savage-remains-and-steelboy/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/blitzkid-modern-hel-tour-2026-w-blood-ponies-savage-remains-and-steelboy/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-20-kendall-street-company-turkey-jam-big-fancy",
-   "title": "KENDALL STREET COMPANY: TURKEY JAM, BIG FANCY",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/kendall-street-company-turkey-jam-w-big-fancy/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/kendall-street-company-turkey-jam-w-big-fancy/the-broadberry-2/richmond-virginia/"
-  },
-  {
-   "id": "gallery5-2026-11-20-white-laces-feat-reverse-yr-curse-and-cor-de-lux-nc",
-   "title": "White Laces feat Reverse yr Curse and Cor De Lux (NC)",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/white-laces-reverse-yr-curse-cor-de-lux",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10 adv · $12 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/white-laces-reverse-yr-curse-cor-de-lux"
-  },
-  {
-   "id": "mainline-2026-11-20-tin-can-fish-band",
-   "title": "Tin Can Fish Band",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1"
-  },
-  {
-   "id": "reveler-2026-11-20-passerine-8-00-pm",
-   "title": "Passerine",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/passerine-11202026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$22.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2361907"
-  },
-  {
-   "id": "bandito-2026-11-20-anastasia-satanic-war-machine-dead-steppe-guzum",
-   "title": "Anastasia, Satanic War Machine, Dead Steppe, GuZum",
-   "date": "2026-11-20",
-   "doors": "8:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$10 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 10.0,
-     "fee": 0.0,
-     "total": 10.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/anastasia-satanic-war-machine-dead-steppe-guzum-november-20-2026-777780"
-  },
-  {
-   "id": "manual-loso-2026-11-20-root-wrk-armando-x",
-   "title": "Root.Wrk: Armando X",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "LOSO",
-   "url": "https://shotgun.live/en/events/root-wrk-armando-x",
-   "kind": "m",
-   "age": "",
-   "address": "2727 W Broad St, Richmond, VA",
-   "price_display": "$12-$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://shotgun.live/en/events/root-wrk-armando-x"
-  },
-  {
-   "id": "manual-pandora-cafe-2026-11-20-spectre-presents-jr2k-at-pandora",
-   "title": "Spectre Presents: Jr2k At Pandora",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "Pandora Cafe",
-   "url": "https://shotgun.live/en/events/spectre-presents-jr-2-k-at-pandora",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "$10-$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://shotgun.live/en/events/spectre-presents-jr-2-k-at-pandora"
-  },
-  {
-   "id": "gettight-2026-11-20-the-disco-cat-10-00-pm",
-   "title": "THE DISCO CAT",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/the-disco-cat-20-nov"
-  },
   {
    "id": "northside-2026-11-21-northside-rva-oyster-roast-clam-bake",
    "title": "Northside RVA Oyster Roast & Clam Bake",
@@ -482,7 +236,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$17.87",
+   "price_display": "$23.55",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -760,8 +514,8 @@
    "ticket_url": "https://www.bramblypark.com/eventscalendar"
   },
   {
-   "id": "reveler-2026-11-24-jbizz-home-for-the-holidays-presented-by-ten10-entertainment-6-00-pm",
-   "title": "Jbizz: Home For The Holidays Presented By Ten10 Entertainment And Brand New Wave Still Not For Everybody Tour, Hosted By Lela Bizz + A Live Panel With Surprise Guests",
+   "id": "reveler-2026-11-24-jbizz-home-for-the-holidays-6-00-pm",
+   "title": "Jbizz: Home For The Holidays",
    "date": "2026-11-24",
    "doors": "",
    "show_time": "6:00 PM",
@@ -1194,22 +948,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Seats up to 5",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -2335,6 +2074,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-04-dec"
+  },
+  {
+   "id": "recurring-bottomsuppizza-2026-12-05",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
   },
   {
    "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
@@ -3723,13 +3479,13 @@
    "ticket_url": "https://thebroadberry.com/event/reality-shift-twisted-nature-and-abismo-onix/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-20-yarn",
-   "title": "YARN",
+   "id": "bb-2026-12-20-yarn-james-river-junction",
+   "title": "YARN, JAMES RIVER JUNCTION",
    "date": "2026-12-20",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/yarn-w-james-river-junction/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -3737,7 +3493,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/yarn-w-james-river-junction/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "reveler-2026-12-20-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
@@ -4708,7 +4464,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -4776,6 +4540,38 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/haywire-211843"
+  },
+  {
+   "id": "marbin-22-feb",
+   "title": "MARBIN",
+   "date": "2027-02-22",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/marbin-22-feb",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25.25 adv · $37.39 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 30.0,
+     "fee": 7.39,
+     "total": 37.39,
+     "status": "Sales start February 22, 2027"
+    },
+    {
+     "name": "Advance (1)",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/804378/web_orders/new"
   },
   {
    "id": "canalclub-2027-02-23-boundaries-spite-the-callous-daoboys-your-spirit-dies",
@@ -5235,15 +5031,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {

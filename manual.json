@@ -1,27 +1,10 @@
 {
- "updated": "2026-11-20T13:35:12-05:00",
+ "updated": "2026-11-21T12:22:23-05:00",
  "venues": [
   "LOSO",
   "Pandora Cafe"
  ],
  "events": [
-  {
-   "id": "manual-loso-2026-11-20-root-wrk-armando-x",
-   "title": "Root.Wrk: Armando X",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "LOSO",
-   "url": "https://shotgun.live/en/events/root-wrk-armando-x",
-   "kind": "m",
-   "age": "",
-   "address": "2727 W Broad St, Richmond, VA",
-   "price_display": "$12-$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://shotgun.live/en/events/root-wrk-armando-x"
-  },
   {
    "id": "manual-loso-2026-11-25-dj-holographic",
    "title": "Dj Holographic",
@@ -259,23 +242,6 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://shotgun.live/en/events/planet-had2-level-12"
-  },
-  {
-   "id": "manual-pandora-cafe-2026-11-20-spectre-presents-jr2k-at-pandora",
-   "title": "Spectre Presents: Jr2k At Pandora",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "Pandora Cafe",
-   "url": "https://shotgun.live/en/events/spectre-presents-jr-2-k-at-pandora",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "$10-$25",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://shotgun.live/en/events/spectre-presents-jr-2-k-at-pandora"
   },
   {
    "id": "manual-pandora-cafe-2026-11-21-groove-room-1",

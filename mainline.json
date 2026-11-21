@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-20T13:30:42-05:00",
+ "updated": "2026-11-21T12:17:59-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-20-tin-can-fish-band",
-   "title": "Tin Can Fish Band",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/tin-can-fish-band-1"
-  },
   {
    "id": "mainline-2026-11-21-the-hit-list",
    "title": "The Hit List",

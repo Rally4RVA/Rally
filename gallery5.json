@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-20T13:30:20-05:00",
+ "updated": "2026-11-21T12:17:38-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-20-white-laces-feat-reverse-yr-curse-and-cor-de-lux-nc",
-   "title": "White Laces feat Reverse yr Curse and Cor De Lux (NC)",
-   "date": "2026-11-20",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/white-laces-reverse-yr-curse-cor-de-lux",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "$10 adv · $12 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/white-laces-reverse-yr-curse-cor-de-lux"
-  },
   {
    "id": "gallery5-2026-11-21-jo-rie-s-bday-jump-off-vol-5-18",
    "title": "Jo'Rie's Bday Jump Off Vol. 5 | 18+",

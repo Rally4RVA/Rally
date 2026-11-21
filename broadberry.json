@@ -1,45 +1,11 @@
 {
- "updated": "2026-11-20T13:29:45-05:00",
+ "updated": "2026-11-21T12:17:04-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-20-blitzkid-modern-hel-tour-2026-blood-ponies-savage-remains-an",
-   "title": "BLITZKID: MODERN HEL TOUR 2026, BLOOD PONIES, SAVAGE REMAINS, AND STEELBOY",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/blitzkid-modern-hel-tour-2026-w-blood-ponies-savage-remains-and-steelboy/richmond-music-hall/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/blitzkid-modern-hel-tour-2026-w-blood-ponies-savage-remains-and-steelboy/richmond-music-hall/richmond-virginia/"
-  },
-  {
-   "id": "bb-2026-11-20-kendall-street-company-turkey-jam-big-fancy",
-   "title": "KENDALL STREET COMPANY: TURKEY JAM, BIG FANCY",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/kendall-street-company-turkey-jam-w-big-fancy/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/kendall-street-company-turkey-jam-w-big-fancy/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-21-skydog-a-tribute-to-the-allman-brothers-band",
    "title": "SKYDOG: A TRIBUTE TO THE ALLMAN BROTHERS BAND",
@@ -432,13 +398,13 @@
    "ticket_url": "https://thebroadberry.com/event/reality-shift-twisted-nature-and-abismo-onix/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-20-yarn",
-   "title": "YARN",
+   "id": "bb-2026-12-20-yarn-james-river-junction",
+   "title": "YARN, JAMES RIVER JUNCTION",
    "date": "2026-12-20",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/yarn-w-james-river-junction/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -446,7 +412,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/yarn-2/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/yarn-w-james-river-junction/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-28-barstool-rodeo-the-music-of-widespread-panic",

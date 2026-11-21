@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-20T13:29:24-05:00",
+ "updated": "2026-11-21T12:16:42-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "tim-barry-20-nov",
-   "title": "November Fest '26 with Tim Barry Day 1: feat. Julie Karr, Roger Harvey, Sally Rose",
-   "date": "2026-11-20",
-   "doors": "7:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/tim-barry-20-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/600849/web_orders/new"
-  },
   {
    "id": "november-fest-26-with-tim-barry-day-2-feat-josh-small-andrew-alli-lela-jane-barry-21-nov",
    "title": "November Fest '26 with Tim Barry Day 2: feat. Josh Small & Andrew Alli, Lela Jane Barry",
@@ -192,22 +175,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Seats up to 5",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -827,7 +795,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -861,6 +837,38 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/730735/web_orders/new"
+  },
+  {
+   "id": "marbin-22-feb",
+   "title": "MARBIN",
+   "date": "2027-02-22",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/marbin-22-feb",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$25.25 adv · $37.39 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Day Of Show",
+     "base": 30.0,
+     "fee": 7.39,
+     "total": 37.39,
+     "status": "Sales start February 22, 2027"
+    },
+    {
+     "name": "Advance (1)",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/804378/web_orders/new"
   },
   {
    "id": "earth-to-eve-26-feb",
@@ -997,15 +1005,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]
