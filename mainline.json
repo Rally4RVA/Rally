@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-21T12:17:59-05:00",
+ "updated": "2026-11-22T12:46:29-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-21-the-hit-list",
-   "title": "The Hit List",
-   "date": "2026-11-21",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/ykhscevu8pkfrkk37vv50oh2r583j6",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/ykhscevu8pkfrkk37vv50oh2r583j6"
-  },
-  {
-   "id": "mainline-2026-11-21-totally-random",
-   "title": "Totally Random",
-   "date": "2026-11-21",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/totally-random-1",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/totally-random-1"
-  },
   {
    "id": "mainline-2026-11-22-brett-baboorian",
    "title": "Brett Baboorian",

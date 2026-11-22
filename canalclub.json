@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-21T12:20:50-05:00",
+ "updated": "2026-11-22T12:49:23-05:00",
  "venues": [
   "The Canal Club"
  ],
  "events": [
-  {
-   "id": "canalclub-2026-11-21-suggesting-rhythm",
-   "title": "SUGGESTING RHYTHM",
-   "date": "2026-11-21",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.tixr.com/groups/thecanalclub/events/suggesting-rhythm-212907",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/suggesting-rhythm-212907"
-  },
   {
    "id": "canalclub-2026-11-25-what-s-our-age-again-full-send",
    "title": "WHAT'S OUR AGE AGAIN?, Full Send",

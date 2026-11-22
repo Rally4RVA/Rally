@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-21T12:20:57-05:00",
+ "updated": "2026-11-22T12:49:30-05:00",
  "venues": [
   "Northside Grille"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-21-northside-rva-oyster-roast-clam-bake",
-   "title": "Northside RVA Oyster Roast & Clam Bake",
-   "date": "2026-11-21",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
-  {
-   "id": "northside-2026-11-21-john-moser-the-blue-cosmos",
-   "title": "John Moser & The Blue Cosmos",
-   "date": "2026-11-21",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
   {
    "id": "northside-2026-11-22-susan-greenbaum",
    "title": "Susan Greenbaum",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-21T12:16:42-05:00",
+ "updated": "2026-11-22T12:45:12-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "november-fest-26-with-tim-barry-day-2-feat-josh-small-andrew-alli-lela-jane-barry-21-nov",
-   "title": "November Fest '26 with Tim Barry Day 2: feat. Josh Small & Andrew Alli, Lela Jane Barry",
-   "date": "2026-11-21",
-   "doors": "7:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/november-fest-26-with-tim-barry-day-2-feat-josh-small-andrew-alli-lela-jane-barry-21-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/600850/web_orders/new"
-  },
   {
    "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
    "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers *SOLD OUT*",
@@ -99,8 +82,8 @@
    "id": "live-i-spy-hosted-by-vice-antiques-25-nov",
    "title": "Live I Spy Hosted by Vice Antiques",
    "date": "2026-11-25",
-   "doors": "",
-   "show_time": "12:00 PM",
+   "doors": "5:30 PM",
+   "show_time": "6:00 PM",
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/live-i-spy-hosted-by-vice-antiques-25-nov",
    "kind": "m",
@@ -175,7 +158,22 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    },
+    {
+     "name": "Seats up to 5",
+     "base": 18.54,
+     "fee": 0.0,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -649,6 +647,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/798097/web_orders/new"
+  },
+  {
+   "id": "staff-picks-crack-fox-litter-this-man-may-die-27-dec",
+   "title": "Staff Picks: Crack Fox, Litter, This Man May Die",
+   "date": "2026-12-27",
+   "doors": "6:00 PM",
+   "show_time": "7:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/staff-picks-crack-fox-litter-this-man-may-die-27-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/630348/web_orders/new"
   },
   {
    "id": "new-year-s-eve-w-ma-am-buffie-31-dec",

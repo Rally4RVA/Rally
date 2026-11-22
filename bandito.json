@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-21T12:18:34-05:00",
+ "updated": "2026-11-22T12:47:09-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-11-21-buffie-single-release-show-w-m-brett-jones-ranfeld",
-   "title": "Buffie Single Release Show, M Brett Jones & Ranfeld",
-   "date": "2026-11-21",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/buffie-single-release-show-w-m-brett-jones-ranfeld-november-21-2026-798996",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/e/buffie-single-release-show-w-m-brett-jones-ranfeld-november-21-2026-798996"
-  },
   {
    "id": "bandito-2026-11-22-massa-nera-prisoner-terror-cell-kristeva",
    "title": "Massa Nera, Prisoner, Terror Cell, Kristeva",
@@ -97,6 +80,31 @@
    "ticket_url": "https://app.opendate.io/e/kontusion-hedonist-skeksis-december-01-2026-753111"
   },
   {
+   "id": "bandito-2026-12-02-my-wife-s-an-angel-cyber-twin-black-lords",
+   "title": "My Wife's An Angel, Cyber Twin, Black Lords",
+   "date": "2026-12-02",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/my-wife-s-an-angel-cyber-twin-black-lords-december-02-2026-804737",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$12 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 12.0,
+     "fee": 0.0,
+     "total": 12.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/my-wife-s-an-angel-cyber-twin-black-lords-december-02-2026-804737"
+  },
+  {
    "id": "bandito-2026-12-03-manas-stephen-vitiello-jim-strong-and-opera-benezet-s-sutton",
    "title": "MANAS, Stephen Vitiello, Jim Strong and Opera Benezet, S. Sutton, Molasses",
    "date": "2026-12-03",
@@ -148,6 +156,23 @@
    "ticket_url": "https://app.opendate.io/e/halloween-so-alive-morpha-too-december-06-2026-798997"
   },
   {
+   "id": "bandito-2026-12-07-the-nu-viles-funeral-agents-pigname-crash-test",
+   "title": "The Nu-Viles, Funeral Agents, Pigname, Crash Test",
+   "date": "2026-12-07",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/the-nu-viles-funeral-agents-pigname-crash-test-december-07-2026-804738",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/e/the-nu-viles-funeral-agents-pigname-crash-test-december-07-2026-804738"
+  },
+  {
    "id": "bandito-2026-12-10-dusty-rug-blush-face-jordan-rein",
    "title": "Dusty Rug, Blush Face, Jordan Rein",
    "date": "2026-12-10",
@@ -190,6 +215,31 @@
    "ticket_url": "https://app.opendate.io/e/dead-billionaires-the-wayward-leaves-danger-birds-december-11-2026-801621"
   },
   {
+   "id": "bandito-2026-12-12-molt-album-release-show-w-ducttape-jesus-the-smirks-rat-figh",
+   "title": "Molt Album Release Show, DuctTape Jesus, The Smirks, Rat Fight",
+   "date": "2026-12-12",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/molt-album-release-show-w-ducttape-jesus-the-smirks-rat-fight-december-12-2026-804714",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$15 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/molt-album-release-show-w-ducttape-jesus-the-smirks-rat-fight-december-12-2026-804714"
+  },
+  {
    "id": "bandito-2026-12-14-magic-tuber-stringband-crazy-doberman-molasses-industries",
    "title": "Magic Tuber Stringband, Crazy Doberman, Molasses Industries",
    "date": "2026-12-14",
@@ -213,6 +263,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/e/magic-tuber-stringband-crazy-doberman-molasses-industries-december-14-2026-746745"
+  },
+  {
+   "id": "bandito-2027-01-02-ffo-chillin-suntitle-sowing-floodwall",
+   "title": "FFO: Chillin, Suntitle, sowing, Floodwall",
+   "date": "2027-01-02",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "Bandito's Burrito Lounge",
+   "url": "https://app.opendate.io/e/ffo-chillin-suntitle-sowing-floodwall-january-02-2027-804726",
+   "kind": "m",
+   "age": "18+",
+   "address": "2905 Patterson Ave, Richmond, VA",
+   "price_display": "$15 door",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Doors 7pm // Show 8pm",
+     "base": 15.0,
+     "fee": 0.0,
+     "total": 15.0,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/e/ffo-chillin-suntitle-sowing-floodwall-january-02-2027-804726"
   },
   {
    "id": "bandito-2027-01-13-division-of-mind-special-move-outta-pocket-brawler-unit",

@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-21T12:16:52-05:00",
+ "updated": "2026-11-22T12:45:21-05:00",
  "venues": [
   "Cobra Cabana"
  ],
- "events": []
+ "events": [
+  {
+   "id": "cobra-2005215779375",
+   "title": "12/19 Deceased, Vigil, Amputee at Cobra Cabana",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "6:00 PM",
+   "venue": "Cobra Cabana",
+   "url": "https://www.eventbrite.com/e/1219-deceased-vigil-amputee-at-cobra-cabana-tickets-2005215779375",
+   "kind": "m",
+   "age": "",
+   "address": "901 W Marshall St, Richmond, VA",
+   "price_display": "$23.18",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.eventbrite.com/e/1219-deceased-vigil-amputee-at-cobra-cabana-tickets-2005215779375"
+  }
+ ]
 }

@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-21T12:17:04-05:00",
+ "updated": "2026-11-22T12:45:34-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-21-skydog-a-tribute-to-the-allman-brothers-band",
-   "title": "SKYDOG: A TRIBUTE TO THE ALLMAN BROTHERS BAND",
-   "date": "2026-11-21",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/skydog-a-tribute-to-the-allman-brothers-band-5/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/skydog-a-tribute-to-the-allman-brothers-band-5/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-25-fear-of-music-a-thanksgiving-eve-tradition",
    "title": "FEAR OF MUSIC: A THANKSGIVING EVE TRADITION",

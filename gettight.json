@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-21T12:18:45-05:00",
+ "updated": "2026-11-22T12:47:21-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-21-blu-nickelus-f-8-00-pm",
-   "title": "BLU & NICKELUS F",
-   "date": "2026-11-21",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$23.55",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/blu-nickelus-f-21-nov"
-  },
-  {
-   "id": "gettight-2026-11-21-melodic-dj-10-00-pm",
-   "title": "MELODIC (DJ)",
-   "date": "2026-11-21",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/melodic-dj-21-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-21-nov"
-  },
   {
    "id": "gettight-2026-11-25-wnrn-presents-no-bs-brass-band-8-00-pm",
    "title": "WNRN PRESENTS: NO BS! BRASS BAND",
