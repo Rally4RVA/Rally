@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-22T12:46:16-05:00",
+ "updated": "2026-11-23T17:02:02-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-22-anime-holiday-bazaar",
-   "title": "Anime Holiday Bazaar",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar"
-  },
-  {
-   "id": "hardywood-2026-11-22-live-music-same-side-sitters",
-   "title": "Same Side Sitters",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
-  },
   {
    "id": "hardywood-2026-11-24-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",

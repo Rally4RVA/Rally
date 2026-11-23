@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-22T12:46:29-05:00",
+ "updated": "2026-11-23T17:02:16-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-22-brett-baboorian",
-   "title": "Brett Baboorian",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/brett-baboorian-4",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/brett-baboorian-4"
-  },
   {
    "id": "mainline-2026-11-26-closed-for-thanksgiving",
    "title": "CLOSED FOR THANKSGIVING",

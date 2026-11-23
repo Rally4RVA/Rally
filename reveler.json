@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-22T12:48:24-05:00",
+ "updated": "2026-11-23T17:04:11-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-22-janel-leppin-animal-surrender-presented-by-sunday-soundtrack-4-00-pm",
-   "title": "Janel Leppin + Animal, Surrender! Presented By Sunday Soundtracks With Jason Sloan",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "4:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/janel-leppin-animal-surrender-jason-sloan-11222026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2512068"
-  },
-  {
-   "id": "reveler-2026-11-22-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
-   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11222026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1029950"
-  },
   {
    "id": "reveler-2026-11-23-3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-7-00-pm",
    "title": "3-11 Tour: Josh Stokes, Lacretia \"T.T\" Bolden & Sed Marsh",
@@ -615,6 +581,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/1029950"
+  },
+  {
+   "id": "reveler-2026-12-23-duke-ellington-s-nutcracker-performed-by-the-orbital-big-ban-",
+   "title": "Duke Ellington'S Nutcracker Performed By The Orbital Big Band",
+   "date": "2026-12-23",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/duke-ellingtons-nutcracker-12232026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2547644"
   },
   {
    "id": "reveler-2026-12-30-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",

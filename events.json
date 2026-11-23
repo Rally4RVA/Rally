@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:50:58-05:00",
+ "updated": "2026-11-23T17:06:45-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,150 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-22-susan-greenbaum",
-   "title": "Susan Greenbaum",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
-  {
-   "id": "hardywood-2026-11-22-anime-holiday-bazaar",
-   "title": "Anime Holiday Bazaar",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "1:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/anime-holiday-bazaar"
-  },
-  {
-   "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
-   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers *SOLD OUT*",
-   "date": "2026-11-22",
-   "doors": "2:00 PM",
-   "show_time": "2:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
-  },
-  {
-   "id": "hardywood-2026-11-22-live-music-same-side-sitters",
-   "title": "Same Side Sitters",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/live-music-same-side-sitters-jdzra-mhrwe-rt4jm"
-  },
-  {
-   "id": "mainline-2026-11-22-brett-baboorian",
-   "title": "Brett Baboorian",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "3:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/brett-baboorian-4",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/brett-baboorian-4"
-  },
-  {
-   "id": "reveler-2026-11-22-janel-leppin-animal-surrender-presented-by-sunday-soundtrack-4-00-pm",
-   "title": "Janel Leppin + Animal, Surrender! Presented By Sunday Soundtracks With Jason Sloan",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "4:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/janel-leppin-animal-surrender-jason-sloan-11222026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$15",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2512068"
-  },
-  {
-   "id": "reveler-2026-11-22-jazz-workshop-a-jam-session-with-mike-hawkins-dr-weldon-hill-7-00-pm",
-   "title": "Jazz Workshop A Jam Session With Mike Hawkins, Dr. Weldon Hill, And Karl Tietze",
-   "date": "2026-11-22",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jazz-workshop-11222026",
-   "kind": "m",
-   "age": "21+",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$8",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/1029950"
-  },
-  {
-   "id": "bandito-2026-11-22-massa-nera-prisoner-terror-cell-kristeva",
-   "title": "Massa Nera, Prisoner, Terror Cell, Kristeva",
-   "date": "2026-11-22",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$15 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Doors 7pm // Show 8pm",
-     "base": 15.0,
-     "fee": 0.0,
-     "total": 15.0,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/massa-nera-prisoner-terror-cell-kristeva-november-22-2026-757859"
-  },
   {
    "id": "reveler-2026-11-23-3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-7-00-pm",
    "title": "3-11 Tour: Josh Stokes, Lacretia \"T.T\" Bolden & Sed Marsh",
@@ -642,22 +498,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Seats up to 5",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -772,7 +613,7 @@
   },
   {
    "id": "wilson-springs-hotel-27-nov",
-   "title": "Wilson Springs Hotel",
+   "title": "Wilson Springs Hotel w/ Jake the Dog, Sasha Landon (of Palmyra)",
    "date": "2026-11-27",
    "doors": "9:00 PM",
    "show_time": "9:30 PM",
@@ -1462,6 +1303,31 @@
    "ticket_url": "https://www.eventbrite.com/e/my-cousins-girlfriends-house-seneca-burns-shotclock-235-ways-tickets-2004110825428"
   },
   {
+   "id": "woman-crush-wednesday-front-yard-s-record-release-w-becoming-nospaces-02-dec",
+   "title": "Woman Crush Wednesday: Front Yard, Becoming, Nospaces",
+   "date": "2026-12-02",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/woman-crush-wednesday-front-yard-s-record-release-w-becoming-nospaces-02-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788249/web_orders/new"
+  },
+  {
    "id": "bandito-2026-12-02-my-wife-s-an-angel-cyber-twin-black-lords",
    "title": "My Wife's An Angel, Cyber Twin, Black Lords",
    "date": "2026-12-02",
@@ -1682,9 +1548,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -1791,6 +1657,31 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://shotgun.live/en/events/planet-had2-dedro"
+  },
+  {
+   "id": "box-factory-s-first-friday-w-latchkey-siren-wells-04-dec",
+   "title": "Box Factory's First Friday w/ Latchkey, Siren Wells",
+   "date": "2026-12-04",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/box-factory-s-first-friday-w-latchkey-siren-wells-04-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/623021/web_orders/new"
   },
   {
    "id": "gettight-2026-12-04-melodic-dj-10-00-pm",
@@ -2512,6 +2403,31 @@
    "ticket_url": "https://app.opendate.io/e/dead-billionaires-the-wayward-leaves-danger-birds-december-11-2026-801621"
   },
   {
+   "id": "punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
+   "title": "Punks 4 Presents: Smashing Presents, Ritual Navideno, Sheryl Snow",
+   "date": "2026-12-11",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/685595/web_orders/new"
+  },
+  {
    "id": "bb-2026-12-12-rva-winter-jam-feat-willie-williams-band-slingshot-on-mars-a",
    "title": "RVA WINTER JAM FEAT. WILLIE WILLIAMS BAND, SLINGSHOT ON MARS, AND WHISKEY BANJO FOXTROT",
    "date": "2026-12-12",
@@ -3123,25 +3039,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19 adv · $25.25 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    },
-    {
-     "name": "Day Of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sales start December 18, 2026"
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
   },
   {
@@ -3340,6 +3241,31 @@
    "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
+   "id": "visiting-hour-homecoming-show-w-canaries-doreen-21-dec",
+   "title": "Visiting Hour Homecoming show w/Canaries, Doreen",
+   "date": "2026-12-21",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/visiting-hour-homecoming-show-w-canaries-doreen-21-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$18.54",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/783266/web_orders/new"
+  },
+  {
    "id": "hardywood-2026-12-22-high-five-trivia-every-tuesday",
    "title": "High Five Trivia - Every Tuesday!",
    "date": "2026-12-22",
@@ -3355,6 +3281,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg-jl9cw"
+  },
+  {
+   "id": "reveler-2026-12-23-duke-ellington-s-nutcracker-performed-by-the-orbital-big-ban-",
+   "title": "Duke Ellington'S Nutcracker Performed By The Orbital Big Band",
+   "date": "2026-12-23",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/duke-ellingtons-nutcracker-12232026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$20",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2547644"
   },
   {
    "id": "gettight-2026-12-23-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
@@ -4022,6 +3965,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/jeromes-dream/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-01-28-first-day-back",
+   "title": "FIRST DAY BACK",
+   "date": "2027-01-28",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/first-day-back/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/first-day-back/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-01-29-kpop-night-18",

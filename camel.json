@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-22T12:45:12-05:00",
+ "updated": "2026-11-23T17:00:55-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
-   "title": "November Fest '26 with Tim Barry Day 3: Family Show Featuring All Performers *SOLD OUT*",
-   "date": "2026-11-22",
-   "doors": "2:00 PM",
-   "show_time": "2:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/november-fest-26-with-tim-barry-day-3-family-show-featuring-all-performers-22-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/600851/web_orders/new"
-  },
   {
    "id": "symphony-of-destiny-invictus-reality-shift-23-nov",
    "title": "Reality Shift, Invictus, Symphony of Destiny",
@@ -158,27 +141,12 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    },
-    {
-     "name": "Seats up to 5",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
    "id": "wilson-springs-hotel-27-nov",
-   "title": "Wilson Springs Hotel",
+   "title": "Wilson Springs Hotel w/ Jake the Dog, Sasha Landon (of Palmyra)",
    "date": "2026-11-27",
    "doors": "9:00 PM",
    "show_time": "9:30 PM",
@@ -350,6 +318,31 @@
    "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
   },
   {
+   "id": "woman-crush-wednesday-front-yard-s-record-release-w-becoming-nospaces-02-dec",
+   "title": "Woman Crush Wednesday: Front Yard, Becoming, Nospaces",
+   "date": "2026-12-02",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/woman-crush-wednesday-front-yard-s-record-release-w-becoming-nospaces-02-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/788249/web_orders/new"
+  },
+  {
    "id": "beers-banjos-slack-family-band-04-dec",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-12-04",
@@ -358,13 +351,38 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · tables sold out",
+   "age": "",
+   "address": "",
+   "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
+  },
+  {
+   "id": "box-factory-s-first-friday-w-latchkey-siren-wells-04-dec",
+   "title": "Box Factory's First Friday w/ Latchkey, Siren Wells",
+   "date": "2026-12-04",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/box-factory-s-first-friday-w-latchkey-siren-wells-04-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/623021/web_orders/new"
   },
   {
    "id": "chords-for-a-cause-charity-event-w-sorry-excuse-saturn-has-ears-ataraxia-amherst-red-light-fever-05-dec",
@@ -517,6 +535,31 @@
    "ticket_url": "https://app.opendate.io/confirms/788247/web_orders/new"
   },
   {
+   "id": "punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
+   "title": "Punks 4 Presents: Smashing Presents, Ritual Navideno, Sheryl Snow",
+   "date": "2026-12-11",
+   "doors": "9:00 PM",
+   "show_time": "9:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/685595/web_orders/new"
+  },
+  {
    "id": "painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
    "title": "Painted World Album Release w/ Piranha Rama, Sun V Set",
    "date": "2026-12-12",
@@ -602,25 +645,10 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$23.19 adv · $25.25 door",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 18.0,
-     "fee": 5.19,
-     "total": 23.19,
-     "status": ""
-    },
-    {
-     "name": "Day Of Show",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": "Sales start December 18, 2026"
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
   },
   {
@@ -647,6 +675,31 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/798097/web_orders/new"
+  },
+  {
+   "id": "visiting-hour-homecoming-show-w-canaries-doreen-21-dec",
+   "title": "Visiting Hour Homecoming show w/Canaries, Doreen",
+   "date": "2026-12-21",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/visiting-hour-homecoming-show-w-canaries-doreen-21-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$18.54",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 15.0,
+     "fee": 3.54,
+     "total": 18.54,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/783266/web_orders/new"
   },
   {
    "id": "staff-picks-crack-fox-litter-this-man-may-die-27-dec",
