@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-23T17:04:11-05:00",
+ "updated": "2026-11-24T15:40:23-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-23-3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-7-00-pm",
-   "title": "3-11 Tour: Josh Stokes, Lacretia \"T.T\" Bolden & Sed Marsh",
-   "date": "2026-11-23",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$27.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2499550"
-  },
   {
    "id": "reveler-2026-11-24-jouwala-collective-8-00-pm",
    "title": "Jouwala Collective",
@@ -481,6 +464,23 @@
    "ticket_url": "https://buytickets.at/reveler/2546451"
   },
   {
+   "id": "reveler-2026-12-16-maddy-curtis-garen-dorsey-holiday-duets-7-00-pm",
+   "title": "Maddy Curtis & Garen Dorsey: Holiday Duets",
+   "date": "2026-12-16",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/maddy-curtis-garen-dorsey-holiday-duets-12162026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2552402"
+  },
+  {
    "id": "reveler-2026-12-16-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
    "date": "2026-12-16",
@@ -600,6 +600,23 @@
    "ticket_url": "https://buytickets.at/reveler/2547644"
   },
   {
+   "id": "reveler-2026-12-27-junior-senior-",
+   "title": "Junior Senior",
+   "date": "2026-12-27",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/junior-senior-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2546526"
+  },
+  {
    "id": "reveler-2026-12-30-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
    "date": "2026-12-30",
@@ -700,6 +717,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2487137"
+  },
+  {
+   "id": "reveler-2027-02-26-sam-fribush-organ-trio-",
+   "title": "Sam Fribush Organ Trio",
+   "date": "2027-02-26",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sam-fribush-organ-trio-022027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2552460"
   }
  ]
 }

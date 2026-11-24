@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:01:18-05:00",
+ "updated": "2026-11-24T15:37:26-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
@@ -92,13 +92,13 @@
    "ticket_url": "https://thebroadberry.com/event/bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-live-w-slowly-crushed/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-04-the-lemon-twigs",
-   "title": "THE LEMON TWIGS",
+   "id": "bb-2026-12-04-the-lemon-twigs-danny-ayala",
+   "title": "THE LEMON TWIGS, DANNY AYALA",
    "date": "2026-12-04",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/the-lemon-twigs-w-danny-ayala/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -106,7 +106,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs-w-danny-ayala/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-05-suggesting-rhythm-the-old-dominion-tour",
@@ -126,13 +126,13 @@
    "ticket_url": "https://thebroadberry.com/event/suggesting-rhythm-the-old-dominion-tour-4/the-broadberry-2/richmond-virginia/"
   },
   {
-   "id": "bb-2026-12-08-quarters",
-   "title": "QUARTERS",
+   "id": "bb-2026-12-08-quarters-the-criticals-and-roughshod",
+   "title": "QUARTERS, THE CRITICALS AND ROUGHSHOD",
    "date": "2026-12-08",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/quarters-w-the-criticals-and-roughshod/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -140,7 +140,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/quarters-w-the-criticals-and-roughshod/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-10-robert-ellis-jacob-paul-allen",
@@ -602,8 +602,8 @@
    "ticket_url": "https://thebroadberry.com/event/jeromes-dream/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-01-28-first-day-back",
-   "title": "FIRST DAY BACK",
+   "id": "bb-2027-01-28-first-day-back-w-holidays-in-united-states",
+   "title": "FIRST DAY BACK w/ Holidays in United States",
    "date": "2027-01-28",
    "doors": "7:00 PM",
    "show_time": "",
@@ -823,6 +823,23 @@
    "ticket_url": "https://thebroadberry.com/event/raynes/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "bb-2027-02-26-kendall-street-company-night-1",
+   "title": "KENDALL STREET COMPANY (NIGHT 1)",
+   "date": "2027-02-26",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/kendall-street-company-night-1/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/kendall-street-company-night-1/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "bb-2027-02-27-cory-branan",
    "title": "CORY BRANAN",
    "date": "2027-02-27",
@@ -838,6 +855,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/cory-branan/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-02-27-kendall-street-company-night-2",
+   "title": "KENDALL STREET COMPANY (NIGHT 2)",
+   "date": "2027-02-27",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/kendall-street-company-night-2/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/kendall-street-company-night-2/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-28-little-stranger-broken-hearted-boys-tour-shwayze-and-damn-sk",

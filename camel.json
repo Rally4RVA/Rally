@@ -1,34 +1,9 @@
 {
- "updated": "2026-11-23T17:00:55-05:00",
+ "updated": "2026-11-24T15:37:05-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "symphony-of-destiny-invictus-reality-shift-23-nov",
-   "title": "Reality Shift, Invictus, Symphony of Destiny",
-   "date": "2026-11-23",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/symphony-of-destiny-invictus-reality-shift-23-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
-  },
   {
    "id": "backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
    "title": "Backrooms Throwback: OZO, Meep, Shartchan, Sophsick, My Diary To You, This Man May Die, and Plutonium Womb",
@@ -40,7 +15,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -49,14 +24,14 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
-     "status": ""
+     "status": "Sale ended"
     },
     {
      "name": "Day of Show",
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 24, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
@@ -318,6 +293,31 @@
    "ticket_url": "https://app.opendate.io/confirms/721029/web_orders/new"
   },
   {
+   "id": "uv-scutti-billy-capricorn-alfred-big-bad-wolf-rospo-the-father-dre-person-01-dec",
+   "title": "UV Scutti, Billy Capricorn, BIG BAD WOLF, Rospo The Father, Dre Person",
+   "date": "2026-12-01",
+   "doors": "9:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/uv-scutti-billy-capricorn-alfred-big-bad-wolf-rospo-the-father-dre-person-01-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/783566/web_orders/new"
+  },
+  {
    "id": "woman-crush-wednesday-front-yard-s-record-release-w-becoming-nospaces-02-dec",
    "title": "Woman Crush Wednesday: Front Yard, Becoming, Nospaces",
    "date": "2026-12-02",
@@ -351,9 +351,9 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
@@ -543,21 +543,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/685595/web_orders/new"
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
@@ -610,6 +602,56 @@
    "ticket_url": "https://app.opendate.io/confirms/715433/web_orders/new"
   },
   {
+   "id": "matt-lisk-ep-release-w-cassidy-snider-the-wranglers-ceili-galante-15-dec",
+   "title": "Matt Lisk EP Release w/ Cassidy Snider & The Wranglers, Ceili Galante",
+   "date": "2026-12-15",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/matt-lisk-ep-release-w-cassidy-snider-the-wranglers-ceili-galante-15-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750387/web_orders/new"
+  },
+  {
+   "id": "kyrie-luna-light-wiskeygogo-16-dec",
+   "title": "Kyrie, Luna Light, Wiskeygogo",
+   "date": "2026-12-16",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/kyrie-luna-light-wiskeygogo-16-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/795173/web_orders/new"
+  },
+  {
    "id": "rebecca-porter-kai-crowe-getty-pressley-laton-17-dec",
    "title": "Rebecca Porter, Kai Crowe-Getty, Pressley Laton",
    "date": "2026-12-17",
@@ -645,10 +687,25 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19 adv · $25.25 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": "Sales start December 18, 2026"
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
   },
   {
@@ -703,7 +760,7 @@
   },
   {
    "id": "staff-picks-crack-fox-litter-this-man-may-die-27-dec",
-   "title": "Staff Picks: Crack Fox, Litter, This Man May Die",
+   "title": "Crack Fox, Litter, This Man May Die",
    "date": "2026-12-27",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",
@@ -1081,7 +1138,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]

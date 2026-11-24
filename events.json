@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:06:45-05:00",
+ "updated": "2026-11-24T15:42:58-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,48 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-23-3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-7-00-pm",
-   "title": "3-11 Tour: Josh Stokes, Lacretia \"T.T\" Bolden & Sed Marsh",
-   "date": "2026-11-23",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/3-11-tour-josh-stokes-lacretia-t-t-bolden-sed-marsh-112026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$27.50",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2499550"
-  },
-  {
-   "id": "symphony-of-destiny-invictus-reality-shift-23-nov",
-   "title": "Reality Shift, Invictus, Symphony of Destiny",
-   "date": "2026-11-23",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/symphony-of-destiny-invictus-reality-shift-23-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/751403/web_orders/new"
-  },
   {
    "id": "brambly-2026-11-24-trivia-in-the-restaurant",
    "title": "Trivia in the Restaurant",
@@ -91,7 +49,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -100,14 +58,14 @@
      "base": 10.0,
      "fee": 3.22,
      "total": 13.22,
-     "status": ""
+     "status": "Sale ended"
     },
     {
      "name": "Day of Show",
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 24, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
@@ -1269,6 +1227,31 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/cowpoke-karaoke-with-brand-franklin-01-dec"
   },
   {
+   "id": "uv-scutti-billy-capricorn-alfred-big-bad-wolf-rospo-the-father-dre-person-01-dec",
+   "title": "UV Scutti, Billy Capricorn, BIG BAD WOLF, Rospo The Father, Dre Person",
+   "date": "2026-12-01",
+   "doors": "9:00 PM",
+   "show_time": "9:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/uv-scutti-billy-capricorn-alfred-big-bad-wolf-rospo-the-father-dre-person-01-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/783566/web_orders/new"
+  },
+  {
    "id": "bb-2026-12-02-bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-",
    "title": "BIT BRIGADE PERFORMS “THE LEGEND OF ZELDA” + “CASTLEVANIA” + “TETRIS” LIVE, SLOWLY CRUSHED",
    "date": "2026-12-02",
@@ -1548,22 +1531,22 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/beers-banjos-slack-family-band-04-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Free · $15 tables",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · tables sold out",
    "free": true,
    "table_price": 15.0,
    "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/651255/web_orders/new"
   },
   {
-   "id": "bb-2026-12-04-the-lemon-twigs",
-   "title": "THE LEMON TWIGS",
+   "id": "bb-2026-12-04-the-lemon-twigs-danny-ayala",
+   "title": "THE LEMON TWIGS, DANNY AYALA",
    "date": "2026-12-04",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/the-lemon-twigs-w-danny-ayala/the-broadberry-2/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -1571,7 +1554,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs/the-broadberry-2/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/the-lemon-twigs-w-danny-ayala/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "mainline-2026-12-04-route-64-band",
@@ -2039,13 +2022,13 @@
    "ticket_url": "https://gallery5arts.org/calendar/activism-in-action-critiquing-ai-student-research-showcase"
   },
   {
-   "id": "bb-2026-12-08-quarters",
-   "title": "QUARTERS",
+   "id": "bb-2026-12-08-quarters-the-criticals-and-roughshod",
+   "title": "QUARTERS, THE CRITICALS AND ROUGHSHOD",
    "date": "2026-12-08",
    "doors": "7:00 PM",
    "show_time": "",
    "venue": "Richmond Music Hall",
-   "url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/",
+   "url": "https://thebroadberry.com/event/quarters-w-the-criticals-and-roughshod/richmond-music-hall/richmond-virginia/",
    "kind": "m",
    "age": "",
    "address": "",
@@ -2053,7 +2036,7 @@
    "free": false,
    "table_price": null,
    "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/quarters/richmond-music-hall/richmond-virginia/"
+   "ticket_url": "https://thebroadberry.com/event/quarters-w-the-criticals-and-roughshod/richmond-music-hall/richmond-virginia/"
   },
   {
    "id": "hardywood-2026-12-08-high-five-trivia-every-tuesday",
@@ -2344,6 +2327,23 @@
    "ticket_url": "https://gallery5arts.org/calendar/tom-waits-77th-birthday-eve-get-behind-the-mule"
   },
   {
+   "id": "mainline-2026-12-11-jingle-jangle-jamboree",
+   "title": "Jingle Jangle Jamboree",
+   "date": "2026-12-11",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/jingle-jangle-jamboree",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/jingle-jangle-jamboree"
+  },
+  {
    "id": "canalclub-2026-12-11-conditions-savage-hands-blush",
    "title": "CONDITIONS, Savage Hands, blush",
    "date": "2026-12-11",
@@ -2411,21 +2411,13 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
    "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$13.22",
+   "age": "",
+   "address": "",
+   "price_display": "",
    "free": false,
    "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admissions",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/685595/web_orders/new"
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
   },
   {
    "id": "bb-2026-12-12-rva-winter-jam-feat-willie-williams-band-slingshot-on-mars-a",
@@ -2800,6 +2792,73 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/amorphis-insomnium-204383"
   },
   {
+   "id": "matt-lisk-ep-release-w-cassidy-snider-the-wranglers-ceili-galante-15-dec",
+   "title": "Matt Lisk EP Release w/ Cassidy Snider & The Wranglers, Ceili Galante",
+   "date": "2026-12-15",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/matt-lisk-ep-release-w-cassidy-snider-the-wranglers-ceili-galante-15-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$15.44",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/750387/web_orders/new"
+  },
+  {
+   "id": "reveler-2026-12-16-maddy-curtis-garen-dorsey-holiday-duets-7-00-pm",
+   "title": "Maddy Curtis & Garen Dorsey: Holiday Duets",
+   "date": "2026-12-16",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/maddy-curtis-garen-dorsey-holiday-duets-12162026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2552402"
+  },
+  {
+   "id": "kyrie-luna-light-wiskeygogo-16-dec",
+   "title": "Kyrie, Luna Light, Wiskeygogo",
+   "date": "2026-12-16",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/kyrie-luna-light-wiskeygogo-16-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "Advance (1)",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/795173/web_orders/new"
+  },
+  {
    "id": "reveler-2026-12-16-funk-soul-party-a-jam-session-featuring-therochelle-sign-o-t-8-00-pm",
    "title": "Funk + Soul Party! A Jam Session Featuring Therochelle & Sign 'O' The Times",
    "date": "2026-12-16",
@@ -3039,10 +3098,25 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$23.19 adv · $25.25 door",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Advance",
+     "base": 18.0,
+     "fee": 5.19,
+     "total": 23.19,
+     "status": ""
+    },
+    {
+     "name": "Day Of Show",
+     "base": 20.0,
+     "fee": 5.25,
+     "total": 25.25,
+     "status": "Sales start December 18, 2026"
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
   },
   {
@@ -3334,8 +3408,25 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/salsasoul-with-dj-rattan-26-dec"
   },
   {
+   "id": "reveler-2026-12-27-junior-senior-",
+   "title": "Junior Senior",
+   "date": "2026-12-27",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/junior-senior-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2546526"
+  },
+  {
    "id": "staff-picks-crack-fox-litter-this-man-may-die-27-dec",
-   "title": "Staff Picks: Crack Fox, Litter, This Man May Die",
+   "title": "Crack Fox, Litter, This Man May Die",
    "date": "2026-12-27",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",
@@ -3967,8 +4058,8 @@
    "ticket_url": "https://thebroadberry.com/event/jeromes-dream/richmond-music-hall/richmond-virginia/"
   },
   {
-   "id": "bb-2027-01-28-first-day-back",
-   "title": "FIRST DAY BACK",
+   "id": "bb-2027-01-28-first-day-back-w-holidays-in-united-states",
+   "title": "FIRST DAY BACK w/ Holidays in United States",
    "date": "2027-01-28",
    "doors": "7:00 PM",
    "show_time": "",
@@ -3982,6 +4073,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/first-day-back/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "mainline-2027-01-28-shakedown-citi",
+   "title": "Shakedown Citi",
+   "date": "2027-01-28",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Main Line Brewery",
+   "url": "https://www.mainlinerva.com/eventsatmainline/shakedown-citi-1",
+   "kind": "m",
+   "age": "",
+   "address": "1603 Ownby Ln, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/shakedown-citi-1"
   },
   {
    "id": "bb-2027-01-29-kpop-night-18",
@@ -4428,6 +4536,40 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/boundaries-213713"
   },
   {
+   "id": "reveler-2027-02-26-sam-fribush-organ-trio-",
+   "title": "Sam Fribush Organ Trio",
+   "date": "2027-02-26",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/sam-fribush-organ-trio-022027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$25",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2552460"
+  },
+  {
+   "id": "bb-2027-02-26-kendall-street-company-night-1",
+   "title": "KENDALL STREET COMPANY (NIGHT 1)",
+   "date": "2027-02-26",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/kendall-street-company-night-1/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/kendall-street-company-night-1/the-broadberry-2/richmond-virginia/"
+  },
+  {
    "id": "earth-to-eve-26-feb",
    "title": "Earth to Eve",
    "date": "2027-02-26",
@@ -4482,6 +4624,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/cory-branan/richmond-music-hall/richmond-virginia/"
+  },
+  {
+   "id": "bb-2027-02-27-kendall-street-company-night-2",
+   "title": "KENDALL STREET COMPANY (NIGHT 2)",
+   "date": "2027-02-27",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/kendall-street-company-night-2/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/kendall-street-company-night-2/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2027-02-28-little-stranger-broken-hearted-boys-tour-shwayze-and-damn-sk",
@@ -4868,7 +5027,15 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "Seats up to 4",
+     "base": 25.25,
+     "fee": 0.0,
+     "total": 25.25,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {
