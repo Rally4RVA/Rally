@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:41:24-05:00",
+ "updated": "2026-11-25T14:58:11-05:00",
  "venues": [
   "The Canal Club"
  ],
@@ -192,6 +192,23 @@
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/shovelhead-a-d--214980"
   },
   {
+   "id": "canalclub-2027-01-23-here-comes-your-band-pixies-tribute-are-ya-madferit-oasis-tr",
+   "title": "HERE COMES YOUR BAND: PIXIES TRIBUTE, Are Ya Madferit: Oasis Tribute, Philco",
+   "date": "2027-01-23",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/here-comes-your-band-pixies-tribute-216232",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/here-comes-your-band-pixies-tribute-216232"
+  },
+  {
    "id": "canalclub-2027-01-29-fade-to-black-a-tribute-to-metallica",
    "title": "FADE TO BLACK: A TRIBUTE TO METALLICA",
    "date": "2027-01-29",
@@ -207,6 +224,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/fade-to-black-a-tribute-to-metallica-210646"
+  },
+  {
+   "id": "canalclub-2027-02-06-badgerfest-27-gone-cold-catharsis-inurvah-to-be-a-king-in-me",
+   "title": "BADGERFEST '27, Gone Cold, Catharsis, Inurvah, To Be A King, In Memory, Traverse The Abyss, Covenant",
+   "date": "2027-02-06",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/badgerfest-27-216228",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/badgerfest-27-216228"
   },
   {
    "id": "canalclub-2027-02-07-caskets",

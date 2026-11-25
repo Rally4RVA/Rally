@@ -1,41 +1,9 @@
 {
- "updated": "2026-11-24T15:37:05-05:00",
+ "updated": "2026-11-25T14:53:39-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
-   "title": "Backrooms Throwback: OZO, Meep, Shartchan, Sophsick, My Diary To You, This Man May Die, and Plutonium Womb",
-   "date": "2026-11-24",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
-  },
   {
    "id": "live-i-spy-hosted-by-vice-antiques-25-nov",
    "title": "Live I Spy Hosted by Vice Antiques",
@@ -64,7 +32,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -73,14 +41,14 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 25, 2026"
+     "status": ""
     },
     {
      "name": "Advance",
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/788298/web_orders/new"
@@ -343,6 +311,31 @@
    "ticket_url": "https://app.opendate.io/confirms/788249/web_orders/new"
   },
   {
+   "id": "benefit-show-for-john-dietz-feat-dilemmas-saint-frances-dawning-03-dec",
+   "title": "Benefit Show for John Dietz feat: Dilemmas, Saint Frances, Dawning",
+   "date": "2026-12-03",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/benefit-show-for-john-dietz-feat-dilemmas-saint-frances-dawning-03-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/798695/web_orders/new"
+  },
+  {
    "id": "beers-banjos-slack-family-band-04-dec",
    "title": "Beers & Banjos: Slack Family Band",
    "date": "2026-12-04",
@@ -543,13 +536,21 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
    "free": false,
    "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/685595/web_orders/new"
   },
   {
    "id": "painted-world-piranha-rama-sun-v-set-more-tba-12-dec",
@@ -928,15 +929,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -1138,15 +1131,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]

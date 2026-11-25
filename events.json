@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:42:58-05:00",
+ "updated": "2026-11-25T14:59:49-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,89 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "brambly-2026-11-24-trivia-in-the-restaurant",
-   "title": "Trivia in the Restaurant",
-   "date": "2026-11-24",
-   "doors": "",
-   "show_time": "",
-   "venue": "Brambly Park",
-   "url": "https://www.bramblypark.com/eventscalendar",
-   "kind": "o",
-   "age": "",
-   "address": "1708 Belleville St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.bramblypark.com/eventscalendar"
-  },
-  {
-   "id": "backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
-   "title": "Backrooms Throwback: OZO, Meep, Shartchan, Sophsick, My Diary To You, This Man May Die, and Plutonium Womb",
-   "date": "2026-11-24",
-   "doors": "6:00 PM",
-   "show_time": "7:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/backroom-throwback-w-shartchan-sophsick-meep-ozo-mydiarytoyou-paradiso-squish-24-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$18.54 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 10.0,
-     "fee": 3.22,
-     "total": 13.22,
-     "status": "Sale ended"
-    },
-    {
-     "name": "Day of Show",
-     "base": 15.0,
-     "fee": 3.54,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/758065/web_orders/new"
-  },
-  {
-   "id": "hardywood-2026-11-24-high-five-trivia-every-tuesday",
-   "title": "High Five Trivia - Every Tuesday!",
-   "date": "2026-11-24",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg-jl9cw",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg-jl9cw"
-  },
-  {
-   "id": "reveler-2026-11-24-jouwala-collective-8-00-pm",
-   "title": "Jouwala Collective",
-   "date": "2026-11-24",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jouwala-collective-11242026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2511822"
-  },
   {
    "id": "northside-2026-11-25-illbilly-s",
    "title": "Illbilly’s",
@@ -217,7 +134,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$12.19",
+   "price_display": "$17.87",
    "free": false,
    "table_price": null,
    "tiers": [],
@@ -268,7 +185,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -277,14 +194,14 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 25, 2026"
+     "status": ""
     },
     {
      "name": "Advance",
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/788298/web_orders/new"
@@ -409,8 +326,8 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/closed-for-thanksgiving-1"
   },
   {
-   "id": "northside-2026-11-27-armistead-s-armi",
-   "title": "Armistead's Armi",
+   "id": "northside-2026-11-27-the-great-holiday-hangover-26-beex-dollseye",
+   "title": "The Great Holiday Hangover '26, Beex, Dollseye,",
    "date": "2026-11-27",
    "doors": "",
    "show_time": "",
@@ -545,13 +462,13 @@
    "ticket_url": "https://buytickets.at/reveler/2479389"
   },
   {
-   "id": "bandito-2026-11-27-green-knuckle-material-driftline-sorry-excuse",
-   "title": "Green Knuckle Material, Driftline, Sorry Excuse",
+   "id": "bandito-2026-11-27-green-knuckle-material-sorry-excuse",
+   "title": "Green Knuckle Material, Sorry Excuse",
    "date": "2026-11-27",
    "doors": "8:00 PM",
    "show_time": "9:00 PM",
    "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744",
+   "url": "https://app.opendate.io/e/green-knuckle-material-sorry-excuse-november-27-2026-746744",
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
@@ -567,7 +484,7 @@
      "status": ""
     }
    ],
-   "ticket_url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744"
+   "ticket_url": "https://app.opendate.io/e/green-knuckle-material-sorry-excuse-november-27-2026-746744"
   },
   {
    "id": "wilson-springs-hotel-27-nov",
@@ -634,6 +551,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov"
+  },
+  {
+   "id": "northside-2026-11-28-armistead-s-armi",
+   "title": "Armistead's Armi",
+   "date": "2026-11-28",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "recurring-bottomsuppizza-2026-11-28",
@@ -1117,6 +1051,23 @@
    "ticket_url": "https://buytickets.at/reveler/2514101"
   },
   {
+   "id": "northside-2026-12-01-tony-hannah-mackenzie-roark",
+   "title": "Tony Hannah, Mackenzie Roark",
+   "date": "2026-12-01",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "the-bachelor-boys-wedding-band-showcase-01-dec",
    "title": "The Bachelor Boys Wedding Band Showcase",
    "date": "2026-12-01",
@@ -1250,6 +1201,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/783566/web_orders/new"
+  },
+  {
+   "id": "northside-2026-12-02-ramona-martinez",
+   "title": "Ramona Martinez",
+   "date": "2026-12-02",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "bb-2026-12-02-bit-brigade-performs-the-legend-of-zelda-castlevania-tetris-",
@@ -1421,6 +1389,31 @@
    "ticket_url": "https://gallery5arts.org/calendar/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht"
   },
   {
+   "id": "benefit-show-for-john-dietz-feat-dilemmas-saint-frances-dawning-03-dec",
+   "title": "Benefit Show for John Dietz feat: Dilemmas, Saint Frances, Dawning",
+   "date": "2026-12-03",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/benefit-show-for-john-dietz-feat-dilemmas-saint-frances-dawning-03-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
+   "free": false,
+   "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/798695/web_orders/new"
+  },
+  {
    "id": "bandito-2026-12-03-manas-stephen-vitiello-jim-strong-and-opera-benezet-s-sutton",
    "title": "MANAS, Stephen Vitiello, Jim Strong and Opera Benezet, S. Sutton, Molasses",
    "date": "2026-12-03",
@@ -1487,6 +1480,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2530066"
+  },
+  {
+   "id": "northside-2026-12-04-first-fridays-karaoke",
+   "title": "First Fridays Karaoke",
+   "date": "2026-12-04",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "recurring-bottomsuppizza-2026-12-04",
@@ -1684,6 +1694,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/melodic-dj-04-dec"
   },
   {
+   "id": "northside-2026-12-05-club-tubb-presents-fuzzy-prophets",
+   "title": "Club Tubb presents: Fuzzy Prophets",
+   "date": "2026-12-05",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "recurring-bottomsuppizza-2026-12-05",
    "title": "Live music (see Instagram for the band)",
    "date": "2026-12-05",
@@ -1851,6 +1878,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://shotgun.live/en/events/ysheso"
+  },
+  {
+   "id": "northside-2026-12-06-mike-lucas",
+   "title": "Mike Lucas",
+   "date": "2026-12-06",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "brunch-mosh-w-eyes-peeled-white-beast-fantazma-brash-06-dec",
@@ -2098,6 +2142,23 @@
    "ticket_url": "https://app.opendate.io/confirms/750364/web_orders/new"
   },
   {
+   "id": "northside-2026-12-09-sasha-landon",
+   "title": "Sasha Landon",
+   "date": "2026-12-09",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "reveler-2026-12-09-s-o-n-o-s-o-featuring-marlysse-simmons-bruno-alcalde-and-lau-7-30-pm",
    "title": "São Não São Featuring Marlysse Simmons, Bruno Alcalde, And Laura Ann Singh",
    "date": "2026-12-09",
@@ -2155,6 +2216,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-09-dec"
+  },
+  {
+   "id": "northside-2026-12-10-dash-rip-rock",
+   "title": "Dash Rip Rock",
+   "date": "2026-12-10",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "hardywood-2026-12-10-drag-bingo-at-hardywood-richmond",
@@ -2274,6 +2352,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/house-night-zanel-rozendo-10-dec"
+  },
+  {
+   "id": "northside-2026-12-11-the-bookkeepers",
+   "title": "The Bookkeepers",
+   "date": "2026-12-11",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "bb-2026-12-11-los-hermanos-alacranes-the-sky-chiefs-duo",
@@ -2411,13 +2506,38 @@
    "venue": "The Camel",
    "url": "https://www.thecamel.org/shows/punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
    "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "$13.22",
    "free": false,
    "table_price": null,
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 10.0,
+     "fee": 3.22,
+     "total": 13.22,
+     "status": ""
+    }
+   ],
+   "ticket_url": "https://app.opendate.io/confirms/685595/web_orders/new"
+  },
+  {
+   "id": "northside-2026-12-12-crack-fox-grouser",
+   "title": "Crack Fox, Grouser",
+   "date": "2026-12-12",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
    "tiers": [],
-   "ticket_url": "https://app.opendate.io/forms/c0596fb2-9f37-4685-bb53-4e6481ec6bed"
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "bb-2026-12-12-rva-winter-jam-feat-willie-williams-band-slingshot-on-mars-a",
@@ -2553,6 +2673,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2313245"
+  },
+  {
+   "id": "northside-2026-12-13-the-biologics",
+   "title": "The Biologics",
+   "date": "2026-12-13",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "hardywood-2026-12-13-smiles-with-santa-12-13",
@@ -2817,6 +2954,23 @@
    "ticket_url": "https://app.opendate.io/confirms/750387/web_orders/new"
   },
   {
+   "id": "northside-2026-12-16-mackenzie-roark",
+   "title": "Mackenzie Roark",
+   "date": "2026-12-16",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "reveler-2026-12-16-maddy-curtis-garen-dorsey-holiday-duets-7-00-pm",
    "title": "Maddy Curtis & Garen Dorsey: Holiday Duets",
    "date": "2026-12-16",
@@ -2891,6 +3045,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-16-dec"
+  },
+  {
+   "id": "northside-2026-12-17-the-morning-glorys",
+   "title": "The Morning Glorys",
+   "date": "2026-12-17",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "hardywood-2026-12-17-hardywood-presents-6-decades-of-the-dead-w-suggesting-rhythm",
@@ -3001,6 +3172,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/house-night-elliott-17-dec"
+  },
+  {
+   "id": "northside-2026-12-18-melrose-eve-mike-gales-the-warriorz",
+   "title": "Melrose Eve, Mike Gales & the Warriorz",
+   "date": "2026-12-18",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
+   "id": "gallery5-2026-12-18-creative-community-happy-hour",
+   "title": "Creative Community Happy Hour!",
+   "date": "2026-12-18",
+   "doors": "",
+   "show_time": "5:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/dec-creative-community-happy-hour",
+   "kind": "o",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/dec-creative-community-happy-hour"
   },
   {
    "id": "bb-2026-12-18-angela-autumn-clover-lynn",
@@ -3118,6 +3323,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/750593/web_orders/new"
+  },
+  {
+   "id": "northside-2026-12-19-ant-the-symbol-record-release",
+   "title": "Ant the Symbol Record Release",
+   "date": "2026-12-19",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "reveler-2026-12-19-richmond-synth-collective-3-00-pm",
@@ -3239,6 +3461,23 @@
    "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-19-dec"
   },
   {
+   "id": "northside-2026-12-20-janet-martin",
+   "title": "Janet Martin",
+   "date": "2026-12-20",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "zhtml-nomillionaires-dhemo-20-dec",
    "title": "ZHTML, Nomillionaires, Dhemo",
    "date": "2026-12-20",
@@ -3315,6 +3554,23 @@
    "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
+   "id": "reveler-2026-12-21-woo-woo-fest-featuring-caroline-scruggs-and-prabir-7-00-pm",
+   "title": "Woo Woo Fest Featuring Caroline Scruggs And Prabir",
+   "date": "2026-12-21",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/woo-woo-fest-caroline-scruggs-prabir-12212026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2554345"
+  },
+  {
    "id": "visiting-hour-homecoming-show-w-canaries-doreen-21-dec",
    "title": "Visiting Hour Homecoming show w/Canaries, Doreen",
    "date": "2026-12-21",
@@ -3357,6 +3613,23 @@
    "ticket_url": "https://www.hardywood.com/richmond-events/ap4rdll4634ayfn-36n7g-tmc58-y4t5y-7bn9a-xdw8g-cwb7j-elbwk-mhyr7-3xzwm-5sy7k-bkr3j-gxaez-59mn2-khdap-7mg2w-bl4jj-hdznl-gpt2a-aak9z-7c3y7-pzltz-el58y-gejxg-jl9cw"
   },
   {
+   "id": "reveler-2026-12-22-clarke-caputo-randazzo-holiday-gala-show-7-00-pm",
+   "title": "Clarke / Caputo / Randazzo Holiday Gala Show",
+   "date": "2026-12-22",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/clarke-caputo-randazzo-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2552947"
+  },
+  {
    "id": "reveler-2026-12-23-duke-ellington-s-nutcracker-performed-by-the-orbital-big-ban-",
    "title": "Duke Ellington'S Nutcracker Performed By The Orbital Big Band",
    "date": "2026-12-23",
@@ -3374,6 +3647,23 @@
    "ticket_url": "https://buytickets.at/reveler/2547644"
   },
   {
+   "id": "northside-2026-12-23-armisteads-armi",
+   "title": "Armisteads Armi",
+   "date": "2026-12-23",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
    "id": "gettight-2026-12-23-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
    "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
    "date": "2026-12-23",
@@ -3389,6 +3679,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-23-dec"
+  },
+  {
+   "id": "northside-2026-12-26-brandon-wayne-his-lonesome-drifters",
+   "title": "Brandon Wayne & His Lonesome Drifters",
+   "date": "2026-12-26",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "gettight-2026-12-26-salsasoul-with-dj-rattan-10-00-pm",
@@ -3423,6 +3730,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2546526"
+  },
+  {
+   "id": "northside-2026-12-27-prabir",
+   "title": "Prabir",
+   "date": "2026-12-27",
+   "doors": "",
+   "show_time": "",
+   "venue": "Northside Grille",
+   "url": "https://www.thenorthsidegrille.com/band-calendar",
+   "kind": "m",
+   "age": "",
+   "address": "1217 Bellevue Ave, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
   },
   {
    "id": "staff-picks-crack-fox-litter-this-man-may-die-27-dec",
@@ -3931,6 +4255,23 @@
    "ticket_url": "https://thebroadberry.com/event/folk-night-out-the-indie-folk-dj-night-18/richmond-music-hall/richmond-virginia/"
   },
   {
+   "id": "reveler-2027-01-16-horsehead-transcendental-hesitation-album-release-8-00-pm",
+   "title": "Horsehead Transcendental Hesitation Album Release",
+   "date": "2027-01-16",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/horsehead-01162027",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2554297"
+  },
+  {
    "id": "gallery5-2027-01-19-morgan-garrett-with-navi-and-white-beast",
    "title": "Morgan Garrett with Navi and White Beast",
    "date": "2027-01-19",
@@ -4039,6 +4380,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/the-jack-wharff-band-the-coming-home-world-tour-2027/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "canalclub-2027-01-23-here-comes-your-band-pixies-tribute-are-ya-madferit-oasis-tr",
+   "title": "HERE COMES YOUR BAND: PIXIES TRIBUTE, Are Ya Madferit: Oasis Tribute, Philco",
+   "date": "2027-01-23",
+   "doors": "7:00 PM",
+   "show_time": "8:00 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/here-comes-your-band-pixies-tribute-216232",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/here-comes-your-band-pixies-tribute-216232"
   },
   {
    "id": "bb-2027-01-27-jeromes-dream",
@@ -4262,6 +4620,23 @@
    "ticket_url": "https://shotgun.live/en/events/planet-had2-rsun-rhythm-city-collective"
   },
   {
+   "id": "canalclub-2027-02-06-badgerfest-27-gone-cold-catharsis-inurvah-to-be-a-king-in-me",
+   "title": "BADGERFEST '27, Gone Cold, Catharsis, Inurvah, To Be A King, In Memory, Traverse The Abyss, Covenant",
+   "date": "2027-02-06",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Canal Club",
+   "url": "https://www.tixr.com/groups/thecanalclub/events/badgerfest-27-216228",
+   "kind": "m",
+   "age": "",
+   "address": "Richmond, VA",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/badgerfest-27-216228"
+  },
+  {
    "id": "bb-2027-02-06-10th-annual-mighty-marley-celebration-feat-mighty-joshua-dou",
    "title": "10TH ANNUAL MIGHTY MARLEY CELEBRATION FEAT. MIGHTY JOSHUA & DOUBLE TIGER",
    "date": "2027-02-06",
@@ -4409,15 +4784,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {
@@ -5027,15 +5394,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {

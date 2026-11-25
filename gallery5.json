@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:38:00-05:00",
+ "updated": "2026-11-25T14:54:33-05:00",
  "venues": [
   "Gallery5"
  ],
@@ -207,6 +207,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.eventbrite.com/e/radqueer-productions-present-sadqueer-tickets-2004800709891"
+  },
+  {
+   "id": "gallery5-2026-12-18-creative-community-happy-hour",
+   "title": "Creative Community Happy Hour!",
+   "date": "2026-12-18",
+   "doors": "",
+   "show_time": "5:00 PM",
+   "venue": "Gallery5",
+   "url": "https://gallery5arts.org/calendar/dec-creative-community-happy-hour",
+   "kind": "o",
+   "age": "",
+   "address": "200 W Marshall St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://gallery5arts.org/calendar/dec-creative-community-happy-hour"
   },
   {
    "id": "gallery5-2027-01-03-rival-booking-remembrance-doomhauer-plutonium-womb-biscuitsl",

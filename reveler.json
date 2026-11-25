@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-24T15:40:23-05:00",
+ "updated": "2026-11-25T14:57:05-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-24-jouwala-collective-8-00-pm",
-   "title": "Jouwala Collective",
-   "date": "2026-11-24",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/jouwala-collective-11242026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "$20",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://buytickets.at/reveler/2511822"
-  },
   {
    "id": "reveler-2026-11-25-time-for-jazz-featuring-members-of-butcher-brown-daniel-clar-9-30-pm",
    "title": "Time For Jazz Featuring Members Of Butcher Brown + Daniel Clarke",
@@ -583,6 +566,40 @@
    "ticket_url": "https://buytickets.at/reveler/1029950"
   },
   {
+   "id": "reveler-2026-12-21-woo-woo-fest-featuring-caroline-scruggs-and-prabir-7-00-pm",
+   "title": "Woo Woo Fest Featuring Caroline Scruggs And Prabir",
+   "date": "2026-12-21",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/woo-woo-fest-caroline-scruggs-prabir-12212026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2554345"
+  },
+  {
+   "id": "reveler-2026-12-22-clarke-caputo-randazzo-holiday-gala-show-7-00-pm",
+   "title": "Clarke / Caputo / Randazzo Holiday Gala Show",
+   "date": "2026-12-22",
+   "doors": "",
+   "show_time": "7:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/clarke-caputo-randazzo-122026",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$17.50",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2552947"
+  },
+  {
    "id": "reveler-2026-12-23-duke-ellington-s-nutcracker-performed-by-the-orbital-big-ban-",
    "title": "Duke Ellington'S Nutcracker Performed By The Orbital Big Band",
    "date": "2026-12-23",
@@ -717,6 +734,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2487137"
+  },
+  {
+   "id": "reveler-2027-01-16-horsehead-transcendental-hesitation-album-release-8-00-pm",
+   "title": "Horsehead Transcendental Hesitation Album Release",
+   "date": "2027-01-16",
+   "doors": "",
+   "show_time": "8:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/horsehead-01162027",
+   "kind": "m",
+   "age": "21+",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$15",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2554297"
   },
   {
    "id": "reveler-2027-02-26-sam-fribush-organ-trio-",

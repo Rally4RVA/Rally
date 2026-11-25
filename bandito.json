@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-24T15:39:06-05:00",
+ "updated": "2026-11-25T14:55:39-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
   {
-   "id": "bandito-2026-11-27-green-knuckle-material-driftline-sorry-excuse",
-   "title": "Green Knuckle Material, Driftline, Sorry Excuse",
+   "id": "bandito-2026-11-27-green-knuckle-material-sorry-excuse",
+   "title": "Green Knuckle Material, Sorry Excuse",
    "date": "2026-11-27",
    "doors": "8:00 PM",
    "show_time": "9:00 PM",
    "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744",
+   "url": "https://app.opendate.io/e/green-knuckle-material-sorry-excuse-november-27-2026-746744",
    "kind": "m",
    "age": "18+",
    "address": "2905 Patterson Ave, Richmond, VA",
@@ -27,7 +27,7 @@
      "status": ""
     }
    ],
-   "ticket_url": "https://app.opendate.io/e/green-knuckle-material-driftline-sorry-excuse-november-27-2026-746744"
+   "ticket_url": "https://app.opendate.io/e/green-knuckle-material-sorry-excuse-november-27-2026-746744"
   },
   {
    "id": "bandito-2026-12-01-kontusion-hedonist-skeksis",
