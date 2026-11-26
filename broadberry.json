@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-25T14:54:01-05:00",
+ "updated": "2026-11-26T14:31:31-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-25-fear-of-music-a-thanksgiving-eve-tradition",
-   "title": "FEAR OF MUSIC: A THANKSGIVING EVE TRADITION",
-   "date": "2026-11-25",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/fear-of-music-a-thanksgiving-eve-tradition/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/fear-of-music-a-thanksgiving-eve-tradition/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-27-wolph",
    "title": "WOLPH",
@@ -396,6 +379,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/yarn-w-james-river-junction/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "bb-2026-12-23-fear-of-music-a-talking-heads-tribute-night-idea",
+   "title": "FEAR OF MUSIC: A TALKING HEADS TRIBUTE, NIGHT IDEA",
+   "date": "2026-12-23",
+   "doors": "7:00 PM",
+   "show_time": "",
+   "venue": "The Broadberry",
+   "url": "https://thebroadberry.com/event/fear-of-music-a-talking-heads-tribute-w-night-idea/the-broadberry-2/richmond-virginia/",
+   "kind": "m",
+   "age": "",
+   "address": "",
+   "price_display": "Pricier tickets",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://thebroadberry.com/event/fear-of-music-a-talking-heads-tribute-w-night-idea/the-broadberry-2/richmond-virginia/"
   },
   {
    "id": "bb-2026-12-28-barstool-rodeo-the-music-of-widespread-panic",

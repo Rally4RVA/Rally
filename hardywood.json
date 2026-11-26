@@ -1,43 +1,9 @@
 {
- "updated": "2026-11-25T14:54:42-05:00",
+ "updated": "2026-11-26T14:32:14-05:00",
  "venues": [
   "Hardywood"
  ],
  "events": [
-  {
-   "id": "hardywood-2026-11-25-the-silent-party-by-unlocking-rva",
-   "title": "The Silent Party by Unlocking RVA",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva",
-   "kind": "o",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/the-silent-party-by-unlocking-rva"
-  },
-  {
-   "id": "hardywood-2026-11-25-rva-old-time-jam-2nd-4th-wednesdays",
-   "title": "RVA Old-Time Jam - 2nd & 4th Wednesdays",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Hardywood",
-   "url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3-y2zah-4dean",
-   "kind": "m",
-   "age": "",
-   "address": "2410 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.hardywood.com/richmond-events/rva-old-time-jam-kklmf-l3tmj-ltprp-9nba5-2psxj-d6w8l-5pzkp-c8gzc-aaxfw-6h4jl-7npzy-zl626-raaz3-sr6za-gg4tk-9d2d3-y2zah-4dean"
-  },
   {
    "id": "hardywood-2026-11-27-live-music-ian-blackwood",
    "title": "Ian Blackwood",

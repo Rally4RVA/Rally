@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-25T14:58:11-05:00",
+ "updated": "2026-11-26T14:35:36-05:00",
  "venues": [
   "The Canal Club"
  ],
  "events": [
-  {
-   "id": "canalclub-2026-11-25-what-s-our-age-again-full-send",
-   "title": "WHAT'S OUR AGE AGAIN?, Full Send",
-   "date": "2026-11-25",
-   "doors": "7:00 PM",
-   "show_time": "8:00 PM",
-   "venue": "The Canal Club",
-   "url": "https://www.tixr.com/groups/thecanalclub/events/what-s-our-age-again--205246",
-   "kind": "m",
-   "age": "",
-   "address": "Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.tixr.com/groups/thecanalclub/events/what-s-our-age-again--205246"
-  },
   {
    "id": "canalclub-2026-11-28-canal-club-family-show-sheoru-misery-blooms-wine-and-warpain",
    "title": "CANAL CLUB FAMILY SHOW, Sheoru, Misery Blooms, Wine and Warpaint, Celler Dwellers, Eyes Peeled, Distress",

@@ -1,60 +1,9 @@
 {
- "updated": "2026-11-25T14:55:50-05:00",
+ "updated": "2026-11-26T14:33:22-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-25-wnrn-presents-no-bs-brass-band-8-00-pm",
-   "title": "WNRN PRESENTS: NO BS! BRASS BAND",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "8:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "$17.87",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/wnrn-presents-no-bs-brass-band-25-nov"
-  },
-  {
-   "id": "gettight-2026-11-25-acid-s-groove-presented-by-hip-hop-henry-billy-crystal-finge-9-00-pm",
-   "title": "ACID’S GROOVE: PRESENTED BY HIP HOP HENRY, BILLY CRYSTAL FINGERS",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-25-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/acid-s-groove-presented-by-hip-hop-henry-billy-crystal-fingers-25-nov"
-  },
-  {
-   "id": "gettight-2026-11-25-elliott-9-00-pm",
-   "title": "ELLIOTT",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "9:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/elliott-25-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/elliott-25-nov"
-  },
   {
    "id": "gettight-2026-11-27-hip-hop-henry-dj-10-00-pm",
    "title": "HIP HOP HENRY (DJ)",

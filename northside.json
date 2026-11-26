@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-25T14:58:21-05:00",
+ "updated": "2026-11-26T14:35:44-05:00",
  "venues": [
   "Northside Grille"
  ],
  "events": [
-  {
-   "id": "northside-2026-11-25-illbilly-s",
-   "title": "Illbilly’s",
-   "date": "2026-11-25",
-   "doors": "",
-   "show_time": "",
-   "venue": "Northside Grille",
-   "url": "https://www.thenorthsidegrille.com/band-calendar",
-   "kind": "m",
-   "age": "",
-   "address": "1217 Bellevue Ave, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
-  },
   {
    "id": "northside-2026-11-27-the-great-holiday-hangover-26-beex-dollseye",
    "title": "The Great Holiday Hangover '26, Beex, Dollseye,",
