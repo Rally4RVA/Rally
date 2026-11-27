@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:37:12-05:00",
+ "updated": "2026-11-27T14:33:32-05:00",
  "venues": [
   "The Camel",
   "Cobra Cabana",
@@ -21,57 +21,6 @@
   "Bottoms Up Pizza"
  ],
  "events": [
-  {
-   "id": "closed-for-thanksgiving-26-nov",
-   "title": "CLOSED FOR THANKSGIVING",
-   "date": "2026-11-26",
-   "doors": "12:00 AM",
-   "show_time": "12:00 AM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/closed-for-thanksgiving-26-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627205/web_orders/new"
-  },
-  {
-   "id": "reveler-2026-11-26-thanksgiving-",
-   "title": "Thanksgiving",
-   "date": "2026-11-26",
-   "doors": "",
-   "show_time": "",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/thanksgiving-2026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.revelerexperiences.com/event/thanksgiving-2026"
-  },
-  {
-   "id": "mainline-2026-11-26-closed-for-thanksgiving",
-   "title": "CLOSED FOR THANKSGIVING",
-   "date": "2026-11-26",
-   "doors": "",
-   "show_time": "2:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/closed-for-thanksgiving-1",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/closed-for-thanksgiving-1"
-  },
   {
    "id": "northside-2026-11-27-the-great-holiday-hangover-26-beex-dollseye",
    "title": "The Great Holiday Hangover '26, Beex, Dollseye,",
@@ -120,15 +69,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -268,7 +209,7 @@
      "base": 25.0,
      "fee": 5.42,
      "total": 30.42,
-     "status": "Sales start November 27, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
@@ -2009,10 +1950,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/788247/web_orders/new"
   },
   {
@@ -2184,6 +2133,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://www.thenorthsidegrille.com/band-calendar"
+  },
+  {
+   "id": "recurring-bottomsuppizza-2026-12-11",
+   "title": "Live music (see Instagram for the band)",
+   "date": "2026-12-11",
+   "doors": "",
+   "show_time": "",
+   "venue": "Bottoms Up Pizza",
+   "url": "https://www.instagram.com/bottomsuppizza/",
+   "kind": "m",
+   "age": "",
+   "address": "1700 Dock St, Richmond, VA",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://www.instagram.com/bottomsuppizza/"
   },
   {
    "id": "bb-2026-12-11-los-hermanos-alacranes-the-sky-chiefs-duo",
@@ -3964,6 +3930,23 @@
    "ticket_url": "https://app.opendate.io/e/ffo-chillin-suntitle-sowing-floodwall-january-02-2027-804726"
   },
   {
+   "id": "reveler-2027-01-03-reckoning-presents-workingman-s-beauty-3-00-pm",
+   "title": "Reckoning Presents: Workingman'S Beauty",
+   "date": "2027-01-03",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reckoning-presents-workingmans-beauty-010320263pm",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2554816"
+  },
+  {
    "id": "gallery5-2027-01-03-rival-booking-remembrance-doomhauer-plutonium-womb-biscuitsl",
    "title": "RIVAL BOOKING: Remembrance, Doomhauer, Plutonium Womb, Biscuitslut (SC)",
    "date": "2027-01-03",
@@ -4420,6 +4403,23 @@
    "ticket_url": "https://www.mainlinerva.com/eventsatmainline/shakedown-citi-1"
   },
   {
+   "id": "reveler-2027-01-29-skydog-unplugged-",
+   "title": "Skydog Unplugged",
+   "date": "2027-01-29",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/skydog-unplugged-01292027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2557374"
+  },
+  {
    "id": "bb-2027-01-29-kpop-night-18",
    "title": "KPOP NIGHT (18+)",
    "date": "2027-01-29",
@@ -4469,6 +4469,23 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://thebroadberry.com/event/blade-rave-18-2/the-broadberry-2/richmond-virginia/"
+  },
+  {
+   "id": "reveler-2027-01-30-skydog-unplugged-",
+   "title": "Skydog Unplugged",
+   "date": "2027-01-30",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/skydog-unplugged-01302027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2557417"
   },
   {
    "id": "bb-2027-01-30-corduroy-cadets-live-in-concert",
@@ -5372,15 +5389,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   },
   {

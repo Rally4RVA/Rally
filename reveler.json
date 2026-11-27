@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-26T14:34:31-05:00",
+ "updated": "2026-11-27T14:30:52-05:00",
  "venues": [
   "Révéler"
  ],
  "events": [
-  {
-   "id": "reveler-2026-11-26-thanksgiving-",
-   "title": "Thanksgiving",
-   "date": "2026-11-26",
-   "doors": "",
-   "show_time": "",
-   "venue": "Révéler",
-   "url": "https://www.revelerexperiences.com/event/thanksgiving-2026",
-   "kind": "m",
-   "age": "",
-   "address": "3108 W Cary St, Richmond, VA",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.revelerexperiences.com/event/thanksgiving-2026"
-  },
   {
    "id": "reveler-2026-11-27-janet-martin-wrecking-ball-7-00-pm",
    "title": "Janet Martin & Wrecking Ball",
@@ -685,6 +668,23 @@
    "ticket_url": "https://buytickets.at/reveler/2487128"
   },
   {
+   "id": "reveler-2027-01-03-reckoning-presents-workingman-s-beauty-3-00-pm",
+   "title": "Reckoning Presents: Workingman'S Beauty",
+   "date": "2027-01-03",
+   "doors": "",
+   "show_time": "3:00 PM",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/reckoning-presents-workingmans-beauty-010320263pm",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2554816"
+  },
+  {
    "id": "reveler-2027-01-03-reckoning-presents-workingman-s-beauty-7-30-pm",
    "title": "Reckoning Presents: Workingman'S Beauty",
    "date": "2027-01-03",
@@ -751,6 +751,40 @@
    "table_price": null,
    "tiers": [],
    "ticket_url": "https://buytickets.at/reveler/2554297"
+  },
+  {
+   "id": "reveler-2027-01-29-skydog-unplugged-",
+   "title": "Skydog Unplugged",
+   "date": "2027-01-29",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/skydog-unplugged-01292027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2557374"
+  },
+  {
+   "id": "reveler-2027-01-30-skydog-unplugged-",
+   "title": "Skydog Unplugged",
+   "date": "2027-01-30",
+   "doors": "",
+   "show_time": "",
+   "venue": "Révéler",
+   "url": "https://www.revelerexperiences.com/event/skydog-unplugged-01302027",
+   "kind": "m",
+   "age": "",
+   "address": "3108 W Cary St, Richmond, VA",
+   "price_display": "$35",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://buytickets.at/reveler/2557417"
   },
   {
    "id": "reveler-2027-02-26-sam-fribush-organ-trio-",

@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-26T14:31:08-05:00",
+ "updated": "2026-11-27T14:27:26-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "closed-for-thanksgiving-26-nov",
-   "title": "CLOSED FOR THANKSGIVING",
-   "date": "2026-11-26",
-   "doors": "12:00 AM",
-   "show_time": "12:00 AM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/closed-for-thanksgiving-26-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627205/web_orders/new"
-  },
   {
    "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
    "title": "Blues & Brews feat. Pasco Lefty Trio",
@@ -35,15 +18,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
   },
   {
@@ -73,7 +48,7 @@
      "base": 25.0,
      "fee": 5.42,
      "total": 30.42,
-     "status": "Sales start November 27, 2026"
+     "status": ""
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
@@ -472,10 +447,18 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "",
+   "price_display": "$15.44",
    "free": false,
    "table_price": null,
-   "tiers": [],
+   "tiers": [
+    {
+     "name": "General Admissions",
+     "base": 12.0,
+     "fee": 3.44,
+     "total": 15.44,
+     "status": ""
+    }
+   ],
    "ticket_url": "https://app.opendate.io/confirms/788247/web_orders/new"
   },
   {
@@ -1075,15 +1058,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 25.25,
-     "fee": 0.0,
-     "total": 25.25,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750117/web_orders/new"
   }
  ]
