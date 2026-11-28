@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-27T14:28:46-05:00",
+ "updated": "2026-11-28T13:07:07-05:00",
  "venues": [
   "Main Line Brewery"
  ],
  "events": [
-  {
-   "id": "mainline-2026-11-27-blue-rooster",
-   "title": "Blue Rooster",
-   "date": "2026-11-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Main Line Brewery",
-   "url": "https://www.mainlinerva.com/eventsatmainline/blue-rooster-2",
-   "kind": "m",
-   "age": "",
-   "address": "1603 Ownby Ln, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://www.mainlinerva.com/eventsatmainline/blue-rooster-2"
-  },
   {
    "id": "mainline-2026-11-28-meisha-herron",
    "title": "Meisha Herron",

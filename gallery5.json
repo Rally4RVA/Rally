@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-27T14:28:22-05:00",
+ "updated": "2026-11-28T13:06:42-05:00",
  "venues": [
   "Gallery5"
  ],
  "events": [
-  {
-   "id": "gallery5-2026-11-27-jazz-night-with-the-ayinde-williams-quartet",
-   "title": "Jazz Night with the Ayinde Williams Quartet",
-   "date": "2026-11-27",
-   "doors": "",
-   "show_time": "7:00 PM",
-   "venue": "Gallery5",
-   "url": "https://gallery5arts.org/calendar/jazz-night-ayinde-williams-quartet",
-   "kind": "m",
-   "age": "",
-   "address": "200 W Marshall St, Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://gallery5arts.org/calendar/jazz-night-ayinde-williams-quartet"
-  },
   {
    "id": "gallery5-2026-11-28-dance-dance-revolution",
    "title": "Dance Dance Revolution",

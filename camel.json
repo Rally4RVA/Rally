@@ -1,58 +1,9 @@
 {
- "updated": "2026-11-27T14:27:26-05:00",
+ "updated": "2026-11-28T13:05:46-05:00",
  "venues": [
   "The Camel"
  ],
  "events": [
-  {
-   "id": "blues-brews-feat-pasco-lefty-trio-27-nov",
-   "title": "Blues & Brews feat. Pasco Lefty Trio",
-   "date": "2026-11-27",
-   "doors": "5:00 PM",
-   "show_time": "5:00 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/blues-brews-feat-pasco-lefty-trio-27-nov",
-   "kind": "m",
-   "age": "",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "Free · $15 tables",
-   "free": true,
-   "table_price": 15.0,
-   "tiers": [],
-   "ticket_url": "https://app.opendate.io/confirms/627481/web_orders/new"
-  },
-  {
-   "id": "wilson-springs-hotel-27-nov",
-   "title": "Wilson Springs Hotel w/ Jake the Dog, Sasha Landon (of Palmyra)",
-   "date": "2026-11-27",
-   "doors": "9:00 PM",
-   "show_time": "9:30 PM",
-   "venue": "The Camel",
-   "url": "https://www.thecamel.org/shows/wilson-springs-hotel-27-nov",
-   "kind": "m",
-   "age": "All Ages",
-   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$25.25 adv · $30.42 door",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "Advance",
-     "base": 20.0,
-     "fee": 5.25,
-     "total": 25.25,
-     "status": ""
-    },
-    {
-     "name": "Day Of Show",
-     "base": 25.0,
-     "fee": 5.42,
-     "total": 30.42,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/confirms/712727/web_orders/new"
-  },
   {
    "id": "cj-jones-the-spirit-bones-matinee-28-nov",
    "title": "CJ Jones & The Spirit Bones Matinee",
@@ -72,7 +23,7 @@
   },
   {
    "id": "julie-storey-benefit-feat-opin-tess-fisher-knifing-around-star-sign-28-nov",
-   "title": "Julie Storey Benefit feat: OPIN, Tess Fisher, Knifing Around, Star Sign",
+   "title": "Julie Storey Benefit feat: Knifing Around, Tess Fisher, OPIN, Star Sign",
    "date": "2026-11-28",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -81,7 +32,7 @@
    "kind": "m",
    "age": "All Ages",
    "address": "1621 West Broad Street, Richmond, VA, 23220, US",
-   "price_display": "$15.44 adv · $18.54 door",
+   "price_display": "$18.54 door",
    "free": false,
    "table_price": null,
    "tiers": [
@@ -90,14 +41,14 @@
      "base": 15.0,
      "fee": 3.54,
      "total": 18.54,
-     "status": "Sales start November 28, 2026"
+     "status": ""
     },
     {
      "name": "Advance",
      "base": 12.0,
      "fee": 3.44,
      "total": 15.44,
-     "status": ""
+     "status": "Sale ended"
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/794558/web_orders/new"
@@ -129,7 +80,7 @@
   },
   {
    "id": "the-get-off-bowhead-green-forrest-take-by-force-29-nov",
-   "title": "Green Forest, Bowhead, Brash, Take by Force",
+   "title": "Green Forest, Bowhead, Brash",
    "date": "2026-11-29",
    "doors": "6:00 PM",
    "show_time": "7:00 PM",
@@ -246,7 +197,7 @@
   },
   {
    "id": "benefit-show-for-john-dietz-feat-dilemmas-saint-frances-dawning-03-dec",
-   "title": "Benefit Show for John Dietz feat: Dilemmas, Saint Frances, Dawning",
+   "title": "Benefit Show for John Dietz feat: Dilemmas, Saint Frances, Saccharine Bullshit Dog Photo, Dawning",
    "date": "2026-12-03",
    "doors": "7:00 PM",
    "show_time": "8:00 PM",
@@ -412,6 +363,23 @@
    "ticket_url": "https://app.opendate.io/confirms/758419/web_orders/new"
   },
   {
+   "id": "vcu-jazz-combos-07-dec",
+   "title": "VCU Jazz Combos",
+   "date": "2026-12-07",
+   "doors": "7:00 PM",
+   "show_time": "7:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/vcu-jazz-combos-07-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free",
+   "free": true,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/806088/web_orders/new"
+  },
+  {
    "id": "voodoo-mother-a-shrewdness-of-apes-americans-abroad-good-mother-lizard-08-dec",
    "title": "Voodoo Mother, A Shrewdness of Apes, Americans Abroad, Good Mother Lizard",
    "date": "2026-12-08",
@@ -460,6 +428,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/788247/web_orders/new"
+  },
+  {
+   "id": "blues-brews-the-goodes-11-dec",
+   "title": "Blues & Brews: The Goodes",
+   "date": "2026-12-11",
+   "doors": "4:45 PM",
+   "show_time": "5:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/blues-brews-the-goodes-11-dec",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "table_price": 15.0,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/806091/web_orders/new"
   },
   {
    "id": "punks-4-presents-smashing-presents-ritual-navideno-sheryl-snow-11-dec",
@@ -587,6 +572,23 @@
    "ticket_url": "https://app.opendate.io/confirms/795173/web_orders/new"
   },
   {
+   "id": "literary-open-mic-night-at-the-camel-17-dec",
+   "title": "Literary Open Mic Night at The Camel",
+   "date": "2026-12-17",
+   "doors": "5:00 PM",
+   "show_time": "5:30 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/literary-open-mic-night-at-the-camel-17-dec",
+   "kind": "m",
+   "age": "All Ages",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "",
+   "free": false,
+   "table_price": null,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/736419/web_orders/new"
+  },
+  {
    "id": "rebecca-porter-kai-crowe-getty-pressley-laton-17-dec",
    "title": "Rebecca Porter, Kai Crowe-Getty, Pressley Laton",
    "date": "2026-12-17",
@@ -610,6 +612,23 @@
     }
    ],
    "ticket_url": "https://app.opendate.io/confirms/754499/web_orders/new"
+  },
+  {
+   "id": "beers-banjos-the-hot-seats-18-dec",
+   "title": "Beers & Banjos: The Hot Seats",
+   "date": "2026-12-18",
+   "doors": "5:45 PM",
+   "show_time": "6:00 PM",
+   "venue": "The Camel",
+   "url": "https://www.thecamel.org/shows/beers-banjos-the-hot-seats-18-dec",
+   "kind": "m",
+   "age": "",
+   "address": "1621 West Broad Street, Richmond, VA, 23220, US",
+   "price_display": "Free · $15 tables",
+   "free": true,
+   "table_price": 15.0,
+   "tiers": [],
+   "ticket_url": "https://app.opendate.io/confirms/806095/web_orders/new"
   },
   {
    "id": "wes-parker-w-slow-funeral-18-dec",
@@ -848,15 +867,7 @@
    "price_display": "Free · $15 tables",
    "free": true,
    "table_price": 15.0,
-   "tiers": [
-    {
-     "name": "Seats up to 4",
-     "base": 18.54,
-     "fee": 0.0,
-     "total": 18.54,
-     "status": ""
-    }
-   ],
+   "tiers": [],
    "ticket_url": "https://app.opendate.io/confirms/750098/web_orders/new"
   },
   {

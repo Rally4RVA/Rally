@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-27T14:29:37-05:00",
+ "updated": "2026-11-28T13:07:57-05:00",
  "venues": [
   "The Get Tight Lounge"
  ],
  "events": [
-  {
-   "id": "gettight-2026-11-27-hip-hop-henry-dj-10-00-pm",
-   "title": "HIP HOP HENRY (DJ)",
-   "date": "2026-11-27",
-   "doors": "",
-   "show_time": "10:00 PM",
-   "venue": "The Get Tight Lounge",
-   "url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov",
-   "kind": "m",
-   "age": "21+",
-   "address": "Richmond, VA",
-   "price_display": "Free",
-   "free": true,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://calendar.gettightrva.com/shows/hip-hop-henry-dj-27-nov"
-  },
   {
    "id": "gettight-2026-11-28-dj-williams-band-8-00-pm",
    "title": "DJ WILLIAMS BAND",
@@ -32,7 +15,7 @@
    "kind": "m",
    "age": "21+",
    "address": "Richmond, VA",
-   "price_display": "$23.55",
+   "price_display": "$28.71",
    "free": false,
    "table_price": null,
    "tiers": [],

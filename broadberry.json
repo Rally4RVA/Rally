@@ -1,28 +1,11 @@
 {
- "updated": "2026-11-27T14:27:50-05:00",
+ "updated": "2026-11-28T13:06:07-05:00",
  "venues": [
   "Richmond Music Hall",
   "The Broadberry",
   "Virginia Credit Union Live"
  ],
  "events": [
-  {
-   "id": "bb-2026-11-27-wolph",
-   "title": "WOLPH",
-   "date": "2026-11-27",
-   "doors": "7:00 PM",
-   "show_time": "",
-   "venue": "The Broadberry",
-   "url": "https://thebroadberry.com/event/wolph-2/the-broadberry-2/richmond-virginia/",
-   "kind": "m",
-   "age": "",
-   "address": "",
-   "price_display": "Pricier tickets",
-   "free": false,
-   "table_price": null,
-   "tiers": [],
-   "ticket_url": "https://thebroadberry.com/event/wolph-2/the-broadberry-2/richmond-virginia/"
-  },
   {
    "id": "bb-2026-11-28-2000-s-rave-18",
    "title": "2000’S RAVE (18+)",

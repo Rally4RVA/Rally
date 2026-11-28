@@ -1,34 +1,9 @@
 {
- "updated": "2026-11-27T14:29:26-05:00",
+ "updated": "2026-11-28T13:07:45-05:00",
  "venues": [
   "Bandito's Burrito Lounge"
  ],
  "events": [
-  {
-   "id": "bandito-2026-11-27-green-knuckle-material-sorry-excuse",
-   "title": "Green Knuckle Material, Sorry Excuse",
-   "date": "2026-11-27",
-   "doors": "8:00 PM",
-   "show_time": "9:00 PM",
-   "venue": "Bandito's Burrito Lounge",
-   "url": "https://app.opendate.io/e/green-knuckle-material-sorry-excuse-november-27-2026-746744",
-   "kind": "m",
-   "age": "18+",
-   "address": "2905 Patterson Ave, Richmond, VA",
-   "price_display": "$18.35",
-   "free": false,
-   "table_price": null,
-   "tiers": [
-    {
-     "name": "General Admission",
-     "base": 15.0,
-     "fee": 3.35,
-     "total": 18.35,
-     "status": ""
-    }
-   ],
-   "ticket_url": "https://app.opendate.io/e/green-knuckle-material-sorry-excuse-november-27-2026-746744"
-  },
   {
    "id": "bandito-2026-12-01-kontusion-hedonist-skeksis",
    "title": "Kontusion, Hedonist, Skeksis",
